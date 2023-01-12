@@ -1,8 +1,7 @@
-=====
-Usage
-=====
+==============
+Chapeaupointu
+==============
 
-.. _installation:
 
 Installation
 =============
