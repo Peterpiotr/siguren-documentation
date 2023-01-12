@@ -15,14 +15,47 @@ how to :ref:`installation` the project.
 
    This documentation is under active development.
 
-Contents
-========
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: User documentation
+
+   ms-unit
+   control-cabinet
+   tl-addon
+   rec-addons
+   recovery-capabilities
+
 
 .. toctree::
    :maxdepth: 2
    :hidden:
    :caption: Installation
 
-   /usage
-   /api
-   chapeaupointu
+   mechanical-interface
+   electrical-interface
+   multiple-ms
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Maintenance
+
+   spare-parts
+   servicing
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Troubleshooting
+
+   controller-errors
+
+
+
+
+
+
+
+
