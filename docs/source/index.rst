@@ -16,7 +16,7 @@ how to :ref:`installation` the project.
    This documentation is under active development.
 
 Contents
---------
+========
 
 .. toctree::
    :maxdepth: 2
