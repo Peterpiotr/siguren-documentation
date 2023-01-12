@@ -17,6 +17,32 @@ Contents
 --------
 
 .. toctree::
+   :maxdepth: 1
+   :hidden:
+   :caption: Features
 
+   /features
    usage
-   api
+   APIchapeau pointu
+   /config-file/index
+   /integrations
+   /custom-domains
+   /versions
+   /downloadable-documentation
+   /hosting
+   /server-side-search/index
+   /analytics
+   /pull-requests
+   /build-notifications
+   /security-log
+
+   /connected-accounts
+
+   /builds
+   /build-customization
+   /build-troubleshooting
+   /environment-variables
+   /badges
+
+   /support
+   /faq

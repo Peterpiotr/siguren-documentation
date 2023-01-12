@@ -2,12 +2,13 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'MotoSuiveur Solutions documentation'
+copyright = '2023, SIGUREN technologies Ltd.'
+author = 'SIGUREN technologies Ltd.'
 
-release = '0.1'
+master_doc = "index"
 version = '0.1.0'
+release = version
 
 # -- General configuration
 
