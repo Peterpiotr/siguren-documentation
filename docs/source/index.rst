@@ -21,11 +21,11 @@ how to :ref:`installation` the project.
    :hidden:
    :caption: User documentation
 
-   ms-unit
-   control-cabinet
-   tl-addon
-   rec-addons
-   recovery-capabilities
+   user-documentation/ms-unit
+   user-documentation/control-cabinet
+   user-documentation/tl-addon
+   user-documentation/rec-addons
+   user-documentation/recovery-capabilities
 
 
 .. toctree::
