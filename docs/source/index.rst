@@ -25,4 +25,4 @@ Contents
 
    /usage
    /api
-   chapeau pointu
+   chapeaupointu
