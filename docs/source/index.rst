@@ -33,24 +33,24 @@ how to :ref:`installation` the project.
    :hidden:
    :caption: Installation
 
-   mechanical-interface
-   electrical-interface
-   multiple-ms
+   install-maintain/mechanical-interface
+   install-maintain/electrical-interface
+   install-maintain/multiple-ms
 
 .. toctree::
    :maxdepth: 2
    :hidden:
    :caption: Maintenance
 
-   spare-parts
-   servicing
+   install-maintain/servicing
+   install-maintain/spare-parts
 
 .. toctree::
    :maxdepth: 2
    :hidden:
    :caption: Troubleshooting
 
-   controller-errors
+   troubleshooting/controller-errors
 
 
 
