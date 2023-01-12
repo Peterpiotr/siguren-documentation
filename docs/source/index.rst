@@ -1,8 +1,10 @@
-Welcome to Lumache's documentation!
-===================================
+=================================================
+Welcome to MotoSuiveur Solutions documentation!
+=================================================
 
-**SIGUREN-** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
+**MotoSuiveur Solutions** are hoist safety solutions designed to actively permit only safe operation, 
+and instantly default to a safe arrested state when hoisting is disrupted.
+
 It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
 and offers a *simple* and *intuitive* API.
 
@@ -11,7 +13,7 @@ how to :ref:`installation` the project.
 
 .. note::
 
-   This project is under active development.
+   This documentation is under active development.
 
 Contents
 --------
@@ -19,30 +21,8 @@ Contents
 .. toctree::
    :maxdepth: 1
    :hidden:
-   :caption: Features
+   :caption: Installation
 
-   /features
-   usage
-   APIchapeau pointu
-   /config-file/index
-   /integrations
-   /custom-domains
-   /versions
-   /downloadable-documentation
-   /hosting
-   /server-side-search/index
-   /analytics
-   /pull-requests
-   /build-notifications
-   /security-log
-
-   /connected-accounts
-
-   /builds
-   /build-customization
-   /build-troubleshooting
-   /environment-variables
-   /badges
-
-   /support
-   /faq
+   /usage
+   /api
+   chapeau pointu
