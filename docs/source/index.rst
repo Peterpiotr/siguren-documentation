@@ -19,7 +19,7 @@ Contents
 --------
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :hidden:
    :caption: Installation
 
