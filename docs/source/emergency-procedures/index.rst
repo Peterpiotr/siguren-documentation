@@ -3,7 +3,7 @@ Emergency procedures
 =====================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :hidden:
 
    /ms-worm-removal
