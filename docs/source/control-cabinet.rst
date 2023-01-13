@@ -57,7 +57,7 @@ MS controller internal errors are related to MS controller internal hardware, fi
  	Fault lamp indicator is on during MS self-test.
 
 .. warning:: 
-	The system displays only last MS warning (wrn_num) or MS fault (flt_nim) occurred.
+	The system displays only last ``MS warning`` (wrn_num) or ``MS fault`` (flt_nim) occurred.
 
 .. ------------- Substitution definitions for 7-segments digits -------------------
 	to be able to include them INLINE in the next paragraph
@@ -89,8 +89,8 @@ Indication is a combination of letters and numbers. MS controller internal
 faults are indicated with blinked combination of |image035|, number and finish 
 with symbol |image039|.
 
-MS faults are displayed with combination of |image036| and number. 
-MS warnings are displayed with combination of |image035| and number. 
+``MS faults`` are displayed with combination of |image036| and number. 
+``MS warnings`` are displayed with combination of |image035| and number. 
 
 .. rubric:: Displaying messages on MS controller 7 - segment display
 
@@ -112,13 +112,13 @@ On :numref:`MS warning number 10 (wrn_num = 10)` is shown example for MS warning
 	MS warning number 10 (wrn_num = 10) 
 
 .. note::		
- 	After MS reset, all types of faults are cleared. Before MS reset, fault should be resolved.
+ 	After ``MS reset``, all types of faults are cleared. Before ``MS reset``, fault should be resolved.
 
 
 Upward enable/Downward enable 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Upward enable/Downward enable are indicators for authorized direction of hoist movement. 
+``Upward enable`` / ``Downward enable`` are indicators for authorized direction of hoist movement. 
 If one of the two directions is forbidden to move, it is necessary to move the hoist 
 in the opposite direction in order to reset the system mechanically.
 
@@ -146,7 +146,7 @@ on :numref:`MS Worm rotating directions`.
 
 
 Backup/Recovery Off/On; Backup/Recovery Down/Up
-^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Backup function allows the load to be lowered down, by using minimal functionalities 
 when MS is in Following operation mode. Backup function ignore all settings related 
