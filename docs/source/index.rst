@@ -13,6 +13,9 @@ and instantly default to a safe arrested state when hoisting is disrupted.
 About MotoSuiveur Solutions
 ============================
 
+Understand the main features and underlying design principles behind MotoSuiveur Solutions.
+Learn about risk reduction analysis.
+
 .. toctree::
    :maxdepth: 2
    :hidden:
@@ -26,8 +29,7 @@ About MotoSuiveur Solutions
 User documentation
 ===================
 
-Learn more about your hoisting safety solution
-and some of the core features of Read the Docs.
+Learn more about your hoisting safety solution design, operation and capabiliites.
 
 * **MotoSuiveur Solutions components**:
   :doc:`/ms-unit` |
@@ -66,6 +68,8 @@ and some of the core features of Read the Docs.
 Installation
 =============
 
+Learn more about the process of integrating a MotoSuiveur Solution into an existing or new hoist design.
+
 * **Interfaces with the hoisting mechanism and controls**:
   :doc:`/mechanical-interface` |
   :doc:`/electrical-interface`
@@ -81,7 +85,7 @@ Installation
    /mechanical-interface
    /electrical-interface
    /hoist-revamping
-   /multiple-ms
+   /installation-procedures/index
 
 
 Maintenance
