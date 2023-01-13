@@ -22,7 +22,7 @@ Local controls are used for:
 :numref:`Control signals between hoist and MS` shows schematically the control signals between hoist and MS. 
  
 .. _Control signals between hoist and MS:
-.. figure:: 05_images/controlSignals.png
+.. figure:: img/controlSignals.png
 	:scale: 100 %
 	:align: center
 
@@ -98,14 +98,14 @@ On :numref:`MS controller internal error E01` is shown example for internal MS c
 On :numref:`MS warning number 10 (wrn_num = 10)` is shown example for MS warning.
 
 .. _MS controller internal error E01:
-.. figure:: 05_images/MScontrollerInternalErrorE01.png
+.. figure:: img/MScontrollerInternalErrorE01.png
 	:scale: 100 %
 	:align: center
 
 	MS controller internal error E01 
 
 .. _MS warning number 10 (wrn_num = 10):
-.. figure:: 05_images/MSwarningNumber10.png
+.. figure:: img/MSwarningNumber10.png
 	:scale: 100 %
 	:align: center
 
@@ -129,7 +129,7 @@ viewed from cam part of the screw shaft as is shown
 on :numref:`MS Worm rotating directions`.
  
 .. _MS Worm rotating directions:
-.. figure:: 05_images/MSwormrotatingDirections.png
+.. figure:: img/MSwormrotatingDirections.png
 	:scale: 80 %
 	:align: center
 
