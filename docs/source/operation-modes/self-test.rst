@@ -63,7 +63,7 @@ the test appears.
 testing this :term:`wrn_num` here
 
 .. note::
- 	In case of repeatedly :term:`wrn_num` occurs, please check:
+ 	In case of repeatedly `wrn_num` occurs, please check:
 	
     	- connection between MS control cabinet and SCRE/USCRE switches;
     	- functionality of SCRE and USCRE switches;
