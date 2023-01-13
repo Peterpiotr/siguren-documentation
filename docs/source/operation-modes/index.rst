@@ -2,17 +2,14 @@
 Operation modes
 ================
 
-Internal test
-==============
 
-Self-check
-===========
 
-Following
-==========
+.. toctree::
+   :maxdepth: 3
 
-Load arrest
-============
-
-Re-engaging
-============
+   internal-test
+   self-test
+   following
+   load-arrest
+   re-engaging
+   recovery-capabilities
