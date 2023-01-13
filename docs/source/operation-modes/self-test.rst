@@ -60,6 +60,8 @@ the test appears.
 
 	Steps of Switch test 
 
+testing this :term:`wrn_num` here
+
 .. note::
  	In case of repeatedly :term:`wrn_num` occurs, please check:
 	
