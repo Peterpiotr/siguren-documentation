@@ -26,12 +26,15 @@ About MotoSuiveur Solutions
 User documentation
 ===================
 
-Learn more about configuring your automated documentation builds
+Learn more about your hoisting safety solution
 and some of the core features of Read the Docs.
 
 * **MotoSuiveur Solutions components**:
   :doc:`/ms-unit` |
   :doc:`/control-cabinet` |
+  :doc:`/operation-modes` |
+
+* **MotoSuiveur Add-ons**:
   :doc:`/tl-addon` |
   :doc:`/rec-addons` |
   :doc:`/recovery-capabilities`
@@ -49,6 +52,7 @@ and some of the core features of Read the Docs.
 
    /ms-unit
    /control-cabinet
+   /operation-modes
    /tl-addon
    /rec-addons
    /recovery-capabilities
