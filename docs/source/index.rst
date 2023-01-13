@@ -61,6 +61,7 @@ Learn more about your hoisting safety solution design, operation and capabiliite
    /controller-errors
    /emergency-procedures/index
    /faq
+   /glossary
    /external-links
 
 
