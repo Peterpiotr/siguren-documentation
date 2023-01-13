@@ -2,8 +2,8 @@
 Operation modes
 ================
 
-Internal Troubleshooting
-=========================
+Internal test
+==============
 
 Self-check
 ===========
