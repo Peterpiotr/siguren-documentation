@@ -54,10 +54,9 @@ Learn more about your hoisting safety solution design, operation and capabiliite
 
    /ms-unit
    /control-cabinet
-   /operation-modes
    /tl-addon
    /rec-addons
-   /recovery-capabilities
+   /operation-modes/index
    /support
    /controller-errors
    /emergency-procedures/index
