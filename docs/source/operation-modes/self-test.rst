@@ -15,7 +15,7 @@ After :doc:`internal-test` finishes, Self-test operation mode (further called se
 
 .. _Sequence of self-test steps:
 .. figure:: img/SequenceSelfTestSteps.png
-	:scale: 80 %
+	:scale: 100 %
 	:align: center
 
 	Sequence of self-test steps 
@@ -32,7 +32,7 @@ inputs of the MS controller before self-test begin.
 
 .. _Steps of Electrical test:
 .. figure:: img/stepsElectricalTest.png
-	:scale: 80 %
+	:scale: 100 %
 	:align: center
 
 	Steps of Electrical test 
@@ -55,13 +55,13 @@ the test appears.
  
 .. _Steps of Switch test:
 .. figure:: img/stepsSwitchTest.png
-	:scale: 80 %
+	:scale: 100 %
 	:align: center
 
 	Steps of Switch test 
 
 .. note::
- 	In case of repeatedly wrn_num occurs, please check:
+ 	In case of repeatedly :term:`wrn_num` occurs, please check:
 	
     	- connection between MS control cabinet and SCRE/USCRE switches;
     	- functionality of SCRE and USCRE switches;
@@ -75,7 +75,7 @@ test are shown.
 
 .. _Play test steps:
 .. figure:: img/playTestSteps.png
-	:scale: 80 %
+	:scale: 100 %
 	:align: center
 
 	Play test steps
