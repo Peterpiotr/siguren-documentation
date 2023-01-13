@@ -3,13 +3,13 @@ version: 2
 formats: all
 
 sphinx:
-  configuration: docs/source/conf.py
+  configuration: docs/conf.py
   fail_on_warning: true
 
-#python:
-#  install:
-#    - requirements: requirements/pip.txt
-#    - requirements: requirements/docs.txt
+python:
+  install:
+    - requirements: requirements/pip.txt
+    - requirements: requirements/docs.txt
 
 build:
   os: ubuntu-22.04
