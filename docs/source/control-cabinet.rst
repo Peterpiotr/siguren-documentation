@@ -51,7 +51,7 @@ Fault lamp (figure 3, item 2) indicates three different types of faults:
 	- MS faults (further called flt_num), described in section 7.2;
 	- MS warnings (further called wrn_num), described in section 7.2;
 
-MS controller internal errors are related to MS controller internal hardware, firmware, and MS motor. This type of errors are with highest priority. If MS controller internal fault appear further operation is prohibited.
+MS :term:`controller` internal errors are related to MS controller internal hardware, firmware, and MS motor. This type of errors are with highest priority. If MS controller internal fault appear further operation is prohibited.
 	
 .. note::	
  	Fault lamp indicator is on during MS self-test.
