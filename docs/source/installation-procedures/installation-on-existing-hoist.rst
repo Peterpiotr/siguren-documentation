@@ -15,12 +15,12 @@ Installation guidelines
 ========================
 
 -	Prior to remove the existing plummer block, make one rotation and find by comparator the 2 points on the barrel side flange that are on the same axial plane on the diameter of the future pin and bolts diameter. These two points will receive the bolt holes,
--	Remove the existing plummer block, asown in :numref:`General view`
+-	Remove the existing plummer block,
 -	Put the transmission flange on the barrel shaft (fitted assembly) and use the holes to counter-drill holes on the barrel side flange,
 -	Mount the transmission flange on the MS wheel (bolts, pins),
 -	Assemble the flanged MS to the side flange of the barrel. The washers create a gap which allows the MS to be strictly aligned with the barrel (shaft) axis. The MS wheel and flange are fitted to the existing barrel shaft so the MS is strictly concentric to the barrel.
 
-.. _General view:
+.. _general-view:
 .. figure:: img/installation-on-existing-hoist-01.jpg
 	:scale: 100 %
 	:align: center
@@ -28,7 +28,7 @@ Installation guidelines
 	General view
 
 
-.. _Flange assembly:
+.. _flange-assembly:
 .. figure:: img/installation-on-existing-hoist-02.jpg
 	:scale: 100 %
 	:align: center
@@ -36,7 +36,7 @@ Installation guidelines
     Flange assembly
 
 
-.. _Seat assembly:
+.. _seat-assembly:
 .. figure:: img/installation-on-existing-hoist-03.jpg
 	:scale: 100 %
 	:align: center
@@ -44,7 +44,7 @@ Installation guidelines
     Seat assembly
 
 
-.. _Side view:
+.. _side-view:
 .. figure:: img/installation-on-existing-hoist-04.jpg
 	:scale: 100 %
 	:align: center
@@ -52,7 +52,7 @@ Installation guidelines
     Side view
 
 
-.. _Cut view:
+.. _cut-view:
 .. figure:: img/installation-on-existing-hoist-05.jpg
 	:scale: 100 %
 	:align: center
