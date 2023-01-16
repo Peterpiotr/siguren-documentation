@@ -25,7 +25,7 @@ Mount the Radial and the Axial adjustment parts
 
 .. _Radial and Axial adjustment parts:
 .. figure:: img/mounting-procedure-09.jpg
-	:scale: 100 %
+	:width: 100 %
 	:align: center
 
 	Radial and axial adjustment parts
