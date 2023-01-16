@@ -97,13 +97,6 @@ with symbol |image039|.
 On :numref:`MS controller internal error E01` is shown example for internal MS controller fault. 
 On :numref:`MS warning number 10 (wrn_num = 10)` is shown example for MS warning.
 
-.. _MS controller internal error 1001:
-.. figure:: img/installation-on-existing-hoist-01.jpg
-	:scale: 100 %
-	:align: center
-
-	General view
-
 .. _MS controller internal error E01:
 .. figure:: img/MScontrollerInternalErrorE01.png
 	:scale: 100 %
