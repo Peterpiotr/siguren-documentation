@@ -3,7 +3,7 @@ Positionning the MotoSuiveur Unit
 ===================================
 
 .. note::
-    Extracted from :download:`Mounting procedure.pptx <../archives/Mounting-procedure.pptx>` .
+    Extracted from :download:`Mounting procedure.pptx <../archives/mounting-procedure.pptx>` .
 
 Landing on trolley
 ===================
@@ -12,7 +12,7 @@ Land the (Gearbox/ ) drum / MS assembly on the seat blocks
 
 .. _Landing on trolley:
 .. figure:: img/mounting-procedure-08.jpg
-	:scale: 100 %
+	:width: 100 %
 	:align: center
 
 	Landing on trolley

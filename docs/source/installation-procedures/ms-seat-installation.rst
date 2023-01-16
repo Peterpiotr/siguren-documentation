@@ -3,7 +3,7 @@ Seat installation
 ==================
 
 .. note::
-    Extracted from :download:`Mounting procedure.pptx <../archives/Mounting-procedure.pptx>` .
+    Extracted from :download:`Mounting procedure.pptx <../archives/mounting-procedure.pptx>` .
 
 Installing seat blocks
 =======================
