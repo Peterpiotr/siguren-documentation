@@ -26,6 +26,8 @@ Installation guidelines
 
 	General view
 
+Blabla
+
 
 .. figure:: img/installation-on-existing-hoist-02.jpg
 	:scale: 100 %
