@@ -10,14 +10,14 @@ After mechanical assembly of MS to hoist is done, electrical connection must be 
 be connected according specific for the project electrical circuit diagram.
 
 .. _Electrical connections of MS unit:
-.. figure:: img/siguren-ms-manual-ternium-01.jpg
+.. figure:: img/siguren-ms-manual-01.jpg
 	:scale: 100 %
 	:align: center
 
 	Electrical connections of MS unit
 
 .. list-table:: Electrical connections of MS unit
-   :widths: 25 25 50
+   :widths: 25 75
    :header-rows: 1
 
    * - №
