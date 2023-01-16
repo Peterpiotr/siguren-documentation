@@ -2,6 +2,10 @@
 Installation of MotoSuiveur on existing hoist
 ===============================================
 
+.. note::
+    Extracted from `MS installation on existing hoist barrel.doc <../archives/MS installation on existing hoist barrel.doc>`_ .
+
+
 Benefits
 ===========
 
