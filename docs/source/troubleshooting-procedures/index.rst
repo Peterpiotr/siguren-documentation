@@ -1,5 +1,5 @@
 =====================
-Emergency procedures
+Troubleshooting procedures
 =====================
 
 .. toctree::

@@ -65,7 +65,7 @@ Troubleshooting
 * **Troubleshooting**:
   :doc:`/support` |
   :doc:`/controller-errors` |
-  :doc:`Troubleshooting procedures </emergency-procedures/index>` |
+  :doc:`Troubleshooting procedures </troubleshooting-procedures/index>` |
   :doc:`Frequently asked questions </faq>`
 
 .. toctree::
