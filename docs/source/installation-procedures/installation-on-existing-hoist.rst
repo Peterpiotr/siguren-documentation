@@ -20,36 +20,35 @@ Installation guidelines
 -	Mount the transmission flange on the MS wheel (bolts, pins),
 -	Assemble the flanged MS to the side flange of the barrel. The washers create a gap which allows the MS to be strictly aligned with the barrel (shaft) axis. The MS wheel and flange are fitted to the existing barrel shaft so the MS is strictly concentric to the barrel.
 
+.. _General view:
 .. figure:: img/installation-on-existing-hoist-01.jpg
 	:scale: 100 %
 	:align: center
 
 	General view
 
-Blabla
-
-
+.. _Flange assembly:
 .. figure:: img/installation-on-existing-hoist-02.jpg
 	:scale: 100 %
 	:align: center
 
     Flange assembly
 
-
+.. _Seat assembly:
 .. figure:: img/installation-on-existing-hoist-03.jpg
 	:scale: 100 %
 	:align: center
 
     Seat assembly
 
-
+.. _Side view:
 .. figure:: img/installation-on-existing-hoist-04.jpg
 	:scale: 100 %
 	:align: center
 
     Side view
 
-
+.. _Cut view:
 .. figure:: img/installation-on-existing-hoist-05.jpg
 	:scale: 100 %
 	:align: center
