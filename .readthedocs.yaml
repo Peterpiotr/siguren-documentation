@@ -11,8 +11,8 @@ sphinx:
 #    - requirements: requirements/pip.txt
 #    - requirements: requirements/docs.txt
 
-build:
-  os: ubuntu-22.04
-  tools:
-    python: "3.11"
+#build:
+#  os: ubuntu-22.04
+#  tools:
+#    python: "3.11"
 
