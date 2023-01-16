@@ -21,4 +21,4 @@ Glossary
       They cannot be overwritten by the user.
 
    profile page
-      Page where you can see the projects of a certain user.
+      Page where you can see the projects of a certain user. ooo
