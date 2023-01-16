@@ -6,7 +6,8 @@ Installation procedures
    :maxdepth: 3
 
    installation-on-existing-hoist
-   ms-seat-installation
    ms-flange-installation
+   ms-seat-installation
+   ms-positionning
    controls-check
    multiple-ms
