@@ -27,34 +27,6 @@ Installation guidelines
 
 	General view
 
-.. _Flange assembly:
-.. figure:: img/installation-on-existing-hoist-02.jpg
-	:scale: 100 %
-	:align: center
-
-    Flange assembly
-
-.. _Seat assembly:
-.. figure:: img/installation-on-existing-hoist-03.jpg
-	:scale: 100 %
-	:align: center
-
-    Seat assembly
-
-.. _Side view:
-.. figure:: img/installation-on-existing-hoist-04.jpg
-	:scale: 100 %
-	:align: center
-
-    Side view
-
-.. _Cut view:
-.. figure:: img/installation-on-existing-hoist-05.jpg
-	:scale: 100 %
-	:align: center
-
-    Cut view
-
 
 Mechanical advantages of the new assembly
 ===========================================
