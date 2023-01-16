@@ -41,11 +41,7 @@ Learn more about your hoisting safety solution design, operation and capabiliite
   :doc:`/rec-addons` |
   :doc:`/recovery-capabilities`
 
-* **Troubleshooting**:
-  :doc:`/support` |
-  :doc:`/controller-errors` |
-  :doc:`/emergency-procedures` |
-  :doc:`Frequently asked questions </faq>`
+
 
 .. toctree::
    :maxdepth: 2
@@ -57,12 +53,30 @@ Learn more about your hoisting safety solution design, operation and capabiliite
    /tl-addon
    /rec-addons
    /operation-modes/index
+   /glossary
+   /external-links
+
+
+Troubleshooting
+===================
+
+
+
+* **Troubleshooting**:
+  :doc:`/support` |
+  :doc:`/controller-errors` |
+  :doc:`/emergency-procedures` |
+  :doc:`Frequently asked questions </faq>`
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Troubleshooting
+
    /support
    /controller-errors
    /emergency-procedures/index
    /faq
-   /glossary
-   /external-links
 
 
 Installation
