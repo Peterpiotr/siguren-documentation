@@ -9,5 +9,6 @@ Installation procedures
    ms-flange-installation
    ms-seat-installation
    ms-positionning
+   connect-ms-control-cabinet
    controls-check
    multiple-ms
