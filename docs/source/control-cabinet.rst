@@ -23,7 +23,7 @@ Local controls are used for:
  
 .. _Control signals between hoist and MS:
 .. figure:: img/controlSignals.png
-	:scale: 100 %
+	:width: 100 %
 	:align: center
 
 	Control signals between hoist and MS
@@ -99,14 +99,14 @@ On :numref:`MS warning number 10 (wrn_num = 10)` is shown example for MS warning
 
 .. _MS controller internal error E01:
 .. figure:: img/MScontrollerInternalErrorE01.png
-	:scale: 100 %
+	:width: 100 %
 	:align: center
 
 	MS controller internal error E01 
 
 .. _MS warning number 10 (wrn_num = 10):
 .. figure:: img/MSwarningNumber10.png
-	:scale: 100 %
+	:width: 100 %
 	:align: center
 
 	MS warning number 10 (wrn_num = 10) 

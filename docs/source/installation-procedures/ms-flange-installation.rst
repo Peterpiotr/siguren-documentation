@@ -11,7 +11,7 @@ Drum – MS assembly
 
 .. _Drum to MS:
 .. figure:: img/mounting-procedure-01.jpg
-	:scale: 100 %
+	:width: 100 %
 	:align: center
 
 	Drum to MS assembly
@@ -30,7 +30,7 @@ Rotate the worm with the allen key in the ANTICLOCKWISE direction.
 
 .. _Securing with bolts:
 .. figure:: img/mounting-procedure-03.jpg
-	:scale: 100 %
+	:width: 100 %
 	:align: center
 
 	Securing with bolts
@@ -41,14 +41,14 @@ of the drum (depending on Demag drum replacement procedure).
 
 .. _Centering bush assembly:
 .. figure:: img/mounting-procedure-04.jpg
-	:scale: 100 %
+	:width: 100 %
 	:align: center
 
 	Centering bush assembly
 
 .. _Stop washer assembly:
 .. figure:: img/mounting-procedure-05.jpg
-	:scale: 100 %
+	:width: 100 %
 	:align: center
 
 	Stop washer assembly
