@@ -75,7 +75,7 @@ Troubleshooting
 
    /support
    /controller-errors
-   /emergency-procedures/index
+   /troubleshooting-procedures/index
    /faq
 
 

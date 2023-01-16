@@ -25,7 +25,7 @@ Rotate the worm with the allen key in the ANTICLOCKWISE direction.
 
 .. warning::
     If you rotate the worm in CLOCKWISE direction there has a possibility to block the MS. 
-    If this happens, please consult :doc:`Unblocking the MotoSuiveur Unit <../troubleshooting/unblocking-ms>`
+    If this happens, please consult :doc:`Unblocking the MotoSuiveur Unit <../troubleshooting-procedures/unblocking-ms>`
 
 
 .. _Securing with bolts:
