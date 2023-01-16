@@ -26,6 +26,14 @@ Installation guidelines
 
 	General view
 
+
+.. _MS controller internal error 1002:
+.. figure:: img/installation-on-existing-hoist-02.jpg
+	:scale: 100 %
+	:align: center
+
+	General view 2
+
 Mechanical advantages of the new assembly
 ===========================================
 
