@@ -31,6 +31,7 @@ The steps of following operation mode are presented on :numref:`Steps of Followi
 .. _Symbols displayed on 7-segment display on MS controller:
 .. csv-table:: Symbols displayed on 7-segment display on MS controller when on rest
    :file: tables/following-mode-digits-rest.csv
+   :delim: ;
    :header-rows: 1
    :width: 100%
 
@@ -40,7 +41,7 @@ The steps of following operation mode are presented on :numref:`Steps of Followi
    :header-rows: 1
    :delim: ;
    :widths: 20, 20, 60
-   :width: 100%
+   :class: tight-table 
 
 
 .. ------------- Substitution definitions for 7-segments digits -------------------
