@@ -5,13 +5,6 @@ Welcome to MotoSuiveur Solutions documentation!
 **MotoSuiveur Solutions** are hoist safety solutions designed to actively permit only safe operation, 
 and instantly default to a safe arrested state when hoisting is disrupted.
 
-.. raw:: html
-
-    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
-        <iframe src="//www.youtube.com/embed/3iZUa1VCCgs" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
-    </div>
-
-
 .. note::
 
    This documentation is under active development.
@@ -56,6 +49,7 @@ Learn more about your hoisting safety solution design, operation and capabiliite
 
    /ms-unit
    /control-cabinet
+   /control-panel
    /tl-addon
    /rec-addons
    /operation-modes/index
@@ -102,10 +96,9 @@ Learn more about the process of integrating a MotoSuiveur Solution into an exist
    :hidden:
    :caption: Installation
 
-   /mechanical-interface
-   /electrical-interface
-   /hoist-revamping
-   /installation-procedures/index
+  /new-hoist
+  /retrofitting
+  /installation-procedures/index
 
 
 Maintenance

@@ -3,6 +3,9 @@ Connect MS to control cabinet
 ===============================
 
 .. note::
+  How do I connect MS to my existing controls and power sources?
+
+.. note::
     Extracted from :download:`Siguren MS manual.docx <../archives/siguren-ms-manual-ternium.docx>` .
 
 After mechanical assembly of MS to hoist is done, electrical connection must be made between MS and control cabinet. 

@@ -3,6 +3,9 @@ Installation of MotoSuiveur on existing hoist
 ===============================================
 
 .. note::
+	Refers to electrical-interface and mechanical-interface. May be partially redundant with connect-ms-control-cabinet
+
+.. note::
     Extracted from :download:`MS installation on existing hoist barrel.doc <../archives/MS-installation-on-existing-hoist-barrel.doc>` .
 
 

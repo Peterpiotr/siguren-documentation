@@ -1,5 +1,5 @@
 ===================================
-Positionning the MotoSuiveur Unit
+Positioning the MotoSuiveur Unit
 ===================================
 
 .. note::

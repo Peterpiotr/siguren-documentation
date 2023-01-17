@@ -8,7 +8,6 @@ Installation procedures
    installation-on-existing-hoist
    ms-flange-installation
    ms-seat-installation
-   ms-positionning
+   ms-positioning
    connect-ms-control-cabinet
-   controls-check
    multiple-ms
