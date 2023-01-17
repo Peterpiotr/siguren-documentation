@@ -9,8 +9,8 @@ and instantly default to a safe arrested state when hoisting is disrupted.
 
    This documentation is under active development.
 
-About MotoSuiveur Solutions
-============================
+MotoSuiveur Solutions
+=======================
 
 Understand the main features and underlying design principles behind MotoSuiveur Solutions.
 Learn about risk reduction analysis.
@@ -40,8 +40,6 @@ Learn more about your hoisting safety solution design, operation and capabiliite
   :doc:`/rec-addons` |
   :doc:`/recovery-capabilities`
 
-
-
 .. toctree::
    :maxdepth: 2
    :hidden:
@@ -49,31 +47,9 @@ Learn more about your hoisting safety solution design, operation and capabiliite
 
    /ms-solutions/index
    /operation-modes/index
+   /troubleshooting/index
    /glossary
    /external-links
-
-
-Troubleshooting
-===================
-
-
-
-* **Troubleshooting**:
-  :doc:`/support` |
-  :doc:`/controller-errors` |
-  :doc:`Troubleshooting procedures </troubleshooting-procedures/index>` |
-  :doc:`Frequently asked questions </faq>`
-
-.. toctree::
-  :maxdepth: 2
-  :hidden:
-  :caption: Troubleshooting
-
-  /support
-  /controller-errors
-  /troubleshooting-procedures/index
-  /faq
-
 
 Installation
 =============
