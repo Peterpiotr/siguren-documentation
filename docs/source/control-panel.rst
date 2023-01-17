@@ -23,7 +23,6 @@ Local controls are used for:
  
 .. _Control signals between hoist and MS:
 .. figure:: img/controlSignals.png
-	:width: 100 %
 	:align: center
 
 	Control signals between hoist and MS
