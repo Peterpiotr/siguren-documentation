@@ -37,7 +37,7 @@ html_theme = 'sphinx_rtd_theme'
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
 
-html_logo = 'source/siguren_logo_white.png'
+html_logo = 'siguren_logo_white.png'
 
 html_theme_options = {
 #    'analytics_id': 'G-XXXXXXXXXX',  #  Provided by Google in your dashboard
@@ -57,7 +57,7 @@ html_theme_options = {
 }
 
 # These folders are copied to the documentation's HTML output
-html_static_path = ['source/_static']
+html_static_path = ['_static']
 
 # These paths are either relative to html_static_path
 # or fully qualified paths (eg. https://...)
