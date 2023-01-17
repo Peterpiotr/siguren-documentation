@@ -69,14 +69,14 @@ Troubleshooting
   :doc:`Frequently asked questions </faq>`
 
 .. toctree::
-   :maxdepth: 2
-   :hidden:
-   :caption: Troubleshooting
+  :maxdepth: 2
+  :hidden:
+  :caption: Troubleshooting
 
-   /support
-   /controller-errors
-   /troubleshooting-procedures/index
-   /faq
+  /support
+  /controller-errors
+  /troubleshooting-procedures/index
+  /faq
 
 
 Installation
@@ -92,9 +92,9 @@ Learn more about the process of integrating a MotoSuiveur Solution into an exist
   :doc:`Installing multiple MotoSuiveur Units </multiple-ms>`
 
 .. toctree::
-   :maxdepth: 2
-   :hidden:
-   :caption: Installation
+  :maxdepth: 2
+  :hidden:
+  :caption: Installation
 
   /new-hoist
   /retrofitting
@@ -110,11 +110,11 @@ Maintenance
   :doc:`/electrical-interface`
 
 .. toctree::
-   :maxdepth: 2
-   :hidden:
-   :caption: Maintenance
+  :maxdepth: 2
+  :hidden:
+  :caption: Maintenance
 
-   /planned-maintenance
-   /servicing
-   /spare-parts
+  /planned-maintenance
+  /servicing
+  /spare-parts
 
