@@ -30,7 +30,7 @@ The steps of following operation mode are presented on :numref:`Steps of Followi
 
 .. _Symbols displayed on 7-segment display on MS controller:
 .. csv-table:: Symbols displayed on 7-segment display on MS controller
-   :file: tables/following-mode-digits.csv
+   :file: tables/testtable.csv
    :header-rows: 1
    :width: 100
 
@@ -54,5 +54,21 @@ The steps of following operation mode are presented on :numref:`Steps of Followi
 .. |image035| image:: ../img/digits/image035.png
 .. |image036| image:: ../img/digits/image036.png
 .. |image039| image:: ../img/digits/image039.png
-.. |image041| image:: ../img/digits/image041.png 
+.. |image041| image:: ../img/digits/image041.png
+.. |image042| image:: ../img/digits/image042.png
+.. |image043| image:: ../img/digits/image043.png
+.. |image044| image:: ../img/digits/image044.png
+.. |image045| image:: ../img/digits/image045.png
+.. |image046| image:: ../img/digits/image046.png
+.. |image047| image:: ../img/digits/image047.png
+.. |image048| image:: ../img/digits/image048.png
+.. |image049| image:: ../img/digits/image049.png
+.. |image050| image:: ../img/digits/image050.png
+.. |image051| image:: ../img/digits/image051.png
+.. |image052| image:: ../img/digits/image052.png
+.. |image053| image:: ../img/digits/image053.png
+.. |image054| image:: ../img/digits/image054.png
+.. |image055| image:: ../img/digits/image055.png
+.. |image056| image:: ../img/digits/image056.png
+.. |image057| image:: ../img/digits/image057.png
 .. --------------------------------
