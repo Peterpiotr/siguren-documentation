@@ -98,14 +98,12 @@ On :numref:`MS warning number 10 (wrn_num = 10)` is shown example for MS warning
 
 .. _MS controller internal error E01:
 .. figure:: ../img/MScontrollerInternalErrorE01.png
-	:width: 100 %
 	:align: center
 
 	MS controller internal error E01 
 
 .. _MS warning number 10 (wrn_num = 10):
 .. figure:: ../img/MSwarningNumber10.png
-	:width: 100 %
 	:align: center
 
 	MS warning number 10 (wrn_num = 10) 
@@ -129,7 +127,6 @@ on :numref:`MS Worm rotating directions`.
  
 .. _MS Worm rotating directions:
 .. figure:: ../img/MSwormrotatingDirections.png
-	:scale: 80 %
 	:align: center
 
 	MS Worm rotating directions 
