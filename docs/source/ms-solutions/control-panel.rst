@@ -58,30 +58,6 @@ MS :term:`controller` internal errors are related to MS controller internal hard
 .. warning:: 
 	The system displays only last ``MS warning`` (wrn_num) or ``MS fault`` (flt_nim) occurred.
 
-.. ------------- Substitution definitions for 7-segments digits -------------------
-	to be able to include them INLINE in the next paragraph
-.. |image001| image:: ../img/digits/image001.png 
-.. |image003| image:: ../img/digits/image003.png 
-.. |image007| image:: ../img/digits/image007.png 
-.. |image009| image:: ../img/digits/image009.png 
-.. |image011| image:: ../img/digits/image011.png 
-.. |image013| image:: ../img/digits/image013.png 
-.. |image015| image:: ../img/digits/image015.png 
-.. |image017| image:: ../img/digits/image017.png 
-.. |image019| image:: ../img/digits/image019.png 
-.. |image021| image:: ../img/digits/image021.png 
-.. |image023| image:: ../img/digits/image023.png 
-.. |image025| image:: ../img/digits/image025.png 
-.. |image027| image:: ../img/digits/image027.png 
-.. |image029| image:: ../img/digits/image029.png
-.. |image031| image:: ../img/digits/image031.png 
-.. |image033| image:: ../img/digits/image033.png 
-.. |image035| image:: ../img/digits/image035.png
-.. |image036| image:: ../img/digits/image036.png
-.. |image039| image:: ../img/digits/image039.png
-.. |image041| image:: ../img/digits/image041.png 
-.. --------------------------------
-
 Faults and warnings are displayed on MS 7 - segment controller. The display indicates 
 all types of MS warnings/faults and MS controller internal errors. 
 Indication is a combination of letters and numbers. MS controller internal 
@@ -163,11 +139,26 @@ Lamp states
 Combination of active (ON) and inactive (OFF) signal lams gives current status of MS. 
 In Appendix Table 1 signal combinations are presented and described.
 
-
-Drive
-======
-
-Drive=Controller
-
-GUI
-====
+.. ------------- Substitution definitions for 7-segments digits -------------------
+	to be able to include them INLINE in the next paragraph
+.. |image001| image:: ../img/digits/image001.png 
+.. |image003| image:: ../img/digits/image003.png 
+.. |image007| image:: ../img/digits/image007.png 
+.. |image009| image:: ../img/digits/image009.png 
+.. |image011| image:: ../img/digits/image011.png 
+.. |image013| image:: ../img/digits/image013.png 
+.. |image015| image:: ../img/digits/image015.png 
+.. |image017| image:: ../img/digits/image017.png 
+.. |image019| image:: ../img/digits/image019.png 
+.. |image021| image:: ../img/digits/image021.png 
+.. |image023| image:: ../img/digits/image023.png 
+.. |image025| image:: ../img/digits/image025.png 
+.. |image027| image:: ../img/digits/image027.png 
+.. |image029| image:: ../img/digits/image029.png
+.. |image031| image:: ../img/digits/image031.png 
+.. |image033| image:: ../img/digits/image033.png 
+.. |image035| image:: ../img/digits/image035.png
+.. |image036| image:: ../img/digits/image036.png
+.. |image039| image:: ../img/digits/image039.png
+.. |image041| image:: ../img/digits/image041.png 
+.. --------------------------------
