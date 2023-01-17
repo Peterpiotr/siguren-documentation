@@ -34,7 +34,7 @@ The steps of following operation mode are presented on :numref:`Steps of Followi
    :header-rows: 1
    :width: 100
 
-.. _Symbols displayed on 7-segment display on MS controller:
+.. _Symbols displayed on 7-segment display on MS controller during movement:
 .. csv-table:: Symbols displayed on 7-segment display on MS controller during movement
    :file: tables/following-mode-digits-movement.csv
    :header-rows: 1
