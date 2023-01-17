@@ -1,6 +1,6 @@
-=================================================
-Welcome to MotoSuiveur Solutions documentation!
-=================================================
+====================================
+MotoSuiveur Solutions Documentation
+====================================
 
 **MotoSuiveur Solutions** are hoist safety solutions designed to actively permit only safe operation, 
 and instantly default to a safe arrested state when hoisting is disrupted.
