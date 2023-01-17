@@ -84,3 +84,42 @@ test are shown.
 
 .. warning::
  	In case of repetitive faults, please contact SIGUREN Technologies on address support@siguren.com!
+
+.. ------------- Substitution definitions for 7-segments digits -------------------
+.. |image001| image:: ../img/digits/image001.png 
+.. |image003| image:: ../img/digits/image003.png 
+.. |image007| image:: ../img/digits/image007.png 
+.. |image009| image:: ../img/digits/image009.png 
+.. |image011| image:: ../img/digits/image011.png 
+.. |image013| image:: ../img/digits/image013.png 
+.. |image015| image:: ../img/digits/image015.png 
+.. |image017| image:: ../img/digits/image017.png 
+.. |image019| image:: ../img/digits/image019.png 
+.. |image021| image:: ../img/digits/image021.png 
+.. |image023| image:: ../img/digits/image023.png 
+.. |image025| image:: ../img/digits/image025.png 
+.. |image027| image:: ../img/digits/image027.png 
+.. |image029| image:: ../img/digits/image029.png
+.. |image031| image:: ../img/digits/image031.png 
+.. |image033| image:: ../img/digits/image033.png 
+.. |image035| image:: ../img/digits/image035.png
+.. |image036| image:: ../img/digits/image036.png
+.. |image039| image:: ../img/digits/image039.png
+.. |image041| image:: ../img/digits/image041.png
+.. |image042| image:: ../img/digits/image042.png
+.. |image043| image:: ../img/digits/image043.png
+.. |image044| image:: ../img/digits/image044.png
+.. |image045| image:: ../img/digits/image045.png
+.. |image046| image:: ../img/digits/image046.png
+.. |image047| image:: ../img/digits/image047.png
+.. |image048| image:: ../img/digits/image048.png
+.. |image049| image:: ../img/digits/image049.png
+.. |image050| image:: ../img/digits/image050.png
+.. |image051| image:: ../img/digits/image051.png
+.. |image052| image:: ../img/digits/image052.png
+.. |image053| image:: ../img/digits/image053.png
+.. |image054| image:: ../img/digits/image054.png
+.. |image055| image:: ../img/digits/image055.png
+.. |image056| image:: ../img/digits/image056.png
+.. |image057| image:: ../img/digits/image057.png
+.. --------------------------------
