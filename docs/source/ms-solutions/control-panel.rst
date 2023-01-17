@@ -22,7 +22,7 @@ Local controls are used for:
 :numref:`Control signals between hoist and MS` shows schematically the control signals between hoist and MS. 
  
 .. _Control signals between hoist and MS:
-.. figure:: img/controlSignals.png
+.. figure:: ../img/controlSignals.png
 	:align: center
 
 	Control signals between hoist and MS
@@ -60,26 +60,26 @@ MS :term:`controller` internal errors are related to MS controller internal hard
 
 .. ------------- Substitution definitions for 7-segments digits -------------------
 	to be able to include them INLINE in the next paragraph
-.. |image001| image:: img/digits/image001.png 
-.. |image003| image:: img/digits/image003.png 
-.. |image007| image:: img/digits/image007.png 
-.. |image009| image:: img/digits/image009.png 
-.. |image011| image:: img/digits/image011.png 
-.. |image013| image:: img/digits/image013.png 
-.. |image015| image:: img/digits/image015.png 
-.. |image017| image:: img/digits/image017.png 
-.. |image019| image:: img/digits/image019.png 
-.. |image021| image:: img/digits/image021.png 
-.. |image023| image:: img/digits/image023.png 
-.. |image025| image:: img/digits/image025.png 
-.. |image027| image:: img/digits/image027.png 
-.. |image029| image:: img/digits/image029.png
-.. |image031| image:: img/digits/image031.png 
-.. |image033| image:: img/digits/image033.png 
-.. |image035| image:: img/digits/image035.png
-.. |image036| image:: img/digits/image036.png
-.. |image039| image:: img/digits/image039.png
-.. |image041| image:: img/digits/image041.png 
+.. |image001| image:: ../img/digits/image001.png 
+.. |image003| image:: ../img/digits/image003.png 
+.. |image007| image:: ../img/digits/image007.png 
+.. |image009| image:: ../img/digits/image009.png 
+.. |image011| image:: ../img/digits/image011.png 
+.. |image013| image:: ../img/digits/image013.png 
+.. |image015| image:: ../img/digits/image015.png 
+.. |image017| image:: ../img/digits/image017.png 
+.. |image019| image:: ../img/digits/image019.png 
+.. |image021| image:: ../img/digits/image021.png 
+.. |image023| image:: ../img/digits/image023.png 
+.. |image025| image:: ../img/digits/image025.png 
+.. |image027| image:: ../img/digits/image027.png 
+.. |image029| image:: ../img/digits/image029.png
+.. |image031| image:: ../img/digits/image031.png 
+.. |image033| image:: ../img/digits/image033.png 
+.. |image035| image:: ../img/digits/image035.png
+.. |image036| image:: ../img/digits/image036.png
+.. |image039| image:: ../img/digits/image039.png
+.. |image041| image:: ../img/digits/image041.png 
 .. --------------------------------
 
 Faults and warnings are displayed on MS 7 - segment controller. The display indicates 
@@ -97,14 +97,14 @@ On :numref:`MS controller internal error E01` is shown example for internal MS c
 On :numref:`MS warning number 10 (wrn_num = 10)` is shown example for MS warning.
 
 .. _MS controller internal error E01:
-.. figure:: img/MScontrollerInternalErrorE01.png
+.. figure:: ../img/MScontrollerInternalErrorE01.png
 	:width: 100 %
 	:align: center
 
 	MS controller internal error E01 
 
 .. _MS warning number 10 (wrn_num = 10):
-.. figure:: img/MSwarningNumber10.png
+.. figure:: ../img/MSwarningNumber10.png
 	:width: 100 %
 	:align: center
 
@@ -128,7 +128,7 @@ viewed from cam part of the screw shaft as is shown
 on :numref:`MS Worm rotating directions`.
  
 .. _MS Worm rotating directions:
-.. figure:: img/MSwormrotatingDirections.png
+.. figure:: ../img/MSwormrotatingDirections.png
 	:scale: 80 %
 	:align: center
 
