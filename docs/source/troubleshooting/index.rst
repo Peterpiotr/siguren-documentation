@@ -2,12 +2,13 @@
 Troubleshooting 
 =================
 
+
+
 .. toctree::
    :maxdepth: 3
 
    controller-errors
-   troubleshooting-procedures/index
-   faq
+   gui-guided-troubleshooting
 
 
 Troubleshooting procedures
@@ -19,5 +20,5 @@ Troubleshooting procedures
 
    unblocking-ms
    controls-check
-   mounting-portable-recovery.rst
+   mounting-portable-recovery
    ms-worm-removal

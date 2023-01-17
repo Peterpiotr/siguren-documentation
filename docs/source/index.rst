@@ -49,6 +49,7 @@ Learn more about your hoisting safety solution design, operation and capabiliite
    /operation-modes/index
    /troubleshooting/index
    /glossary
+   /faq
    /external-links
 
 Installation
