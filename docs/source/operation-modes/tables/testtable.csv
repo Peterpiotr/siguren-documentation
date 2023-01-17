@@ -1,19 +1,19 @@
-﻿Symbol;Description
-|image001|;Homing
-|image039|;Waiting piston return
-|image009|;Blocked
-|image013|;Checking MS firmware (Soft)
-|image017|;Electrical test
-|image021|;Switch test
-|image025|;Damping*
-|image029|;Air*
-|image033|;Play
-|image003|;Un-screwing enable switch not made
-|image007|;Screwing enable switch not made
-|image011|;Screwing enable switch not centered
-|image015|;Un-screwing enable switch not centered
-|image009|;Damping plus*
-|image023|;Damping minus*
-|image027|;Play minus
-|image031|;Play plus
-|image035|/|image036|;Error / Fault
+﻿Symbol,Description
+|image001|,Homing
+|image039|,Waiting piston return
+|image009|,Blocked
+|image013|,Checking MS firmware (Soft)
+|image017|,Electrical test
+|image021|,Switch test
+|image025|,Damping*
+|image029|,Air*
+|image033|,Play
+|image003|,Un-screwing enable switch not made
+|image007|,Screwing enable switch not made
+|image011|,Screwing enable switch not centered
+|image015|,Un-screwing enable switch not centered
+|image009|,Damping plus*
+|image023|,Damping minus*
+|image027|,Play minus
+|image031|,Play plus
+|image035|/|image036|,Error / Fault
