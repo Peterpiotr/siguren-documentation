@@ -6,7 +6,7 @@ After :doc:`internal-test` finishes, Self-test operation mode (further called se
 
 .. _Self-test steps symbols:
 .. csv-table:: Self-test steps symbols
-   :file: 06_tables/SelfTestStepsSymbols.csv
+   :file: tables/SelfTestStepsSymbols.csv
    :header-rows: 1
    :width: 100
 ..   :widths: 1, 5
