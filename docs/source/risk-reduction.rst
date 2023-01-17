@@ -1,6 +1,6 @@
-====================================
-Risk reduction for critical lifting
-====================================
+================
+Risk reduction
+================
 
 .. note::
     Explains the ISO12100 safety of machinery - risk reduction approach and how MS fits and embodies this approach. 

@@ -47,11 +47,7 @@ Learn more about your hoisting safety solution design, operation and capabiliite
    :hidden:
    :caption: User documentation
 
-   /ms-unit
-   /control-cabinet
-   /control-panel
-   /tl-addon
-   /rec-addons
+   /ms-solutions/index
    /operation-modes/index
    /glossary
    /external-links
@@ -104,10 +100,10 @@ Learn more about the process of integrating a MotoSuiveur Solution into an exist
 Maintenance
 ============
 
-* **Planning maintenance**:
-  :doc:`/mechanical-interface` |
-  :doc:`/electrical-interface` |
-  :doc:`/electrical-interface`
+* **Planned maintenance**:
+  :doc:`/planned-maintenance` |
+  :doc:`/servicing` |
+  :doc:`/spare-parts` 
 
 .. toctree::
   :maxdepth: 2
