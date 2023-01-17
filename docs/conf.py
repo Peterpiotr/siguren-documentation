@@ -56,8 +56,6 @@ html_theme_options = {
 #    'titles_only': False
 }
 
-master_doc = 'index'
-
 # These folders are copied to the documentation's HTML output
 html_static_path = ['source/_static']
 
