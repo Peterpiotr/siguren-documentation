@@ -45,12 +45,9 @@ Learn more about your hoisting safety solution design, operation and capabiliite
    :hidden:
    :caption: User documentation
 
-   /ms-solutions/index
-   /operation-modes/index
+   /technical-information/index
+   /operating-instructions/index
    /troubleshooting/index
-   /glossary
-   /faq
-   /external-links
 
 Installation
 =============
