@@ -11,8 +11,8 @@ Operating instructions
    internal-test
    self-test
    following
-   backup-recovery-mode
    load-arrest
    re-engaging
-   recovery-capabilities
+   backup-recovery-mode
+   recovery-operation
 
