@@ -6,8 +6,11 @@ Following operation mode starts after successful passed of self–test.
 The function of this operation mode is intended for follow movements of the hoist and to monitor 
 for exceeding the rated speed (nominal speed) with defined positive tolerance. 
 The speed, which is considered high is called Overspeed. By design MS will not allow Overspeed. 
-Typically Overspeed is equal to:
-Overspeed = Nominal speed + 10%
+
+.. line-block::
+
+    Typically :guilabel:`Overspeed` is equal to:
+    **Overspeed = Nominal speed + 10%**
 
 :numref:`Main principle of following operation mode and overspeed detection` presents the main principle of Following operation mode and overspeed detection. 
 
@@ -26,7 +29,7 @@ The steps of following operation mode are presented on :numref:`Steps of Followi
 
 	Steps of Following operation mode 
 
-:numref:`Symbols displayed on 7-segment display on MS controller` shows the symbols displayed on 7–segment display during following operation mode.
+:numref:`Symbols displayed on 7-segment display on MS controller` and :numref:`Symbols displayed on 7-segment display on MS controller during movement` show the symbols displayed on 7–segment display during following operation mode respectively when on rest and during movement.
 
 .. _Symbols displayed on 7-segment display on MS controller:
 .. csv-table:: Symbols displayed on 7-segment display on MS controller when on rest
