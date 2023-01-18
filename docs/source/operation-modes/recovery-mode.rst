@@ -6,6 +6,8 @@ Recovery mode
 
 Recovery mode is second part of Backup/Recovery operation. 
 
+.. undue opposition between "mode" and "operation"
+
 This mode start operates the way is shown on figure 23. 
 After reset, MS checks for active Backup/Recovery mode request (Backup/Recovery operational key is ON). 
 If request is active 7–segment display shows symbol for Recovery mode   and engagement start. 
@@ -32,6 +34,7 @@ Command for lowering should be given to MS until both lamps for Upward enable an
     please make sure that operation mode is not activated remotely. 
     
 The verification consists of the following steps:
+
 - Recovery mode lamp and Recovery engaged lamp are off,
 - Backup/Recovery control key is in position “0” (OFF),
 - On 7–segment display symbols |image058| or |image041| are not displayed.
