@@ -3,6 +3,13 @@ Glossary
 
 .. glossary::
 
+   rated speed
+      nominal speed
+
+   overspeed
+      Typically :guilabel:`Overspeed` is equal to:
+      **Overspeed = Nominal speed + 10%**
+
    controller
         also called 'drive' or 'servo-drive'
         SMD servo drives are especially suitable for high dynamics and high precision.
