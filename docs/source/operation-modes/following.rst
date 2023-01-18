@@ -16,7 +16,7 @@ The speed, which is considered high is called :term:`overspeed`.
 Following operation mode principle
 ====================================
 
-:numref:`Main principle of following operation mode and overspeed detection` and :numref:`Following mode stages` 
+test :numref:`Main principle of following operation mode and overspeed detection` and :numref:`Following mode stages` 
 present the main principle of Following operation mode and overspeed *detection*. 
 
 .. _Main principle of following operation mode and overspeed detection:
