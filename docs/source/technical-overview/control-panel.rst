@@ -57,36 +57,39 @@ Local controls are used for:
 Hoist enabled
 ^^^^^^^^^^^^^^
 
-Hoist enabled lamp indicate that the MS authorizes hoist movements. (figure 5). Hoist enabled signal will on only in case if ON signal from hoist is ON.
+:guilabel:`🟢 Hoist enabled lamp` indicate that the MS authorizes hoist movements. (figure 5). 
+Hoist enabled signal will be **ON** only in case if **ON** signal from hoist is **ON**.
 
-Hoist enabled signal will be ON when MS self-test pass successfully and ON signal is available then Hoist enabled and Healthy indicator lamps are on. The signals are indicating system ready (MS ready).
+Hoist enabled signal will be **ON** when :doc:`../operating-instructions/selft-test` passes successfully and **ON** signal is available 
+then :guilabel:`🟢 Hoist enabled lamp` and :guilabel:`⚪ Healthy lamp` are **ON**. 
+The signals are indicating ``system ready`` (MS ready).
 
 
 
 Fault 
-^^^^^^^^^^^^^^^^^^^^^
+^^^^^^
 
-Fault lamp (figure 3, item 2) indicates three different types of faults:
+:guilabel:`🔴 Fault lamp` (figure 3, item 2) indicates three different types of faults:
 	- MS controller internal errors, described in section 7.1;
 	- MS faults (further called flt_num), described in section 7.2;
 	- MS warnings (further called wrn_num), described in section 7.2;
 
-MS :term:`controller` internal errors are related to MS controller internal hardware, firmware, and MS motor. This type of errors are with highest priority. If MS controller internal fault appear further operation is prohibited.
+MS :term:`controller` internal errors are related to MS controller internal hardware, firmware, and MS motor. 
+This type of errors are with highest priority. 
+If MS controller internal fault appear further operation is prohibited.
 	
 .. note::	
- 	Fault lamp indicator is on during MS self-test.
+ 	:guilabel:`🔴 Fault lamp` is ``ON`` during MS self-test.
 
 .. warning:: 
-	The system displays only last ``MS warning`` (wrn_num) or ``MS fault`` (flt_nim) occurred.
+	The system displays only last ``MS warning`` (``wrn_num``) or ``MS fault`` (``flt_nim``) occurred.
 
-Faults and warnings are displayed on MS 7 - segment controller. The display indicates 
-all types of MS warnings/faults and MS controller internal errors. 
-Indication is a combination of letters and numbers. MS controller internal 
-faults are indicated with blinked combination of |image035|, number and finish 
-with symbol |image039|.
+Faults and warnings are displayed on MS 7-segment controller. The display indicates all types of MS warnings/faults and MS controller internal errors. 
+Indication is a combination of letters and numbers.
+MS controller internal faults are indicated with blinked combination of |image035|, number and finish with symbol |image039|.
 
-``MS faults`` are displayed with combination of |image036| and number. 
-``MS warnings`` are displayed with combination of |image035| and number. 
+MS faults are displayed with combination of |image036| and number. 
+MS warnings are displayed with combination of |image035| and number. 
 
 .. rubric:: Displaying messages on MS controller 7 - segment display
 

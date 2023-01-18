@@ -1,6 +1,6 @@
-==========
-Self-test
-==========
+======================
+MotoSuiveur self-test
+======================
 
 .. include:: ../substitutions.rst
 
