@@ -25,7 +25,7 @@ Local controls are used for:
 	- overrides MS enable signal (override ON signal) - figure 3, item 6;
 	- enable and control MS Backup/ Recovery mode - figure 3 items 4, 5, 10, 11.
 
-.. _Control signals between hoist and MS:
+.. _General view of MotoSuiveur control panel:
 .. figure:: img/control-panel-02.png
 	:align: center
 
@@ -36,6 +36,7 @@ Local controls are used for:
    :file: tables/control-panel-legend.csv
    :delim: ;
    :header-rows: 1
+   :widths: 10, 30, 20, 40
    :class: tight-table
    :align: center
 
