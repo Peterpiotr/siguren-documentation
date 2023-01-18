@@ -11,6 +11,7 @@ Technical information
    ms-unit
    control-cabinet
    control-panel
+   ms-controller
    tl-addon
    rec-addons
    ../glossary
