@@ -1,6 +1,6 @@
-=======================
+=================================
 Back-up/Recovery operation mode
-=======================
+=================================
 
 .. include:: ../substitutions.rst
 
@@ -10,14 +10,27 @@ Backup/Recovery operation mode functions are intended to unusual situations duri
 
 Controls and indicators of this functions are located on control panel front door – figure 3, items 4, 5, 10, 11.
 
-On :numref:`Principle of Backup/Recovery operation` is shown principle of Backup/Recovery operation mode. 
+:numref:`Principle of Backup/Recovery operation` shows the principle of Backup/Recovery operation mode. 
+
+.. _Principle of Backup/Recovery operation :
+.. figure:: img/backup-mode-02.png
+	:align: center
+
+	Principle of Backup/Recovery operation 
+
 Backup/Recovery decision figures located in figures 15 and 20 with dotted outline, 
 represent the places where request for these operation modes are checked. 
 
+
+
 Switching on Recovery/Backup mode is performed through Backup/Recovery OFF/ON key – figure 2, item 4. 
 After switching Backup/Recovery mode on, Backup mode start operating. 
-On 7–segment display indication for backup mode is displayed |image058| and Recovery mode lamp is on. 
+|image058| is displayed on 7–segment display as an indication for backup mode and :guilabel:`🟢 Recovery mode lamp` is ON. 
 Backup function ignore all settings related with following operation and allows movement of hoist with hoist limited speed.
+
+
+Back-up operation mode
+=========================
 
 In Backup operating mode, control is performed trough commands for lifting and lowering of the hoist. 
 In case of hoist control chain is damaged, control can be performed manually directly 
@@ -33,12 +46,6 @@ An example is shown on :numref:`Example for manual operation in backup mode`.
 	:align: center
 
 	Example for manual operation in backup mode 
-
-.. _Principle of Backup/Recovery operation :
-.. figure:: img/backup-mode-02.png
-	:align: center
-
-	Principle of Backup/Recovery operation 
 
 
 Recovery operation mode
