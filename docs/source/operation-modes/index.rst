@@ -10,8 +10,7 @@ Operation modes
    internal-test
    self-test
    following
-   backup
-   recovery-mode
+   backup-recovery-mode
    load-arrest
    re-engaging
    recovery-capabilities
