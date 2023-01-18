@@ -5,12 +5,15 @@ Following operation mode
 Following operation mode starts after successful passed of self–test. 
 The function of this operation mode is intended for follow movements of the hoist and to monitor 
 for exceeding the rated speed (nominal speed) with defined positive tolerance. 
-The speed, which is considered high is called Overspeed. By design MS will not allow Overspeed. 
+The speed, which is considered high is called Overspeed. 
 
 .. line-block::
 
     Typically :guilabel:`Overspeed` is equal to:
     **Overspeed = Nominal speed + 10%**
+
+.. important::
+    By design MS will not allow Overspeed. 
 
 :numref:`Main principle of following operation mode and overspeed detection` presents the main principle of Following operation mode and overspeed detection. 
 
