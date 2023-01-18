@@ -41,7 +41,7 @@ Test checks for active signals on inputs of the MS controller before self-test b
 
 
 .. warning::
- 	In case of repetitive faults, please contact SIGUREN technologies on address support@siguren.com!
+ 	In case of repetitive faults, please contact SIGUREN technologies at support@siguren.com!
 
 
 Switch test
@@ -51,9 +51,6 @@ Switch test check connection between MS controller and ``SCRE`` / ``USCRE`` swit
 
 :numref:`Steps of Switch test` shows the steps of the switch test. 
 
-In Table 2 located in appendix are shown steps for visual check of Switch test. 
-Visual check of Switch test is necessary only if faults appear during the test repeatedly.
- 
 .. _Steps of Switch test:
 .. figure:: img/stepsSwitchTest.png
 	:scale: 100 %
@@ -61,6 +58,9 @@ Visual check of Switch test is necessary only if faults appear during the test r
 
 	Steps of Switch test 
 
+
+In Table 2 located in appendix are shown steps for visual check of Switch test. 
+Visual check of Switch test is necessary only if faults appear during the test repeatedly.
 
 .. important::
  	In case of repeatedly `wrn_num` occurs, please check:
@@ -74,6 +74,7 @@ Play test
 ===========
 
 Play test measures play between worm and worm wheel. 
+
 :numref:`Play test steps` shows the steps of Play test.
 
 .. _Play test steps:

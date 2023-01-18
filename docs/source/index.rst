@@ -16,7 +16,7 @@ Understand the main features and underlying design principles behind MotoSuiveur
 Learn about risk reduction analysis.
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :hidden:
    :caption: About MotoSuiveur Solutions
 
@@ -41,7 +41,7 @@ Learn more about your hoisting safety solution design, operation and capabiliite
   :doc:`/recovery-capabilities`
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :hidden:
    :caption: User documentation
 
@@ -62,7 +62,7 @@ Learn more about the process of integrating a MotoSuiveur Solution into an exist
   :doc:`Installing multiple MotoSuiveur Units </multiple-ms>`
 
 .. toctree::
-  :maxdepth: 2
+  :maxdepth: 3
   :hidden:
   :caption: Installation
 
@@ -80,7 +80,7 @@ Maintenance
   :doc:`/spare-parts` 
 
 .. toctree::
-  :maxdepth: 2
+  :maxdepth: 3
   :hidden:
   :caption: Maintenance
 
