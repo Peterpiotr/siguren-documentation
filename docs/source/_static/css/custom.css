@@ -1,4 +1,5 @@
 .tight-table td {
     white-space:normal !important;
-    background-color: aqua;
+    background-color: aqua !important;
+    font-family: arial !important;
 }
