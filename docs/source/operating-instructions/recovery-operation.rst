@@ -3,7 +3,7 @@ Load recovery capabilities
 ============================
 
 .. note::
-    :download:`Using the MS Recovery Capabilities <../archives/using-the-ms-recovery-capabilities-02.docx>`
+    Based on :download:`Using the MS Recovery Capabilities <../archives/using-the-ms-recovery-capabilities-02.docx>`
 
 The MS will never allow a load drop. It will arrest the hoist drum whenever 
 the hoist brake is unable to do so. However, the MS can be used as a 
