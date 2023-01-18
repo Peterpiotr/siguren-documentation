@@ -16,6 +16,7 @@ the weight of the load without fearing a load drop.
 Three main methods can be used (and combined) to recover 
 the load, depending on how the hoist brake and the MS can be accessed and 
 used in the emergency situation that requires the recovery:
+
 1) :ref:`Forced MS recovery`
 2) :ref:`MS followed gravity lowering`
 3) :ref:`MS assisted gravity lowering`
