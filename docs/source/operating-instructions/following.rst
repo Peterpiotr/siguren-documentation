@@ -24,16 +24,25 @@ present the main principle of Following operation mode and overspeed *detection*
    :align: center
 
    Main principle of following operation mode and overspeed detection
-   .. _Following mode stages:
-   .. csv-table:: Following mode stages
-      :file: tables/following-mode-stages.csv
-      :delim: ;
-      :header-rows: 0
-      :widths: 20, 80
-      :class: tight-table
-      :align: center
+   
+   +------------+-----------------------------------------------+
+   | re         | Revised, revisited, based on 're' module.     |
+   +------------+-----------------------------------------------+
+   | Structured | Structure-enhanced text, structuredtext.      |
+   +------------+-----------------------------------------------+
+   | Text       | Well it is, isn't it?                         |
+   +------------+-----------------------------------------------+
 
 
+
+.. _Following mode stages:
+.. csv-table:: Following mode stages
+   :file: tables/following-mode-stages.csv
+   :delim: ;
+   :header-rows: 0
+   :widths: 20, 80
+   :class: tight-table
+   :align: center
 
 
 The steps of following operation mode are presented on :numref:`Steps of Following operation mode`.
