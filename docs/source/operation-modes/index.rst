@@ -11,6 +11,7 @@ Operation modes
    self-test
    following
    backup
+   recovery-mode
    load-arrest
    re-engaging
    recovery-capabilities
