@@ -2,6 +2,8 @@
 Following operation mode
 =========================
 
+.. include:: ../substitutions.rst
+
 Following operation mode starts after successful passed of self–test. 
 The function of this operation mode is intended for follow movements of the hoist and to monitor 
 for exceeding the :term:`rated speed` with defined positive tolerance. 
