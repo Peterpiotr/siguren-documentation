@@ -45,7 +45,7 @@ Learn more about your hoisting safety solution design, operation and capabiliite
    :hidden:
    :caption: User documentation
 
-   /technical-information/index
+   /technical-overview/index
    /operating-instructions/index
    /troubleshooting/index
 

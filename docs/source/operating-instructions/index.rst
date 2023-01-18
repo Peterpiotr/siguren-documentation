@@ -8,7 +8,8 @@ Operating instructions
 .. toctree::
    :maxdepth: 3
 
-   internal-test
+   operation-modes
+   controller-internal-check
    self-test
    following
    load-arrest
