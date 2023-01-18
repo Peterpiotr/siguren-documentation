@@ -36,7 +36,7 @@ Local controls are used for:
 
 
 Hoist enabled
-^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^
 
 Hoist enabled lamp indicate that the MS authorizes hoist movements. (figure 5). Hoist enabled signal will on only in case if ON signal from hoist is ON.
 

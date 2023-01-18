@@ -25,29 +25,15 @@ present the main principle of Following operation mode and overspeed *detection*
 
    Main principle of following operation mode and overspeed detection
 
-   +---+--------------------------------------------------------+
-   | 1 | Acceleration                                           |
-   +---+--------------------------------------------------------+
-   | 2 | Following                                              |
-   +---+--------------------------------------------------------+
-   | 3 | Deceleration                                           |
-   +---+--------------------------------------------------------+
-   | 4 | Exceeding nominal speed                                |
-   +---+--------------------------------------------------------+
-   | 5 | Overspeed detection                                    |
-   +---+--------------------------------------------------------+
-   | 6 | Overspeed is detected. MS arrests the movement.        |            
-   +---+--------------------------------------------------------+
 
-
-.... _Following mode stages:
-.... csv-table:: Following mode stages
-..   :file: tables/following-mode-stages.csv
-..   :delim: ;
-..   :header-rows: 0
-..   :widths: 20, 80
-..   :class: tight-table
-..   :align: center
+.. _Following mode stages:
+.. csv-table:: Following mode stages
+   :file: tables/following-mode-stages.csv
+   :delim: ;
+   :header-rows: 0
+   :widths: 20, 80
+   :class: tight-table
+   :align: center
 
 
 The steps of following operation mode are presented on :numref:`Steps of Following operation mode`.
