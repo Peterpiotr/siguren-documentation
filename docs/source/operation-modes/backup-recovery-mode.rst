@@ -25,7 +25,7 @@ represent the places where request for these operation modes are checked.
 
 Switching on Recovery/Backup mode is performed through Backup/Recovery OFF/ON key – figure 2, item 4. 
 After switching Backup/Recovery mode on, Backup mode start operating. 
-|image058| is displayed on 7–segment display as an indication for backup mode and :guilabel:`🟢 Recovery mode lamp` is ON. 
+:guilabel:`|image058| test` is displayed on 7–segment display as an indication for backup mode and :guilabel:`🟢 Recovery mode lamp` is ON. 
 Backup function ignore all settings related with following operation and allows movement of hoist with hoist limited speed.
 
 
