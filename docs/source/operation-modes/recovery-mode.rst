@@ -2,6 +2,8 @@
 Recovery mode
 ==============
 
+.. include:: ../substitutions.rst
+
 Recovery mode is second part of Backup/Recovery operation. 
 
 This mode start operates the way is shown on figure 23. 

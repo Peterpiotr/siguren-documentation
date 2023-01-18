@@ -2,6 +2,8 @@
 Back-up operation mode
 =======================
 
+.. include:: ../substitutions.rst
+
 Backup/Recovery operation mode functions are intended to unusual situations during MS operating. 
 Controls and indicators of this functions are located on control panel front door – figure 3, items 4, 5, 10, 11.
 
