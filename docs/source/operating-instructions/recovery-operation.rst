@@ -3,7 +3,7 @@ Load recovery capabilities
 ============================
 
 .. note::
-    :download:`../archives/using-the-ms-recovery-capabilities-02.docx`
+    :download:`Using the MS Recovery Capabilities <../archives/using-the-ms-recovery-capabilities-02.docx>`
 
 The MS will never allow a load drop. It will arrest the hoist drum whenever 
 the hoist brake is unable to do so. However, the MS can be used as a 
@@ -16,9 +16,9 @@ the weight of the load without fearing a load drop.
 Three main methods can be used (and combined) to recover 
 the load, depending on how the hoist brake and the MS can be accessed and 
 used in the emergency situation that requires the recovery:
-1) Forced MS recovery
-2) MS followed gravity lowering
-3) MS assisted gravity lowering
+1) :ref:`Forced MS recovery`
+2) :ref:`MS followed gravity lowering`
+3) :ref:`MS assisted gravity lowering`
 
 
 Forced MS recovery
@@ -159,4 +159,5 @@ Instructions
 .. csv-table:: MS assisted gravity lowering max torques
    :file: tables/MSassistedGravityLowering.csv
    :header-rows: 1
+   :class: tight-table
 
