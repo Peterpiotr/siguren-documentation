@@ -32,14 +32,12 @@ Local controls are used for:
 	General view of MotoSuiveur control panel
 
 .. _Control panel legend:
-.. csv-table:: Control penel legend
+.. csv-table:: Control panel legend
    :file: tables/control-panel-legend.csv
    :delim: ;
    :header-rows: 1
-   :widths: 20, 30, 50
    :class: tight-table
    :align: center
-
 
 :numref:`Control signals between hoist and MS` shows schematically the control signals between hoist and MS. 
  
