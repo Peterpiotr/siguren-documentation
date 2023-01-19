@@ -58,7 +58,7 @@ Recovery mode is second part of Backup/Recovery operation.
 This mode starts operating the way shown on :numref:`Principle of Backup/Recovery operation`.
 
 After **MS RESET**, MS checks for active Backup/Recovery mode request (:guilabel:`🔑 Backup/Recovery operational key` is **ON**). 
-If request is active 7–segment display shows symbol for Recovery mode  and **ENGAGEMENT** start. 
+If request is active 7–segment display shows |image041| :guilabel:`indication for recovery mode` and **ENGAGEMENT** start. 
 Engagement function is used to engage recovery mechanism to the worm via recovery nut – figure 1, item 7.
 
 Completion of **ENGAGEMENT** is indicated by :guilabel:`🟢 Recovery engaged indication lamp`. 
@@ -70,19 +70,19 @@ Also Recovery can be controlled remotely if that is provided by the :doc:`electr
 After **ENGAGEMENT** is complete and :guilabel:`🟢 Recovery engagement lamp` is **ON**, brake of main hoist motor should be released. 
 Otherwise motor brake will prohibit movements. Brake should remain open until recovery operation done.
 
-For disengagement, load should be on safe place, main hoist motor brake should be closed. 
-Command for lowering should be given to MS until both lamps for Upward enable and Downward enable becomes on.
+For **DISENGAGEMENT**, load *should be on safe place*, main hoist motor brake should be closed. 
+Command for lowering should be *given to MS* until both lamps for :guilabel:`🟢 Upward enable` and :guilabel:`🟢 Downward enable` are **ON**.
 
 .. warning::
     Recovery function is mainly designed for safety lowering of the load. 
-    Function allows very short lifting of the load only in case if it is absolutely necessary!
+    Function allows very short lifting of the load only in cases where it is absolutely necessary!
 
 .. warning::
     Before activating Backup/Recovery operation mode from local controls (figure 3, item 4), 
-    please make sure that operation mode is not activated remotely. 
+    please make sure that this operation mode is not activated remotely. 
     
 The verification consists of the following steps:
 
-- Recovery mode lamp and Recovery engaged lamp are off,
-- Backup/Recovery control key is in position “0” (OFF),
-- On 7–segment display symbols |image058| or |image041| are not displayed.
+- :guilabel:`🟢 Recovery mode lamp` and :guilabel:`🟢 Recovery engaged` lamp are **ON**,
+- :guilabel:`🔑 Backup/Recovery control key` is in position **0**=**OFF**,
+- On 7–segment display symbols |image058| or |image041| are *NOT* displayed.
