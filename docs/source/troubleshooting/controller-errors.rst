@@ -7,17 +7,19 @@ Controller errors
 
 .. _MS controller internal errors:
 .. csv-table:: MS controller internal errors
-   :file: tables/ms-controller-internal-errors.csv
-   :header-rows: 1
-   :class: tight-table
-   :align: center
-..   :widths: 1, 5
+    :file: tables/ms-controller-internal-errors.csv
+    :header-rows: 1
+    :class: tight-table
+    :delim: ;
+    :widths: 10,20,35,35
+    :align: center
 
 
 .. _MS faults and warnings:
 .. csv-table:: MS faults and warnings
-   :file: tables/ms-faults-and-warnings.csv
-   :header-rows: 1
-   :class: tight-table
-   :align: center
-..   :widths: 1, 5
+    :file: tables/ms-faults-and-warnings.csv
+    :header-rows: 1
+    :class: tight-table
+    :delim: ;
+    :widths: 10,40,50
+    :align: center
