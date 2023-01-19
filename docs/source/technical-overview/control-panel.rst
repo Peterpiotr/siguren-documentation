@@ -25,6 +25,10 @@ Local controls are used for:
 	- overrides MS enable signal (override ON signal) - figure 3, item 6;
 	- enable and control MS Backup/ Recovery mode - figure 3 items 4, 5, 10, 11.
 
+	
+test :menuselection:`Project > Compute` test
+
+
 .. _General view of MotoSuiveur control panel:
 .. figure:: img/control-panel-02.png
 	:align: center
