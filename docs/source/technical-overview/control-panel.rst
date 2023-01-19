@@ -57,12 +57,13 @@ Local controls are used for:
 Hoist enabled
 ^^^^^^^^^^^^^^
 
-:guilabel:`🟢 Hoist enabled lamp` indicate that the MS authorizes hoist movements. (figure 5). 
+:guilabel:`🟢 Hoist enabled lamp` indicate that the MS authorizes hoist movements. (figure 5).
+
 Hoist enabled signal will be **ON** only in case if **ON** signal from hoist is **ON**.
 
-Hoist enabled signal will be **ON** when :doc:`../operating-instructions/selft-test` passes successfully and **ON** signal is available 
-then :guilabel:`🟢 Hoist enabled lamp` and :guilabel:`⚪ Healthy lamp` are **ON**. 
-The signals are indicating ``system ready`` (MS ready).
+Hoist enabled signal will be **ON** when :doc:`../operating-instructions/self-test` procedure passes successfully and **ON** signal is available.
+Then :guilabel:`🟢 Hoist enabled lamp` and :guilabel:`⚪ Healthy lamp` are **ON**. 
+The signals are indicating ``system ready`` (``MS ready``).
 
 
 
@@ -70,6 +71,7 @@ Fault
 ^^^^^^
 
 :guilabel:`🔴 Fault lamp` (figure 3, item 2) indicates three different types of faults:
+
 	- MS controller internal errors, described in section 7.1;
 	- MS faults (further called flt_num), described in section 7.2;
 	- MS warnings (further called wrn_num), described in section 7.2;
@@ -79,10 +81,10 @@ This type of errors are with highest priority.
 If MS controller internal fault appear further operation is prohibited.
 	
 .. note::	
- 	:guilabel:`🔴 Fault lamp` is ``ON`` during MS self-test.
+ 	:guilabel:`🔴 Fault lamp` is **ON** during MS self-test.
 
 .. warning:: 
-	The system displays only last ``MS warning`` (``wrn_num``) or ``MS fault`` (``flt_nim``) occurred.
+	The system displays only last MS warning (``wrn_num``) or MS fault (``flt_num``) occurred.
 
 Faults and warnings are displayed on MS 7-segment controller. The display indicates all types of MS warnings/faults and MS controller internal errors. 
 Indication is a combination of letters and numbers.
@@ -144,21 +146,20 @@ on :numref:`MS Worm rotating directions`.
 Backup/Recovery Off/On; Backup/Recovery Down/Up
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Backup function allows the load to be lowered down, by using minimal functionalities 
-when MS is in Following operation mode. Backup function ignore all settings related 
-with nominal following operation mode and allows movement of the hoist with limited speed.
+Backup function allows the load to be lowered down, by using minimal functionalities when MS is in Following operation mode. 
+Backup function ignore all settings related with nominal following operation mode and allows movement of the hoist with limited speed.
 
-Recovery function is used when the main hoisting chain is faulty (for example damaged
-brake of the hoist motor). Recovery system allows lowering load safety to the ground.
+Recovery function is used when the main hoisting chain is faulty (for example damagedbrake of the hoist motor). 
+Recovery system allows lowering load safely to the ground.
 
 Enable Override
-^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^
 
 Enable override can be used if it is necessary to override Hoist enabled. This allows 
 small movements for MS mechanically reset.
 
 Lamp states
-^^^^^^^^^^^^^^^^^^^^^
+-------------
 
 Combination of active (ON) and inactive (OFF) signal lams gives current status of MS. 
 In Appendix Table 1 signal combinations are presented and described.
