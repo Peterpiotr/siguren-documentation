@@ -10,10 +10,16 @@ After :doc:`internal-test` finishes, Self-test operation mode (further called se
 .. csv-table:: Self-test steps symbols
    :file: tables/SelfTestStepsSymbols.csv
    :header-rows: 1
+   :class: tight-table
    :width: 100
 ..   :widths: 1, 5
 
 "*" steps are applicable only for hydraulic MS.
+
+.. raw::
+	<div class="mxgraph" style="max-width:100%;border:1px solid transparent;" data-mxgraph="{&quot;highlight&quot;:&quot;#0000ff&quot;,&quot;nav&quot;:true,&quot;resize&quot;:true,&quot;toolbar&quot;:&quot;zoom layers tags lightbox&quot;,&quot;edit&quot;:&quot;_blank&quot;,&quot;xml&quot;:&quot;&lt;mxfile host=\&quot;app.diagrams.net\&quot; modified=\&quot;2023-01-19T17:49:30.321Z\&quot; agent=\&quot;5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36\&quot; etag=\&quot;WYVu8E3OQ6yDaXgzcEEA\&quot; version=\&quot;20.6.0\&quot; type=\&quot;onedrive\&quot;&gt;&lt;diagram id=\&quot;C5RBs43oDa-KdzZeNtuy\&quot; name=\&quot;Page-1\&quot;&gt;7VhZc9MwEP41Hp5gfKRO+ojTpgVCB2ihw6NiK7aI7DWynINfzyqWYzsOOYD0yDSTB+16s5L2+/aIDacfz68ESaOPEFBu2GYwN5wLw7atjm0b6msGi0LTPesUilCwQBtVilv2i2qlqbU5C2jWMJQAXLK0qfQhSagvGzoiBMyaZmPgzV1TEtKW4tYnvK29Z4GMCm3P7lb6a8rCqNzZcs+LJzEpjfVNsogEMKupnEvD6QsAWazieZ9yFbwyLvfvFvd8OHGv3n/OfpKv3oe7m2+vC2eDQ36yuoKgify/rjW4U8JzHS99V7koAyggTwKqnJiG40Uy5ri0cPmDSrnQgJNcAqpAyAhCSAgfAqTabgyJ1GaWkmkSvFXAojzi4E8K1YBxrvdASdv3UMqkgMkKO+VgBYQy5mREuUf8Sbg8aB84CHyUQEKVqwDJoO9SHe6y0np7xlZjkEEufLrFztEUJyKk2/y5hZ06X42nGrkrCjGVYoEGgnIi2bRJZqJzIlzZVbjjQkN/AA2cFg2GJE5V1gPNklcSVzMQky3cULjMIibpbUqWAZphOWnypc4DvKoXcpJlGsUdIB8G0pQKSedbw1o+dXVu6+LW0+KsqhRWmf5RrUp0zCMB0WkB8R2L50tK/ktKunumZNmxduakJktJjL1TVHv6BCyRNRMYjzM82Dp1Vhv+PZvOWmy6gRaZduPxrOn2SGTqHsYl68lzyf1Di3A5hsEbCVyFapXyPAyRLOguMZxBu3ZFEI/ybHe7aGCsGDQgMeMqXteUT6lkPtnQVAhnIe574SPcVGwmD27JkhAlt5LulmTF+nvEZtNtNpuVXO825oZu0ztWt+m2MP2E6BXQ2SZf4ntiHd+x10A4f+yW39unSD/rEvzgHb+sprtbvrVnmdbsMd84+GkQ6OlPAed7zZQvY8BxGGaf2iBQnrDGJy/no/YkMMpFshwEIJcvk8C2ScDe1IQedBIoC2EN1C80JQzBNIenOAes//PvOI89B5SVogkBVzG1zSLDTgyD9VnMsY6HAYrVm9qiFFbvu53L3w==&lt;/diagram&gt;&lt;/mxfile&gt;&quot;}"></div>
+	<script type="text/javascript" src="https://viewer.diagrams.net/js/viewer-static.min.js"></script>
+
 
 .. _Sequence of self-test steps:
 .. figure:: img/SequenceSelfTestSteps.png
