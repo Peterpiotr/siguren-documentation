@@ -1,5 +1,5 @@
 Message;	Title/Description;	Possible cases
-|image035||image059||image029|**E02**;	Screwing command during self-test *;	Check for pressed/held down button for hoist lifting command. 
+|image035| |image059| |image029| **E02**;	Screwing command during self-test *;	Check for pressed/held down button for hoist lifting command. 
 **E03**;	Unscrewing command during self-test *;	Check for pressed/held down button for hoist lowering command
 **E04**;	Both commands during self-test *;	Check for pressed/held down button for hoist lifting and lowering command
 **E05**;	ON signal missing during self-test *;	ON signal from hoist missing (figure 12). Check electrical connection between hoist control cabinet and MS hoist cabinet. ON signal from hoist to MS is available Check hoist control
