@@ -25,3 +25,6 @@ Controller errors
     :delim: ;
     :widths: 10,40,50
     :align: center
+
+.. warning::
+ 	In case of repetitive faults, please contact SIGUREN technologies at support@siguren.com!

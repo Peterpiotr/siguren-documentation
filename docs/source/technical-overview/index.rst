@@ -12,6 +12,7 @@ Technical overview
    ms-unit
    control-cabinet
    control-panel
+   ms-hmi
    ms-controller
    tl-addon
    rec-addons
