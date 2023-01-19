@@ -117,7 +117,7 @@ On :numref:`MS warning number 10 (wrn_num = 10)` is shown example for MS warning
 Upward enable/Downward enable 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-``Upward enable`` / ``Downward enable`` are indicators for authorized direction of hoist movement. 
+:guilabel:`🟢 Upward enable lamp` / :guilabel:`🟢 Downwardenable lamp` are indicators for authorized direction of hoist movement. 
 If one of the two directions is forbidden to move, it is necessary to move the hoist 
 in the opposite direction in order to reset the system mechanically.
 
