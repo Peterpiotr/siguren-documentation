@@ -17,7 +17,7 @@ Following operation mode principle
 ====================================
 
 :numref:`Main principle of following operation mode and overspeed detection` and :numref:`Following mode stages` 
-present the main principle of Following operation mode and overspeed *detection*. 
+present the main principle of Following operation mode and overspeed detection. 
 
 .. _Main principle of following operation mode and overspeed detection:
 .. figure:: img/following-01.png
@@ -68,6 +68,6 @@ symbols displayed on 7–segment display during following operation mode during 
    :file: tables/following-mode-digits-movement.csv
    :header-rows: 1
    :delim: ;
-   :widths: 20, 20, 60
+   :widths: 10, 20, 70
    :class: tight-table
    :align: center

@@ -25,9 +25,6 @@ Local controls are used for:
 	- overrides MS enable signal (override ON signal) - figure 3, item 6;
 	- enable and control MS Backup/ Recovery mode - figure 3 items 4, 5, 10, 11.
 
-	
-test :menuselection:`Project > Compute` test
-
 
 .. _General view of MotoSuiveur control panel:
 .. figure:: img/control-panel-02.png
@@ -90,7 +87,8 @@ If MS controller internal fault appear further operation is prohibited.
 .. warning:: 
 	The system displays only last MS warning (``wrn_num``) or MS fault (``flt_num``) occurred.
 
-Faults and warnings are displayed on MS 7-segment controller. The display indicates all types of MS warnings/faults and MS controller internal errors. 
+Faults and warnings are displayed on MS 7-segment controller. 
+The display indicates all types of MS warnings/faults and MS controller internal errors. 
 Indication is a combination of letters and numbers.
 MS controller internal faults are indicated with blinked combination of |image035|, number and finish with symbol |image039|.
 
@@ -121,14 +119,14 @@ On :numref:`MS warning number 10 (wrn_num = 10)` is shown example for MS warning
 Upward enable/Downward enable 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-:guilabel:`🟢 Upward enable lamp` / :guilabel:`🟢 Downwardenable lamp` are indicators for authorized direction of hoist movement. 
+:guilabel:`🟢 Upward enable lamp` / :guilabel:`🟢 Downward enable lamp` are indicators for authorized direction of hoist movement. 
 If one of the two directions is forbidden to move, it is necessary to move the hoist 
 in the opposite direction in order to reset the system mechanically.
 
-Movements upward and downward of hoist are correspond to screwing and unscrewing 
-movement of MS worm. Movement directions of worm are corresponding to directions 
-of clock. Direction screwing is clockwise, unscrewing direction is anticlockwise, 
-viewed from cam part of the screw shaft as is shown 
+Movements upward and downward of hoist correspond to the **SCREWING** and **UNSCREWING** movement of MS worm. 
+Movement directions of worm correspond to clock directions. 
+
+**SCREWING** direction is clockwise, **UNSCREWING** direction is anticlockwise, viewed from cam part of the screw shaft as shown 
 on :numref:`MS Worm rotating directions`.
  
 .. _MS Worm rotating directions:
@@ -138,13 +136,13 @@ on :numref:`MS Worm rotating directions`.
 	MS Worm rotating directions 
 
 .. line-block::
-	1 - Screwing direction
-	2 - Unscrewing direction
+	1 - **SCREWING** direction
+	2 - **UNSCREWING** direction
 
 .. warning::
- 	After MS reset or manual centering of the worm and MS restart, 
-	no movement is performed or faults appears, please contact SIGUREN 
-	technologies on address support@siguren.com
+ 	After **MS RESET** or **MANUAL CENTERING** of the worm and **MS RESTART**, 
+	if no movement is performed or faults appear, 
+	please contact SIGUREN technologies at support@siguren.com
 
 
 Backup/Recovery Off/On; Backup/Recovery Down/Up
@@ -153,7 +151,7 @@ Backup/Recovery Off/On; Backup/Recovery Down/Up
 Backup function allows the load to be lowered down, by using minimal functionalities when MS is in Following operation mode. 
 Backup function ignore all settings related with nominal following operation mode and allows movement of the hoist with limited speed.
 
-Recovery function is used when the main hoisting chain is faulty (for example damagedbrake of the hoist motor). 
+Recovery function is used when the main hoisting chain is faulty (for example a damaged brake of the hoist motor). 
 Recovery system allows lowering load safely to the ground.
 
 Enable Override
