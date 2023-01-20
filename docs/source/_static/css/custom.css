@@ -20,9 +20,9 @@
   }
 
 div.documentwrapper {
-    margin: 0;
+    margin: 0 !important;
 }
 
 div.documentwrapper {
-    max-width: 60rem;
+    max-width: 100% !important;
 }
