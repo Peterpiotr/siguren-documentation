@@ -17,7 +17,6 @@ Learn about risk reduction analysis.
 
 .. toctree::
    :maxdepth: 1
-   :hidden:
    :caption: About MotoSuiveur Solutions
 
    features

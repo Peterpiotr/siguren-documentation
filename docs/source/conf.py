@@ -56,7 +56,6 @@ html_theme_options = {
     "css_minify": True,
     #"logo_icon": "&#xe869",
     #"repo_type": "github",
-    "globaltoc_depth": 2,
     "color_primary": "blue",
     "color_accent": "cyan",
     "touch_icon": "images/apple-icon-152x152.png",
@@ -76,6 +75,13 @@ html_theme_options = {
     #},
     "table_classes": ["plain"],
 
+    # Visible levels of the global TOC; -1 means unlimited
+    'globaltoc_depth': 3,
+    # If False, expand all TOC entries
+    'globaltoc_collapse': False,
+    # If True, show hidden TOC entries
+    'globaltoc_includehidden': True,
+    
 # piccolo theme options ----------------------------------------------------------------------
 #    'banner_text': 'We just launched a newletter, <a href="https://mynewsletter.com/">please subscribe</a>!',
 #    'banner_hiding': 'temporary'
