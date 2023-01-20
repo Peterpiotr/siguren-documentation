@@ -7,13 +7,13 @@ and instantly default to a safe arrested state when hoisting is disrupted.
 
 .. note::
 
-   This documentation is under active development. <span class="material-icons">&#xE87C;</span>
+   This documentation is under active development.
 
 MotoSuiveur Solutions
 =======================
 
 Understand the main features and underlying design principles behind MotoSuiveur Solutions.
-Learn about risk reduction analysis.
+Learn about risk reduction analysis.<span style="font-size: 2rem;" class="md-icon">&#xe869;</span>
 
 .. toctree::
    :maxdepth: 1
