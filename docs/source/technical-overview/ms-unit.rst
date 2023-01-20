@@ -15,7 +15,7 @@ Nameplate
 Interface with hoist
 ----------------------
 
-The :mechpart:`worm wheel` is single-helix.
+The :guilabel:`worm wheel` is single-helix.
 
 I have footnoted a first item [#f1]_ and second item [#f2]_.
 This also references the second item [#f2]_.
