@@ -1,9 +1,11 @@
 ============================
-Load recovery capabilities
+Load recovery operation
 ============================
 
 .. note::
     Based on :download:`Using the MS Recovery Capabilities <../archives/using-the-ms-recovery-capabilities-02.docx>`
+
+
 
 The MS will never allow a load drop. It will arrest the hoist drum whenever 
 the hoist brake is unable to do so. However, the MS can be used as a 
@@ -96,7 +98,7 @@ Indicative mean barrel speed: 0.5 rpm
 
 
 Backup Mode gravity lowering
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+------------------------------
 
 Switch the MS to :doc:`backup-recovery-mode` and demand (?) lowering. 
 Progressively release the motor brake using the provided :term:`Brake Release Tool`, until the load starts to rotate the barrel. 
