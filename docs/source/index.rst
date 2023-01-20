@@ -7,7 +7,7 @@ and instantly default to a safe arrested state when hoisting is disrupted.
 
 .. note::
 
-   This documentation is under active development.
+   This documentation is under active development. <span class="material-icons">&#xE87C;</span>
 
 MotoSuiveur Solutions
 =======================
