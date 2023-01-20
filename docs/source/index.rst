@@ -20,9 +20,9 @@ Learn about risk reduction analysis.
    :hidden:
    :caption: About MotoSuiveur Solutions
 
-   /features
-   /ms-tech-overview
-   /risk-reduction
+   features
+   ms-tech-overview
+   risk-reduction
 
 
 User documentation
@@ -45,9 +45,9 @@ Learn more about your hoisting safety solution design, operation and capabiliite
    :hidden:
    :caption: User documentation
 
-   /technical-overview/index
-   /operating-instructions/index
-   /troubleshooting/index
+   technical-overview/index
+   operating-instructions/index
+   troubleshooting/index
 
 Installation
 =============
@@ -66,9 +66,9 @@ Learn more about the process of integrating a MotoSuiveur Solution into an exist
   :hidden:
   :caption: Installation
 
-  /new-hoist
-  /retrofitting
-  /installation-procedures/index
+  new-hoist
+  retrofitting
+  installation-procedures/index
 
 
 Maintenance
@@ -84,7 +84,7 @@ Maintenance
   :hidden:
   :caption: Maintenance
 
-  /planned-maintenance
-  /servicing
-  /spare-parts
+  planned-maintenance
+  servicing
+  spare-parts
 
