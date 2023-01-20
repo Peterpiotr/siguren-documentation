@@ -81,7 +81,7 @@ html_theme_options = {
     'globaltoc_collapse': False,
     # If True, show hidden TOC entries
     'globaltoc_includehidden': True,
-    
+
 # piccolo theme options ----------------------------------------------------------------------
 #    'banner_text': 'We just launched a newletter, <a href="https://mynewsletter.com/">please subscribe</a>!',
 #    'banner_hiding': 'temporary'
@@ -101,6 +101,10 @@ html_theme_options = {
 #    'navigation_depth': 4,
 #    'includehidden': True,
 #    'titles_only': False
+}
+
+html_sidebars = {
+    "**": ["logo-text.html", "globaltoc.html", "localtoc.html", "searchbox.html"]
 }
 
 # These folders are copied to the documentation's HTML output
