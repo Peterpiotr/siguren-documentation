@@ -24,7 +24,7 @@ extensions = [
     'sphinx.ext.intersphinx',
     'sphinx.ext.autosectionlabel',
 #    'piccolo_theme',
-    'sphinx-material',
+    'sphinx_material',
 ]
 
 intersphinx_mapping = {
