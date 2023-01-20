@@ -47,14 +47,17 @@ epub_show_urls = 'footnote'
 html_logo = 'siguren_logo_white.png'
 
 html_theme_options = {
+    'banner_text': 'We just launched a newletter, <a href="https://mynewsletter.com/">please subscribe</a>!',
+    'banner_hiding': 'temporary'
+# rtd theme options ---------------------------------------------------------------------------
 #    'analytics_id': 'G-XXXXXXXXXX',  #  Provided by Google in your dashboard
 #    'analytics_anonymize_ip': False,
-    'logo_only': True,
+#    'logo_only': True,
 #    'display_version': True,
 #    'prev_next_buttons_location': 'bottom',
 #    'style_external_links': False,
 #    'vcs_pageview_mode': '',
-    'style_nav_header_background': '#2439bb',
+#    'style_nav_header_background': '#2439bb',
     # Toc options
 #    'collapse_navigation': True,
 #    'sticky_navigation': True,
