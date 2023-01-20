@@ -18,3 +18,11 @@
     --sidebarColor: white;
     --navbarHeight: 4rem;
   }
+
+div.documentwrapper {
+    margin: 0;
+}
+
+div.documentwrapper {
+    max-width: 60rem;
+}
