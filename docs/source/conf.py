@@ -1,9 +1,12 @@
 # Configuration file for the Sphinx documentation builder.
 
+import datetime
+
 # -- Project information
 
 project = 'MotoSuiveur Solutions documentation'
-copyright = '2023, SIGUREN technologies Ltd.'
+year = datetime.datetime.now().year
+copyright = f'{year}, SIGUREN technologies Ltd.'
 author = 'SIGUREN technologies Ltd.'
 
 master_doc = "index"
