@@ -2,12 +2,12 @@
 MotoSuiveur Unit
 ==================
 
+.. role:: mechpart
+   :class: mechpart
+
 .. note::
     Describes the MS unit. Describes what options users have for assembling an MS unit with their hoist, new or existing. 
     MS seat and flange/splines. Bearing/non-bearing. Arrest torque absorption.
-
-.. role:: mechpart
-   :class: mechpart
 
 Component description
 ======================

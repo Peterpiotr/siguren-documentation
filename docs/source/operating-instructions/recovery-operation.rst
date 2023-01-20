@@ -2,55 +2,55 @@
 Load recovery operation
 ============================
 
+.. role:: mechpart
+   :class: mechpart
+
 .. note::
     Based on :download:`Using the MS Recovery Capabilities <../archives/using-the-ms-recovery-capabilities-02.docx>`
 
 
 
-The MS will never allow a load drop. It will arrest the hoist drum whenever 
-the hoist brake is unable to do so. However, the MS can be used as a 
-gearbox to lower and even raise the load. 
+The MS will never allow a load drop. It will arrest the hoist drum whenever the hoist brake is unable to do so. 
+However, the MS can be used as a gearbox to lower and even raise the load. 
 
-Notе that the MS is irreversible – meaning that load drop is impossible even 
-when the MS alone is used for recovering the load. This allows the user to use 
-the weight of the load without fearing a load drop.
+.. note::
+	The MS is irreversible – meaning that load drop is impossible even when the MS alone is used for recovering the load. 
+	This allows the user to use the weight of the load without risking a load drop.
 
-Three main methods can be used (and combined) to recover 
-the load, depending on how the hoist brake and the MS can be accessed and 
-used in the emergency situation that requires the recovery:
+Three main methods can be used (and combined) to recover the load, depending on how the hoist brake 
+and the MotoSuiveur Unit can be accessed and used in the emergency situation that requires the recovery:
 
-1) :ref:`Forced MS recovery`
-2) :ref:`MS followed gravity lowering`
-3) :ref:`MS assisted gravity lowering`
+- :ref:`Forced MS recovery`
+- :ref:`MS followed gravity lowering`
+- :ref:`MS assisted gravity lowering`
 
 
 Forced MS recovery
 ===================
 
-With the brake open and the MS holding the load, rotate the MS worm shaft 
-with considerable torque. In this situation the MS moves the load.
-This way, a very high amount of torque must be applied on the MS shaft 
-(approximately 1/8 of the barrel torque).
+With the hoist brake open and the MotoSuiveur Unit holding the load, rotate the MS :mechpart:`worm shaft` with considerable torque. 
+In this situation the MotoSuiveur Unit moves the load.
+This way, a very high amount of torque must be applied on the MS shaft (approximately 1/8 of the barrel torque).
 
 Using the following hardware:
 
-- Portable Recovery Tool for sizes MS4 - MS7, or
-- Handheld Recovery Tool for sizes MS0 - MS3
+- :doc:`Portable Recovery Tool` for sizes MS4 - MS7, or
+- :doc:`Handheld Recovery Tool` for sizes MS0 - MS3
 
-For MS with Integrated Remote Recovery the hardware is integrated and is 
-remotely operated.
+For MS with :doc:`Integrated Remote Recovery` the hardware is integrated and is remotely operated.
 
 Instructions
 -------------
 
--	Open the Brake
--	Rotate the Worm Shaft with the following torque to lower the SWL (maximum values)
+-	Open the hoist brake
+-	Rotate the :mechpart:`worm shaft` with the following torque to lower the SWL (maximum values)
 
 .. csv-table:: Forced MS Recovery method max torques
    :file: tables/forcedRecoveryTorque.csv
    :header-rows: 1
 
-Indicative barrel speed: 0.1 - 0.3 rpm
+.. important::
+	Indicative barrel speed: 0.1 - 0.3 rpm
 
 
 MS followed gravity lowering
@@ -60,23 +60,19 @@ Step lowering
 --------------
 
 .. note::
-	This method can be used only with Hydraulic Damping MS
+	This method can be used only with Hydraulic Damping MS.
 
 .. "method" vs "procedure" vs ...
 
-Pulse the brake (manually or electrically) to lower the load a few 
-centimeters. The MS worm will shift toward the damping chamber. 
-The electrical or brake lever pulse must be short enough to not allow the 
-worm to reach the elastomer at the bottom of the damping chamber. 
-Then it is possible to return the worm shaft to its “centered” position by hand. 
-
-Repeat this until the load reaches the floor.
+- Pulse the hoist brake (manually or electrically) to lower the load a few centimeters. The MS :mechpart:`worm shaft` will shift toward the damping chamber. The electrical or brake lever pulse must be short enough to not allow the worm to reach the :mechpart:`elastomer` at the bottom of the damping chamber. 
+- Then it is possible to return the :mechpart:`worm shaft` to its “centered” position by hand. 
+- Repeat this until the load reaches the floor.
 
 This way, very low torque applied on the MS shaft will be needed (approximately 1/5000 of the barrel torque). 
 Using handwheel / crank handle or standard ratchet handle.
 
 The MS can automatically follow if switched to Backup Mode. 
-This negates the need of manual operation at the worm shaft. 
+This negates the need of manual operation at the :mechpart:`worm shaft`. 
 In case of power outage, the MS can be UPS/battery operated.
 Furthermore, the MS can control the brake opening / closing, thus making the gravity load recovery automated.
 
@@ -90,20 +86,21 @@ Instructions
 	
 	Hydraulic Damping MS step lowering
 
--	Pulse the Brake to achieve less than 30 degrees barrel rotation by gravity
--	Rotate the Worm Shaft by hand few rotations to centralize it
+-	Pulse the hoist brake to achieve less than 30 degrees barrel rotation by gravity
+-	Rotate the :mechpart:`worm shaft` by hand few rotations to centralize it
 -	Repeat
 
-Indicative mean barrel speed: 0.5 rpm
+.. important::
+	Indicative mean barrel speed: 0.5 rpm
 
 
 Backup Mode gravity lowering
 ------------------------------
 
-Switch the MS to :doc:`backup-recovery-mode` and demand (?) lowering. 
-Progressively release the motor brake using the provided :term:`Brake Release Tool`, until the load starts to rotate the barrel. 
-Use the tool to regulate and maintain the speed below the specified safe speed. 
-A buzzer will sound when the safe speed is close. (?is that a good thing?)
+- Switch the MS to :doc:`backup-recovery-mode`,
+- Order lowering. 
+- Progressively release the motor brake using the provided :mechpart:`Brake Release Tool`, until the load starts to rotate the barrel. 
+- Use the Brake Release Tool to regulate and maintain the speed below the specified safe speed. A :guilabel:`🔊 buzzer` will sound when the safe speed is close.
 
 The MS will arrest the barrel if:
 
@@ -124,29 +121,30 @@ Instructions
 	
 	Backup Mode gravity lowering
 
--	Switch the MS to Backup Mode and order lowering
--	Progressively un-tight the motor brake, using the Brake Release Tool, until the load starts to rotate the barrel. Use the tool to regulate and maintain the speed below the specified safe speed. A buzzer will sound when the safe speed is close.
+- Switch the MS to Backup Mode and 
+- order lowering
+- Progressively untighten the motor brake, using the :mechpart:`Brake Release Tool`, until the load starts to rotate the barrel. 
+- Use the Brake Release Tool to regulate and maintain the speed below the specified safe speed. A :guilabel:`🔊 buzzer` will sound when the safe speed is close.
 
-Indicative barrel speed: 2 - 5 rpm
+.. important::
+	Indicative barrel speed: 2 - 5 rpm
 
 
 MS assisted gravity lowering
 =============================
 
-Apply moderate torque to the MS shaft. Progressively release the motor 
-brake, using the provided Brake Release Tool, until the load starts to 
-rotate the barrel. The barrel stops when no torque is applied to the MS 
-shaft.
+- Apply moderate torque to the MS :mechpart:`worm shaft`. 
+- Progressively release the motor brake, using the provided Brake Release Tool, until the load starts to rotate the barrel. 
+- The barrel stops when no torque is applied to the MS :mechpart:`worm shaft`.
 
-In this scenario, only moderate torque is to be applied to the MS shaft (approximately 1/250 of the barrel torque).
+In this scenario, only moderate torque is to be applied to the MS :mechpart:`worm shaft` (approximately 1/250 of the barrel torque).
 
 Using the following hardware:
-
-- Handheld Recovery Tool for MS sizes above MS4
-- handwheel / crank handle or standard ratchet handle for sizes MS0 – MS3
+- Handheld Recovery Tool for MS sizes above MS4,
+- Handwheel / crank handle or standard ratchet handle for sizes MS0 – MS3
 
 Instructions
-^^^^^^^^^^^^^
++++++++++++++
 
 .. _MS assisted gravity lowering picture: 
 .. figure:: img/MSassistedGravityLowering.png
@@ -155,9 +153,10 @@ Instructions
 	
 	MS assisted gravity lowering
 
--	Apply moderate torque to the MS shaft, using the appropriate method,
--	Progressively release the motor brake, using the provided Brake Release Tool, until the load starts to rotate the barrel (as long as moderate torque is applied to the MS shaft)
--	Rotate the MS worm shaft to lower the load. Use the Brake Release Tool to maintain the torque to be applied to on the worm shaft inside the specified limits
+- Apply moderate torque to the MS :mechpart:`worm shaft`, using the appropriate method,
+- Progressively release the motor brake, using the provided Brake Release Tool, until the load starts to rotate the barrel (as long as moderate torque is applied to the MS shaft),
+- Rotate the MS :mechpart:`worm shaft` to lower the load,
+- Use the Brake Release Tool to maintain the torque to be applied to on the worm shaft inside the specified limits.
 
 .. csv-table:: MS assisted gravity lowering max torques
    :file: tables/MSassistedGravityLowering.csv
