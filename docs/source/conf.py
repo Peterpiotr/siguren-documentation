@@ -59,7 +59,7 @@ html_theme_options = {
     "color_primary": "blue",
     "color_accent": "cyan",
     "touch_icon": "images/apple-icon-152x152.png",
-    "theme_color": "#2439bb",
+    "theme_color": "2439bb",
     "master_doc": False,
     "heroes": {
         "index": "A responsive Material Design theme for Sphinx sites.",
