@@ -6,6 +6,9 @@ MotoSuiveur Unit
     Describes the MS unit. Describes what options users have for assembling an MS unit with their hoist, new or existing. 
     MS seat and flange/splines. Bearing/non-bearing. Arrest torque absorption.
 
+.. role:: mechpart
+   :class: mechpart
+
 Component description
 ======================
 
@@ -15,7 +18,7 @@ Nameplate
 Interface with hoist
 ----------------------
 
-The :guilabel:`worm wheel` is single-helix.
+The :mechpart:`worm wheel` is single-helix.
 
 I have footnoted a first item [#f1]_ and second item [#f2]_.
 This also references the second item [#f2]_.
