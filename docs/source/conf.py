@@ -60,6 +60,7 @@ html_theme_options = {
     "color_accent": "red",
     "touch_icon": "img/fail-safe-hoist.png",
     "theme_color": "2439bb",
+    'logo_icon': '&#xe869',
     "master_doc": False,
     "heroes": {
         "index": "A fail-safety solution for your most demanding hoists.",
