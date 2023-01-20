@@ -50,30 +50,31 @@ html_logo = 'siguren_logo_white.png'
 
 html_theme_options = {
 # sphinx material theme options ----------------------------------------------------------------------
-    # Set the name of the project to appear in the navigation.
-    'nav_title': 'MotoSuiveur Solutions User Documentation',
 
-    # Set you GA account ID to enable tracking
-    #'google_analytics_account': 'UA-XXXXX',
-
-    # Specify a base_url used to generate sitemap.xml. If not
-    # specified, then no sitemap will be built.
-    #'base_url': 'https://project.github.io/project',
-
-    # Set the color and the accent color
-    'color_primary': '#2439bb',
-    'color_accent': 'light-blue',
-
-    # Set the repo location to get a badge with stats
-    #'repo_url': 'https://github.com/project/project/',
-    #'repo_name': 'Project',
-
-    # Visible levels of the global TOC; -1 means unlimited
-    'globaltoc_depth': 3,
-    # If False, expand all TOC entries
-    'globaltoc_collapse': False,
-    # If True, show hidden TOC entries
-    'globaltoc_includehidden': True,
+    "html_minify": False,
+    "html_prettify": True,
+    "css_minify": True,
+    #"logo_icon": "&#xe869",
+    #"repo_type": "github",
+    "globaltoc_depth": 2,
+    "color_primary": "blue",
+    "color_accent": "cyan",
+    "touch_icon": "images/apple-icon-152x152.png",
+    "theme_color": "#2439bb",
+    "master_doc": False,
+    "heroes": {
+        "index": "A responsive Material Design theme for Sphinx sites.",
+        "customization": "Configuration options to personalize your site.",
+    },
+    "version_dropdown": True,
+    #"version_json": "_static/versions.json",
+    #"version_info": {
+    #    "Release": "https://bashtage.github.io/sphinx-material/",
+    #    "Development": "https://bashtage.github.io/sphinx-material/devel/",
+    #    "Release (rel)": "/sphinx-material/",
+    #    "Development (rel)": "/sphinx-material/devel/",
+    #},
+    "table_classes": ["plain"],
 
 # piccolo theme options ----------------------------------------------------------------------
 #    'banner_text': 'We just launched a newletter, <a href="https://mynewsletter.com/">please subscribe</a>!',
