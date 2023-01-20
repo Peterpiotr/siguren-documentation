@@ -23,7 +23,8 @@ extensions = [
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
     'sphinx.ext.autosectionlabel',
-    'piccolo_theme',
+#    'piccolo_theme',
+    'sphinx-material',
 ]
 
 intersphinx_mapping = {
@@ -39,7 +40,8 @@ numfig = True
 # -- Options for HTML output
 
 #html_theme = 'sphinx_rtd_theme'
-html_theme = 'piccolo_theme'
+#html_theme = 'piccolo_theme'
+html_theme = 'sphinx-material'
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
@@ -47,8 +49,8 @@ epub_show_urls = 'footnote'
 html_logo = 'siguren_logo_white.png'
 
 html_theme_options = {
-    'banner_text': 'We just launched a newletter, <a href="https://mynewsletter.com/">please subscribe</a>!',
-    'banner_hiding': 'temporary'
+#    'banner_text': 'We just launched a newletter, <a href="https://mynewsletter.com/">please subscribe</a>!',
+#    'banner_hiding': 'temporary'
 # rtd theme options ---------------------------------------------------------------------------
 #    'analytics_id': 'G-XXXXXXXXXX',  #  Provided by Google in your dashboard
 #    'analytics_anonymize_ip': False,
