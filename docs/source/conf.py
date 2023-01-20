@@ -49,8 +49,36 @@ epub_show_urls = 'footnote'
 html_logo = 'siguren_logo_white.png'
 
 html_theme_options = {
+# sphinx material theme options ----------------------------------------------------------------------
+    # Set the name of the project to appear in the navigation.
+    'nav_title': 'MotoSuiveur Solutions User Documentation',
+
+    # Set you GA account ID to enable tracking
+    #'google_analytics_account': 'UA-XXXXX',
+
+    # Specify a base_url used to generate sitemap.xml. If not
+    # specified, then no sitemap will be built.
+    #'base_url': 'https://project.github.io/project',
+
+    # Set the color and the accent color
+    'color_primary': '#2439bb',
+    'color_accent': 'light-blue',
+
+    # Set the repo location to get a badge with stats
+    #'repo_url': 'https://github.com/project/project/',
+    #'repo_name': 'Project',
+
+    # Visible levels of the global TOC; -1 means unlimited
+    'globaltoc_depth': 3,
+    # If False, expand all TOC entries
+    'globaltoc_collapse': False,
+    # If True, show hidden TOC entries
+    'globaltoc_includehidden': False,
+
+# piccolo theme options ----------------------------------------------------------------------
 #    'banner_text': 'We just launched a newletter, <a href="https://mynewsletter.com/">please subscribe</a>!',
 #    'banner_hiding': 'temporary'
+
 # rtd theme options ---------------------------------------------------------------------------
 #    'analytics_id': 'G-XXXXXXXXXX',  #  Provided by Google in your dashboard
 #    'analytics_anonymize_ip': False,
