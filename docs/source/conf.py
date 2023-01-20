@@ -41,7 +41,7 @@ numfig = True
 
 #html_theme = 'sphinx_rtd_theme'
 #html_theme = 'piccolo_theme'
-html_theme = 'sphinx-material'
+html_theme = 'sphinx_material'
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
