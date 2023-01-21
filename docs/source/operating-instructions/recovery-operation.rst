@@ -14,149 +14,15 @@ Load recovery operation
 
         text on left column
 
+		.. figure:: img/stepLowering.png
+		:scale: 75 %
+		:align: center
+
     .. container:: rightside
 
         text on right column
 
-+---------------------------------------------------------------+-------------------------------------------------------------+
-| ::                                                            |                                                             |
-|                                                               |                                                             |
-|   Footnote references, like [5]_.                             |   Footnote references, like [5]_.                           |
-|   Note that footnotes may get                                 |   Note that footnotes may get                               |
-|   rearranged, e.g., to the bottom of                          |   rearranged, e.g., to the bottom of                        |
-|   the "page".                                                 |   the "page".                                               |
-|                                                               |                                                             |
-|   .. [5] A numerical footnote. Note                           |   .. [5] A numerical footnote. Note                         |
-|      there's no colon after the ``]``.                        |      there's no colon after the ``]``.                      |
-+---------------------------------------------------------------+-------------------------------------------------------------+
-| ::                                                            |                                                             |
-|                                                               |                                                             |
-|   Autonumbered footnotes are                                  |   Autonumbered footnotes are                                |
-|   possible, like using [#]_ and [#]_.                         |   possible, like using [#]_ and [#]_.                       |
-|                                                               |                                                             |
-|   .. [#] This is the first one.                               |   .. [#] This is the first one.                             |
-|   .. [#] This is the second one.                              |   .. [#] This is the second one.                            |
-|                                                               |                                                             |
-|   They may be assigned 'autonumber                            |   They may be assigned 'autonumber                          |
-|   labels' - for instance,                                     |   labels' - for instance,                                   |
-|   [#fourth]_ and [#third]_.                                   |   [#fourth]_ and [#third]_.                                 |
-|                                                               |                                                             |
-|   .. [#third] a.k.a. third_                                   |   .. [#third] a.k.a. third_                                 |
-|                                                               |                                                             |
-|   .. [#fourth] a.k.a. fourth_                                 |   .. [#fourth] a.k.a. fourth_                               |
-+---------------------------------------------------------------+-------------------------------------------------------------+
-| ::                                                            |                                                             |
-|                                                               |                                                             |
-|   Auto-symbol footnotes are also                              |   Auto-symbol footnotes are also                            |
-|   possible, like this: [*]_ and [*]_.                         |   possible, like this: [*]_ and [*]_.                       |
-|                                                               |                                                             |
-|   .. [*] This is the first one.                               |   .. [*] This is the first one.                             |
-|   .. [*] This is the second one.                              |   .. [*] This is the second one.                            |
-+---------------------------------------------------------------+-------------------------------------------------------------+
-| ::                                                            |                                                             |
-|                                                               |                                                             |
-|   Citation references, like [CIT2002]_.                       |   Citation references, like [CIT2002]_.                     |
-|   Note that citations may get                                 |   Note that citations may get                               |
-|   rearranged, e.g., to the bottom of                          |   rearranged, e.g., to the bottom of                        |
-|   the "page".                                                 |   the "page".                                               |
-|                                                               |                                                             |
-|   .. [CIT2002] A citation                                     |   .. [CIT2002] A citation                                   |
-|      (as often used in journals).                             |      (as often used in journals).                           |
-|                                                               |                                                             |
-|   Citation labels contain alphanumerics,                      |   Citation labels contain alphanumerics,                    |
-|   underlines, hyphens and fullstops.                          |   underlines, hyphens and fullstops.                        |
-|   Case is not significant.                                    |   Case is not significant.                                  |
-|                                                               |                                                             |
-|   Given a citation like [this]_, one                          |   Given a citation like [this]_, one                        |
-|   can also refer to it like this_.                            |   can also refer to it like this_.                          |
-|                                                               |                                                             |
-|   .. [this] here.                                             |   .. [this] here.                                           |
-+---------------------------------------------------------------+-------------------------------------------------------------+
-| ::                                                            |                                                             |
-|                                                               |                                                             |
-|   External hyperlinks, like Python_.                          |   External hyperlinks, like Python_.                        |
-|                                                               |                                                             |
-|   .. _Python: http://www.python.org/                          |   .. _Python: http://www.python.org/                        |
-+---------------------------------------------------------------+-------------------------------------------------------------+
-| ::                                                            |                                                             |
-|                                                               |                                                             |
-|   External hyperlinks, like `Python                           |   External hyperlinks, like `Python                         |
-|   <http://www.python.org/>`_.                                 |   <http://www.python.org/>`_.                               |
-+---------------------------------------------------------------+-------------------------------------------------------------+
-| ::                                                            |                                                             |
-|                                                               |                                                             |
-|   Internal crossreferences, like example_.                    |   Internal crossreferences, like example_.                  |
-|                                                               |                                                             |
-|   .. _example:                                                |   .. _example:                                              |
-|                                                               |                                                             |
-|   This is an example crossreference target.                   |   This is an example crossreference target.                 |
-+---------------------------------------------------------------+-------------------------------------------------------------+
-| ::                                                            |                                                             |
-|                                                               |                                                             |
-|   Python_ is `my favourite                                    |   Python_ is `my favourite                                  |
-|   programming language`__.                                    |   programming language`__.                                  |
-|                                                               |                                                             |
-|   .. _Python: http://www.python.org/                          |   .. _Python: http://www.python.org/                        |
-|                                                               |                                                             |
-|   __ Python_                                                  |   __ Python_                                                |
-+---------------------------------------------------------------+-------------------------------------------------------------+
-| ::                                                            |   .. _titles are targets, too:                              |
-|                                                               |                                                             |
-|   Titles are targets, too                                     |                                                             |
-|   =======================                                     |   Titles are targets, too                                   |
-|                                                               |                                                             |
-|   Implict references, like `Titles are targets, too`_.        |   Implict references, like                                  |
-|                                                               |   `Titles are targets, too`_.                               |
-+---------------------------------------------------------------+-------------------------------------------------------------+
-|                                                                                                                             |
-|Directives are a general-purpose extension mechanism, a way of adding support for new constructs without adding              |
-|new syntax. For a description of all standard directives, see reStructuredText Directives (http://is.gd/2Ecqh).              |
-|                                                                                                                             |
-+---------------------------------------------------------------+-------------------------------------------------------------+
-| ::                                                            |                                                             |
-|                                                               |                                                             |
-|   For instance:                                               |   For instance:                                             |
-|                                                               |                                                             |
-|   .. image:: magnetic-balls.jpg                               |   .. image:: magnetic-balls.jpg                             |
-|      :width: 40pt                                             |      :width: 40pt                                           |
-|                                                               |                                                             |
-+---------------------------------------------------------------+-------------------------------------------------------------+
-|                                                                                                                             |
-|                                                                                                                             |
-| Substitutions are like inline directives, allowing graphics and arbitrary constructs within text.                           |
-|                                                                                                                             |
-+---------------------------------------------------------------+-------------------------------------------------------------+
-| ::                                                            |                                                             |
-|                                                               |                                                             |
-|   The |biohazard| symbol must be used on containers used to   |   The |biohazard| symbol must be used on containers used to |
-|   dispose of medical waste.                                   |   dispose of medical waste.                                 |
-|                                                               |                                                             |
-|   .. |biohazard| image:: biohazard.png                        |   .. |biohazard| image:: biohazard.png                      |
-|      :align: middle                                           |      :align: middle                                         |
-|      :width: 12                                               |      :width: 12                                             |
-+---------------------------------------------------------------+-------------------------------------------------------------+
-|                                                                                                                             |
-| Any text which begins with an explicit markup start but doesn't use the syntax of any of the constructs above, is a comment.|
-|                                                                                                                             |
-+---------------------------------------------------------------+-------------------------------------------------------------+
-| ::                                                            |                                                             |
-|                                                               |                                                             |
-|   .. This text will not be shown                              |   .. This text will not be shown                            |
-|      (but, for instance, in HTML might be                     |      (but, for instance, in HTML might be                   |
-|      rendered as an HTML comment)                             |      rendered as an HTML comment)                           |
-+---------------------------------------------------------------+-------------------------------------------------------------+
-| ::                                                            |                                                             |
-|                                                               |                                                             |
-|   An "empty comment" does not                                 |   An "empty comment" does not                               |
-|   consume following blocks.                                   |   consume following blocks.                                 |
-|   (An empty comment is ".." with                              |   (An empty comment is ".." with                            |
-|   blank lines before and after.)                              |   blank lines before and after.)                            |
-|                                                               |                                                             |
-|   ..                                                          |   ..                                                        |
-|                                                               |                                                             |
-|           So this block is not "lost",                        |           So this block is not "lost",                      |
-|           despite its indentation.                            |           despite its indentation.                          |
-+---------------------------------------------------------------+-------------------------------------------------------------+
+		
 
 The MS will never allow a load drop. It will arrest the hoist drum whenever the hoist brake is unable to do so. 
 However, the MS can be used as a gearbox to lower and even raise the load. 
