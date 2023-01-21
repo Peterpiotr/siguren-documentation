@@ -47,7 +47,7 @@ Learn more about the process of integrating a MotoSuiveur Solution into an exist
   :doc:`Installing multiple MotoSuiveur Units </multiple-ms>`
 
 .. toctree::
-  :maxdepth: 2
+  :maxdepth: 1
   :hidden:
   :caption: Installation
 
