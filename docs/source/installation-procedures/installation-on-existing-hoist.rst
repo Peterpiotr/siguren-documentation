@@ -21,9 +21,6 @@ Installation guidelines
 ========================
 
 1. Prior to remove the existing plummer block, make one rotation and find by comparator the 2 points on the barrel side flange that are on the same axial plane on the diameter of the future pin and bolts diameter. These two points will receive the bolt holes,
-    
-blabla
-
 2. Remove the existing plummer block,
 3. Put the transmission flange on the barrel shaft (fitted assembly) and use the holes to counter-drill holes on the barrel side flange,
 4. Mount the transmission flange on the MS wheel (bolts, pins),
