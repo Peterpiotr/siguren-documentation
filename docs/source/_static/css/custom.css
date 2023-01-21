@@ -28,13 +28,23 @@
     margin:auto 2px;
 }
 
-
-/*
-div.documentwrapper {
-    margin: 0 !important;
+ol {
+    list-style: none !important;
+    counter-reset: item !important;
 }
 
-div.documentwrapper {
-    max-width: 60rem !important;
+li {
+    counter-increment: item !important;
+    margin-bottom: 5px !important;
 }
-*/
+  
+li:before {
+    margin-right: 10px !important;
+    content: counter(item) !important;
+    background: #2439bb !important;
+    border-radius: 100% !important;
+    color: white !important;
+    width: 1.2em !important;
+    text-align: center !important;
+    display: inline-block !important;
+}
