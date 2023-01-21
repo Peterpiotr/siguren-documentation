@@ -2,27 +2,38 @@
 Load recovery operation
 ============================
 
+.. include:: ../substitutions.rst
+
 .. role:: mechpart
    :class: mechpart
 
 .. note::
     Based on :download:`Using the MS Recovery Capabilities <../archives/using-the-ms-recovery-capabilities-02.docx>`
 
-.. container:: twocol
 
-    .. container:: leftside
+.. list-table:: List tables can have captions like this one.
+    :widths: 10 5 10 50
+    :header-rows: 1
+    :stub-columns: 1
 
-        text on left column
+    * - List table
+      - Header 1
+      - Header 2
+      - Header 3 long. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sit amet mauris arcu.
+    * - Stub Row 1
+      - Row 1
+      - |image041|
+      - Column 3 long. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sit amet mauris arcu.
+    * - Stub Row 2
+      - Row 2
+      - Column 2
+      - Column 3 long. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sit amet mauris arcu.
+    * - Stub Row 3
+      - Row 3
+      - Column 2
+      - Column 3 long. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sit amet mauris arcu.
 
-		.. figure:: img/stepLowering.png
-		:scale: 75 %
-		:align: center
 
-    .. container:: rightside
-
-        text on right column
-
-		
 
 The MS will never allow a load drop. It will arrest the hoist drum whenever the hoist brake is unable to do so. 
 However, the MS can be used as a gearbox to lower and even raise the load. 
