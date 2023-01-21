@@ -9,21 +9,6 @@ and instantly default to a safe arrested state when hoisting is disrupted.
 
    This documentation is under active development.
 
-MotoSuiveur Solutions
-=======================
-
-Understand the main features and underlying design principles behind MotoSuiveur Solutions.
-Learn about risk reduction analysis.<span style="font-size: 2rem;" class="md-icon">&#xe869;</span>
-
-.. toctree::
-   :maxdepth: 1
-   :hidden:
-   :caption: About MotoSuiveur Solutions
-
-   features
-   ms-tech-overview
-   risk-reduction
-
 
 User documentation
 ===================
@@ -41,7 +26,7 @@ Learn more about your hoisting safety solution design, operation and capabiliite
   :doc:`/recovery-capabilities`
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :hidden:
    :caption: User documentation
 
@@ -62,7 +47,7 @@ Learn more about the process of integrating a MotoSuiveur Solution into an exist
   :doc:`Installing multiple MotoSuiveur Units </multiple-ms>`
 
 .. toctree::
-  :maxdepth: 1
+  :maxdepth: 2
   :hidden:
   :caption: Installation
 
@@ -80,7 +65,7 @@ Maintenance
   :doc:`/spare-parts` 
 
 .. toctree::
-  :maxdepth: 1
+  :maxdepth: 2
   :hidden:
   :caption: Maintenance
 
@@ -88,3 +73,18 @@ Maintenance
   servicing
   spare-parts
 
+
+MotoSuiveur Solutions
+=======================
+
+Understand the main features and underlying design principles behind MotoSuiveur Solutions.
+Learn about risk reduction analysis.<span style="font-size: 2rem;" class="md-icon">&#xe869;</span>
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: About MotoSuiveur Solutions
+
+   features
+   ms-tech-overview
+   risk-reduction
