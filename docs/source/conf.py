@@ -64,14 +64,14 @@ html_theme_options = {
     #"repo_type": "github",
     "color_primary": "2439bb",
     "color_accent": "red",
-    "touch_icon": "img/fail-safe-hoist.png",
     "theme_color": "2439bb",
     "master_doc": False,
+    'nav_title': 'MotoSuiveur Solutions User Documentation',
     "heroes": {
         "index": "A fail-safety solution for your most demanding hoists.",
         "troubleshooting/index": "Get out of tight situations.",
     },
-    "version_dropdown": True,
+    #"version_dropdown": True,
     #"version_json": "_static/versions.json",
     #"version_info": {
     #    "Release": "https://bashtage.github.io/sphinx-material/",
@@ -88,30 +88,13 @@ html_theme_options = {
     # If True, show hidden TOC entries
     'globaltoc_includehidden': True,
 
-# piccolo theme options ----------------------------------------------------------------------
-#    'banner_text': 'We just launched a newletter, <a href="https://mynewsletter.com/">please subscribe</a>!',
-#    'banner_hiding': 'temporary'
-
-# rtd theme options ---------------------------------------------------------------------------
-#    'analytics_id': 'G-XXXXXXXXXX',  #  Provided by Google in your dashboard
-#    'analytics_anonymize_ip': False,
-#    'logo_only': True,
-#    'display_version': True,
-#    'prev_next_buttons_location': 'bottom',
-#    'style_external_links': False,
-#    'vcs_pageview_mode': '',
-#    'style_nav_header_background': '#2439bb',
-    # Toc options
-#    'collapse_navigation': True,
-#    'sticky_navigation': True,
-#    'navigation_depth': 4,
-#    'includehidden': True,
-#    'titles_only': False
 }
 
 html_sidebars = {
     "**": ["logo-text.html", "globaltoc.html", "localtoc.html", "searchbox.html"]
 }
+
+html_use_index = True
 
 # These folders are copied to the documentation's HTML output
 html_static_path = ['_static']
