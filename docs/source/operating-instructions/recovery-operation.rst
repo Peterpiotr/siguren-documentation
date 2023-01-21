@@ -14,10 +14,6 @@ Load recovery operation
 
         text on left column
 
-		.. figure:: img/stepLowering.png
-		:scale: 75 %
-		:align: center
-
     .. container:: rightside
 
         text on right column
