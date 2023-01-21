@@ -1,4 +1,3 @@
-
 .tight-table td {
     white-space:normal !important;
 }
@@ -28,17 +27,17 @@
     margin:auto 2px;
 }
 
-ol {
+.blue-list ol {
     list-style: none !important;
-    counter-reset: item !important;
+    /*counter-reset: item !important;*/
 }
 
-li {
+.blue-list ol li {
     counter-increment: item !important;
     margin-bottom: 5px !important;
 }
   
-li:before {
+.blue-list ol li:before {
     margin-right: 10px !important;
     content: counter(item) !important;
     background: #2439bb !important;
