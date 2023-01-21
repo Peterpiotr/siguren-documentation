@@ -8,7 +8,21 @@ Load recovery operation
 .. note::
     Based on :download:`Using the MS Recovery Capabilities <../archives/using-the-ms-recovery-capabilities-02.docx>`
 
+.. container:: twocol
 
+    .. container:: leftside
+
+        text on left column
+
+		.. figure:: img/stepLowering.png
+		:scale: 75 %
+		:align: center
+
+    .. container:: rightside
+
+        text on right column
+
+		
 
 The MS will never allow a load drop. It will arrest the hoist drum whenever the hoist brake is unable to do so. 
 However, the MS can be used as a gearbox to lower and even raise the load. 
@@ -48,6 +62,7 @@ Instructions
 .. csv-table:: Forced MS Recovery method max torques
    :file: tables/forcedRecoveryTorque.csv
    :header-rows: 1
+   :class: tight-table
 
 .. important::
 	Indicative barrel speed: 0.1 - 0.3 rpm
