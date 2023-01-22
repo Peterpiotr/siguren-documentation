@@ -33,12 +33,12 @@ ol.blue-list {
 }
 
 ol.blue-list li {
-    /*counter-increment: item !important;*/
+    counter-increment: item !important;
     margin-bottom: 5px !important;
 }
   
 ol.blue-list li:before {
-    margin-right: 10px !important;
+    margin-right: 2em !important;
     content: counter(item) !important;
     background: #2439bb !important;
     border-radius: 100% !important;
@@ -46,7 +46,6 @@ ol.blue-list li:before {
     position:absolute !important;
     width: 1.2em !important;
     height: 1.2em !important;
-    left: 2em !important;;
     text-align: center !important;
     display: inline-block !important;
 }
