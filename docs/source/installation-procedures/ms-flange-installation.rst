@@ -9,11 +9,14 @@ Flange installation
 Drum – MS assembly
 ===================
 
+.. |image0xx| image:: img/mounting-procedure-01.jpg
+
 .. csv-table:: test table
    :file: tables/flange-installation.csv
    :delim: ;
    :header-rows: 0
-   :widths: 20, 80
+   :widths: 10, 90
+   :width: 100 %
    :class: tight-table
    :align: center
 
