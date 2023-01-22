@@ -33,7 +33,7 @@ Installation guidelines
 
 	General view
 
-Lorem ipsum
+
 
 .. _Flange assembly:
 .. figure:: img/installation-on-existing-hoist-02.jpg
@@ -42,8 +42,7 @@ Lorem ipsum
 
 	Flange assembly
 
-Lorem ipsum
-Lorem ipsum
+
 
 .. _Seat assembly:
 .. figure:: img/installation-on-existing-hoist-03.jpg
@@ -52,10 +51,7 @@ Lorem ipsum
 
 	Seat assembly
 
-5. Lorem ipsum
-   Lorem ipsum
-   Lorem ipsum
-6. Fluctua nec mergitur
+
 
 .. _Side view:
 .. figure:: img/installation-on-existing-hoist-04.jpg

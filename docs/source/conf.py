@@ -106,6 +106,6 @@ html_css_files = [
     ('print.css', {'media': 'print'}) # modifies pdf output?? 
 ]
 
-#latex_elements = {
-#    'figure_align':'h',
-#}
+latex_elements = {
+    'figure_align':'ht',
+}
