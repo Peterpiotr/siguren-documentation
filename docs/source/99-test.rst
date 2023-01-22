@@ -15,11 +15,10 @@ Go wild
 .. |image0xx| image:: installation/img/mounting-procedure-01.jpg
 				:width: 75 %
 
-
 .. list-table:: 
    :widths: 5 95
    :header-rows: 1
-   :class: instruction-table
+   
   
    * - Step
      - Description
@@ -27,7 +26,10 @@ Go wild
      - Remove plug (1)
    * - **2**
      - | **Rotate the release mode dial to E (self-timer mode).**
-       | |image0xx|
+       | .. figure:: installation/img/installation-on-existing-hoist-01.jpg
+       |   :scale: 75 %
+       |   :align: center
+       |   :class: with-border
        | more blabla
        | and again	
    * - **3**
