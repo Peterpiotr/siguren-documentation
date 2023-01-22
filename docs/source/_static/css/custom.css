@@ -6,6 +6,10 @@
     border:1px solid black !important;
 }
 
+.instruction-table>img {
+    border:1px solid black !important;
+}
+
 :root {
     --mainNavColor: #2439bb !important;
 }
