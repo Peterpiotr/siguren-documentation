@@ -15,7 +15,7 @@ If the flat sides are not parallel, the *easiest way* is to rotate the barrel.
 
 If you cannot rotate the barrel, do the following:
 
-.. rst-class:: blue-list
+... rst-class:: blue-list
 1. Remove this plug.
 2. Put the allen key S12 in the hole. Minimum length of 150 mm
 3. Rotate the worm with the allen key in the ANTICLOCKWISE direction.
@@ -31,7 +31,7 @@ If you cannot rotate the barrel, do the following:
     If you rotate the worm in CLOCKWISE direction there is a possibility of blocking the MS. 
     If this happens, please consult :doc:`Unblocking the MotoSuiveur Unit <../troubleshooting/unblocking-ms>`
 
-.. rst-class:: blue-list
+... rst-class:: blue-list
 4. Assemble the MS to the drum and secure it with the bolts M16. 
 
 .. _Securing with bolts:
