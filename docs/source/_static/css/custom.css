@@ -27,11 +27,12 @@
     margin:auto 2px;
 }
 
+/*
 ol.blue-list {
     list-style: none !important;
     /*counter-reset: item !important;*/
-}
-
+/*}
+/*
 ol.blue-list li {
     counter-increment: item !important;
     margin-bottom: 5px !important;
