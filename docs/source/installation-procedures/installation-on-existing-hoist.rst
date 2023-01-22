@@ -28,15 +28,15 @@ Installation guidelines
 
 .. _General view:
 .. image:: img/installation-on-existing-hoist-01.jpg
-	:scale: 75%
+	:scale: 75 %
 	:align: center
 
 	General view
 
 
 .. _Flange assembly:
-.. image:: img/installation-on-existing-hoist-02.jpg
-	:scale: 75%
+.. figure:: img/installation-on-existing-hoist-02.jpg
+	:scale: 75 %
 	:align: center
 
 	Flange assembly
@@ -44,8 +44,8 @@ Installation guidelines
 
 
 .. _Seat assembly:
-.. image:: img/installation-on-existing-hoist-03.jpg
-	:scale: 75%
+.. figure:: img/installation-on-existing-hoist-03.jpg
+	:scale: 75 %
 	:align: center
 
 	Seat assembly
@@ -53,16 +53,16 @@ Installation guidelines
 
 
 .. _Side view:
-.. image:: img/installation-on-existing-hoist-04.jpg
-	:scale: 75%
+.. figure:: img/installation-on-existing-hoist-04.jpg
+	:scale: 75 %
 	:align: center
 
 	Side view
 
 
 .. _Cut view:
-.. image:: img/installation-on-existing-hoist-05.jpg
-	:scale: 75%
+.. figure:: img/installation-on-existing-hoist-05.jpg
+	:scale: 75 %
 	:align: center
 
 	Cut view
