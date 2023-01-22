@@ -18,7 +18,7 @@ Go wild
 .. list-table:: 
    :widths: 5 95
    :header-rows: 1
-   
+   :class: instruction-table
   
    * - Step
      - Description
@@ -26,10 +26,7 @@ Go wild
      - Remove plug (1)
    * - **2**
      - | **Rotate the release mode dial to E (self-timer mode).**
-       | .. figure:: installation/img/installation-on-existing-hoist-01.jpg
-       |   :scale: 75 %
-       |   :align: center
-       |   :class: with-border
+       | |image0xx|
        | more blabla
        | and again	
    * - **3**
