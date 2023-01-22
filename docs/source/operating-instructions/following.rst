@@ -9,8 +9,8 @@ The function of this operation mode is intended for follow movements of the hois
 for exceeding the :term:`rated speed` with defined positive tolerance. 
 
 The speed, which is considered high is called :term:`overspeed`. 
-
-.. important::
+         
+.. important::             
     By design MS **will not allow** overspeed. 
 
 Following operation mode principle

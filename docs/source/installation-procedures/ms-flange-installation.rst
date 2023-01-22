@@ -13,7 +13,7 @@ Drum – MS assembly
 				:width: 75 %
 
 .. list-table:: Electrical connections of MS unit
-   :widths: 25 75
+   :widths: 5 95
    :header-rows: 1
 
    * - №
@@ -24,9 +24,13 @@ Drum – MS assembly
      - | blabla
        | |image0xx|
        | more blabla
-       | and again"	
+       | and again	
    * - 3
-     - C6 – Power connector
+     - | tsoin tsoin
+       | .. note::
+	   |	kafkaesque
+	   |
+	   | stop. drop.
    * - 4
      - C7 – Resolver connector
 
