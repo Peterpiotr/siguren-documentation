@@ -107,5 +107,5 @@ html_css_files = [
 ]
 
 latex_elements = {
-    'figure_align':'H',
+    'figure_align':'h',
 }
