@@ -15,6 +15,7 @@ Equipment overview
 
 Learn more about MotoSuiveur Solutions components.
 
+
 * **MotoSuiveur Solutions components**:
   :doc:`/equipment/ms-unit` |
   :doc:`/equipment/control-cabinet` |
@@ -105,8 +106,8 @@ Troubleshooting
    /troubleshooting/ms-worm-removal
 
 
-:doc:`Maintenance </planned-maintenance>`
-==========================================
+Maintenance
+=============
 
 * **Planned maintenance**:
   :doc:`/planned-maintenance` |
@@ -118,9 +119,9 @@ Troubleshooting
   :hidden:
   :caption: Maintenance
 
-  /maintenance/maintenance-intervals
-  /maintenance/servicing
+  /maintenance/maintenance-schedule
   /maintenance/spare-parts
+  /maintenance/servicing
 
 
 MotoSuiveur Solutions

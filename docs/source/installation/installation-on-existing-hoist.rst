@@ -30,6 +30,7 @@ Installation guidelines
 .. image:: img/installation-on-existing-hoist-01.jpg
 	:scale: 75 %
 	:align: center
+	:class: bordered-img
 
 	General view
 

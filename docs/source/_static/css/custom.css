@@ -2,6 +2,9 @@
     white-space:normal !important;
 }
 
+.bordered-img {
+    border:1px solid black !important;
+}
 
 :root {
     --mainNavColor: #2439bb !important;
