@@ -16,10 +16,9 @@ If the flat sides are not parallel, the *easiest way* is to rotate the barrel.
 If you cannot rotate the barrel, do the following:
 
 .. rst-class:: blue-list
-
-1. Remove this plug.
-2. Put the allen key S12 in the hole. Minimum length of 150 mm
-3. Rotate the worm with the allen key in the ANTICLOCKWISE direction.
+	1. Remove this plug.
+	2. Put the allen key S12 in the hole. Minimum length of 150 mm
+	3. Rotate the worm with the allen key in the ANTICLOCKWISE direction.
 
 .. _Drum to MS:
 .. figure:: img/mounting-procedure-01.jpg
