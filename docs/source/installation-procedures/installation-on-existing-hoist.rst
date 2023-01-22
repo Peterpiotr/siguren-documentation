@@ -45,7 +45,6 @@ Lorem ipsum
 Lorem ipsum
 Lorem ipsum
 
-
 .. _Seat assembly:
 .. figure:: img/installation-on-existing-hoist-03.jpg
 	:scale: 75 %
