@@ -27,9 +27,7 @@ Drum – MS assembly
        | and again	
    * - 3
      - | tsoin tsoin
-       | .. note::
-	   |	kafkaesque
-	   |
+       | .. note:: kafkaesque	
 	   | stop. drop.
    * - 4
      - C7 – Resolver connector
