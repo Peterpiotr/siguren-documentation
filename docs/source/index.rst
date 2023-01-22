@@ -105,8 +105,8 @@ Troubleshooting
    /troubleshooting/ms-worm-removal
 
 
-Maintenance
-============
+:doc:`Maintenance </planned-maintenance>`
+==========================================
 
 * **Planned maintenance**:
   :doc:`/planned-maintenance` |
