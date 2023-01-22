@@ -12,21 +12,28 @@ Drum – MS assembly
 .. |image0xx| image:: img/mounting-procedure-01.jpg
 				:width: 75 %
 
-.. csv-table:: test table
-   :file: tables/flange-installation.csv
-   :delim: ;
-   :header-rows: 0
-   :widths: 10, 90
-   :width: 100 %
-   :class: tight-table
-   :align: center
+.. list-table:: Electrical connections of MS unit
+   :widths: 25 75
+   :header-rows: 1
 
+   * - №
+     - Description
+   * - 1
+     - Remove this plug
+   * - 2
+     - | blabla
+       | |image0xx|
+       | more blabla
+       | and again"	
+   * - 3
+     - C6 – Power connector
+   * - 4
+     - C7 – Resolver connector
 
-| Lend us a couple of bob till Thursday.
-| I'm absolutely skint.
-| But I'm expecting a postal order and I can pay you back
-  as soon as it comes.
-| Love, Ewan. 
+1;
+2;"
+3;
+4;dd
 
 If the flat sides are not parallel, the *easiest way* is to rotate the barrel.
 
