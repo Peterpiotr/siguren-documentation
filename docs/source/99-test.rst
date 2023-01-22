@@ -5,13 +5,16 @@ test page
 Go wild
 ==========
 
-.. |image0xx| image:: installation-procedures/img/mounting-procedure-01.jpg
+.. |image0xx| figure:: installation/img/mounting-procedure-01.jpg
 				:width: 75 %
+        :class: with-border
 
 .. list-table:: 
    :widths: 5 95
-   :header-rows: 0
-
+   :header-rows: 1
+  
+   * - Step
+     - Description
    * - **1**
      - Remove plug (1)
    * - **2**
