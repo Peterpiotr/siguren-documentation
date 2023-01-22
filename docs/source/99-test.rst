@@ -5,7 +5,7 @@ test page
 Go wild
 ==========
 
-.. |image0xx| figure:: installation/img/mounting-procedure-01.jpg
+.. |image0xx| image:: installation/img/mounting-procedure-01.jpg
 				:width: 75 %
         :class: with-border
 
