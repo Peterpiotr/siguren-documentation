@@ -43,7 +43,9 @@ ol.blue-list li:before {
     background: #2439bb !important;
     border-radius: 100% !important;
     color: white !important;
+    position:absolute !important;
     width: 1.2em !important;
+    height: 1.2em !important;
     text-align: center !important;
     display: inline-block !important;
 }
