@@ -9,9 +9,16 @@ Flange installation
 Drum – MS assembly
 ===================
 
+.. csv-table:: test table
+   :file: tables/flange-installation.csv
+   :delim: ;
+   :header-rows: 0
+   :widths: 20, 80
+   :class: tight-table
+   :align: center
+
+
 If the flat sides are not parallel, the *easiest way* is to rotate the barrel.
-
-
 
 If you cannot rotate the barrel, do the following:
 
@@ -20,12 +27,12 @@ If you cannot rotate the barrel, do the following:
 2. Put the allen key S12 in the hole. Minimum length of 150 mm
 3. Rotate the worm with the allen key in the ANTICLOCKWISE direction.
 
-.. _Drum to MS:
-.. figure:: img/mounting-procedure-01.jpg
-	:width: 75 %
-	:align: center
-
-	Drum to MS assembly
+.. 	.. _Drum to MS:
+.. 	.. figure:: img/mounting-procedure-01.jpg
+.. 		:width: 75 %
+.. 		:align: center
+.. 	
+.. 		Drum to MS assembly
 
 .. warning::
     If you rotate the worm in CLOCKWISE direction there is a possibility of blocking the MS. 
