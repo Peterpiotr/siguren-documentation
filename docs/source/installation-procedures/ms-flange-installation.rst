@@ -12,30 +12,28 @@ Drum – MS assembly
 .. |image0xx| image:: img/mounting-procedure-01.jpg
 				:width: 75 %
 
-.. list-table:: Electrical connections of MS unit
+.. list-table:: 
    :widths: 5 95
-   :header-rows: 1
+   :header-rows: 0
 
-   * - №
-     - Description
-   * - 1
-     - Remove this plug
-   * - 2
-     - | blabla
+   * - **1**
+     - Remove plug (1)
+   * - **2**
+     - | **Rotate the release mode dial to E (self-timer mode).**
        | |image0xx|
        | more blabla
        | and again	
-   * - 3
-     - | tsoin tsoin
-       | .. note:: kafkaesque	
-	   | stop. drop.
-   * - 4
+   * - **3**
+     - | **Frame the photograph and focus.**
+       | |image0xx|
+       | stop. 	
+	   | drop.
+   * - **4**
      - C7 – Resolver connector
 
-1;
-2;"
-3;
-4;dd
+
+.. note:: 
+	kafkaesque!
 
 If the flat sides are not parallel, the *easiest way* is to rotate the barrel.
 
