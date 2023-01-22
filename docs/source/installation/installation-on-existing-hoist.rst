@@ -36,9 +36,10 @@ Installation guidelines
 
 
 .. _Flange assembly:
-.. figure:: img/installation-on-existing-hoist-02.jpg
+.. image:: img/installation-on-existing-hoist-02.jpg
 	:scale: 75 %
 	:align: center
+	:class: with-border
 
 	Flange assembly
 
