@@ -60,12 +60,7 @@ Installation guidelines
 	Side view
 
 
-.. _Cut view:
-.. figure:: img/installation-on-existing-hoist-05.jpg
-	:scale: 75 %
-	:align: left
 
-	Cut view
 
 
 Mechanical advantages of the new assembly
