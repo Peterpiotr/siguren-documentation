@@ -22,6 +22,12 @@ Drum – MS assembly
    :align: center
 
 
+| Lend us a couple of bob till Thursday.
+| I'm absolutely skint.
+| But I'm expecting a postal order and I can pay you back
+  as soon as it comes.
+| Love, Ewan. 
+
 If the flat sides are not parallel, the *easiest way* is to rotate the barrel.
 
 If you cannot rotate the barrel, do the following:
