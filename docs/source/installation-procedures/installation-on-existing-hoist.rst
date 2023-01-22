@@ -28,37 +28,47 @@ Installation guidelines
 
 .. _General view:
 .. figure:: img/installation-on-existing-hoist-01.jpg
-	:scale: 100 %
-	:align: center
+	:scale: 75 %
+	:align: left
 
 	General view
 
+Lorem ipsum
 
 .. _Flange assembly:
 .. figure:: img/installation-on-existing-hoist-02.jpg
-	:scale: 100 %
-	:align: center
+	:scale: 75 %
+	:align: left
 
 	Flange assembly
 
+Lorem ipsum
+Lorem ipsum
+
+
 .. _Seat assembly:
 .. figure:: img/installation-on-existing-hoist-03.jpg
-	:scale: 100 %
-	:align: center
+	:scale: 75 %
+	:align: left
 
 	Seat assembly
 
+5. Lorem ipsum
+   Lorem ipsum
+   Lorem ipsum
+6. Fluctua nec mergitur
+
 .. _Side view:
 .. figure:: img/installation-on-existing-hoist-04.jpg
-	:scale: 100 %
-	:align: center
+	:scale: 75 %
+	:align: left
 
 	Side view
 
 .. _Cut view:
 .. figure:: img/installation-on-existing-hoist-05.jpg
-	:scale: 100 %
-	:align: center
+	:scale: 75 %
+	:align: left
 
 	Cut view
 
