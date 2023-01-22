@@ -15,6 +15,7 @@ Drum – MS assembly
 .. list-table:: 
    :widths: 5 95
    :header-rows: 0
+   :class: instruction-table
 
    * - **1**
      - Remove plug (1)
