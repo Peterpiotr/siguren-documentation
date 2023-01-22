@@ -27,10 +27,10 @@ Installation guidelines
 5. Assemble the flanged MS to the side flange of the barrel. The washers create a gap which allows the MS to be strictly aligned with the barrel (shaft) axis. The MS wheel and flange are fitted to the existing barrel shaft so the MS is strictly concentric to the barrel.
 
 .. _General view:
-.. image:: img/installation-on-existing-hoist-01.jpg
+.. figure:: img/installation-on-existing-hoist-01.jpg
 	:scale: 75 %
 	:align: center
-	:class: bordered-img
+	:class: with-border
 
 	General view
 
