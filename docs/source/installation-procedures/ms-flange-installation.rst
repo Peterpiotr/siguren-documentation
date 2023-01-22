@@ -10,7 +10,7 @@ Drum – MS assembly
 ===================
 
 .. |image0xx| image:: img/mounting-procedure-01.jpg
-				:width: 50 %
+				:width: 75 %
 
 .. csv-table:: test table
    :file: tables/flange-installation.csv
