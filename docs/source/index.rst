@@ -10,29 +10,35 @@ and instantly default to a safe arrested state when hoisting is disrupted.
    This documentation is under active development.
 
 
-User documentation
+Equipment overview
 ===================
 
-Learn more about your hoisting safety solution design, operation and capabiliites.
+Learn more about MotoSuiveur Solutions components.
 
 * **MotoSuiveur Solutions components**:
-  :doc:`/ms-unit` |
-  :doc:`/control-cabinet` |
-  :doc:`/operation-modes` |
+  :doc:`/equipment/ms-unit` |
+  :doc:`/equipment/control-cabinet` |
+
+* **User interfaces**:
+  :doc:`/equipment/control-panel` |
+  :doc:`/equipment/gui-hmi` |
 
 * **MotoSuiveur Add-ons**:
-  :doc:`/tl-addon` |
-  :doc:`/rec-addons` |
-  :doc:`/recovery-capabilities`
+  :doc:`/equipment/tl-addon` |
+  :doc:`/equipment/rec-addons` |
 
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: User documentation
+   :caption: Equipment overview
 
-   technical-overview/index
-   operating-instructions/index
-   troubleshooting/index
+   /equipment/ms-unit
+   /equipment/control-cabinet
+   /equipment/control-panel
+   /equipment/ms-hmi
+   /equipment/ms-controller
+   /equipment/tl-addon
+   /equipment/rec-addons
 
 Installation
 =============
@@ -47,13 +53,56 @@ Learn more about the process of integrating a MotoSuiveur Solution into an exist
   :doc:`Installing multiple MotoSuiveur Units </multiple-ms>`
 
 .. toctree::
-  :maxdepth: 1
+  :maxdepth: 2
   :hidden:
   :caption: Installation
 
-  new-hoist
-  retrofitting
-  installation-procedures/index
+  /installation/installation-on-existing-hoist
+  /installation/ms-flange-installation
+  /installation/ms-seat-installation
+  /installation/ms-positioning
+  /installation/connect-ms-control-cabinet
+  /installation/multiple-ms
+
+
+Operation
+===========
+
+* **Interfaces with the hoisting mechanism and controls**:
+  :doc:`/mechanical-interface` |
+  :doc:`/electrical-interface`
+
+* **Installation cases**:
+  :doc:`Installing multiple MotoSuiveur Units </multiple-ms>`
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Operation
+
+   /operation/operation-modes
+   /operation/controller-internal-check
+   /operation/self-test
+   /operation/following
+   /operation/load-arrest
+   /operation/re-engaging
+   /operation/backup-recovery-mode
+   /operation/recovery-operation
+
+Troubleshooting
+================
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Operation
+
+   /troubleshooting/controller-errors
+   /troubleshooting/gui-guided-troubleshooting
+   /troubleshooting/unblocking-ms
+   /troubleshooting/controls-check
+   /troubleshooting/mounting-portable-recovery
+   /troubleshooting/ms-worm-removal
 
 
 Maintenance
@@ -69,23 +118,26 @@ Maintenance
   :hidden:
   :caption: Maintenance
 
-  planned-maintenance
-  servicing
-  spare-parts
+  /maintenance/maintenance-intervals
+  /maintenance/servicing
+  /maintenance/spare-parts
 
 
 MotoSuiveur Solutions
 =======================
 
-Understand the main features and underlying design principles behind MotoSuiveur Solutions.
-Learn about risk reduction analysis.<span style="font-size: 2rem;" class="md-icon">&#xe869;</span>
+| Understand the main features and underlying design principles behind MotoSuiveur Solutions.
+| Learn about risk reduction analysis.
 
 .. toctree::
    :maxdepth: 2
    :hidden:
    :caption: About MotoSuiveur Solutions
 
-   features
-   ms-tech-overview
-   risk-reduction
+   /about/features
+   /about/ms-tech-overview
+   /about/risk-reduction
    99-test
+   faq
+   glossary
+   external-links
