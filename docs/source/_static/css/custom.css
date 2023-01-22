@@ -27,17 +27,17 @@
     margin:auto 2px;
 }
 
-.blue-list ol {
+ol.blue-list {
     list-style: none !important;
     /*counter-reset: item !important;*/
 }
 
-.blue-list ol li {
+ol.blue-list li {
     counter-increment: item !important;
     margin-bottom: 5px !important;
 }
   
-.blue-list ol li:before {
+ol.blue-list li:before {
     margin-right: 10px !important;
     content: counter(item) !important;
     background: #2439bb !important;
