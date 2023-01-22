@@ -9,33 +9,6 @@ Flange installation
 Drum – MS assembly
 ===================
 
-.. |image0xx| image:: img/mounting-procedure-01.jpg
-				:width: 75 %
-
-.. list-table:: 
-   :widths: 5 95
-   :header-rows: 0
-   :class: instruction-table
-
-   * - **1**
-     - Remove plug (1)
-   * - **2**
-     - | **Rotate the release mode dial to E (self-timer mode).**
-       | |image0xx|
-       | more blabla
-       | and again	
-   * - **3**
-     - | **Frame the photograph and focus.**
-       | |image0xx|
-       | stop. 	
-	   | drop.
-   * - **4**
-     - C7 – Resolver connector
-
-
-.. note:: 
-	kafkaesque!
-
 If the flat sides are not parallel, the *easiest way* is to rotate the barrel.
 
 If you cannot rotate the barrel, do the following:
