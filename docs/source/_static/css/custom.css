@@ -2,6 +2,11 @@
     white-space:normal !important;
 }
 
+table.align-center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
 /*
 .with-border img {
     border:1px solid black !important;
