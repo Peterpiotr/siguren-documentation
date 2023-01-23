@@ -83,13 +83,13 @@ Operation
 
   /operation/operation-modes
   /operation/system-reset
-  .. /operation/controller-internal-check
-  .. /operation/self-test
-  .. /operation/following
-  .. /operation/load-arrest
-  .. /operation/re-engaging
-  .. /operation/backup-recovery-mode
   /operation/recovery-operation
+  /operation/controller-internal-check
+  /operation/self-test
+  /operation/following
+  /operation/load-arrest
+  /operation/re-engaging
+  /operation/backup-recovery-mode
 
 Troubleshooting
 ================
