@@ -7,9 +7,11 @@ Load recovery operation
 .. role:: mechpart
    :class: mechpart
 
+Using the MS recovery capabilities
+===================================
+
 .. note::
     Based on :download:`Using the MS Recovery Capabilities <../archives/using-the-ms-recovery-capabilities-02.docx>`
-
 
 .. list-table:: List tables can have captions like this one.
     :widths: 10 5 10 50
@@ -51,7 +53,7 @@ and the MotoSuiveur Unit can be accessed and used in the emergency situation tha
 
 
 Forced MS recovery
-===================
+-------------------
 
 With the hoist brake open and the MotoSuiveur Unit holding the load, rotate the MS :mechpart:`worm shaft` with considerable torque. 
 In this situation the MotoSuiveur Unit moves the load.
@@ -65,7 +67,7 @@ Using the following hardware:
 For MS with :doc:`Integrated Remote Recovery` the hardware is integrated and is remotely operated.
 
 Instructions
--------------
+^^^^^^^^^^^^^^
 
 -	Open the hoist brake
 -	Rotate the :mechpart:`worm shaft` with the following torque to lower the SWL (maximum values)
@@ -80,10 +82,10 @@ Instructions
 
 
 MS followed gravity lowering
-=============================
+-------------------------------
 
 Step lowering
---------------
+^^^^^^^^^^^^^^^^
 
 .. note::
 	This method can be used only with Hydraulic Damping MS.
@@ -121,7 +123,7 @@ Instructions
 
 
 Backup Mode gravity lowering
-------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - Switch the MS to :doc:`backup-recovery-mode`,
 - Order lowering. 
@@ -157,7 +159,7 @@ Instructions
 
 
 MS assisted gravity lowering
-=============================
+--------------------------------
 
 - Apply moderate torque to the MS :mechpart:`worm shaft`. 
 - Progressively release the motor brake, using the provided Brake Release Tool, until the load starts to rotate the barrel. 
@@ -170,7 +172,7 @@ Using the following hardware:
 - Handwheel / crank handle or standard ratchet handle for sizes MS0 – MS3
 
 Instructions
-+++++++++++++
+^^^^^^^^^^^^^^
 
 .. _MS assisted gravity lowering picture: 
 .. figure:: img/MSassistedGravityLowering.png
@@ -189,3 +191,22 @@ Instructions
    :header-rows: 1
    :class: tight-table
 
+
+Recovery Procedure
+=======================
+
+.. note::
+	Source is :doc:`49104-15-001 Operation  Maintenance Manual Issue D (1).pdf`
+
+The MotoSuiveur unit is a proprietary system for protection of the main hoist load from over-speed and
+load path failures, and for recovery of the load in the event of a failure. The MotoSuiveur unit is supplied
+with a proprietary control panel from the equipment manufacturers. The crane hardwired controls are
+interfaced to this panel to control the MotoSuiveur in normal operation.
+
+A separate operator panel, the MS remote panel, is provided, located adjacent the crane operator panel,
+which houses the MotoSuiveur recovery controls and MotoSuiveur HMI. In the event of a protection
+system trip, caused by main hoist over-height or main hoist over-load, the crane operator will require the
+use of the recovery procedure.
+
+Prior to any recovery operations commencing, the cause of the fault should be identified. The following
+procedure below explains the recovery procedure process.
