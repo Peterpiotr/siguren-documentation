@@ -51,6 +51,7 @@ The Motosuiveur® control system uses a touchscreen attached to the logics contr
 	Main Screen Components
 
 .. list-table:: Main Screen Components
+  :width: 600 px
   :widths: 5 25 70
   :header-rows: 1
   
@@ -88,6 +89,7 @@ The Motosuiveur® control system uses a touchscreen attached to the logics contr
 
 
 .. list-table:: Warning Table
+  :width: 600 px
   :widths: 5 25 70
   :header-rows: 1
 
@@ -133,6 +135,7 @@ The Motosuiveur® control system uses a touchscreen attached to the logics contr
 
 
 .. list-table:: Status Table
+  :width: 600 px
   :widths: 5 25 70
   :header-rows: 1
 
@@ -171,6 +174,7 @@ The Motosuiveur® control system uses a touchscreen attached to the logics contr
     - 
 
 .. list-table:: Arrow Colour
+  :width: 600 px
   :widths: 25 75
   :header-rows: 1
 
@@ -194,6 +198,7 @@ The Motosuiveur® control system uses a touchscreen attached to the logics contr
     - Impossible
 
 .. list-table:: Fault Table
+  :width: 600 px
   :widths: 5 25 70
   :header-rows: 1
 
@@ -258,6 +263,7 @@ The fault screen shows status of fault once :guilabel:`‘Info’ button` has be
 	Fault Screen Components
 
 .. list-table:: Fault Screen Components
+  :width: 600 px
   :widths: 5 25 70
   :header-rows: 1
 
@@ -294,6 +300,7 @@ Communication Failure Screen
 	Communication Failure Screen
 
 .. list-table:: Communication Failure Screen Components
+  :width: 600 px
   :widths: 5 25 70
   :header-rows: 1
 
@@ -317,6 +324,7 @@ Menu Screen
 	Menu Screen Components
 
 .. list-table:: Menu Screen Components
+  :width: 600 px
   :widths: 5 25 70
   :header-rows: 1
 
@@ -363,6 +371,7 @@ Language Selection Screen
 	Language Selection Screen Components
 
 .. list-table:: Language Selection Screen Components
+  :width: 600 px
   :widths: 5 25 70
   :header-rows: 1
 
@@ -391,6 +400,7 @@ Event Records Screen
 	Event Records Screen Components
 
 .. list-table:: Event Records Screen Components
+  :width: 600 px
   :widths: 5 25 70
   :header-rows: 1
 
@@ -428,6 +438,7 @@ MS1 Parameters Screen
 	MS1 Parameters Screen Components
 
 .. list-table:: MS1 Parameters Screen Components
+  :width: 600 px
   :widths: 5 25 70
   :header-rows: 1
 
@@ -471,6 +482,7 @@ MS1 VR Parameters Screen
 	MS1 VR Parameters Screen Components
 
 .. list-table:: MS1 VR Parameters Screen Components
+  :width: 600 px
   :widths: 5 25 70
   :header-rows: 1
 
@@ -499,6 +511,7 @@ Maintenance Screen
 	Maintenance Screen Components
 
 .. list-table:: Maintenance Screen Components
+  :width: 600 px
   :widths: 5 25 70
   :header-rows: 1
 
@@ -540,6 +553,7 @@ Version Screen
 	Version Screen Components
 
 .. list-table:: Version Screen Components
+  :width: 600 px
   :widths: 5 25 70
   :header-rows: 1
 
