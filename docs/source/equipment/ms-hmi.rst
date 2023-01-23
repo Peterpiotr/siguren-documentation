@@ -253,8 +253,7 @@ The fault screen shows status of fault once :guilabel:`‘Info’ button` has be
 
 .. _Fault Screen Components:
 .. figure:: img/ms-hmi-03.png
-	:scale: 100 %
-	:align: center
+	:figwidth: 400 px
 
 	Fault Screen Components
 
@@ -290,8 +289,7 @@ Communication Failure Screen
 
 .. _Communication Failure Screen:
 .. figure:: img/ms-hmi-04.png
-	:scale: 100 %
-	:align: center
+	:figwidth: 400 px
 
 	Communication Failure Screen
 
@@ -314,8 +312,7 @@ Menu Screen
 
 .. _Menu Screen Components:
 .. figure:: img/ms-hmi-05.png
-	:scale: 100 %
-	:align: center
+	:figwidth: 400 px
 
 	Menu Screen Components
 
@@ -361,8 +358,7 @@ Language Selection Screen
 
 .. _Language Selection Screen Components:
 .. figure:: img/ms-hmi-06.png
-	:scale: 100 %
-	:align: center
+	:figwidth: 400 px
 
 	Language Selection Screen Components
 
@@ -390,8 +386,7 @@ Event Records Screen
 
 .. _Event Records Screen Components:
 .. figure:: img/ms-hmi-07.png
-	:scale: 100 %
-	:align: center
+	:figwidth: 400 px
 
 	Event Records Screen Components
 
@@ -428,8 +423,7 @@ MS1 Parameters Screen
 
 .. _MS1 Parameters Screen Components:
 .. figure:: img/ms-hmi-08.png
-	:scale: 100 %
-	:align: center
+	:figwidth: 400 px
 
 	MS1 Parameters Screen Components
 
@@ -472,8 +466,7 @@ MS1 VR Parameters Screen
 
 .. _MS1 VR Parameters Screen Components:
 .. figure:: img/ms-hmi-09.png
-	:scale: 100 %
-	:align: center
+	:figwidth: 400 px
 
 	MS1 VR Parameters Screen Components
 
@@ -501,8 +494,7 @@ Maintenance Screen
 
 .. _Maintenance Screen Components:
 .. figure:: img/ms-hmi-10.png
-	:scale: 100 %
-	:align: center
+	:figwidth: 400 px
 
 	Maintenance Screen Components
 
@@ -543,8 +535,7 @@ Version Screen
 
 .. _Version Screen Components:
 .. figure:: img/ms-hmi-11.png
-	:scale: 100 %
-	:align: center
+	:figwidth: 400 px
 
 	Version Screen Components
 
