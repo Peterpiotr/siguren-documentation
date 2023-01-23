@@ -41,7 +41,6 @@ Go wild
 .. note:: 
 	kafkaesque!
 
-From chatGPT:
 
 .. list-table::
   :widths: 30 10 30
