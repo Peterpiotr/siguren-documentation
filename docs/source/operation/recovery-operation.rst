@@ -210,3 +210,54 @@ use of the recovery procedure.
 
 Prior to any recovery operations commencing, the cause of the fault should be identified. The following
 procedure below explains the recovery procedure process.
+
+.. list-table:: 
+   :widths: 5 95
+   :header-rows: 1
+   :class: instruction-table
+  
+   * - Step
+     - Description
+   * - **1**
+     - **Isolate the MotoSuiveur Panel using the isolator.**
+   * - **2**
+     - **Plug the 230v recovery plug into the front of the left hand door.**
+   * - **3**
+     - **Using the isolator enable the 230v on the panel.**
+   * - **4**
+     - **Wait for the HMI to fully complete its start-up procedure.**
+   * - **5**
+     - **Depress the blue :guilabel:`Recovery Reset Button` to reset the recovery VSD.**
+   * - **6**
+     - | **Switch on the recovery mode to start the recovery nut engagement process.** 
+       | The engagement will cycle the recovery motor forward approx. 10s then reverse approx. 1 s. 
+       | This will cycle until the engagement is completed.
+   * - **7**
+     - On completion of the engagement process the :guilabel:`🟢 Recovery Nut Engage Lamp` will be illuminated.
+   * - **8**
+     - | **Open the hoist brake to lower the load.** 
+       | If the weight of the load is insufficient to make the hoist lower by gravity then the pushing down function must be used.
+   * - **9**
+     - **Using the recovery direction switch make a small (5 second) movement in the raise direction to ensure the teeth of the recovery nut is fully engaged.**
+   * - **10**
+     - | **Complete a recovery lower movement to lower the load and maintain the switch in the lower position until the :guilabel:`Inner Switch Lamp` has switched off.** 
+       | MS Worm Screw has moved into the normal position.
+   * - **11**
+     - | **Complete a recovery raise movement to disengage the recovery nut.** 
+       | Indicated by the changing state of the :guilabel:`Recovery Nut Engaged Lamp` to **NOT** illuminated.
+   * - **12**
+     - | **Once the nut is disengaged the :guilabel:`Recovery Raised Switch` can be released to the central position.** 
+       | The recovery drive will begin to run on the release of the switch to the central position. This is normal.
+   * - **13**
+     - **Switch the recovery mode to the Off position using the :guilabel:`switch`.** 
+   * - **14**
+     - **Switch the isolator to the central Off position and wait for 2 minutes.** 
+   * - **15**
+     - **Remove the 230v recovery plug from the front of the panel door.** 
+   * - **16**
+     - **Using the isolator move this into the normal positon by applying 400v to the panel.**
+   * - **17**
+     - As soon as the panel is energised the drive will initiate a self-test and start the HMI software. 
+   * - **18**
+     - The self-test will complete and the :guilabel:`🟢 Enable Lamp` will be illuminated.
+
