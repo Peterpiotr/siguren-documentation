@@ -90,6 +90,8 @@ Operation
   /operation/load-arrest
   /operation/re-engaging
   /operation/backup-recovery-mode
+  /operation/backup-procedure
+  /operation/memory-card
 
 Troubleshooting
 ================

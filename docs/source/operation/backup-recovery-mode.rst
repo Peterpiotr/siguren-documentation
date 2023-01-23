@@ -36,6 +36,8 @@ In Backup operating mode, control is performed through commands for lifting and 
 In cases where the hoist control chain is damaged, control can be performed manually directly on control terminals 
 located in MS :doc:`control cabinet` via a wire bridge. 
 
+See also and merge : :doc:`backup-procedure`
+
 An example is shown on :numref:`Example for manual operation in backup mode`. 
 
 .. important::

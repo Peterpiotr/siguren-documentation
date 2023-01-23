@@ -37,4 +37,5 @@
 .. |image057| image:: ../img/7-segment/image057-rs.png
 .. |image058| image:: ../img/7-segment/image058-rs.png
 .. |image059| image:: ../img/7-segment/image059-rs.png
+.. |image060| image:: ../img/7-segment/image060-rs.png
 .. =========================================================================
