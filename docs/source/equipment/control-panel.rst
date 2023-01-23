@@ -9,20 +9,29 @@ Control panel
 
 
 (Front) panel layout
-===================
+======================
 
 .. note::
 	Source is :doc:`49104-15-001 Operation  Maintenance Manual Issue D (1).pdf`
 
 The Front Panel is the main source for power and recovery functions.
 
+The operator has the facility to use the controls on the HMI and the controls on the Recovery and Main Supply Panel as shown on below.
+
 .. _Control panel layout SCX:
 .. figure:: img/control-panel-03.png
 	:align: center
+	:width: 10 em
 
 	Control panel layout SCX
 
+The panel allows the operator to do the following:
 
+- :doc:`Reset the system <system-reset.rst>`
+- Utilise the :doc:`recovery functions <recovery-operation.rst>`
+- Utilise the :doc:`Backup system <backup-recovery-mode.rst>`
+- Monitor the status of the Motosuiveurs supply, health, switch, temperature and oil levels
+- Provide emergency stop operation if required
 
 Component description
 ======================
