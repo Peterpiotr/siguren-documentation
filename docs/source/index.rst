@@ -122,6 +122,8 @@ Maintenance
   :hidden:
   :caption: Maintenance
 
+  /maintenance/health-safety
+  /maintenance/electric-maintenance-and-testing
   /maintenance/maintenance-schedule
   /maintenance/spare-parts
   /maintenance/servicing

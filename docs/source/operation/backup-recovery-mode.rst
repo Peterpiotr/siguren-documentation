@@ -4,6 +4,8 @@ Back-up/Recovery operation mode
 
 .. include:: ../substitutions.rst
 
+.. ========================================================================================
+
 Backup/Recovery operation mode functions are intended for *unusual* situations during MS operation. 
 
 .. "function" vs "mode" vs "operation mode"
