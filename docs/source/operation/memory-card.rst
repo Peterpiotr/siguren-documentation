@@ -2,6 +2,13 @@
 Memory card
 ===============
 
+.. include:: ../substitutions.rst
+
+.. ============================================================================================
+
+.. note::
+	Source is :doc:`49104-15-001 Operation  Maintenance Manual Issue D (1).pdf`
+
 IMD Drive PC Loading / Saving procedure
 =========================================
 
@@ -71,9 +78,9 @@ The Memory Stick is automatically updated during a PC loading to an IMD :
 Status Display
 ===============
 
-.. list-table:: Main Screen Components
+.. list-table:: Status Display during transfer
   :width: 600 px
-  :widths: 5 25 70
+  :widths: 25 75
   :header-rows: 1
 
   * - 7-segment display
