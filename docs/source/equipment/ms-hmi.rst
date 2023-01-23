@@ -170,3 +170,398 @@ The Motosuiveur® control system uses a touchscreen attached to the logics contr
   * - 9
     - Recovery
     - 
+
+.. list-table:: Arrow Colour
+  :widths: 25 75
+  :header-rows: 1
+
+  * - Colour
+    - Status
+  * - Grey 
+    - Resting
+  * - Grey 
+    - Other
+  * - Green 
+    - Executing
+  * - Yellow 
+    - Waiting
+  * - Orange 
+    - Stopping
+  * - Red 
+    - Inversing
+  * - Brown 
+    - Impossible
+  * - Black 
+    - Impossible
+
+.. list-table:: Fault Table
+  :widths: 5 25 70
+  :header-rows: 1
+
+  * - Number
+    - Title
+    - Description
+  * - 0
+    - OFF
+    - No fault
+  * - 15
+    - Play too big
+    - Worm backlash too big detected
+  * - 17
+    - Play too small
+    - Worm backlash too small detected
+  * - 20
+    - Air detected
+    - Air in the damping chamber detected
+  * - 22
+    - Damping too soft
+    - Hydraulic resistance out of tolerance (too small)
+  * - 23
+    - Damping too hard
+    - Hydraulic resistance out of tolerance (too big)
+  * - 25
+    - Piston not in place
+    - Hydraulic piston stuck in the bottom
+  * - 27
+    - Transmission lost
+    - Motor to worm transmission broken
+  * - 33
+    - Unscrewing Overspeed
+    - 'overspeed' detected during lowering
+  * - 34
+    - Screwing Overspeed
+    - 'overspeed' detected during raising
+  * - 35
+    - Unscrewing Underspeed
+    - 'underspeed' detected during lowering
+  * - 36
+    - Screwing Underspeed
+    - 'underspeed' detected during raising
+  * - 39
+    - Abnormal movement
+    - Movement won't start (starting timeout detected)
+  * - 44
+    - Sudden Stop
+    - MS physical activation detected
+
+.. =====================================================================================================
+
+
+Fault screen
+-------------
+
+The fault screen shows status of fault once :guilabel:`‘Info’ button` has been pressed.
+
+.. _Fault Screen Components:
+.. figure:: img/ms-hmi-03.png
+	:scale: 100 %
+	:align: center
+
+	Fault Screen Components
+
+.. list-table:: Fault Screen Components
+  :widths: 5 25 70
+  :header-rows: 1
+
+  * - Number
+    - Function
+    - Description
+  * - 1
+    - No error message
+    - Indicates absence of fault.
+  * - 2, 6
+    - Back button
+    - Returns to previous screen.
+  * - 3
+    - Fault description field
+    - Describes generated fault.
+  * - 4
+    - Solution field
+    - Describes possible solutions to remove generated fault.
+  * - 5
+    - Reset button
+    - | Pressing the key sends request to the PLC unit for Reset of the PLC unit. 
+      | If the PLC unit returns acknowledge it will reset itself.
+
+.. =====================================================================================================
+
+
+Communication Failure Screen
+------------------------------
+
+.. _Communication Failure Screen:
+.. figure:: img/ms-hmi-04.png
+	:scale: 100 %
+	:align: center
+
+	Communication Failure Screen
+
+.. list-table:: Communication Failure Screen Components
+  :widths: 5 25 70
+  :header-rows: 1
+
+  * - Number
+    - Function
+    - Description
+  * - 1
+    - COMM Failure message
+    - | If the communication between PLC unit and HMI display is lost the Communication failure screen pop-ups automatically. 
+      | Once the cause is removed the screen hides itself automatically.
+
+.. =====================================================================================================
+
+Menu Screen
+-------------
+
+.. _Menu Screen Components:
+.. figure:: img/ms-hmi-05.png
+	:scale: 100 %
+	:align: center
+
+	Menu Screen Components
+
+.. list-table:: Menu Screen Components
+  :widths: 5 25 70
+  :header-rows: 1
+
+  * - Number
+    - Function
+    - Description
+  * - 1
+    - Language button
+    - Redirects to the screen for language selection.
+  * - 2
+    - Events record
+    - Redirects to the screen with history event records.
+  * - 3
+    - MS1 parameters button
+    - Redirects to the screen for selection a group of parameters for changing.
+  * - 4
+    - Status monitor button
+    - Redirects to the screen Status monitor.
+  * - 5
+    - Maintenance button
+    - Redirects to the screen with additional maintenance information.
+  * - 6
+    - Version button
+    - Redirects to the screen with information about current firmware and software versions.
+  * - 7
+    - Operating modes button
+    - Redirects to the screen for operating mode selection.
+  * - 8
+    - Back button
+    - Returns to the previous screen.
+
+.. note::
+    All re-directions use the internal Pro-face3 logic.
+
+.. =====================================================================================================
+
+Language Selection Screen
+-------------
+
+.. _Language Selection Screen Components:
+.. figure:: img/ms-hmi-06.png
+	:scale: 100 %
+	:align: center
+
+	Language Selection Screen Components
+
+.. list-table:: Language Selection Screen Components
+  :widths: 5 25 70
+  :header-rows: 1
+
+  * - Number
+    - Function
+    - Description
+  * - 1
+    - French selection button
+    - Button to select French language. ( Not selected in Fig.6.2.5-1)
+  * - 2
+    - English selection button
+    - Button to select English language. Selected in Fig 6.2.5-1
+  * - 3
+    - Back button
+    - Returns to the previous screen.
+
+.. =====================================================================================================
+
+Event Records Screen
+-------------
+
+.. _Event Records Screen Components:
+.. figure:: img/ms-hmi-07.png
+	:scale: 100 %
+	:align: center
+
+	Event Records Screen Components
+
+.. list-table:: Event Records Screen Components
+  :widths: 5 25 70
+  :header-rows: 1
+
+  * - Number
+    - Function
+    - Description
+  * - 1
+    - Screen
+    - Fault description
+  * - 2
+    - USB
+    - Export to USB.
+  * - 3
+    - Scroll down
+    - Scroll down
+  * - 4
+    - Scroll up
+    - Scroll up
+  * - 5
+    - Back button
+    - Returns to previous
+
+.. note::
+    All MotoSuiveur faults are logged in the event record.
+
+.. =====================================================================================================
+
+MS1 Parameters Screen
+-------------
+
+.. _MS1 Parameters Screen Components:
+.. figure:: img/ms-hmi-08.png
+	:scale: 100 %
+	:align: center
+
+	MS1 Parameters Screen Components
+
+.. list-table:: MS1 Parameters Screen Components
+  :widths: 5 25 70
+  :header-rows: 1
+
+  * - Number
+    - Function
+    - Description
+  * - 1
+    - VR buttons group
+    - | Buttons group for editing VR parameters respectively:
+      | - VR0-VR15 – from VR0 to VR15;
+      | - VR16-VR31 – from VR16 to VR31;
+      | - VR32-VR47 – from VR32 to VR47;
+      | - VR48-VR63 – from VR48 to VR63;
+  * - 2
+    - VL buttons group
+    - | Buttons group for editing VL parameters respectively:
+      | - VL0-VL15 – from VL0 to VL15;
+      | - VL16-VL31 – from VL16 to VL31;
+      | - VL32-VL47 – from VL32 to VL47;
+      | - VL48-VL63 – from VL48 to VL63;
+  * - 3
+    - Back button
+    - Returns to previous screen and set request save flag.
+  * - 4
+    - Save in progress message
+    - Once the PLC unit returns acknowledge the Save in progress screen (right picture in Fig. 6-7) pop-ups and hides itself automatically when the saving process finished.
+
+
+.. note::
+    The term “MS1” is not related to the MS size.
+
+.. =====================================================================================================
+
+MS1 VR Parameters Screen
+-------------
+
+.. _MS1 VR Parameters Screen Components:
+.. figure:: img/ms-hmi-09.png
+	:scale: 100 %
+	:align: center
+
+	MS1 VR Parameters Screen Components
+
+.. list-table:: MS1 VR Parameters Screen Components
+  :widths: 5 25 70
+  :header-rows: 1
+
+  * - Number
+    - Function
+    - Description
+  * - 1
+    - VR buttons group for range 0-15
+    - Buttons group for editing VR parameters respectively from 0 to 15.
+  * - 2
+    - Back button
+    - Returns to previous screen.
+
+.. note::
+    The following description is also valid for ranges of parameters VR16-VR31, VR32-VR47 and VR48-VR63 with respect to their values.
+
+.. =====================================================================================================
+
+Maintenance Screen
+-------------
+
+.. _Maintenance Screen Components:
+.. figure:: img/ms-hmi-10.png
+	:scale: 100 %
+	:align: center
+
+	Maintenance Screen Components
+
+.. list-table:: Maintenance Screen Components
+  :widths: 5 25 70
+  :header-rows: 1
+
+  * - Number
+    - Function
+    - Description
+  * - 1
+    - Total brake counter
+    - Shows total brakes.
+  * - 2
+    - Working time
+    - Shows total working time.
+  * - 3
+    - MS odometer
+    - Shows overall distance travelled by the motor.
+  * - 4
+    - MS workmeter
+    - Shows overall performed work.
+  * - 5
+    - Next maintenance type
+    - Currently not used.
+  * - 6
+    - Next maintenance date
+    - Currently not used.
+  * - 7
+    - Back button
+    - Returns to previous screen.
+
+
+.. =====================================================================================================
+
+Version Screen
+-------------
+
+.. _Version Screen Components:
+.. figure:: img/ms-hmi-11.png
+	:scale: 100 %
+	:align: center
+
+	Version Screen Components
+
+.. list-table:: Version Screen Components
+  :widths: 5 25 70
+  :header-rows: 1
+
+  * - Number
+    - Function
+    - Description
+  * - 1
+    - Firmware version field
+    - Shows current project firmware version.
+  * - 2
+    - Software version field
+    - Shows current GP-PRO software version.
+  * - 3
+    - Back button
+    - Returns to previous screen.
