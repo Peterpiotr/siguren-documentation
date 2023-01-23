@@ -77,34 +77,34 @@ Operation
   :doc:`Installing multiple MotoSuiveur Units </multiple-ms>`
 
 .. toctree::
-   :maxdepth: 2
-   :hidden:
-   :caption: Operation
+  :maxdepth: 2
+  :hidden:
+  :caption: Operation
 
-   /operation/operation-modes
-   /operation/system-reset
-   ../operation/controller-internal-check
-   ../operation/self-test
-   ../operation/following
-   ../operation/load-arrest
-   ../operation/re-engaging
-   ../operation/backup-recovery-mode
-   ../operation/recovery-operation
+  /operation/operation-modes
+  /operation/system-reset
+  .. /operation/controller-internal-check
+  .. /operation/self-test
+  .. /operation/following
+  .. /operation/load-arrest
+  .. /operation/re-engaging
+  .. /operation/backup-recovery-mode
+  .. /operation/recovery-operation
 
 Troubleshooting
 ================
 
 .. toctree::
-   :maxdepth: 2
-   :hidden:
-   :caption: Operation
+  :maxdepth: 2
+  :hidden:
+  :caption: Troubleshooting
 
-   /troubleshooting/controller-errors
-   /troubleshooting/gui-guided-troubleshooting
-   /troubleshooting/unblocking-ms
-   /troubleshooting/controls-check
-   /troubleshooting/mounting-portable-recovery
-   /troubleshooting/ms-worm-removal
+  /troubleshooting/controller-errors
+  /troubleshooting/gui-guided-troubleshooting
+  /troubleshooting/unblocking-ms
+  /troubleshooting/controls-check
+  /troubleshooting/mounting-portable-recovery
+  /troubleshooting/ms-worm-removal
 
 
 Maintenance
