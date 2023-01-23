@@ -45,7 +45,7 @@ Main Screen
 The Motosuiveur® control system uses a touchscreen attached to the logics controller.
 
 .. _Main Screen Components:
-.. figure:: img/ms-hmi-01.png
+.. figure:: img/ms-hmi-02.png
 	:scale: 100 %
 	:align: center
 
@@ -197,6 +197,7 @@ The Motosuiveur® control system uses a touchscreen attached to the logics contr
 .. list-table:: Fault Table
   :widths: 5 25 70
   :header-rows: 1
+  :align: center
 
   * - Number
     - Title
