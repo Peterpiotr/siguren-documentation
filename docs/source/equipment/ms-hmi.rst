@@ -87,46 +87,86 @@ The Motosuiveur® control system uses a touchscreen attached to the logics contr
     - Info button
     - Redirects to Fault text window with further clarification of received fault and possible solution.
 
+
 .. list-table:: Warning Table
   :widths: 5 25 70
   :header-rows: 1
 
   * - Number
-  - Title
-  - Description
+    - Title
+    - Description
   * - 0
-  - OFF
-  - No warning
+    - OFF
+    - No warning
   * - 4
-  - Simultaneous
-  - Both 'Raise' and 'Lower' signals are on
+    - Simultaneous
+    - Both 'Raise' and 'Lower' signals are on
   * - 5
-  - Power output off
-  - The MS controller power stage is off
+    - Power output off
+    - The MS controller power stage is off
   * - 10
-  - Blocked Unsuccessful centering
-  - (worm not free at the end of the movement)
+    - Blocked Unsuccessful centering
+    - (worm not free at the end of the movement)
   * - 11
-  - Inner switch not centered
-  - Inner switch not correctly set
+    - Inner switch not centered
+    - Inner switch not correctly set
   * - 12
-  - Outer switch not centered
-  - Outer switch not correctly set
+    - Outer switch not centered
+    - Outer switch not correctly set
   * - 13
-  - No inner switch
-  - Inner switch not responding
+    - No inner switch
+    - Inner switch not responding
   * - 14
-  - No outer switch
-  - Outer switch not responding
+    - No outer switch
+    - Outer switch not responding
   * - 28
-  - Check Sum
-  - Unexpected variable change
+    - Check Sum
+    - Unexpected variable change
   * - 40
-  - Slope too long
-  - The hoist motor deceleration slope is too long
+    - Slope too long
+    - The hoist motor deceleration slope is too long
   * - 41
-  - Power Loss
-  - Power loss during movement
+    - Power Loss
+    - Power loss during movement
   * - 42
-  - Movement Stopped
-  - ON signal turned off during movement
+    - Movement Stopped
+    - ON signal turned off during movement
+
+
+.. list-table:: Status Table
+  :widths: 5 25 70
+  :header-rows: 1
+
+  * - Value
+    - Text Displayed
+    - Description
+  * - 0
+    - OFF 
+    - OFF, I1
+  * - 1
+    - Self Check A
+    - Soft self check
+  * - 2
+    - Self Check B
+    - Electrical self check
+  * - 3
+    - Self Check C
+    - Damping self check
+  * - 4
+    - Self Check D
+    - Air self check
+  * - 5
+    - Self Check E
+    - Play self check
+  * - 6
+    - Ready
+    - Ready
+  * - 7
+    - Fault
+    - Fault
+  * - 8
+    - Backup
+    - 
+  * - 9
+    - Recovery
+    - 
