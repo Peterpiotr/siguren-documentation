@@ -33,13 +33,13 @@ Learn more about MotoSuiveur Solutions components.
    :hidden:
    :caption: Equipment overview
 
-   /equipment/ms-unit
-   /equipment/control-cabinet
-   /equipment/control-panel
-   /equipment/ms-hmi
-   /equipment/ms-controller
-   /equipment/tl-addon
-   /equipment/rec-addons
+   ../equipment/ms-unit
+   ../equipment/control-cabinet
+   ../equipment/control-panel
+   ../equipment/ms-hmi
+   ../equipment/ms-controller
+   ../equipment/tl-addon
+   ../equipment/rec-addons
 
 Installation
 =============
@@ -82,13 +82,14 @@ Operation
    :caption: Operation
 
    /operation/operation-modes
-   /operation/controller-internal-check
-   /operation/self-test
-   /operation/following
-   /operation/load-arrest
-   /operation/re-engaging
-   /operation/backup-recovery-mode
-   /operation/recovery-operation
+   /operation/system-reset
+   ../operation/controller-internal-check
+   ../operation/self-test
+   ../operation/following
+   ../operation/load-arrest
+   ../operation/re-engaging
+   ../operation/backup-recovery-mode
+   ../operation/recovery-operation
 
 Troubleshooting
 ================

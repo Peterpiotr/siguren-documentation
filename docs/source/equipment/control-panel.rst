@@ -7,6 +7,23 @@ Control panel
 .. note::
 	the control panel can be on the door of the control cabinet, but can also be located in the operator's cabin for example.
 
+
+(Front) panel layout
+===================
+
+.. note::
+	Source is :doc:`49104-15-001 Operation  Maintenance Manual Issue D (1).pdf`
+
+The Front Panel is the main source for power and recovery functions.
+
+.. _Control panel layout SCX:
+.. figure:: img/control-panel-03.png
+	:align: center
+
+	Control panel layout SCX
+
+
+
 Component description
 ======================
 

@@ -33,7 +33,7 @@ Go wild
      - | **Frame the photograph and focus.**
        | |image0xx|
        | stop. 	
-	   | drop.
+	     | drop.
    * - **4**
      - C7 – Resolver connector
 
