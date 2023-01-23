@@ -227,7 +227,7 @@ procedure below explains the recovery procedure process.
    * - **4**
      - **Wait for the HMI to fully complete its start-up procedure.**
    * - **5**
-     - **Depress the blue :guilabel:`Recovery Reset Button` to reset the recovery VSD.**
+     - **Depress the blue** :guilabel:`Recovery Reset Button` **to reset the recovery VSD.**
    * - **6**
      - | **Switch on the recovery mode to start the recovery nut engagement process.** 
        | The engagement will cycle the recovery motor forward approx. 10s then reverse approx. 1 s. 
@@ -246,7 +246,7 @@ procedure below explains the recovery procedure process.
      - | **Complete a recovery raise movement to disengage the recovery nut.** 
        | Indicated by the changing state of the :guilabel:`Recovery Nut Engaged Lamp` to **NOT** illuminated.
    * - **12**
-     - | **Once the nut is disengaged the :guilabel:`Recovery Raised Switch` can be released to the central position.** 
+     - | **Once the nut is disengaged the** :guilabel:`Recovery Raised Switch` **can be released to the central position.** 
        | The recovery drive will begin to run on the release of the switch to the central position. This is normal.
    * - **13**
      - **Switch the recovery mode to the Off position using the :guilabel:`switch`.** 
@@ -261,3 +261,7 @@ procedure below explains the recovery procedure process.
    * - **18**
      - The self-test will complete and the :guilabel:`🟢 Enable Lamp` will be illuminated.
 
+.. important::
+  | Recovery Limitations:
+  | **Downward direction**: Full SWL and locked service brake only. Service brake should be opened during recovery.
+  | **Upward direction**: Limited to 3.5t hook block only without load applied and brake operable. Upward movement with SWL and Hoist brake closed is not permitted.
