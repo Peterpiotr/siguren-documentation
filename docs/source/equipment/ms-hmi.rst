@@ -197,7 +197,6 @@ The Motosuiveur® control system uses a touchscreen attached to the logics contr
 .. list-table:: Fault Table
   :widths: 5 25 70
   :header-rows: 1
-  :align: center
 
   * - Number
     - Title
