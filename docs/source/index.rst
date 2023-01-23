@@ -89,7 +89,7 @@ Operation
   .. /operation/load-arrest
   .. /operation/re-engaging
   .. /operation/backup-recovery-mode
-  .. /operation/recovery-operation
+  /operation/recovery-operation
 
 Troubleshooting
 ================
