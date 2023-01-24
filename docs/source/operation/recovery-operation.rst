@@ -348,22 +348,22 @@ The MotoSuiveur Unit carries the load.
        |
        | On the Proface, the engagement light turns to permanent green. A button appears on the right handside bottom to allow the visualization of the recovery operation screen.
    * - **3**
-     - | If the engagement process fails, it could be for one of the following reasons:
-       |
-       |  -	At least one controller of the recovery motor(s) is not working,
-       |  -	Recovery motors power is not turned on,
-       |  -	The engagement procedure is stopped by time out 
-       |
-       | .. rubric:: Issue with recovery motors
-       |   **Make sure the recovery controllers are running properly.**
-       |   **Make sure the recovery motors are powered on.**
-       |
-       | .. rubric:: Engagement process time-out
-       |   If the engagement is not completed before the cycle timeout, the “engagement” light on the control panel does not turn on, the :guilabel:`engagement status light` turns to permanent red.
-       |   The engagement failure may come from a short setting of the engagement cycle timeout delay. If the engagement procedure fails due to timeout, it is possible to repeat the procedure again from STEP 2.
-       |   After many failed trials, verify that the recovery motor(s) operate(s) correctly.
-       |   See “potential reasons for an engagement failure” paragraph next page.
-       |
+     - If the engagement process fails, it could be for one of the following reasons:
+      
+       - At least one controller of the recovery motor(s) is not working,
+       - Recovery motors power is not turned on,
+       - The engagement procedure is stopped by time out 
+      
+       .. rubric:: Issue with recovery motors
+         **Make sure the recovery controllers are running properly.**
+         **Make sure the recovery motors are powered on.**
+      
+       .. rubric:: Engagement process time-out
+         If the engagement is not completed before the cycle timeout, the “engagement” light on the control panel does not turn on, the :guilabel:`engagement status light` turns to permanent red.
+         The engagement failure may come from a short setting of the engagement cycle timeout delay. If the engagement procedure fails due to timeout, it is possible to repeat the procedure again from STEP 2.
+         After many failed trials, verify that the recovery motor(s) operate(s) correctly.
+         See “potential reasons for an engagement failure” paragraph next page.
+      
    * - **4**
      - | It is possible to perform recovery operations if and only if the recovery motor(s) is/are engaged.
        | **On the Siguren control panel, turn the selection button to “Recovery down” to lower the load on the floor (or on a safe area).**
