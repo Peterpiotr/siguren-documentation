@@ -126,6 +126,7 @@ Maintenance
   /maintenance/electric-maintenance-and-testing
   /maintenance/maintenance-schedule
   /maintenance/lubrication
+  /maintenance/storage
   /maintenance/spare-parts
   /maintenance/servicing
 

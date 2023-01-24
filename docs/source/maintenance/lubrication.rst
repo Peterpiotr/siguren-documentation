@@ -31,6 +31,7 @@ During these tests, the oil tank is filled, the level is adjusted and the hydrau
 	Breather cap
 
 .. list-table:: Oil level check instruction
+   :width: 600 px
    :widths: 5 95
    :header-rows: 1
    :class: instruction-table
@@ -53,7 +54,7 @@ During these tests, the oil tank is filled, the level is adjusted and the hydrau
 
 .. list-table:: Planned maintenance schedule, Lubrication
     :widths: 15 15 15 15 40
-    :width: 100 %
+    :width: 600 px
     :header-rows: 1
 
     * - 
