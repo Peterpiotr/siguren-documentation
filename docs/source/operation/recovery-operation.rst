@@ -309,10 +309,10 @@ The following table shows the procedure to follow in each case of failure.
 
 If the reason of the failure is not diagnosed proceed in the following order:
 
-  - Procedure n°6-1 : Recovery after load arrest - Operation from the hardware buttons 
-  - Then Procedure n°6-2 : Recovery after load arrest - Operation from the Proface touchscreen
-  - Then Procedure n°6-3 : Recovery operation with pre-engagement with the load
-  - Then Procedure n°6-4 : Recovery operation with pre-engagement with the hoist motor
+- Procedure n°6-1 : Recovery after load arrest - Operation from the hardware buttons 
+- Then Procedure n°6-2 : Recovery after load arrest - Operation from the Proface touchscreen
+- Then Procedure n°6-3 : Recovery operation with pre-engagement with the load
+- Then Procedure n°6-4 : Recovery operation with pre-engagement with the hoist motor
 
 Procedure n°6-1 : Recovery after load arrest - Operation from the hardware buttons 
 ------------------------------------------------------------------------------------
