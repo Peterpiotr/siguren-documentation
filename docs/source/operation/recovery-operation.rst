@@ -11,7 +11,7 @@ Using the MS recovery capabilities
 ===================================
 
 .. note::
-    Based on :download:`Using the MS Recovery Capabilities <../archives/using-the-ms-recovery-capabilities-02.docx>`
+    Source :download:`Using the MS Recovery Capabilities <../archives/using-the-ms-recovery-capabilities-02.docx>`
 
 .. list-table:: List tables can have captions like this one.
     :widths: 10 5 10 50
@@ -265,3 +265,188 @@ procedure below explains the recovery procedure process.
   | Recovery Limitations:
   | **Downward direction**: Full SWL and locked service brake only. Service brake should be opened during recovery.
   | **Upward direction**: Limited to 3.5t hook block only without load applied and brake operable. Upward movement with SWL and Hoist brake closed is not permitted.
+
+
+Using of the recovery system 
+==============================
+
+.. note::
+	Source: :download:`User Manual-7.4.doc`
+
+The purpose of the recovery system is to lower the load on a safe place if a component of the overall lifting equipment is damaged or unavailable.
+
+.. important::
+  The system has to be used only by trained and authorized workers.
+  The procedures must be correctly followed to avoid damaging the equipment.
+
+The following table shows the procedure to follow in each case of failure.
+
+.. _Recovery procedures table :
+.. list-table:: 
+   :widths: 25 25 25 25
+   :header-rows: 1
+
+   * - Failed component/Type of failure
+     - Operation without load
+     - Operation with load
+     - Remarks/restrictions
+   * - Hoist motor failure
+     - Procedure n°6-2
+     - Procedure n°6-3
+     - -
+   * - Brake locked closed
+     - Procedure n°6-2
+     - Procedure n°6-2
+     - Raising movement forbidden with load
+   * - Brake locked open
+     - Procedure n°6-2
+     - Procedure n°6-1
+     - -
+   * - Motosuiveur® motor failure
+     - Procedure n°6-4
+     - Procedure n°6-3
+     - -
+
+If the reason of the failure is not diagnosed proceed in the following order:
+
+  - Procedure n°6-1 : Recovery after load arrest - Operation from the hardware buttons 
+  - Then Procedure n°6-2 : Recovery after load arrest - Operation from the Proface touchscreen
+  - Then Procedure n°6-3 : Recovery operation with pre-engagement with the load
+  - Then Procedure n°6-4 : Recovery operation with pre-engagement with the hoist motor
+
+Procedure n°6-1 : Recovery after load arrest - Operation from the hardware buttons 
+------------------------------------------------------------------------------------
+
+This procedure has to be followed after a load drop. 
+
+The MotoSuiveur Unit carries the load.
+
+.. list-table:: Procedure n°6-1 : Recovery after load arrest - Operation from the hardware buttons 
+   :widths: 5 95
+   :header-rows: 1
+   :class: instruction-table
+  
+   * - Step
+     - Description
+   * - **1**
+     - | **On the Main control panel, select “Recovery mode” on the “Normal mode” to “Recovery mode” selection button.**
+     - | When selecting “Recovery mode”, the Proface touch screen turns automatically to the “Engagement screen” (see Recovery procedure with the Proface for more details).
+   * - **2**
+     - | Engaging the clutch(es) of the recovery motor(s).
+       | The engagement procedure is done automatically by the Siguren control panel logics. 
+       | 
+       | .. important::
+       |   If the “ Clutch engaged” light is already on, jump to next step.
+       | 
+       | Otherwise, on the Siguren control panel, press and release the :guilabel:`“Engagement” push button`.
+       | On the Proface touch screen, the blinking :guilabel:`orange light` indicates that the Motosuiveur® is proceeding with the engagement.
+       | On installations with 2 recovery motors, the engagement procedure is performed one after the other. Any modification on these settings requires level 4 password.
+       |
+       | The duration of the engagement cycle is set in the “recovery settings” menu by the manufacturer. It is typically set between 1 to 3 minutes per recovery motor.
+       |
+       | The clutch(es) of the recovery motor(s) is/are engaged when the “Recovery available” light of the Siguren control panel switches on.
+       |
+       | On the Proface, the engagement light turns to permanent green. A button appears on the right handside bottom to allow the visualization of the recovery operation screen.
+   * - **3**
+     - | If the engagement process fails, it could be for one of the following reasons:
+       |
+       |  -	At least one controller of the recovery motor(s) is not working,
+       |  -	Recovery motors power is not turned on,
+       |  -	The engagement procedure is stopped by time out 
+       |
+       | .. rubric:: Issue with recovery motors
+       |   **Make sure the recovery controllers are running properly.**
+       |   **Make sure the recovery motors are powered on.**
+       |
+       | .. rubric:: Engagement process time-out
+       |   If the engagement is not completed before the cycle timeout, the “engagement” light on the control panel does not turn on, the :guilabel:`engagement status light` turns to permanent red.
+       |   The engagement failure may come from a short setting of the engagement cycle timeout delay. If the engagement procedure fails due to timeout, it is possible to repeat the procedure again from STEP 2.
+       |   After many failed trials, verify that the recovery motor(s) operate(s) correctly.
+       |   See “potential reasons for an engagement failure” paragraph next page.
+       |
+   * - **4**
+       | It is possible to perform recovery operations if and only if the recovery motor(s) is/are engaged.
+       | **On the Siguren control panel, turn the selection button to “Recovery down” to lower the load on the floor (or on a safe area).**
+       |
+       | .. important::
+       |   It is possible to hoist the load up if necessary. But avoid hoisting the maximum load up with the recovery facility during more than 1 minute.
+       |   Also make sure that the service brake is open during this movement. If it is not the case, it is mandatory to lower the load. 
+       |   If this condition is not respected, the equipment could be damaged.
+       |
+       | **When the load touches the floor, release the** :guilabel:`“recovery down” selection button` of the Siguren control panel.
+       | Remove the load from the hook.
+       | On the Siguren control panel, select “Recovery up”. This action disengages the clutch(es). “Recovery available” light should turn off. 
+       | In the recovery control box, press the push button “Recovery up” to disengage the nut. Check that the “Nut engaged” lamp switches off and the “Nut disengaged” lamp switches on.
+
+.. note::
+  At the end of this procedure the Motosuiveur® screw is locked in the elastomers in the lift side. 
+  With the main hoisting motor, make a 1 second movement at low speed in the down direction to unlock the screw.
+
+.. important::
+  The power supply of the equipment must be cut before any maintenance operation.
+  Do not power up the equipment until the failed component has been fixed or changed.
+
+.. warning::
+  The recovery feature is designed to be used as an exceptional hoisting solution.
+  Lengthy and/or repetitive use of the recovery facility can cause excessive wear of the Motosuiveur®.
+
+
+Procedure n°6-2 : Recovery after load arrest - Operation from the Proface touchscreen
+---------------------------------------------------------------------------------------
+
+.. list-table:: Procedure n°6-2 : Recovery after load arrest - Operation from the Proface touchscreen
+   :widths: 5 95
+   :header-rows: 1
+   :class: instruction-table
+  
+   * - Step
+     - Description
+   * - **1**
+     - 
+   * - **2**
+     -
+   * - **3**
+     - 
+   * - **4**
+     -
+   * - **5**
+     - 
+   * - **6**
+     -
+   * - **7**
+     - 
+   * - **8**
+     -
+
+
+
+Procedure n°6-3 : Recovery operation with pre-engagement with the load
+------------------------------------------------------------------------
+
+.. list-table:: Procedure n°6-3 : Recovery operation with pre-engagement with the load
+   :widths: 5 95
+   :header-rows: 1
+   :class: instruction-table
+  
+   * - Step
+     - Description
+   * - **1**
+     - 
+   * - **2**
+     -
+
+Procedure n°6-4 : Recovery operation with pre-engagement with the hoist motor
+--------------------------------------------------------------------------------
+
+.. list-table:: Procedure n°6-4 : Recovery operation with pre-engagement with the hoist motor
+   :widths: 5 95
+   :header-rows: 1
+   :class: instruction-table
+  
+   * - Step
+     - Description
+   * - **1**
+     - 
+   * - **2**
+     -
+
