@@ -330,7 +330,7 @@ The MotoSuiveur Unit carries the load.
      - Description
    * - **1**
      - | **On the Main control panel, select “Recovery mode” on the “Normal mode” to “Recovery mode” selection button.**
-     - | When selecting “Recovery mode”, the Proface touch screen turns automatically to the “Engagement screen” (see Recovery procedure with the Proface for more details).
+       | When selecting “Recovery mode”, the Proface touch screen turns automatically to the “Engagement screen” (see Recovery procedure with the Proface for more details).
    * - **2**
      - | Engaging the clutch(es) of the recovery motor(s).
        | The engagement procedure is done automatically by the Siguren control panel logics. 
@@ -365,7 +365,7 @@ The MotoSuiveur Unit carries the load.
        |   See “potential reasons for an engagement failure” paragraph next page.
        |
    * - **4**
-       | It is possible to perform recovery operations if and only if the recovery motor(s) is/are engaged.
+     - | It is possible to perform recovery operations if and only if the recovery motor(s) is/are engaged.
        | **On the Siguren control panel, turn the selection button to “Recovery down” to lower the load on the floor (or on a safe area).**
        |
        | .. important::
