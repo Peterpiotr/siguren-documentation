@@ -7,7 +7,7 @@ Planned maintenance schedule
 .. ========================================================================================
 
 .. note::
-	Source is :doc:`49104-15-001 Operation  Maintenance Manual Issue D (1).pdf`
+	Source: :doc:`49104-15-001 Operation  Maintenance Manual Issue D (1).pdf`
 
 MotoSuiveur Unit and electrical cabinet
 =========================================
