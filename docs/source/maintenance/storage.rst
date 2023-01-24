@@ -2,6 +2,9 @@
 Storage
 ============
 
+.. note::
+    Based on :download:`Using the MS Recovery Capabilities <../archives/using-the-ms-recovery-capabilities-02.docx>`
+
 In order to ensure good preservation conditions the following storage recommendations should be
 observed:
 (In case of ship transportation, the packaging must be waterproof and have a humidity absorbing
