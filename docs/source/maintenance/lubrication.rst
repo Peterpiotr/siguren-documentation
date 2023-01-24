@@ -93,11 +93,12 @@ any particles inside the Motosuiveur® as this will cause the unit to malfunctio
 Drain of the Hydraulic System
 ------------------------------
 
-After each operation of the MotoSuiveur an auto diagnostic programme is run to check that there is
-no air within the damping chamber. If air is detected, the damping chamber has to be drained. This
-operation must be carried out by a qualified operator.
+After each operation of the MotoSuiveur an auto diagnostic programme is run to check that there is no air within the damping chamber. 
 
-.. list-table:: hydraulic system draining instruction
+If air is detected, the damping chamber must be drained. This operation must be carried out by a qualified operator.
+
+.. list-table:: Hydraulic system draining instruction
+   :width: 600 px
    :widths: 5 95
    :header-rows: 1
    :class: instruction-table
