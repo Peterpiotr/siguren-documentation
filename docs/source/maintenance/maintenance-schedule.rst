@@ -13,36 +13,35 @@ The reliability of the Motosuiveur will depend if the maintenance procedure is s
 Maintenance operations are to be done based either on the number of revolutions given by the servo-motor
 drive display or on a time basis wherever the smallest value applies.
 
-.. list-table:: Planned maintenance schedule
+.. list-table:: Planned maintenance schedule, Mechanical components
     :widths: 15 15 15 15 40
     :width: 100 %
     :header-rows: 1
-    :stub-columns: 1
 
     * - Component
       - Maintenance interval
       - Worm rotation count on servo motor
       - Controller Display
       - Comments
-    * - TORQUE LIMITER
+    * - Torque limiter
       - Annually
       - -
-      - 
+      - -
       - | Visual inspection
         | (no oxidation marks)
         | Drawings
         | 49104-02-003
         | 49104-02-004
-    * - REACTION ARM 
+    * - Reaction arm
       - Annually
       - -
-      - 
+      - -
       - | (fixation, welds, cracks, etc)
         | Drawings
         | MSL-06-10
         | MSL-03-10
         | Replace Part No 123
-    * - SERVO MOTOR WORM TRANSMISSION 
+    * - Servo motor worm transmission
       - Annually
       - 75E+6
       - |image045|
@@ -52,7 +51,7 @@ drive display or on a time basis wherever the smallest value applies.
       - 75E+6
       - |image045|
       - Check for wear
-    * - WORM SHAFT LIP SEAL
+    * - Worm shaft lip seal
       - 5 Years
       - 150E+6
       - |image046|
@@ -60,7 +59,7 @@ drive display or on a time basis wherever the smallest value applies.
         | MSL-06-10
         | MSL-03-10
         | Replace Part No 53
-    * - WHEEL LIP SEAL
+    * - Wheel lip seal
       - 10 Years
       - 450E+6
       - |image048|
@@ -69,4 +68,39 @@ drive display or on a time basis wherever the smallest value applies.
         | MSL-03-10
         | Replace Part No 28
         | Replace earlier if leaks are present and maintenance history is unknown.
+    * - O-rings
+      - Annually
+      - 900E+6
+      - |image048|
+      - | Drawings
+        | MSL-06-10
+        | MSL-03-10
+        | Replace Part No's
+        | 27,37,38,52,103-106,116
+    * - Electrical cabinet air filter (if applies) :
+      - Annually
+      - -
+      - -
+      - Replace or clean
 
+
+.. list-table:: Planned maintenance schedule, Electrical components
+    :widths: 15 15 15 15 40
+    :width: 100 %
+    :header-rows: 1
+
+    * - Component
+      - Maintenance interval
+      - Worm rotation count on servo motor
+      - Controller Display
+      - Comments
+    * - Touchscreen display
+      - Annually
+      - -
+      - -
+      - Visual inspection
+    * - Touch screen display battery
+      - 10 years
+      - -
+      - -
+      - Replace
