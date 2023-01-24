@@ -33,13 +33,14 @@ Learn more about MotoSuiveur Solutions components.
    :hidden:
    :caption: Equipment overview
 
-   ../equipment/ms-unit
-   ../equipment/control-cabinet
-   ../equipment/control-panel
-   ../equipment/ms-hmi
-   ../equipment/ms-controller
-   ../equipment/tl-addon
-   ../equipment/rec-addons
+   /equipment/ms-unit
+   /equipment/control-cabinet
+   /equipment/ms-selection
+   /equipment/control-panel
+   /equipment/ms-hmi
+   /equipment/ms-controller
+   /equipment/tl-addon
+   /equipment/rec-addons
 
 Installation
 =============
@@ -58,12 +59,18 @@ Learn more about the process of integrating a MotoSuiveur Solution into an exist
   :hidden:
   :caption: Installation
 
+  /installation/installation-safety
+  /installation/ms-delivery
+  /installation/ms-handling
+  /installation/ms-drum-installation
   /installation/installation-on-existing-hoist
   /installation/ms-flange-installation
   /installation/ms-seat-installation
   /installation/ms-positioning
   /installation/connect-ms-control-cabinet
   /installation/multiple-ms
+  /installation/tl-assembly
+  /installation/setting-drive
 
 
 Operation

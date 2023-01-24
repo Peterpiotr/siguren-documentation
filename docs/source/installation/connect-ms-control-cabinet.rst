@@ -34,3 +34,13 @@ be connected according specific for the project electrical circuit diagram.
    * - 4
      - C7 – Resolver connector
 
+
+Electrical connection of the Motosuiveur
+==========================================
+
+.. note::
+	Source: :download:`User Manual-7.4.doc`
+
+The electrical box of the Motosuiveur® is delivered with cables already in place with the motor and encoder cables and their connectors.
+
+See electrical diagram provided in *appendix 4*.

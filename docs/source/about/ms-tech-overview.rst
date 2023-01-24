@@ -7,7 +7,7 @@ MotoSuiveur technology
     Explores how fail-safety is achieved by combining unfailing systems.
 
 .. note::
-	Source: :doc:`User Manual-7.4.doc`
+	Source: :download:`User Manual-7.4.doc`
 
 Why MotoSuiveur
 =================
@@ -21,7 +21,7 @@ Moreover, it offers the possibility to check the parameters, to test the securit
 .. figure:: img/ms-tech-01.png
     :figwidth: 600 px
     :align: center  
-    
+
     Example of MotoSuiveur Solution implementation
 
 
