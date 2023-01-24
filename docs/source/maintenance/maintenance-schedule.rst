@@ -25,7 +25,7 @@ drive display or on a time basis wherever the smallest value applies.
       - Maintenance interval
       - Worm rotation count on servo motor
       - Controller Display
-      - Comments
+      - Operation
     * - Torque limiter
       - Annually
       - -
@@ -96,7 +96,7 @@ drive display or on a time basis wherever the smallest value applies.
       - Maintenance interval
       - Worm rotation count on servo motor
       - Controller Display
-      - Comments
+      - Operation
     * - Touchscreen display
       - Annually
       - -
@@ -116,13 +116,13 @@ RSC-100
 --------
 
 .. list-table:: Planned maintenance schedule, Torque limiter RSC-100
-    :widths: 40 20 40
+    :widths: 20 20 60
     :width: 100 %
     :header-rows: 1
 
     * - 
       - Maintenance interval
-      - Comments
+      - Operation
     * - General installation
       - Weekly
       - General inspection, signs of movement on shafts, condition of link chain (corrosion), 
@@ -148,13 +148,13 @@ RSC-125
 --------
 
 .. list-table:: Planned maintenance schedule, Torque limiter RSC-125
-    :widths: 40 20 40
+    :widths: 20 20 60
     :width: 100 %
     :header-rows: 1
 
     * - 
       - Maintenance interval
-      - Comments
+      - Operation
     * - General installation
       - Weekly
       - General inspection, signs of movement on shafts, condition of link chain (corrosion), 
