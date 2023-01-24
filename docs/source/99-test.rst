@@ -64,3 +64,21 @@ Go wild
   * - 5
     - 
     - Assemble the flanged MS to the side flange of the barrel. The washers create a gap which allows the MS to be strictly aligned with the barrel (shaft) axis. The MS wheel and flange are fitted to the existing barrel shaft so the MS is strictly concentric to the barrel.
+
+
++-----+------+-----+-----+------+-----+
+| sd  | fsd  | fs  | df  | fsd  |     |
++=====+======+=====+=====+======+=====+
+| dfs | d    | s   | fsd | fsd  |     |
++-----+------+-----+-----+------+-----+
+| dfs | d    | f   | sd  | sd   | df  |
++-----+------+-----+-----+------+-----+
+| s   | sd   | f         | d    |     |
++-----+------+           +------+-----+
+| d   | d    |           | d    |     |
++-----+------+-----+-----+------+-----+
+|     | dd   | d   |     |      |     |
++-----+------+-----+-----+------+-----+
+|     | d    |     |     | d    |     |
++-----+------+-----+-----+------+-----+
+

@@ -128,6 +128,7 @@ Maintenance
   /maintenance/lubrication
   /maintenance/storage
   /maintenance/spare-parts
+  /maintenance/safety-datasheets
   /maintenance/servicing
 
 
