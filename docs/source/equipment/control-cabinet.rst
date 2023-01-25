@@ -61,3 +61,52 @@ Integration of the Motosuiveur in the control system
 	:align: center
 
 	Integration of the Motosuiveur in the control system
+
+
+Hoist interfaces
+=================
+
+.. note::
+	Source: :download:`User Manual-7.4.doc`
+
+.. figure:: img/hoist-interfaces-01.png
+	:figwidth: 600 px
+	:align: center
+
+	Hoist interface
+
+Inputs for MS cabinet
+----------------------
+
+- ON 	: hoist drive ready
+- UP 	: command for UP movement
+- DOWN	: command for DOWN movement
+- RESET: must be used after a MS drive fault (not for MS sensors)
+
+Outputs for MS cabinet
+------------------------
+
+- MS ready UP 	    : Up movement is available
+- MS ready DOWN: Down movement is available
+- Quick stop	    : 
+  - After a MS fault (drive or sensor), immediate stop of hoist drive, without ramp.
+  - After quick stop delay time, adjustable on HMI, with a sensor fault, it's possible to start in the opposite direction. With a MS drive fault, it's necessary to push RESET button after hoist state control.
+
+
+Example for wiring of MS interfaces
+--------------------------------------
+
+.. figure:: img/hoist-interfaces-02.png
+	:figwidth: 600 px
+	:align: center
+
+	Example for wiring of MS interfaces
+
+Chronograph
+-------------
+
+.. figure:: img/hoist-interfaces-03.png
+	:figwidth: 600 px
+	:align: center
+
+	Chronograph
