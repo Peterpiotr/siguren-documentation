@@ -1,6 +1,5 @@
 # Defining the exact version will make sure things don't break
 sphinx==5.2.3
 sphinx_rtd_theme==1.1.1
-piccolo_theme==0.14.0
 sphinx-material==0.0.35
 readthedocs-sphinx-search==0.1.1
