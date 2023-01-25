@@ -40,7 +40,12 @@ and the following solutions are summarized in the table below:
 | Main kinematic chain unavailable (breakage)   | N/A                                            | Lowering/ lifting forced on MS®                    | 1                    | Back-up by forced lowering                                                            |
 +-----------------------------------------------+------------------------------------------------+----------------------------------------------------+----------------------+---------------------------------------------------------------------------------------+
 
+This function is used when an incident occurs and the Motosuiveur® stops the load. 
+The back-up could be done whatever the case, safely, by acting simultaneously on the two kinematic chains, by available means.
+The procedures n° 2.1 to 2.4 helps the operator on the actions to be done.
 
+.. note::
+    If the MS is operational, it allows the movement of the main motor only at low speed
 
 .. toctree::
    :maxdepth: 2
