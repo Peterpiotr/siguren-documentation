@@ -7,10 +7,9 @@ Go wild now
 
 papoum rdfg daaaa f
 
-.. figure:: installation/img/installation-on-existing-hoist-01.jpg
-	:scale: 75 %
+.. figure:: .png
+	:figwidth: 600 px
 	:align: center
-	:class: with-border
 
 	General view
 
@@ -32,6 +31,18 @@ papoum rdfg daaaa f
 
 .. note:: 
 	kafkaesque!
+
+.. list-table:: --
+   :widths: 5 95
+   :header-rows: 1
+   :class: instruction-table
+  
+   * - Step
+     - Description
+   * - **1**
+     - Switch off the supply of the Motosuiveur® cabinet or all the circuit breaker inside.
+   * - **2**
+     - 
 
 
 .. list-table::

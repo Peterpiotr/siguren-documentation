@@ -98,6 +98,7 @@ Operation
   /operation/backup-recovery-mode
   /operation/backup-procedure
   /operation/memory-card
+  /procedures/index-procedures
 
 Troubleshooting
 ================

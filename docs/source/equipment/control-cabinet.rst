@@ -41,7 +41,7 @@ Architecture of a *standalone* Motosuiveur Solution
 
 .. _Architecture of a standalone Motosuiveur Solution:
 .. figure:: img/control-cabinet-01.png
-	:figwidth: 600px
+	:figwidth: 600 px
 	:align: center
 
 	Architecture of a standalone Motosuiveur Solution
@@ -57,7 +57,7 @@ Integration of the Motosuiveur in the control system
 
 .. _Integration of the Motosuiveur in the control system
 .. figure:: img/control-cabinet-02.png
-	:figwidth: 600px
+	:figwidth: 600 px
 	:align: center
 
 	Integration of the Motosuiveur in the control system

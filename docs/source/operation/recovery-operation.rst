@@ -2,7 +2,9 @@
 Load recovery operation
 ============================
 
-.. include:: ../substitutions.rst
+.. include:: ../img/substitutions.rst
+
+.. ====================================================================================================================
 
 .. role:: mechpart
    :class: mechpart
@@ -12,6 +14,7 @@ Using the MS recovery capabilities
 
 .. note::
     Source :download:`Using the MS Recovery Capabilities <../archives/using-the-ms-recovery-capabilities-02.docx>`
+
 
 .. list-table:: List tables can have captions like this one.
     :widths: 10 5 10 50
