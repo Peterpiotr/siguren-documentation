@@ -98,6 +98,12 @@ Operation
   /operation/backup-recovery-mode
   /operation/backup-procedure
   /operation/memory-card
+  
+
+.. toctree::
+  :maxdepth: 3
+  :hidden:
+
   /procedures/index-procedures
 
 Troubleshooting
