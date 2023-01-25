@@ -79,9 +79,14 @@ Go wild
 
 Some text that requires a footnote [#f1]_ .
 
+Title
+=======
 
+.. raw:: html
 
+   <hr>
 
+Some other thext.
 
 .. graphviz::
 
@@ -97,7 +102,6 @@ Some text that requires a footnote [#f1]_ .
 
    "device1" -> "broker"
    "MotoSuiveur" -> "broker"
-
 
 
 .. rubric:: Footnotes
