@@ -38,7 +38,6 @@ Learn more about MotoSuiveur Solutions components.
    /equipment/ms-selection
    /equipment/control-panel
    /equipment/ms-hmi
-   /equipment/ms-controller
    /equipment/tl-addon
    /equipment/rec-addons
 
@@ -112,7 +111,6 @@ Troubleshooting
   /troubleshooting/gui-guided-troubleshooting
   /troubleshooting/unblocking-ms
   /troubleshooting/controls-check
-  /troubleshooting/mounting-portable-recovery
   /troubleshooting/ms-worm-removal
 
 

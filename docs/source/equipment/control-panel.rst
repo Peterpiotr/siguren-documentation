@@ -157,6 +157,7 @@ on :numref:`MS Worm rotating directions`.
  
 .. _MS Worm rotating directions:
 .. figure:: ../img/MSwormrotatingDirections.png
+	:figwidth: 600 px
 	:align: center
 
 	MS Worm rotating directions 
