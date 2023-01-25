@@ -2,8 +2,10 @@
 test page
 ==========
 
-Go wild
-==========
+Go wild now
+============
+
+papoum rdfg daaaa f
 
 .. figure:: installation/img/installation-on-existing-hoist-01.jpg
 	:scale: 75 %
@@ -72,8 +74,9 @@ Go wild
 |     | d    |     |     | d    |     |
 +-----+------+-----+-----+------+-----+
 
-.. rubric::
-  The "rubric" directive inserts a "rubric" element into the document tree. A rubric is like an informal heading that doesn't correspond to the document's structure.
+.. rubric:: "rubric" directive
+
+The "rubric" directive inserts a "rubric" element into the document tree. A rubric is like an informal heading that doesn't correspond to the document's structure.
 
 
 
