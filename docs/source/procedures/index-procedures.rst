@@ -49,7 +49,6 @@ The procedures n° 2.1 to 2.4 helps the operator on the actions to be done.
 
 .. toctree::
    :maxdepth: 2
-   :hidden:
    :caption: Back-up mode procedures
 
    /procedures/manual-service-brake-backup
