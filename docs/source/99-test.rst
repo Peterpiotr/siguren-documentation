@@ -88,21 +88,6 @@ Title
 
 Some other thext.
 
-.. graphviz::
-
-   digraph {
-      "From" -> "To";
-   }
-
-.. digraph:: example
-
-   "device1" [shape=circle, style=filled, fillcolor=green]
-   "device2" [shape=circle, style=filled, fillcolor=orange]
-   "broker"  [shape=box, height=2, style=filled, fillcolor=gray]
-
-   "device1" -> "broker"
-   "MotoSuiveur" -> "broker"
-
 
 .. rubric:: Footnotes
 

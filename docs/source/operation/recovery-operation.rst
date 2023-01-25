@@ -509,6 +509,13 @@ Proface touchscreen is installed on the remote control box.
 Procedure n°6-3 : Recovery operation with pre-engagement with the load
 ------------------------------------------------------------------------
 
+This procedure has to be followed in the case which the hoist is loaded or/and the Motosuiveur® is failed. 
+The service brake has to be operable.
+
+.. important::
+  It is required that the load is enough distant to the floor to accept a load slip equal to the maximum braking distance of the Motosuiveur®.
+  To refer to the Motosuiveur® calculation note to have the maximum braking distance.
+
 .. list-table:: Procedure n°6-3 : Recovery operation with pre-engagement with the load
    :widths: 5 95
    :header-rows: 1
@@ -517,12 +524,48 @@ Procedure n°6-3 : Recovery operation with pre-engagement with the load
    * - Step
      - Description
    * - **1**
-     - 
+     - Switch off the supply of the Motosuiveur® cabinet or all the circuit breaker inside.
    * - **2**
-     -
+     - In the recovery control box, switch from “Normal mode” to “Recovery mode”.
+   * - **3**
+     - 3.	In the recovery control box, press the “Brake opening” until the load stops.
+       
+       Be careful, at this step the load will slip from a height equal to the braking distance of the Motosuiveur®.
+   * - **4**
+     - In the recovery control box, press the “Nut engagement” push button until the “Nut engaged” lamp switches on.
+   * - **5**
+     - In the recovery control box, press the push button “Recovery down” to lower the load on the floor (or on a safe area).
+
+       It is possible to raise the load if necessary. But avoid raising the maximum load with the recovery facility during more than 1 minute.
+       Also take care that the service brake is open during this movement. If it is not the case, it is mandatory to lower the load. 
+       If this condition is not respected, the equipment should be damaged.
+
+   * - **6**
+     - When the load hits the floor, the hook stops lowering for about 30s.
+       Continue pressing the “Recovery down” button until the hook start to lower again, then free the hook.
+
+   * - **7**
+     - Remove the load from the hook.
+   * - **8**
+     - In the recovery control box, press the push button “Recovery up” to disengage the nut. 
+       Check that the “Nut engaged” lamp switches off and the “Nut disengaged” lamp switches on.
+
+.. note::
+  At the end of this procedure the Motosuiveur® screw is locked in the elastomers in the lift side. 
+  With the main motor, make a 1 second movement at low speed in the down direction to unlock the screw.
+
+.. important::
+  It is important to cut the power supply of the equipment before any maintenance operation.
+  Do not power up the equipment until the failed component has been fixed or changed.
+
+.. warning::
+  Lengthy and/or repetitive use of the recovery facility can cause excessive wear of the Motosuiveur®.
+
 
 Procedure n°6-4 : Recovery operation with pre-engagement with the hoist motor
 --------------------------------------------------------------------------------
+
+This procedure has to be followed in the case which the hoist is not loaded and the Motosuiveur® is failed.
 
 .. list-table:: Procedure n°6-4 : Recovery operation with pre-engagement with the hoist motor
    :widths: 5 95
@@ -532,7 +575,45 @@ Procedure n°6-4 : Recovery operation with pre-engagement with the hoist motor
    * - Step
      - Description
    * - **1**
-     - 
+     - Switch off the supply of the Motosuiveur® cabinet or all the circuit breaker inside.
    * - **2**
-     -
+     - Make a lowering movement with the main motor drive until the load stops.
+       Because the Motosuiveur® cabinet is shut down, the Motosuiveur® authorization is off. 
+       It is possible that this information has to be override by the main controls. 
+       Anyway, the drum has to be rotated in order to push the screw in the damping chamber (lowering side).
+       
+       Be careful to stop the command while the hook stops in order to not wear and/or overheat the torque limiter.
 
+   * - **3**
+     - In the recovery control box, switch from “Normal mode” to “Recovery mode”.
+   * - **4**
+     - In the recovery control box, press the “Nut engagement” push button until the “Nut engaged” lamp switches on.
+   * - **5**
+     - In the recovery control box, press the push button “Recovery down” to lower the load on the floor (or on a safe area).
+       
+       It’s possible to raise the load if necessary. 
+       But avoid raising the maximum load with the recovery facility during more than 1 minute.
+       Also take care that the service brake is open during this movement. 
+       If it is not the case, it is mandatory to lower the load. 
+       If this condition is not respected, the equipment should be damaged.
+
+   * - **6**
+     - When the load hits the floor, the hook stops lowering for about 30s.
+       Continue pressing the “Recovery down” button until the hook start to lower again, the free the hook.
+
+   * - **7**
+     - Remove the load from the hook.
+   * - **8**
+     - In the recovery control box, press the push button “Recovery up” to disengage the nut. 
+       Check that the “Nut engaged” lamp switches off and the “Nut disengaged” lamp switches on.
+
+.. note::
+  At the end of this procedure the Motosuiveur® screw is locked in the elastomers in the lift side. 
+  With the main motor, make a 1 second movement at low speed in the down direction to unlock the screw.
+
+.. important::
+  Do not switch power supply of the equipment off before any maintenance operation.
+  Do not power the equipment on until the failed component has been fixed or changed.
+
+.. warning::
+  Lengthy and/or repetitive use of the recovery facility can cause excessive wear of the Motosuiveur.
