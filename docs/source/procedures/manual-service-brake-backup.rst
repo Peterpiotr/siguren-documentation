@@ -14,7 +14,7 @@ This procedure has to be followed in case of main motor fault. The following pro
 Comments:
 
 - This procedure requires two operators (one for the manual service brake opening, the second one at the MS-1 cabinet).
-- Ensure power to the motor is removed. 
+- Ensure power to the motor is removed. =
 - Each of the two operators can stop the operation: the first operator by closing the service brake, the other operator by stopping the rotation of MS.
 
 .. list-table:: Back-up by manual action of the service brake procedure
