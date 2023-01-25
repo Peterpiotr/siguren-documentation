@@ -11,4 +11,4 @@ Procedures
    :caption: Procedures
 
    /procedures/password-entry
-   
+   /procedures/
