@@ -360,10 +360,11 @@ The MotoSuiveur Unit carries the load.
          **Make sure the recovery motors are powered on.**
       
        .. rubric:: Engagement process time-out
-        
+
          If the engagement is not completed before the cycle timeout, the “engagement” light on the control panel does not turn on, the :guilabel:`engagement status light` turns to permanent red.
          The engagement failure may come from a short setting of the engagement cycle timeout delay. If the engagement procedure fails due to timeout, it is possible to repeat the procedure again from STEP 2.
          After many failed trials, verify that the recovery motor(s) operate(s) correctly.
+         
          See “potential reasons for an engagement failure” paragraph next page.
       
    * - **4**
