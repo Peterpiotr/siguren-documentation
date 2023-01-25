@@ -72,3 +72,34 @@ Go wild
 |     | d    |     |     | d    |     |
 +-----+------+-----+-----+------+-----+
 
+.. rubric::
+  The "rubric" directive inserts a "rubric" element into the document tree. A rubric is like an informal heading that doesn't correspond to the document's structure.
+
+
+
+Some text that requires a footnote [#f1]_ .
+
+
+
+
+
+.. graphviz::
+
+   digraph {
+      "From" -> "To";
+   }
+
+.. digraph:: example
+
+   "device1" [shape=circle, style=filled, fillcolor=green]
+   "device2" [shape=circle, style=filled, fillcolor=orange]
+   "broker"  [shape=box, height=2, style=filled, fillcolor=gray]
+
+   "device1" -> "broker"
+   "MotoSuiveur" -> "broker"
+
+
+
+.. rubric:: Footnotes
+
+.. [#f1] Text of the first footnote.

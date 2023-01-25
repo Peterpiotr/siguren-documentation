@@ -317,6 +317,8 @@ If the reason of the failure is not diagnosed proceed in the following order:
 Procedure n°6-1 : Recovery after load arrest - Operation from the hardware buttons 
 ------------------------------------------------------------------------------------
 
+.. illustrations are missing in the source document. 
+
 This procedure has to be followed after a load drop. 
 
 The MotoSuiveur Unit carries the load.
@@ -332,54 +334,57 @@ The MotoSuiveur Unit carries the load.
      - | **On the Main control panel, select “Recovery mode” on the “Normal mode” to “Recovery mode” selection button.**
        | When selecting “Recovery mode”, the Proface touch screen turns automatically to the “Engagement screen” (see Recovery procedure with the Proface for more details).
    * - **2**
-     - | Engaging the clutch(es) of the recovery motor(s).
-       | The engagement procedure is done automatically by the Siguren control panel logics. 
-       | 
-       | .. important::
-       |   If the “ Clutch engaged” light is already on, jump to next step.
-       | 
-       | Otherwise, on the Siguren control panel, press and release the :guilabel:`“Engagement” push button`.
-       | On the Proface touch screen, the blinking :guilabel:`orange light` indicates that the Motosuiveur® is proceeding with the engagement.
-       | On installations with 2 recovery motors, the engagement procedure is performed one after the other. Any modification on these settings requires level 4 password.
-       |
-       | The duration of the engagement cycle is set in the “recovery settings” menu by the manufacturer. It is typically set between 1 to 3 minutes per recovery motor.
-       |
-       | The clutch(es) of the recovery motor(s) is/are engaged when the “Recovery available” light of the Siguren control panel switches on.
-       |
-       | On the Proface, the engagement light turns to permanent green. A button appears on the right handside bottom to allow the visualization of the recovery operation screen.
+     - **Engaging the clutch(es) of the recovery motor(s).**
+       
+       The engagement procedure is done automatically by the Siguren control panel logics. 
+       
+       .. important::
+         If the “ Clutch engaged” light is already on, jump to next step.
+       
+       Otherwise, on the Siguren control panel, press and release the :guilabel:`“Engagement” push button`.
+       On the Proface touch screen, the blinking :guilabel:`orange light` indicates that the Motosuiveur® is proceeding with the engagement.
+       On installations with 2 recovery motors, the engagement procedure is performed one after the other. Any modification on these settings requires level 4 password.
+       
+       The duration of the engagement cycle is set in the “recovery settings” menu by the manufacturer. It is typically set between 1 to 3 minutes per recovery motor.
+       
+       The clutch(es) of the recovery motor(s) is/are engaged when the “Recovery available” light of the Siguren control panel switches on.
+       
+       On the Proface, the engagement light turns to permanent green. A button appears on the right handside bottom to allow the visualization of the recovery operation screen.
    * - **3**
-     - If the engagement process fails, it could be for one of the following reasons:
+     - **The engagement process fails**
+       If the engagement process fails, it could be for one of the following reasons:
       
-       - At least one controller of the recovery motor(s) is not working,
-       - Recovery motors power is not turned on,
-       - The engagement procedure is stopped by time out 
-      
-       .. rubric:: Issue with recovery motors
+      - At least one controller of the recovery motor(s) is not working,
+      - Recovery motors power is not turned on,
+      - The engagement procedure is stopped by time out 
+    
+      Issue with recovery motors
 
-         **Make sure the recovery controllers are running properly.**
-         **Make sure the recovery motors are powered on.**
-      
-       .. rubric:: Engagement process time-out
+      **Make sure the recovery controllers are running properly.**
+      **Make sure the recovery motors are powered on.**
+    
+      Engagement process time-out
 
-         If the engagement is not completed before the cycle timeout, the “engagement” light on the control panel does not turn on, the :guilabel:`engagement status light` turns to permanent red.
-         The engagement failure may come from a short setting of the engagement cycle timeout delay. If the engagement procedure fails due to timeout, it is possible to repeat the procedure again from STEP 2.
-         After many failed trials, verify that the recovery motor(s) operate(s) correctly.
-         
-         See “potential reasons for an engagement failure” paragraph next page.
+      If the engagement is not completed before the cycle timeout, the “engagement” light on the control panel does not turn on, the :guilabel:`engagement status light` turns to permanent red.
+      The engagement failure may come from a short setting of the engagement cycle timeout delay. If the engagement procedure fails due to timeout, it is possible to repeat the procedure again from STEP 2.
+      After many failed trials, verify that the recovery motor(s) operate(s) correctly.
+      
+      See “potential reasons for an engagement failure” paragraph next page.
       
    * - **4**
-     - | It is possible to perform recovery operations if and only if the recovery motor(s) is/are engaged.
-       | **On the Siguren control panel, turn the selection button to “Recovery down” to lower the load on the floor (or on a safe area).**
-       |
-       | .. important::
-       |   It is possible to hoist the load up if necessary. But avoid hoisting the maximum load up with the recovery facility during more than 1 minute.
-       |   Also make sure that the service brake is open during this movement. If it is not the case, it is mandatory to lower the load. 
-       |   If this condition is not respected, the equipment could be damaged.
-       |
-       | **When the load touches the floor, release the** :guilabel:`“recovery down” selection button` of the Siguren control panel.
-       | Remove the load from the hook.
-       | On the Siguren control panel, select “Recovery up”. This action disengages the clutch(es). “Recovery available” light should turn off. 
-       | In the recovery control box, press the push button “Recovery up” to disengage the nut. Check that the “Nut engaged” lamp switches off and the “Nut disengaged” lamp switches on.
+     - **Recovery hoisting down operations**
+       It is possible to perform recovery operations if and only if the recovery motor(s) is/are engaged.
+       **On the Siguren control panel, turn the selection button to “Recovery down” to lower the load on the floor (or on a safe area).**
+       
+       .. important::
+         It is possible to hoist the load up if necessary. But avoid hoisting the maximum load up with the recovery facility during more than 1 minute.
+         Also make sure that the service brake is open during this movement. If it is not the case, it is mandatory to lower the load. 
+         If this condition is not respected, the equipment could be damaged.
+       
+       **When the load touches the floor, release the** :guilabel:`“recovery down” selection button` of the Siguren control panel.
+       Remove the load from the hook.
+       On the Siguren control panel, select “Recovery up”. This action disengages the clutch(es). “Recovery available” light should turn off. 
+       In the recovery control box, press the push button “Recovery up” to disengage the nut. Check that the “Nut engaged” lamp switches off and the “Nut disengaged” lamp switches on.
 
 .. note::
   At the end of this procedure the Motosuiveur® screw is locked in the elastomers in the lift side. 
@@ -397,6 +402,12 @@ The MotoSuiveur Unit carries the load.
 Procedure n°6-2 : Recovery after load arrest - Operation from the Proface touchscreen
 ---------------------------------------------------------------------------------------
 
+The recovery operations can be done either from the Siguren control panel with physical buttons or from the Proface touchscreen.
+
+Operating from the Proface can be the prefered choice when the Siguren control panel is not easily accessible and that the 
+Proface touchscreen is installed on the remote control box.
+
+
 .. list-table:: Procedure n°6-2 : Recovery after load arrest - Operation from the Proface touchscreen
    :widths: 5 95
    :header-rows: 1
@@ -405,22 +416,94 @@ Procedure n°6-2 : Recovery after load arrest - Operation from the Proface touch
    * - Step
      - Description
    * - **1**
-     - 
-   * - **2**
-     -
-   * - **3**
-     - 
-   * - **4**
-     -
-   * - **5**
-     - 
-   * - **6**
-     -
-   * - **7**
-     - 
-   * - **8**
-     -
+     - **Selecting “recovery mode”**
+       The recovery mode can be either selected from the Main hoisting cabinet by selecting “Recovery Mode” 
+       on the selection button or from the Proface touch screen.
 
+       - You need to know the password for level 3 authorization to proceed with recovery operations
+       - On the touchscreen, from the main screen, select “Menu” at the right hand-side bottom of the Main operation screen.
+       - Select “Operating modes” in this menu.
+       - A keypad screen appears to propose you to enter “the level 3” password.
+       - Enter the correct PIN and press enter to get access to the “Operating modes” screen.
+       - Select the mode by clicking the Recovery switch button.
+       - On installations with 2 recovery motors make sure that the “Max position difference” number is correct. This value is expressed into the servo-motor position coding units. It is normally preset by the manufacturer. However, it may vary according installations (diameter of the drum(s) etc.). Once modified this parameter is saved.
+       - Proceed with engagement by pressing the arrow button.
+       - On installations with 2 recovery motors, the position difference between both Motosuiveurs is automatically reset to compute the difference from this value.
+       - The screen switches to the engagement procedure screen.
+       - Press the “Recovery engagement” yellow button to start the engagement cycle.
+       - On installations with 2 recovery motors, engagement processes recovery motors engagement one after the other. The red bar turns half green half red when the first recovery motor is engaged and totally green when both are engaged.
+       - On the Proface touch screen, the blinking orange light indicates that the Motosuiveur® is proceeding with the engagement.
+       - Engagement procedure request the Motosuiveur servo-motor to put the screen into the unscrew mechanical stop and at the same time the recovery motor does little screw and unscrew movements at low torque to let the clutch flywheel mesh with the clutch wheel.
+       - The duration of the engagement cycle is set in the “recovery” settings menu by the manufacturer. It is typically set between 1 to 3 minutes per recovery motor.
+       - On installations with 2 recovery motors, the engagement is done one after the other. The second recovery motor starts is engagement process when the first one is engaged.
+       - The clutch(es) of the recovery motor(s) is/are engaged when the “Engagement status” light turns to permanent green. In parallel the “ Recovery available” light of the Siguren control panel switches on. 
+       - A button appears on the right handside bottom to allow the visualization of the recovery operation screen.
+   * - **2**
+     - **The engagement procedure fails**
+       
+       There are a few reasons why the engagement procedure could fail:
+       
+       -	At least one controller of the recovery motor(s) is not working,
+       -	Recovery motors power is not turned on,
+       -	 The engagement procedure is stopped by time out 
+       
+       **Issue with recovery motors**
+       
+       Make sure the recovery controllers are running properly.
+       Make sure the recovery motors are powered on.
+       
+       **Engagement process time-out**
+       
+       -	If the engagement is not completed before the cycle timeout, the “engagement” light on the control panel does not turn on, the engagement status light turns to permanent red.
+       -	The engagement failure may come from a short setting of the engagement cycle timeout delay. If the engagement procedure fails due to timeout, it is possible to repeat the procedure again from STEP 2.
+       -	After many failed trials, verify that the recovery motor(s) operate(s) correctly.
+       -	See “potential reasons for an engagement failure” paragraph next page.
+
+   * - **3**
+     - **Recovery hoisting up/down operations**
+
+       The engagement performed from the Proface touch screen can be followed by hoisting up/ hoisting down operation performed from the Siguren control panel. We describe here operation made from the Proface touch screen.
+       -	It is possible to perform recovery operations if and only if the recovery motor(s) is/are engaged.
+       -	One the recovery is available, the access to the hoisting operation screen is done by pressing the “To hoisting operation” rightward arrow on the right hand-side bottom.
+       -	The screen displays the status of the engagement switch (ISN), the status of the VAR that controls the recovery motors.
+       -	Up and down hoisting operations are down with up and down buttons...
+       -	All load hoisting up operations under recovery should not exceed 1mn and wait for the recovery motor to cool down during 10 mn.
+       -	Some installations, in particular those with two Motosuiveurs, have an oversized recovery capablity. In that case hoisting up operations may have no time limit. Verify your installation capabilities
+       -	On installations with 2 recovery motors, it is possible to run recovery motors independently or in sync(center buttons). 
+         The default operation mode is moving both recovery in sync. Operating them separatly should be restricted to especial scenarios. 
+         The logics verifies that the position of each Motosuiveur® and compares them. 
+         The position difference cannot exceed the maximum defined in the “Recovery settings” or in the “Operating mode” screen when selected on “Recovery" (figure 24) and it is protected by the logics. 
+         A physical position difference exists if and only if the hoisting shaft is broken, e.g. if it is composed of two parts connected by a gear and that gear is broken.
+       -	If the position difference exceeds the limit, the logics blocks the movement of each recovery motor in the 
+         direction that would increase the difference whether the order is done independently or in sync.  
+         This limitation persists until the position difference is back to 0 (figures 39 and 40).
+       -	When the load touches the floor, the hook stops lowering for about 30s.
+         Continue pressing the “Recovery down” button until the hook start to lower again, the free the hook.
+       -	Remove the load from the hook.
+       -	In the recovery control box, press the push button “Recovery up” to disengage the nut. Check that the “Recovery engaged” light switches off and the “Recovery disengaged” light switches on.
+       
+       Note: At the end of this procedure the Motosuiveur® worm is locked in the elastomers in the lift side. With the main motor, make a 1 second movement at low speed in the down direction to unlock the screw.
+
+
+.. rubric:: Potential reasons for a recovery engagement failure
+  
+  Recovery clutch engagement may fail if:
+
+  -	the engagement sensor is not working properly (blocked in upper position). The engagement could be effective while the indication is wrong.
+  -	when the worm does not pre-engage due to a potential servo-motor/servo-motor drive issue (this failure may be indicated by the position sensor still on but not always.
+  -	The recovery motor or its drive are faulty.
+  -	A mechanical problem occurred on the recovery clutch.
+
+.. note:: 
+  At the end of this procedure the Motosuiveur® worm is locked in the elastomers in the lift side. 
+  With the main motor, make a 1 second movement at low speed in the down direction to unlock the screw
+
+.. important::
+  It’s important to cut the power supply of the equipment before any maintenance operation.
+  Do not power up the equipment until the failed component has been fixed or changed.
+
+.. warning::
+  Lengthy and/or repetitive use of the recovery facility can cause excessive wear of the Motosuiveur®.
 
 
 Procedure n°6-3 : Recovery operation with pre-engagement with the load
