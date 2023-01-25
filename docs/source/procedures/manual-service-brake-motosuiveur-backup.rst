@@ -36,23 +36,3 @@ The only difference occurs in step 5 where the operator 1 should place the crank
    * - **5**
      - The operator n°1 opens the service brake step by step (to allow the lowering of the load by gravity without exceeding a certain speed, in which case the MS blocks). 
        Meanwhile, the other operator n°2 should follow the movement by rotating the handle
-   * - **6**
-     - 
-   * - **7**
-     - 
-   * - **8**
-     - 
-   
-   
-   * - **1**
-     - 
-   * - **2**
-     - 
-   * - **1**
-     - 
-   * - **2**
-     - 
-   * - **1**
-     - 
-   * - **2**
-     - 
