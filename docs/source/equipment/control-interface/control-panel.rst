@@ -70,7 +70,7 @@ Local controls are used for:
 :numref:`Control signals between hoist and MS` shows schematically the control signals between hoist and MS. 
  
 .. _Control signals between hoist and MS:
-.. figure:: ../img/controlSignals.png
+.. figure:: ../_img/controlSignals.png
 	:align: center
 
 	Control signals between hoist and MS
@@ -127,13 +127,13 @@ On :numref:`MS controller internal error E01` is shown example for internal MS c
 On :numref:`MS warning number 10 (wrn_num = 10)` is shown example for MS warning.
 
 .. _MS controller internal error E01:
-.. figure:: ../img/MScontrollerInternalErrorE01.png
+.. figure:: ../../_img/MScontrollerInternalErrorE01.png
 	:align: center
 
 	MS controller internal error E01 
 
 .. _MS warning number 10 (wrn_num = 10):
-.. figure:: ../img/MSwarningNumber10.png
+.. figure:: ../_img/MSwarningNumber10.png
 	:align: center
 
 	MS warning number 10 (wrn_num = 10) 
