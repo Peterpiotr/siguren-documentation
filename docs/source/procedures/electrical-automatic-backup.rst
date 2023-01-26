@@ -2,6 +2,11 @@
 Electrical/automatic back-up procedure
 =========================================
 
+.. include:: ../img/substitutions.rst
+
+.. =====================================================================================================================
+
+
 This procedure is to be done when the two kinematic chains are operational but other types of faults appear (disadjusments etc.). 
 It allows moving the load at a certain position at slow speed.
 

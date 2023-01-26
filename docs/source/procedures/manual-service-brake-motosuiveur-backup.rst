@@ -2,6 +2,11 @@
 Back-up by manual action of the service brake and manual rotation of the Motosuiveur procedure
 ===================================================================================================
 
+.. include:: ../img/substitutions.rst
+
+.. =====================================================================================================================
+
+
 This procedure has to be followed in case of one Motosuiveur® motor is defective.
 
 The lowering movement is controlled manually by the operator, through the handle at the

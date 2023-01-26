@@ -2,6 +2,10 @@
 Back-up by forced lowering procedure
 =====================================
 
+.. include:: ../img/substitutions.rst
+
+.. =====================================================================================================================
+
 This procedure has to be done in case of the main kinematic chain is not available (gearbox or transmission shaft breakage).
 
 .. note::
