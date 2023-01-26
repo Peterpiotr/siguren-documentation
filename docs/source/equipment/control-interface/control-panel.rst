@@ -2,7 +2,7 @@
 Control panel
 ==============
 
-.. include:: ../_img/_image-substitutions.rst
+.. include:: ../../_img/_image-substitutions.rst
 
 .. note::
 	the control panel can be on the door of the control cabinet, but can also be located in the operator's cabin for example.
