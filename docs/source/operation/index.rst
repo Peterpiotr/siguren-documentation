@@ -2,8 +2,15 @@
 Operating a MotoSuiveur-Secured hoist
 =======================================
 
-test
+```{eval-rst}
+:hidetoc: 1
+```
 
+## test
+
+etest
+
+```{toctree}
 ---
 maxdepth: 1
 ---
@@ -18,3 +25,4 @@ re-engaging
 backup-recovery-mode
 backup-procedure
 memory-card
+```
