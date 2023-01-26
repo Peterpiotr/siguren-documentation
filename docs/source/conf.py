@@ -46,13 +46,13 @@ html_theme = 'sphinx_material'
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
 
-html_logo = 'img/siguren_logo_white.png'
+html_logo = '_img/siguren_logo_white.png'
 
 # The name of an image file (within the static path) to use as favicon of the docs.
 # This file should be a Windows icon file (.ico) being 16x16 or 32x32 pixels large.
 #html_favicon = os.path.join(html_theme_path[0], html_theme, 'static', 'img', 'favicon.ico')
 
-html_favicon = 'img/favicon.ico'
+html_favicon = '_img/favicon.ico'
 
 html_theme_options = {
 # sphinx material theme options ----------------------------------------------------------------------

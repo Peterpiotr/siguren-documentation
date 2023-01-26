@@ -34,7 +34,9 @@ Learn more about MotoSuiveur Solutions components.
    :hidden:
    :caption: Equipment overview
 
-   /equipment/index
+   /equipment/ms-solution/index
+   /equipment/control-interface/index
+   
 
 Installation
 =============
@@ -56,8 +58,9 @@ Learn more about the process of integrating a MotoSuiveur Solution into an exist
   :hidden:
   :caption: Installation
 
-  /installation/index
-
+  /installation/logistics/index
+  /installation/installation-existing/index
+  /installation/electrical-connections/index
 
 Operation
 ===========
@@ -78,8 +81,10 @@ Operation
   :titlesonly:
   :caption: Operation
 
-  /operation/index
-  /procedures/index-procedures
+  /operation/regular/index
+  /operation/load-arrest/index
+  /operation/recovery/index
+  /operation/regulatory-testing/index
 
 Troubleshooting
 ================
@@ -96,7 +101,8 @@ Troubleshooting
   :hidden:
   :caption: Troubleshooting
 
-  /troubleshooting/index
+  /troubleshooting/diagnostics/index
+  /troubleshooting/trpubleshooting-measures/index
 
 Maintenance
 =============
@@ -114,7 +120,9 @@ Maintenance
   :hidden:
   :caption: Maintenance
 
-  /maintenance/index
+  /maintenance/planned-maintenance/index
+  /maintenance/spare-parts/index
+  /maintenance/updates/index
 
 
 MotoSuiveur Solutions
