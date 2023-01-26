@@ -87,17 +87,7 @@ Operation
   :hidden:
   :caption: Operation
 
-  /operation/operation-modes
-  /operation/system-reset
-  /operation/recovery-operation
-  /operation/controller-internal-check
-  /operation/self-test
-  /operation/following
-  /operation/load-arrest
-  /operation/re-engaging
-  /operation/backup-recovery-mode
-  /operation/backup-procedure
-  /operation/memory-card
+  /operation/index
   /procedures/index
 
 Troubleshooting
