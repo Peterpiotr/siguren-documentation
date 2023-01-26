@@ -19,9 +19,9 @@ The Front Panel is the main source for power and recovery functions.
 The operator has the facility to use the controls on the HMI and the controls on the Recovery and Main Supply Panel as shown on below.
 
 .. _Control panel layout SCX:
-.. figure:: img/control-panel-03.png
+.. figure:: ../_img/control-panel-03.png
 	:align: center
-	:width: 10 em
+	:figwidth: 600 px
 
 	Control panel layout SCX
 
