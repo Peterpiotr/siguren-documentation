@@ -2,7 +2,7 @@
 Password entry procedure
 =========================
 
-.. include:: ../img/substitutions.rst
+.. include:: ../procedures/img/substitutions.rst
 
 .. ====================================================================================================================
 
