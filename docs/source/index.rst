@@ -59,8 +59,8 @@ Learn more about the process of integrating a MotoSuiveur Solution into an exist
   :caption: Installation
 
   /installation/logistics/index
-  /installation/installation-existing/index
-  /installation/electrical-connections/index
+  /installation/mechanical-installation/index
+  /installation/controls-installation/index
 
 Operation
 ===========

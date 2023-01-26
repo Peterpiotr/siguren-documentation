@@ -8,16 +8,18 @@ Load recovery operation
 
 .. toctree::
    :maxdepth: 2
-   :hidden:
 
+   recovery-operation
+   backup-procedure
+   backup-recovery-mode
    manual-service-brake-backup
    manual-service-brake-motosuiveur-backup
    forced-lowering-backup
    electrical-automatic-backup 
    automatic-recovery-engagement
 
+
 Back-up mode procedures
-=========================
 
 .. note::
 	Source: :download:`User Manual-7.4.doc`

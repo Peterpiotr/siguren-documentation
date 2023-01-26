@@ -4,7 +4,6 @@ MotoSuiveur Solution components
 
 .. toctree::
    :maxdepth: 2
-   :hidden:
 
    ms-unit
    control-cabinet
