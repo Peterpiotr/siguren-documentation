@@ -11,7 +11,7 @@ Password entry procedure
 
 When the following window appears, the operator should enter the suitable password.
 
-.. figure:: password-entry-01.png
+.. figure:: img/password-entry-01.png
 	:figwidth: 600 px
 	:align: center
 
@@ -26,7 +26,7 @@ When the following window appears, the operator should enter the suitable passwo
      - Description
    * - **1**
      - | **Switch off the supply of the Motosuiveur® cabinet or all the circuit breaker inside.**
-       | .. image:: img/password-entry-01.png
+       | |password-entry-01|
    * - **2**
      - | **Press** :guilabel:`ENT`
        | |password-entry-02|
