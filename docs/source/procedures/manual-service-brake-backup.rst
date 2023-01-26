@@ -2,7 +2,7 @@
 Back-up by manual action of the service brake procedure
 ========================================================
 
-.. include:: ../img/substitutions.rst
+.. include:: ../procedures/img/substitutions.rst
 
 .. ====================================================================================================================
 
@@ -17,6 +17,9 @@ Comments:
 - Ensure power to the motor is removed. =
 - Each of the two operators can stop the operation: the first operator by closing the service brake, the other operator by stopping the rotation of MS.
 
+|manual-service-brake-backup-01|
+.. integrate this image to the procedure
+
 .. list-table:: Back-up by manual action of the service brake procedure
    :widths: 5 95
    :header-rows: 1
@@ -25,17 +28,17 @@ Comments:
    * - Step
      - Description
    * - **1**
-     - On the main screen, press « Menu ».
+     - On the main screen, press :guilabel:`Menu`.
    * - **2**
-     - press « Back up mode » 
+     - press :guilabel:`Back up mode` 
    * - **3**
      - Enter a level 2 (or 3) password
    * - **4**
-     - On the activation screen of the back-up mode, press “activate back up mode” 
+     - On the activation screen of the back-up mode, press :guilabel:`activate back up mode` 
    * - **5**
-     - | Operator n°1 : Allow the motion by pushing the button up or down on the touch screen
+     - | Operator n°1 : Allow the motion by pushing the button :guilabel:`UP` or :guilabel:`DOWN` on the touch screen
        | Operator n°2 : Simultaneously with operator n°1, release the service brake little by little in order to allow 
-         the lowering of the load by gravity without reaching overspeed, otherwise the Motosuiveur® will block.
+         the lowering of the load by gravity without reaching overspeed, otherwise the MotoSuiveur will block.
 
 When the limit speed is reached, the MS goes into action intrinsically by blocking the worm.
 
