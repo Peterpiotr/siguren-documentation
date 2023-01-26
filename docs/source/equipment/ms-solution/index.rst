@@ -1,5 +1,5 @@
 ================================
-MotoSuiveur Solution equipment
+MotoSuiveur Solution components
 ================================
 
 .. toctree::
