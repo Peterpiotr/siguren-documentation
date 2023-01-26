@@ -2,7 +2,7 @@
 Control panel
 ==============
 
-.. include:: ../substitutions.rst
+.. include:: ../../_image-substitutions.rst
 
 .. note::
 	the control panel can be on the door of the control cabinet, but can also be located in the operator's cabin for example.
@@ -53,14 +53,14 @@ Local controls are used for:
 
 
 .. _General view of MotoSuiveur control panel:
-.. figure:: ../_img/control-panel-02.png
+.. figure:: ../../_img/control-panel-02.png
 	:align: center
 
 	General view of MotoSuiveur control panel
 
 .. _Control panel legend:
 .. csv-table:: Control panel legend
-   :file: tables/control-panel-legend.csv
+   :file: ../../_tables/control-panel-legend.csv
    :delim: ;
    :header-rows: 1
    :widths: 10, 30, 20, 40
@@ -70,7 +70,7 @@ Local controls are used for:
 :numref:`Control signals between hoist and MS` shows schematically the control signals between hoist and MS. 
  
 .. _Control signals between hoist and MS:
-.. figure:: ../_img/controlSignals.png
+.. figure:: ../../_img/controlSignals.png
 	:align: center
 
 	Control signals between hoist and MS
@@ -133,7 +133,7 @@ On :numref:`MS warning number 10 (wrn_num = 10)` is shown example for MS warning
 	MS controller internal error E01 
 
 .. _MS warning number 10 (wrn_num = 10):
-.. figure:: ../_img/MSwarningNumber10.png
+.. figure:: ../../_img/MSwarningNumber10.png
 	:align: center
 
 	MS warning number 10 (wrn_num = 10) 
@@ -156,7 +156,7 @@ Movement directions of worm correspond to clock directions.
 on :numref:`MS Worm rotating directions`.
  
 .. _MS Worm rotating directions:
-.. figure:: ../img/MSwormrotatingDirections.png
+.. figure:: ../../_img/MSwormrotatingDirections.png
 	:figwidth: 600 px
 	:align: center
 
