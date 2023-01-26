@@ -19,13 +19,14 @@ Learn more about MotoSuiveur Solutions components.
 * **MotoSuiveur Solutions components**:
   :doc:`/equipment/ms-unit` |
   :doc:`/equipment/control-cabinet` |
+  :doc:`/equipment/tl-addon` |
 
-* **User interfaces**:
+
+* **Control interfaces**:
   :doc:`/equipment/control-panel` |
   :doc:`/equipment/gui-hmi` |
 
-* **MotoSuiveur Add-ons**:
-  :doc:`/equipment/tl-addon` |
+* **MotoSuiveur Recovery Add-ons**:
   :doc:`/equipment/rec-addons` |
 
 .. toctree::
@@ -40,12 +41,15 @@ Installation
 
 Learn more about the process of integrating a MotoSuiveur Solution into an existing or new hoist design.
 
-* **Interfaces with the hoisting mechanism and controls**:
-  :doc:`/mechanical-interface` |
-  :doc:`/electrical-interface`
+* **Logistics**:
+  :doc:`` |
+  :doc:``
 
-* **Installation cases**:
-  :doc:`Installing multiple MotoSuiveur Units </multiple-ms>`
+* **Installation on existing hoist**:
+  :doc:``
+
+* **Electrical connections**:
+  :doc:``
 
 .. toctree::
   :maxdepth: 2
@@ -58,12 +62,15 @@ Learn more about the process of integrating a MotoSuiveur Solution into an exist
 Operation
 ===========
 
-* **Interfaces with the hoisting mechanism and controls**:
-  :doc:`/mechanical-interface` |
-  :doc:`/electrical-interface`
+* **Regular operation**:
+  :doc:`` |
+  :doc:``
 
-* **Installation cases**:
-  :doc:`Installing multiple MotoSuiveur Units </multiple-ms>`
+* **Load arrest**:
+  :doc:``
+
+* **Load recovery**:
+  :doc:``
 
 .. toctree::
   :maxdepth: 2
@@ -77,6 +84,13 @@ Operation
 Troubleshooting
 ================
 
+* **Diagnostics**:
+  :doc:`` |
+  :doc:``
+
+* **Troubleshooting measures**:
+  :doc:``
+
 .. toctree::
   :maxdepth: 2
   :hidden:
@@ -87,9 +101,12 @@ Troubleshooting
 Maintenance
 =============
 
-* **Planned maintenance**:
+* **Planned maintenance schedule**:
   :doc:`/planned-maintenance` |
-  :doc:`/servicing` |
+  :doc:`/spare-parts` 
+
+* **Spare parts**:
+  :doc:`/planned-maintenance` |
   :doc:`/spare-parts` 
 
 .. toctree::

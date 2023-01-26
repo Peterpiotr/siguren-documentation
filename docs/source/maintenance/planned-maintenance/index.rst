@@ -1,6 +1,6 @@
-============
-Maintenance
-============
+=====================
+Planned maintenance
+=====================
 
 .. toctree::
   :maxdepth: 2
@@ -12,6 +12,5 @@ Maintenance
   maintenance-schedule
   lubrication
   storage
-  spare-parts
-  safety-datasheets
   servicing
+  predictive-maintenance
