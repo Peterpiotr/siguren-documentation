@@ -17,6 +17,10 @@ When the following window appears, the operator should enter the suitable passwo
 
 	Password entry screen
 
+|password-entry-01|
+
+
+
 .. list-table:: --
    :widths: 5 95
    :header-rows: 1
