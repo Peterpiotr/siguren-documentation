@@ -31,7 +31,7 @@ Learn more about MotoSuiveur Solutions components.
 .. toctree::
    :maxdepth: 2
    :hidden:
-   .. :caption: Equipment overview
+   :caption: Equipment overview
 
    /equipment/ms-unit
    /equipment/control-cabinet
@@ -98,13 +98,7 @@ Operation
   /operation/backup-recovery-mode
   /operation/backup-procedure
   /operation/memory-card
-  
-
-.. toctree::
-  :maxdepth: 3
-  :hidden:
-
-  /procedures/index-procedures
+  /procedures/index
 
 Troubleshooting
 ================
