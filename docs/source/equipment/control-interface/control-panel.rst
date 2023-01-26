@@ -53,7 +53,7 @@ Local controls are used for:
 
 
 .. _General view of MotoSuiveur control panel:
-.. figure:: img/control-panel-02.png
+.. figure:: ../_img/control-panel-02.png
 	:align: center
 
 	General view of MotoSuiveur control panel
