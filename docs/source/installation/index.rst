@@ -1,5 +1,5 @@
 =====================
-installation
+Installation
 =====================
 
 
@@ -7,14 +7,13 @@ installation
 .. toctree::
   :maxdepth: 2
   :hidden:
-  :caption: Installation
 
   installation-safety
   ms-delivery
-  ms-handling
-  ms-drum-installation
-  installation-on-existing-hoist
-  ms-flange-installation
+    ms-handling
+    ms-drum-installation
+    installation-on-existing-hoist
+    ms-flange-installation
   ms-seat-installation
   ms-positioning
   connect-ms-control-cabinet
