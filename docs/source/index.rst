@@ -83,7 +83,6 @@ Operation
   /operation/regular/index
   /operation/load-arrest/index
   /operation/recovery/index
-  /operation/regulatory-testing/index
 
 Troubleshooting
 ================
@@ -122,7 +121,7 @@ Maintenance
   /maintenance/planned-maintenance/index
   /maintenance/spare-parts/index
   /maintenance/updates/index
-
+  .. regulatory-testing
 
 MotoSuiveur Solutions
 =======================

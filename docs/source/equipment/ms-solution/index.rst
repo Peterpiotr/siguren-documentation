@@ -1,6 +1,6 @@
-===========
-Equipment
-===========
+================================
+MotoSuiveur Solution equipment
+================================
 
 .. toctree::
    :maxdepth: 2
