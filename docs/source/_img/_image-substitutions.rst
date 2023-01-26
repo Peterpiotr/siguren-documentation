@@ -39,8 +39,8 @@
 .. |image059| image:: ../../_img/7-segment/image059-rs.png
 .. |image060| image:: ../../_img/7-segment/image060-rs.png
 .. =========================================================================
-.. |password-entry-01| image:: ../_img/password-entry-01.png
-.. |password-entry-02| image:: ../_img/password-entry-02.png
-.. |manual-service-brake-backup-01|  image:: ../img/manual-service-brake-backup-01.png
-.. |manual-service-brake-motosuiveur-backup-01|  image:: ../_img/manual-service-brake-motosuiveur-backup-01.png
-.. |manual-service-brake-motosuiveur-backup-02|  image:: ../_img/manual-service-brake-motosuiveur-backup-02.png
+.. |password-entry-01| image:: ../../_img/password-entry-01.png
+.. |password-entry-02| image:: ../../_img/password-entry-02.png
+.. |manual-service-brake-backup-01|  image:: ../../_img/manual-service-brake-backup-01.png
+.. |manual-service-brake-motosuiveur-backup-01|  image:: ../../_img/manual-service-brake-motosuiveur-backup-01.png
+.. |manual-service-brake-motosuiveur-backup-02|  image:: ../../_img/manual-service-brake-motosuiveur-backup-02.png

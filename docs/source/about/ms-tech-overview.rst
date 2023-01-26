@@ -18,14 +18,14 @@ It also allows emergency operation of the hoist using the recovery facility, in 
 
 Moreover, it offers the possibility to check the parameters, to test the securities of the program by modifying some parameters.
 
-.. figure:: img/ms-tech-01.png
+.. figure:: ../_img/ms-tech-01.png
     :figwidth: 600 px
     :align: center  
 
     Example of MotoSuiveur Solution implementation
 
 
-Functioning principle MSF
+Functioning principle MotoSuiveurF
 =========================
 
 The wheel is connected to the drum through a splined shaft or a torque transmission flange (connected with dowels). 
@@ -37,7 +37,7 @@ At shutdown, the load is maintained by the service brake.
 Any accident will generate a rupture in the accompaniment of the movement of the wheel / drum set, 
 which results in a blocking of the last one (and thus the blocking of the load) by the worm screw. 
 In such a case, the Motosuiveur®® stops the load in a distance depending on the hoist inertias and torque, 
-by friction of the internal disks of the friction absorber inside the MS wheel.
+by friction of the internal disks of the friction absorber inside the MotoSuiveur wheel.
 
 As option, a torque limiter can be added between the main motor and the gear box in order to smooth the static and dynamic overloads.
 

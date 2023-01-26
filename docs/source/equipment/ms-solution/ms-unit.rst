@@ -6,8 +6,8 @@ MotoSuiveur Unit
    :class: mechpart
 
 .. note::
-    Describes the MS unit. Describes what options users have for assembling an MS unit with their hoist, new or existing. 
-    MS seat and flange/splines. Bearing/non-bearing. Arrest torque absorption.
+    Describes the MotoSuiveur unit. Describes what options users have for assembling an MotoSuiveur unit with their hoist, new or existing. 
+    MotoSuiveur seat and flange/splines. Bearing/non-bearing. Arrest torque absorption.
 
 Component description
 ======================
@@ -21,7 +21,7 @@ the corresponding braking torque (2) and other characteristics (mass (3), oil qu
 The MotoSuiveur is designed to resist the dynamic solicitations **of a defined application**; so before any putting in operation, 
 make sure that the installation complies entirely with the application that the Motosuiveur® have been ordered by checking the nameplate.
 
-.. figure:: img/ms-unit-02.png
+.. figure:: ../../_img/ms-unit-02.png
     :figwidth: 600 px
     :align: center  
     
@@ -57,7 +57,7 @@ Manual command handle (wrench)
 The manual operation devices allow the Motosuiveur® to set-down the load in case of a breakdown (gravity lowering). 
 The operating procedure is described in *chapter 5*.
 
-.. figure:: img/ms-unit-03.png
+.. figure:: ../../_img/ms-unit-03.png
     :figwidth: 600 px
     :align: center  
     
@@ -65,7 +65,7 @@ The operating procedure is described in *chapter 5*.
 
 For example, the manual command handle can be composed of a standard speed handle (square ¾ “) (1), a socket universal (2) and a socket (3).
 
-.. figure:: img/ms-unit-04.png
+.. figure:: ../../_img/ms-unit-04.png
     :figwidth: 600 px
     :align: center  
     

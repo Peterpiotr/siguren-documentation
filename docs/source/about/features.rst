@@ -3,6 +3,6 @@ MotoSuiveur Solutions features
 ================================
 
 .. note::
-    answer to "what does MS do?" and "what can you achieve with MS that was not possible before?"
+    answer to "what does MotoSuiveur do?" and "what can you achieve with MotoSuiveur that was not possible before?"
 
 

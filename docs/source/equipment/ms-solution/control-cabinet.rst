@@ -3,7 +3,7 @@ Control cabinet
 ================
 
 .. note::
-	Describes what standard MS electrical panel is like. I/O, components, connectors, options…
+	Describes what standard MotoSuiveur electrical panel is like. I/O, components, connectors, options…
 
 .. note::
 	Source: :download:`User Manual-7.4.doc`
@@ -40,7 +40,7 @@ Architecture of a *standalone* Motosuiveur Solution
 ======================================================
 
 .. _Architecture of a standalone Motosuiveur Solution:
-.. figure:: img/control-cabinet-01.png
+.. figure:: ../../_img/control-cabinet-01.png
 	:figwidth: 600 px
 	:align: center
 
@@ -56,7 +56,7 @@ Integration of the Motosuiveur in the control system
 =======================================================
 
 .. _Integration of the Motosuiveur in the control system
-.. figure:: img/control-cabinet-02.png
+.. figure:: ../../_img/control-cabinet-02.png
 	:figwidth: 600 px
 	:align: center
 
@@ -69,43 +69,43 @@ Hoist interfaces
 .. note::
 	Source: :download:`User Manual-7.4.doc`
 
-.. figure:: img/hoist-interfaces-01.png
+.. figure:: ../../_img/hoist-interfaces-01.png
 	:figwidth: 600 px
 	:align: center
 
 	Hoist interface
 
-Inputs for MS cabinet
+Inputs for MotoSuiveur cabinet
 ----------------------
 
 - ON 	: hoist drive ready
 - UP 	: command for UP movement
 - DOWN	: command for DOWN movement
-- RESET: must be used after a MS drive fault (not for MS sensors)
+- RESET: must be used after a MotoSuiveur drive fault (not for MotoSuiveur sensors)
 
-Outputs for MS cabinet
+Outputs for MotoSuiveur cabinet
 ------------------------
 
-- MS ready UP 	    : Up movement is available
-- MS ready DOWN: Down movement is available
+- MotoSuiveur ready UP 	    : Up movement is available
+- MotoSuiveur ready DOWN: Down movement is available
 - Quick stop	    : 
-  - After a MS fault (drive or sensor), immediate stop of hoist drive, without ramp.
-  - After quick stop delay time, adjustable on HMI, with a sensor fault, it's possible to start in the opposite direction. With a MS drive fault, it's necessary to push RESET button after hoist state control.
+  - After a MotoSuiveur fault (drive or sensor), immediate stop of hoist drive, without ramp.
+  - After quick stop delay time, adjustable on HMI, with a sensor fault, it's possible to start in the opposite direction. With a MotoSuiveur drive fault, it's necessary to push RESET button after hoist state control.
 
 
-Example for wiring of MS interfaces
+Example for wiring of MotoSuiveur interfaces
 --------------------------------------
 
-.. figure:: img/hoist-interfaces-02.png
+.. figure:: ../../_img/hoist-interfaces-02.png
 	:figwidth: 600 px
 	:align: center
 
-	Example for wiring of MS interfaces
+	Example for wiring of MotoSuiveur interfaces
 
 Chronograph
 -------------
 
-.. figure:: img/hoist-interfaces-03.png
+.. figure:: ../../_img/hoist-interfaces-03.png
 	:figwidth: 600 px
 	:align: center
 

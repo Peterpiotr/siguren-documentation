@@ -1,5 +1,5 @@
 ========
-MS HMI
+MotoSuiveur HMI
 ========
 
 .. include:: ../equipment/_img/substitutions.rst
@@ -8,25 +8,25 @@ MS HMI
 
 .. note::
     "What is the HMI screen useful for?" Describes all screens of GUI and the elements in each of them. 
-    Describes what the HMI can and cannot do. Presents GUI as the window that makes visible what you cannot see in the MS. 
+    Describes what the HMI can and cannot do. Presents GUI as the window that makes visible what you cannot see in the MotoSuiveur. 
     - Log of events. 
     - Planned maintenance.
     - Changing values of variables.  
     - What messages appear on screen according to what is happening on the hoist.
 
 
-The MS HMI is a Schneider Magelis HMI STU 655/855 color graphic touchscreen terminal 
-programmed with the MSHMI firmware by Siguren technologies. 
-MS HMI communicates with the MS controller via MODBUS RTU protocol.
+The MotoSuiveur HMI is a Schneider Magelis HMI STU 655/855 color graphic touchscreen terminal 
+programmed with the MotoSuiveurHMI firmware by Siguren technologies. 
+MotoSuiveur HMI communicates with the MotoSuiveur controller via MODBUS RTU protocol.
 
-.. _MS HMI view:
-.. figure:: img/ms-hmi-01.png
+.. _MotoSuiveur HMI view:
+.. figure:: ../../_img/ms-hmi-01.png
 	:scale: 100 %
 	:align: center
 
-	MS HMI 
+	MotoSuiveur HMI 
 
-Advantages of using MSHMI to operate with MotoSuiveur are:
+Advantages of using MotoSuiveurHMI to operate with MotoSuiveur are:
 
 	- Display MotoSuiveur status information in the form of messages, event listings, graphics and numerical values;
 	- Change the MotoSuiveur configuration. Configuration has a secure access code at different levels;
@@ -34,7 +34,7 @@ Advantages of using MSHMI to operate with MotoSuiveur are:
 	- Display maintenance information of MotoSuiveur.
 
 .. note::
-    MSHMI is not part of standard MS equipment and can be ordered additionally.
+    MotoSuiveurHMI is not part of standard MotoSuiveur equipment and can be ordered additionally.
 
 
 HMI Touch Screen Operations
@@ -49,7 +49,7 @@ Main Screen
 The Motosuiveur® control system uses a touchscreen attached to the logics controller.
 
 .. _Main Screen Components:
-.. figure:: img/ms-hmi-02.png
+.. figure:: ../../_img/ms-hmi-02.png
 	:figwidth: 400 px
 
 	Main Screen Components
@@ -108,7 +108,7 @@ The Motosuiveur® control system uses a touchscreen attached to the logics contr
     - Both 'Raise' and 'Lower' signals are on
   * - 5
     - Power output off
-    - The MS controller power stage is off
+    - The MotoSuiveur controller power stage is off
   * - 10
     - Blocked Unsuccessful centering
     - (worm not free at the end of the movement)
@@ -250,7 +250,7 @@ The Motosuiveur® control system uses a touchscreen attached to the logics contr
     - Movement won't start (starting timeout detected)
   * - 44
     - Sudden Stop
-    - MS physical activation detected
+    - MotoSuiveur physical activation detected
 
 .. =====================================================================================================
 
@@ -261,7 +261,7 @@ Fault screen
 The fault screen shows status of fault once :guilabel:`‘Info’ button` has been pressed.
 
 .. _Fault Screen Components:
-.. figure:: img/ms-hmi-03.png
+.. figure:: ../../_img/ms-hmi-03.png
 	:figwidth: 400 px
 
 	Fault Screen Components
@@ -298,7 +298,7 @@ Communication Failure Screen
 ------------------------------
 
 .. _Communication Failure Screen:
-.. figure:: img/ms-hmi-04.png
+.. figure:: ../../_img/ms-hmi-04.png
 	:figwidth: 400 px
 
 	Communication Failure Screen
@@ -322,7 +322,7 @@ Menu Screen
 -------------
 
 .. _Menu Screen Components:
-.. figure:: img/ms-hmi-05.png
+.. figure:: ../../_img/ms-hmi-05.png
 	:figwidth: 400 px
 
 	Menu Screen Components
@@ -342,7 +342,7 @@ Menu Screen
     - Events record
     - Redirects to the screen with history event records.
   * - 3
-    - MS1 parameters button
+    - MotoSuiveur1 parameters button
     - Redirects to the screen for selection a group of parameters for changing.
   * - 4
     - Status monitor button
@@ -369,7 +369,7 @@ Language Selection Screen
 -------------
 
 .. _Language Selection Screen Components:
-.. figure:: img/ms-hmi-06.png
+.. figure:: ../../_img/ms-hmi-06.png
 	:figwidth: 400 px
 
 	Language Selection Screen Components
@@ -398,7 +398,7 @@ Event Records Screen
 -------------
 
 .. _Event Records Screen Components:
-.. figure:: img/ms-hmi-07.png
+.. figure:: ../../_img/ms-hmi-07.png
 	:figwidth: 400 px
 
 	Event Records Screen Components
@@ -432,16 +432,16 @@ Event Records Screen
 
 .. =====================================================================================================
 
-MS1 Parameters Screen
+MotoSuiveur1 Parameters Screen
 -------------
 
-.. _MS1 Parameters Screen Components:
-.. figure:: img/ms-hmi-08.png
+.. _MotoSuiveur1 Parameters Screen Components:
+.. figure:: ../../_img/ms-hmi-08.png
 	:figwidth: 400 px
 
-	MS1 Parameters Screen Components
+	MotoSuiveur1 Parameters Screen Components
 
-.. list-table:: MS1 Parameters Screen Components
+.. list-table:: MotoSuiveur1 Parameters Screen Components
   :width: 600 px
   :widths: 5 25 70
   :header-rows: 1
@@ -472,20 +472,20 @@ MS1 Parameters Screen
 
 
 .. note::
-    The term “MS1” is not related to the MS size.
+    The term “MotoSuiveur1” is not related to the MotoSuiveur size.
 
 .. =====================================================================================================
 
-MS1 VR Parameters Screen
+MotoSuiveur1 VR Parameters Screen
 -------------
 
-.. _MS1 VR Parameters Screen Components:
-.. figure:: img/ms-hmi-09.png
+.. _MotoSuiveur1 VR Parameters Screen Components:
+.. figure:: ../../_img/ms-hmi-09.png
 	:figwidth: 400 px
 
-	MS1 VR Parameters Screen Components
+	MotoSuiveur1 VR Parameters Screen Components
 
-.. list-table:: MS1 VR Parameters Screen Components
+.. list-table:: MotoSuiveur1 VR Parameters Screen Components
   :width: 600 px
   :widths: 5 25 70
   :header-rows: 1
@@ -509,7 +509,7 @@ Maintenance Screen
 -------------
 
 .. _Maintenance Screen Components:
-.. figure:: img/ms-hmi-10.png
+.. figure:: ../../_img/ms-hmi-10.png
 	:figwidth: 400 px
 
 	Maintenance Screen Components
@@ -529,10 +529,10 @@ Maintenance Screen
     - Working time
     - Shows total working time.
   * - 3
-    - MS odometer
+    - MotoSuiveur odometer
     - Shows overall distance travelled by the motor.
   * - 4
-    - MS workmeter
+    - MotoSuiveur workmeter
     - Shows overall performed work.
   * - 5
     - Next maintenance type
@@ -551,7 +551,7 @@ Version Screen
 -------------
 
 .. _Version Screen Components:
-.. figure:: img/ms-hmi-11.png
+.. figure:: ../../_img/ms-hmi-11.png
 	:figwidth: 400 px
 
 	Version Screen Components

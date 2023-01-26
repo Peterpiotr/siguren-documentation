@@ -3,6 +3,6 @@ Risk reduction
 ================
 
 .. note::
-    Explains the ISO12100 safety of machinery - risk reduction approach and how MS fits and embodies this approach. 
-    Also relation between MS, MS-secured-hoists and other safety standards.
+    Explains the ISO12100 safety of machinery - risk reduction approach and how MotoSuiveur fits and embodies this approach. 
+    Also relation between MotoSuiveur, MotoSuiveur-secured-hoists and other safety standards.
 
