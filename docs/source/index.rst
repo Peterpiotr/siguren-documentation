@@ -100,7 +100,7 @@ Troubleshooting
   :caption: Troubleshooting
 
   /troubleshooting/diagnostics/index
-  /troubleshooting/trpubleshooting-measures/index
+  /troubleshooting/troubleshooting-measures/index
 
 Maintenance
 =============

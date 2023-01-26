@@ -5,16 +5,10 @@ Load recovery operation
 .. note::
     Some procedures remain outside of this folder, inside different chapters.
 
+
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: Procedures
-
-   password-entry
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Back-up mode procedures
 
    manual-service-brake-backup
    manual-service-brake-motosuiveur-backup
