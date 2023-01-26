@@ -34,6 +34,7 @@ Learn more about MotoSuiveur Solutions components.
    :caption: Equipment overview
 
    /equipment/index
+
 Installation
 =============
 
@@ -71,7 +72,7 @@ Operation
   :caption: Operation
 
   /operation/index
-  /procedures/index
+  /procedures/index-procedures
 
 Troubleshooting
 ================
