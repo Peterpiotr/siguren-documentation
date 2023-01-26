@@ -123,21 +123,15 @@ Maintenance
   /maintenance/updates/index
   .. regulatory-testing
 
-MotoSuiveur Solutions
-=======================
-
-| Understand the main features and underlying design principles behind MotoSuiveur Solutions.
-| Learn about risk reduction analysis.
+Reference
+===========
 
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: About MotoSuiveur Solutions
+   :caption: Reference
 
-   /about/features
-   /about/ms-tech-overview
-   /about/risk-reduction
-   99-test
    faq
    glossary
    external-links
+   99-test
