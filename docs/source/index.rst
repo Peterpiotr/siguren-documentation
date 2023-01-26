@@ -33,14 +33,7 @@ Learn more about MotoSuiveur Solutions components.
    :hidden:
    :caption: Equipment overview
 
-   /equipment/ms-unit
-   /equipment/control-cabinet
-   /equipment/ms-selection
-   /equipment/control-panel
-   /equipment/ms-hmi
-   /equipment/tl-addon
-   /equipment/rec-addons
-
+   /equipment/index
 Installation
 =============
 
@@ -58,18 +51,7 @@ Learn more about the process of integrating a MotoSuiveur Solution into an exist
   :hidden:
   :caption: Installation
 
-  /installation/installation-safety
-  /installation/ms-delivery
-  /installation/ms-handling
-  /installation/ms-drum-installation
-  /installation/installation-on-existing-hoist
-  /installation/ms-flange-installation
-  /installation/ms-seat-installation
-  /installation/ms-positioning
-  /installation/connect-ms-control-cabinet
-  /installation/multiple-ms
-  /installation/tl-assembly
-  /installation/setting-drive
+  /installation/index
 
 
 Operation
@@ -85,6 +67,7 @@ Operation
 .. toctree::
   :maxdepth: 2
   :hidden:
+  :titlesonly:
   :caption: Operation
 
   /operation/index
@@ -98,12 +81,7 @@ Troubleshooting
   :hidden:
   :caption: Troubleshooting
 
-  /troubleshooting/controller-errors
-  /troubleshooting/gui-guided-troubleshooting
-  /troubleshooting/unblocking-ms
-  /troubleshooting/controls-check
-  /troubleshooting/ms-worm-removal
-
+  /troubleshooting/index
 
 Maintenance
 =============
@@ -118,14 +96,7 @@ Maintenance
   :hidden:
   :caption: Maintenance
 
-  /maintenance/health-safety
-  /maintenance/electric-maintenance-and-testing
-  /maintenance/maintenance-schedule
-  /maintenance/lubrication
-  /maintenance/storage
-  /maintenance/spare-parts
-  /maintenance/safety-datasheets
-  /maintenance/servicing
+  /maintenance/index
 
 
 MotoSuiveur Solutions
