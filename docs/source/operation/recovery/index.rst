@@ -17,7 +17,7 @@ Load recovery operation
    automatic-recovery-engagement
 
 Back-up mode procedures
-
+=========================
 
 .. note::
 	Source: :download:`User Manual-7.4.doc`
