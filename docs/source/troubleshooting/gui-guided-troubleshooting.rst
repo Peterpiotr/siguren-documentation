@@ -1,3 +1,3 @@
 ============================
-GUI guided troubleshooting
+GUI-guided troubleshooting
 ============================

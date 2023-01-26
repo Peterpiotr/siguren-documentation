@@ -14,8 +14,8 @@ Procedures
 
 
 
-Various back-up mode allowable depending on the situations
-============================================================
+Back-up mode procedures
+========================
 
 .. note::
 	Source: :download:`User Manual-7.4.doc`

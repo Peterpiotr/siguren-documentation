@@ -1,6 +1,6 @@
-====================================
-Electrical Maintenance and Testing
-====================================
+=======================
+Electrical maintenance 
+=======================
 
 .. note::
 	Source is :doc:`49104-15-001 Operation  Maintenance Manual Issue D (1).pdf`

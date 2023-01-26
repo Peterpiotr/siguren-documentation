@@ -1,10 +1,17 @@
-===================================================================================================
-Back-up by manual action of the service brake and manual rotation of the Motosuiveur procedure
-===================================================================================================
+======================================================
+Manual service brake and Motosuiveur backup procedure
+======================================================
 
 .. include:: ../procedures/img/substitutions.rst
 
-.. =====================================================================================================================
+.. ====================================================================================================================
+
+.. note::
+	Source: :download:`User Manual-7.4.doc`
+
+
+..note ::
+  Full title: Back-up by manual action of the service brake and manual rotation of the Motosuiveur procedure.
 
 
 This procedure has to be followed in case of one Motosuiveur® motor is defective.
@@ -31,11 +38,11 @@ The only difference occurs in step 5 where the operator 1 should place the crank
    * - **1**
      - Switch off the Motosuiveur® cabinet (The Motosuiveurs should be driven manually)
    * - **2**
-     - Dismantle the worm cover of the MS
-       |manual-service-brake-motosuiveur-backup-01|
+     - | Dismantle the worm cover of the MS
+       | |manual-service-brake-motosuiveur-backup-01|
    * - **3**
-     - Mount the manual handle on the MS
-       |manual-service-brake-motosuiveur-backup-02|
+     - | Mount the manual handle on the MS
+       | |manual-service-brake-motosuiveur-backup-02|
    * - **4**
      - Repeat steps 1 to 4 of the previous procedure (procedure 2.1)
    * - **5**

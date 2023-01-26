@@ -1,6 +1,6 @@
-=================================
-Back-up/Recovery operation mode
-=================================
+======================
+Back-up/Recovery mode
+======================
 
 .. include:: ../substitutions.rst
 

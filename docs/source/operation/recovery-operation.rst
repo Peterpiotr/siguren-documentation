@@ -1,6 +1,6 @@
-============================
-Load recovery operation
-============================
+==============
+Load recovery 
+==============
 
 .. include:: ../img/substitutions.rst
 

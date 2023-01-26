@@ -1,6 +1,6 @@
-===================================
-Positioning the MotoSuiveur Unit
-===================================
+============
+Positioning
+============
 
 .. note::
     Extracted from :download:`Mounting procedure.pptx <../archives/mounting-procedure.pptx>` .

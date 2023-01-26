@@ -1,6 +1,6 @@
-=================================
-Installation safety instructions
-=================================
+====================
+Installation safety 
+====================
 
 .. note::
 	Source: :download:`User Manual-7.4.doc`

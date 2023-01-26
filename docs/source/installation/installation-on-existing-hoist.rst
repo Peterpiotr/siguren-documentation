@@ -1,6 +1,6 @@
-===============================================
-Installation of MotoSuiveur on existing hoist
-===============================================
+===============================
+Installation on existing hoist
+===============================
 
 .. note::
 	Refers to electrical-interface and mechanical-interface. May be partially redundant with connect-ms-control-cabinet

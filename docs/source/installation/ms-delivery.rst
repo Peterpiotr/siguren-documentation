@@ -1,6 +1,6 @@
-===========================
-MotoSuiveur delivery check
-===========================
+================
+Delivery checks
+================
 
 .. note::
 	Source: :download:`User Manual-7.4.doc`

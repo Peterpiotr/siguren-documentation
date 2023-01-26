@@ -1,6 +1,6 @@
-===============================
-Connect MS to control cabinet
-===============================
+============================
+Control cabinet connection
+============================
 
 .. note::
   How do I connect MS to my existing controls and power sources?

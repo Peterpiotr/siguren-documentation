@@ -1,6 +1,6 @@
-=================================
-Setting and testing the drive
-=================================
+===============
+Drive settings
+===============
 
 .. note::
 	Source: :download:`User Manual-7.4.doc`

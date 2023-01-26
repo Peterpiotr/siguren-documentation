@@ -1,6 +1,6 @@
-=========================
-Following operation mode
-=========================
+==============
+Following mode
+==============
 
 .. include:: ../substitutions.rst
 

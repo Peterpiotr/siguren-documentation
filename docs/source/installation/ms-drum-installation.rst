@@ -1,6 +1,6 @@
-========================
-Setting-up on the drum
-========================
+===================
+Coupling with drum
+===================
 
 .. note::
 	Source: :download:`User Manual-7.4.doc`
