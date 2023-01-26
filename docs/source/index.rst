@@ -78,7 +78,6 @@ Operation
 .. toctree::
   :maxdepth: 2
   :hidden:
-  :titlesonly:
   :caption: Operation
 
   /operation/regular/index
