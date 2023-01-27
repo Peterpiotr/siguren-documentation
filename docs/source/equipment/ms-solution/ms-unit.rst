@@ -47,32 +47,33 @@ Codification
 ------------
 
 .. list-table:: 
-   :header-rows: 1
+   :header-rows: 0
   
-   * - MS
-     - **1**
-     - L
-     - **2**
-     - **3 **
-     - **4 **
-     - **5 **
-     - **6 **
-     - **7 **
-     - **8 **
-     - **9 **
-     - **10 **
-   * - MotoSuiveur
+   * - *MS*
+     - *MotoSuiveur*
+   * - **1**
      - Size
-     - Lifting Series
+   * - *L*
+     - *Lifting Series*
+   * - **2**
      - Arrest type
+   * - **3**
      - Recovery type
+   * - **4**
      - Mounting type
+   * - **5**
      - Rotation direction at lowering
+   * - **6**
      - Reaction arm position
+   * - **7**
      - Driving type
+   * - **8**
      - Servo motor position
+   * - **9**
      - Power supply voltage
-     - Integrated Recovery position
+   * - **10**
+     - Integrated Recovery position   
+
 
 
 .. note::
@@ -91,20 +92,13 @@ Codification
      - 
 
 .. note::
-  | Example :  
+  Example :  
   | MS0  L  F  R  P  C  1  S  6  1  /  5  TS
 
 
 Nameplate
 ----------
 
-The nameplate of the MotoSuiveur Unit indicates :
-
-
-
-.. important::
-  The MotoSuiveur is designed to resist the dynamic solicitations of a defined application; so before any putting in operation, 
-  make sure that the installation complies entirely with the application that the MotoSuiveur has been ordered for by checking the nameplate.
 
 .. figure:: ../../_img/ms-unit-02.png
     :figwidth: 600 px
@@ -118,9 +112,12 @@ The nameplate of the MotoSuiveur Unit indicates :
     4) Oil quantity,
     5) -
 
+.. important::
+  The MotoSuiveur is designed to resist the dynamic solicitations of a defined application; so before any putting in operation, 
+  make sure that the installation complies entirely with the application that the MotoSuiveur has been ordered for by checking the nameplate.
 
 .. warning::
-    | The MotoSuiveur is factory set taking into account the speed, load and inertia of the equipment. 
+    The MotoSuiveur is factory set taking into account the speed, load and inertia of the equipment. 
     | Increasing the speed / inertia of the equipment on which the MotoSuiveur is installed is not allowed and may lead to serious damage. 
 
 
