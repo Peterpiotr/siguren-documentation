@@ -48,7 +48,7 @@ During these tests, the oil tank is filled, the level is adjusted and the hydrau
 
 .. warning::
     During this operation, make sure you do not introduce any foreign
-    particles into the MotoSuiveur® use only the SW15 oil. using oil other
+    particles into the MotoSuiveur use only the SW15 oil. using oil other
     than specified can cause the unit to malfunction.
 
 
@@ -85,7 +85,7 @@ Oil change
 	Oil holes
 
 Whilst completing maintenance and during the oil change procedure care must be taken not to introduce
-any particles inside the Motosuiveur® as this will cause the unit to malfunction.
+any particles inside the MotoSuiveur as this will cause the unit to malfunction.
 
 .. warning::
     Only use siguren SW15 or SQ32 oil. The use of any other oil may lead to a serious malfunction.

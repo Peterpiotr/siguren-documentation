@@ -46,7 +46,7 @@ HMI Touch Screen Operations
 Main Screen
 ------------
 
-The Motosuiveur® control system uses a touchscreen attached to the logics controller.
+The MotoSuiveur control system uses a touchscreen attached to the logics controller.
 
 .. _Main Screen Components:
 .. figure:: ../../_img/ms-hmi-02.png

@@ -28,6 +28,14 @@ kkkk
    * - **2**
      - 
 
+The :mechpart:`worm wheel` is single-helix.
+
+I have footnoted a first item [#f1]_ and second item [#f2]_.
+This also references the second item [#f2]_.
+
+.. rubric:: Footnotes
+.. [#f1] My first footnote.
+.. [#f2] My second footnote.
 
 .. note:: 
 	kafkaesque!
@@ -40,7 +48,7 @@ kkkk
    * - Step
      - Description
    * - **1**
-     - Switch off the supply of the Motosuiveur® cabinet or all the circuit breaker inside.
+     - Switch off the supply of the MotoSuiveur cabinet or all the circuit breaker inside.
    * - **2**
      - 
 

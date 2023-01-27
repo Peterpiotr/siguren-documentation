@@ -1,6 +1,6 @@
-================================
-MotoSuiveur Solution components
-================================
+=====================
+MotoSuiveur Solution
+=====================
 
 .. toctree::
    :maxdepth: 2

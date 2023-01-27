@@ -42,8 +42,8 @@ Comments:
 
 When the limit speed is reached, the MS goes into action intrinsically by blocking the worm.
 
-Given the relatively slow speed, it is easy to stop the action on the brake before the end of the travel of the Motosuiveur®. The operation can then continue without any special intervention, since the screw goes back to its position automatically.
-In case of hard blocking, it should be possible to release the Motosuiveur® by using the handle 
+Given the relatively slow speed, it is easy to stop the action on the brake before the end of the travel of the MotoSuiveur. The operation can then continue without any special intervention, since the screw goes back to its position automatically.
+In case of hard blocking, it should be possible to release the MotoSuiveur by using the handle 
 
 .. important::
     To switch back to “normal mode”, it is necessary to power-off then power-on the electrical cabinet.

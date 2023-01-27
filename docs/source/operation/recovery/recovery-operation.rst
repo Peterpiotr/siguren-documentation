@@ -305,7 +305,7 @@ The following table shows the procedure to follow in each case of failure.
      - Procedure n°6-2
      - Procedure n°6-1
      - -
-   * - Motosuiveur® motor failure
+   * - MotoSuiveur motor failure
      - Procedure n°6-4
      - Procedure n°6-3
      - -
@@ -345,7 +345,7 @@ The MotoSuiveur Unit carries the load.
        If the “ Clutch engaged” light is already on, jump to next step.
        
        Otherwise, on the Siguren control panel, press and release the :guilabel:`“Engagement” push button`.
-       On the Proface touch screen, the blinking :guilabel:`orange light` indicates that the Motosuiveur® is proceeding with the engagement.
+       On the Proface touch screen, the blinking :guilabel:`orange light` indicates that the MotoSuiveur is proceeding with the engagement.
        On installations with 2 recovery motors, the engagement procedure is performed one after the other. Any modification on these settings requires level 4 password.
        
        The duration of the engagement cycle is set in the “recovery settings” menu by the manufacturer. It is typically set between 1 to 3 minutes per recovery motor.
@@ -391,7 +391,7 @@ The MotoSuiveur Unit carries the load.
 
 
 .. note::
-  At the end of this procedure the Motosuiveur® screw is locked in the elastomers in the lift side. 
+  At the end of this procedure the MotoSuiveur screw is locked in the elastomers in the lift side. 
   With the main hoisting motor, make a 1 second movement at low speed in the down direction to unlock the screw.
 
 .. important::
@@ -400,7 +400,7 @@ The MotoSuiveur Unit carries the load.
 
 .. warning::
   The recovery feature is designed to be used as an exceptional hoisting solution.
-  Lengthy and/or repetitive use of the recovery facility can cause excessive wear of the Motosuiveur®.
+  Lengthy and/or repetitive use of the recovery facility can cause excessive wear of the MotoSuiveur.
 
 
 Procedure n°6-2 : Recovery after load arrest - Operation from the Proface touchscreen
@@ -432,12 +432,12 @@ Proface touchscreen is installed on the remote control box.
        - Select the mode by clicking the Recovery switch button.
        - On installations with 2 recovery motors make sure that the “Max position difference” number is correct. This value is expressed into the servo-motor position coding units. It is normally preset by the manufacturer. However, it may vary according installations (diameter of the drum(s) etc.). Once modified this parameter is saved.
        - Proceed with engagement by pressing the arrow button.
-       - On installations with 2 recovery motors, the position difference between both Motosuiveurs is automatically reset to compute the difference from this value.
+       - On installations with 2 recovery motors, the position difference between both MotoSuiveurs is automatically reset to compute the difference from this value.
        - The screen switches to the engagement procedure screen.
        - Press the “Recovery engagement” yellow button to start the engagement cycle.
        - On installations with 2 recovery motors, engagement processes recovery motors engagement one after the other. The red bar turns half green half red when the first recovery motor is engaged and totally green when both are engaged.
-       - On the Proface touch screen, the blinking orange light indicates that the Motosuiveur® is proceeding with the engagement.
-       - Engagement procedure request the Motosuiveur servo-motor to put the screen into the unscrew mechanical stop and at the same time the recovery motor does little screw and unscrew movements at low torque to let the clutch flywheel mesh with the clutch wheel.
+       - On the Proface touch screen, the blinking orange light indicates that the MotoSuiveur is proceeding with the engagement.
+       - Engagement procedure request the MotoSuiveur servo-motor to put the screen into the unscrew mechanical stop and at the same time the recovery motor does little screw and unscrew movements at low torque to let the clutch flywheel mesh with the clutch wheel.
        - The duration of the engagement cycle is set in the “recovery” settings menu by the manufacturer. It is typically set between 1 to 3 minutes per recovery motor.
        - On installations with 2 recovery motors, the engagement is done one after the other. The second recovery motor starts is engagement process when the first one is engaged.
        - The clutch(es) of the recovery motor(s) is/are engaged when the “Engagement status” light turns to permanent green. In parallel the “ Recovery available” light of the Siguren control panel switches on. 
@@ -473,10 +473,10 @@ Proface touchscreen is installed on the remote control box.
        - The screen displays the status of the engagement switch (ISN), the status of the VAR that controls the recovery motors.
        - Up and down hoisting operations are down with up and down buttons...
        - All load hoisting up operations under recovery should not exceed 1mn and wait for the recovery motor to cool down during 10 mn.
-       - Some installations, in particular those with two Motosuiveurs, have an oversized recovery capablity. In that case hoisting up operations may have no time limit. Verify your installation capabilities
+       - Some installations, in particular those with two MotoSuiveurs, have an oversized recovery capablity. In that case hoisting up operations may have no time limit. Verify your installation capabilities
        - On installations with 2 recovery motors, it is possible to run recovery motors independently or in sync(center buttons). 
          The default operation mode is moving both recovery in sync. Operating them separatly should be restricted to especial scenarios. 
-         The logics verifies that the position of each Motosuiveur® and compares them. 
+         The logics verifies that the position of each MotoSuiveur and compares them. 
          The position difference cannot exceed the maximum defined in the “Recovery settings” or in the “Operating mode” screen when selected on “Recovery" (figure 24) and it is protected by the logics. 
          A physical position difference exists if and only if the hoisting shaft is broken, e.g. if it is composed of two parts connected by a gear and that gear is broken.
        - If the position difference exceeds the limit, the logics blocks the movement of each recovery motor in the 
@@ -487,7 +487,7 @@ Proface touchscreen is installed on the remote control box.
        - Remove the load from the hook.
        - In the recovery control box, press the push button “Recovery up” to disengage the nut. Check that the “Recovery engaged” light switches off and the “Recovery disengaged” light switches on.
        
-       Note: At the end of this procedure the Motosuiveur® worm is locked in the elastomers in the lift side. With the main motor, make a 1 second movement at low speed in the down direction to unlock the screw.
+       Note: At the end of this procedure the MotoSuiveur worm is locked in the elastomers in the lift side. With the main motor, make a 1 second movement at low speed in the down direction to unlock the screw.
 
 
 .. rubric:: Potential reasons for a recovery engagement failure
@@ -500,7 +500,7 @@ Recovery clutch engagement may fail if:
 -	A mechanical problem occurred on the recovery clutch.
 
 .. note:: 
-  At the end of this procedure the Motosuiveur® worm is locked in the elastomers in the lift side. 
+  At the end of this procedure the MotoSuiveur worm is locked in the elastomers in the lift side. 
   With the main motor, make a 1 second movement at low speed in the down direction to unlock the screw
 
 .. important::
@@ -508,18 +508,18 @@ Recovery clutch engagement may fail if:
   Do not power up the equipment until the failed component has been fixed or changed.
 
 .. warning::
-  Lengthy and/or repetitive use of the recovery facility can cause excessive wear of the Motosuiveur®.
+  Lengthy and/or repetitive use of the recovery facility can cause excessive wear of the MotoSuiveur.
 
 
 Procedure n°6-3 : Recovery operation with pre-engagement with the load
 ------------------------------------------------------------------------
 
-This procedure has to be followed in the case which the hoist is loaded or/and the Motosuiveur® is failed. 
+This procedure has to be followed in the case which the hoist is loaded or/and the MotoSuiveur is failed. 
 The service brake has to be operable.
 
 .. important::
-  It is required that the load is enough distant to the floor to accept a load slip equal to the maximum braking distance of the Motosuiveur®.
-  To refer to the Motosuiveur® calculation note to have the maximum braking distance.
+  It is required that the load is enough distant to the floor to accept a load slip equal to the maximum braking distance of the MotoSuiveur.
+  To refer to the MotoSuiveur calculation note to have the maximum braking distance.
 
 .. list-table:: Procedure n°6-3 : Recovery operation with pre-engagement with the load
    :widths: 5 95
@@ -529,13 +529,13 @@ The service brake has to be operable.
    * - Step
      - Description
    * - **1**
-     - Switch off the supply of the Motosuiveur® cabinet or all the circuit breaker inside.
+     - Switch off the supply of the MotoSuiveur cabinet or all the circuit breaker inside.
    * - **2**
      - In the recovery control box, switch from “Normal mode” to “Recovery mode”.
    * - **3**
      - 3.	In the recovery control box, press the “Brake opening” until the load stops.
        
-       Be careful, at this step the load will slip from a height equal to the braking distance of the Motosuiveur®.
+       Be careful, at this step the load will slip from a height equal to the braking distance of the MotoSuiveur.
    * - **4**
      - In the recovery control box, press the “Nut engagement” push button until the “Nut engaged” lamp switches on.
    * - **5**
@@ -556,7 +556,7 @@ The service brake has to be operable.
        Check that the “Nut engaged” lamp switches off and the “Nut disengaged” lamp switches on.
 
 .. note::
-  At the end of this procedure the Motosuiveur® screw is locked in the elastomers in the lift side. 
+  At the end of this procedure the MotoSuiveur screw is locked in the elastomers in the lift side. 
   With the main motor, make a 1 second movement at low speed in the down direction to unlock the screw.
 
 .. important::
@@ -564,13 +564,13 @@ The service brake has to be operable.
   Do not power up the equipment until the failed component has been fixed or changed.
 
 .. warning::
-  Lengthy and/or repetitive use of the recovery facility can cause excessive wear of the Motosuiveur®.
+  Lengthy and/or repetitive use of the recovery facility can cause excessive wear of the MotoSuiveur.
 
 
 Procedure n°6-4 : Recovery operation with pre-engagement with the hoist motor
 --------------------------------------------------------------------------------
 
-This procedure has to be followed in the case which the hoist is not loaded and the Motosuiveur® is failed.
+This procedure has to be followed in the case which the hoist is not loaded and the MotoSuiveur is failed.
 
 .. list-table:: Procedure n°6-4 : Recovery operation with pre-engagement with the hoist motor
    :widths: 5 95
@@ -580,10 +580,10 @@ This procedure has to be followed in the case which the hoist is not loaded and 
    * - Step
      - Description
    * - **1**
-     - Switch off the supply of the Motosuiveur® cabinet or all the circuit breaker inside.
+     - Switch off the supply of the MotoSuiveur cabinet or all the circuit breaker inside.
    * - **2**
      - Make a lowering movement with the main motor drive until the load stops.
-       Because the Motosuiveur® cabinet is shut down, the Motosuiveur® authorization is off. 
+       Because the MotoSuiveur cabinet is shut down, the MotoSuiveur authorization is off. 
        It is possible that this information has to be override by the main controls. 
        Anyway, the drum has to be rotated in order to push the screw in the damping chamber (lowering side).
        
@@ -613,7 +613,7 @@ This procedure has to be followed in the case which the hoist is not loaded and 
        Check that the “Nut engaged” lamp switches off and the “Nut disengaged” lamp switches on.
 
 .. note::
-  At the end of this procedure the Motosuiveur® screw is locked in the elastomers in the lift side. 
+  At the end of this procedure the MotoSuiveur screw is locked in the elastomers in the lift side. 
   With the main motor, make a 1 second movement at low speed in the down direction to unlock the screw.
 
 .. important::
@@ -621,4 +621,4 @@ This procedure has to be followed in the case which the hoist is not loaded and 
   Do not power the equipment on until the failed component has been fixed or changed.
 
 .. warning::
-  Lengthy and/or repetitive use of the recovery facility can cause excessive wear of the Motosuiveur.
+  Lengthy and/or repetitive use of the recovery facility can cause excessive wear of the MotoSuiveur.

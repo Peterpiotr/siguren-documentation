@@ -19,10 +19,11 @@ Unblocking
    * - Step
      - Description
    * - **1**
-     - Rotate the adapter plate in clockwise rotation till it stops.
+     - **Rotate the adapter plate in clockwise rotation till it stops.**
    * - **2**
-     - | Put the allen key S12 in the hole and rotate it in the ANTICLOCKWISE direction.
+     - | **Put the allen key S12 in the hole.**
+	   | **Rotate the allen key in the ANTICLOCKWISE direction.**
 	   | |mounting-procedure-02|
    * - **3**
-     - Release the locking mechanism.
+     - **Release the locking mechanism.**
 

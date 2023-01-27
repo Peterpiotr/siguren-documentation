@@ -27,10 +27,10 @@ This procedure has to be done in case of the main kinematic chain is not availab
    * - Step
      - Description
    * - **1**
-     - Switch off the Motosuiveur® cabinet.
+     - Switch off the MotoSuiveur cabinet.
    * - **2**
      - Remove the worm cover.
    * - **3**
      - Set up the drive mechanism on the MS worm and start process at lower speed.
    * - **4**
-     - As soon as the load is safe (on the ground or an adapted structure), inspect the Motosuiveur® (worm and wheel) and the crane.
+     - As soon as the load is safe (on the ground or an adapted structure), inspect the MotoSuiveur (worm and wheel) and the crane.

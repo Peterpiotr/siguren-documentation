@@ -39,9 +39,9 @@ Glossary
       to the hoisting down rotation of the hoisting shaft and the wheel.
 
    Screwing/Unscrewing and up/down
-      Screwing and unscrewing are physically linked to the the worm screw of the Motosuiveur. 
-      Since friction Motosuiveurs are reversible, in some installations screwing can be up while down on others. 
-      On installations that have two Motosuiveurs, they can be mounted in opposite direction.
+      Screwing and unscrewing are physically linked to the the worm screw of the MotoSuiveur. 
+      Since friction MotoSuiveurs are reversible, in some installations screwing can be up while down on others. 
+      On installations that have two MotoSuiveurs, they can be mounted in opposite direction.
 
    Inward translation
       Translation of the screw as if the screw was rotating and translating in the screwing direction (clockwise).
@@ -62,10 +62,10 @@ Glossary
       The hard stop that limits the outward translation. The outward hard stop position is detected by a sensor.
 
    Reversibility
-      The friction Motosuiveur® is mechanically reversible, which means that is can indifferently be mounted in one orientation 
+      The friction MotoSuiveur is mechanically reversible, which means that is can indifferently be mounted in one orientation 
       or the other and can absorb a fall according both mountings.
-      When delivered with its control cabinet, the Motosuiveur® must either be mounted according 
-      to the logics of the cabinet which cannot know how the Motosuiveur® is oriented.
+      When delivered with its control cabinet, the MotoSuiveur must either be mounted according 
+      to the logics of the cabinet which cannot know how the MotoSuiveur is oriented.
 
    Friction absorber
       The friction absorber is a device fitted inside the wheel used to absorb and dissipate the energy of a sudden fall before the screw does its blocking job.
@@ -75,12 +75,12 @@ Glossary
       The pressure is set by putting a number of washers that meets the installation requirements.
 
    Irreversibility
-      The Hydraulic Motosuiveur® is irreversible, which means that it can absorb the energy of a fall only in one direction.
+      The Hydraulic MotoSuiveur is irreversible, which means that it can absorb the energy of a fall only in one direction.
 
    Reaction arm
       The hydraulic absorbs the energy on a very short course. When the energy must be absorbed on a longer course of the load, 
-      in order to have a smother deceleration, the Motosuiveur® can be mounted in a floating mode and be held by a reaction arm. 
-      Fitted with an absorber, this arm absorbs the energy by letting the Motosuiveur® rotate from 0° to 330° according to the requirements.
+      in order to have a smother deceleration, the MotoSuiveur can be mounted in a floating mode and be held by a reaction arm. 
+      Fitted with an absorber, this arm absorbs the energy by letting the MotoSuiveur rotate from 0° to 330° according to the requirements.
 
    Recovery clutch or clutch
       The gear that is used to engage the recovery motor. The mechanism is quite similar to a Bendix motor starter.
@@ -107,7 +107,7 @@ Glossary
       This operation is usually performed automatically by the control cabinet logics. It can be done when needed by other means.
       The engagement is detected by a sensor.
 
-   Motosuiveur® control panel, control cabinet, control box or electrical cabinet
+   MotoSuiveur control panel, control cabinet, control box or electrical cabinet
       The electrical cabinet that contains relays, logical unit, motor drivers, relays, circuit breakers and wiring.
 
    Proface, touch screen, programmable logic controller
@@ -116,20 +116,20 @@ Glossary
       if any and the hoisting installation electrical cabinet.
 
    Drive, controller
-      The motor controller that drives the Servo-motor. When control cabinet manages many Motosuiveurs, 
+      The motor controller that drives the Servo-motor. When control cabinet manages many MotoSuiveurs, 
       each servo-motor is driven by its own drive.
 
    Recovery Motor Drive
-      The recovery motor controller that drives the recovery motor. When control cabinet manages many Motosuiveurs, 
+      The recovery motor controller that drives the recovery motor. When control cabinet manages many MotoSuiveurs, 
       each recovery motor is driven by its own drive.
 
    Normal mode
       The standard operating mode when no major fault occurs.
 
    Recovery mode
-      Capability given to the Motosuiveur® when equiped with a recovery motor to perform hoisting up and down operations at low speed. 
+      Capability given to the MotoSuiveur when equiped with a recovery motor to perform hoisting up and down operations at low speed. 
       It is used when the main hoisting chain is faulty.
 
    Backup mode
-      Feature that allows the load to be lowered down, by using minimal capabilities. The Motosuiveur® limits the free fall to programed level. 
+      Feature that allows the load to be lowered down, by using minimal capabilities. The MotoSuiveur limits the free fall to programed level. 
       It is used as an extreme solution.

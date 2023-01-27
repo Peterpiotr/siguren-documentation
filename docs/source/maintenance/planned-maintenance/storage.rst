@@ -13,21 +13,21 @@ any temperature variation ensuring it is placed on an insulated paper covered wo
 
 .. rubric:: Short Period Storage (Less Than 3 Months)
 
-After the tests and the final checks, the manufactured parts of the Motosuiveur® must be protected with a
+After the tests and the final checks, the manufactured parts of the MotoSuiveur must be protected with a
 long term corrosion preventative coating. The oil fill up must be adjusted to the level indicator. In this
 condition, they can be stored in vertical position, without any intervention during 3
 months. Beware not to damage the protected finish.
 
 .. rubric:: Medium Period Storage (Less Than 1 Year)
 
-For a storage period of 3 to 12 months, the Motosuiveur® must be completely filled with the oil designed
+For a storage period of 3 to 12 months, the MotoSuiveur must be completely filled with the oil designed
 for the required application.
 This oil will be drained off to the level indicator before use. There will be no need to rinse it. During
 emptying, beware not to go under the level indicator otherwise the system may need to be drained.
 
 .. rubric:: Long Period Storage (Less Than 5 Years)
 
-For a storage period longer than 12 months, to 5 years, it is recommended to drain the Motosuiveur® then
+For a storage period longer than 12 months, to 5 years, it is recommended to drain the MotoSuiveur then
 pour or spray ARDROX IV 2 (supplier Brent) into the machine (5 % of the total volume).
 
 - This is a volatile corrosion inhibitor additive for standard lubricating oils.
@@ -37,7 +37,7 @@ pour or spray ARDROX IV 2 (supplier Brent) into the machine (5 % of the total vo
 .. rubric:: For A Medium or a Long Period of Storage
 
 With the corrosion inhibitors being volatile during the storage period make sure the inside of the
-Motosuiveur® is insulated/protected against any atmospheric. In particular, the breather caps must be
+MotoSuiveur is insulated/protected against any atmospheric. In particular, the breather caps must be
 replaced by hermetic caps. The maintenance door must be hermetically closed.
 
 Every 3 months:

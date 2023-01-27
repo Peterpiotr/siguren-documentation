@@ -30,7 +30,7 @@ The panel allows the operator to do the following:
 - :doc:`Reset the system <system-reset.rst>`
 - Utilise the :doc:`recovery functions <recovery-operation.rst>`
 - Utilise the :doc:`Backup system <backup-recovery-mode.rst>`
-- Monitor the status of the Motosuiveurs supply, health, switch, temperature and oil levels
+- Monitor the status of the MotoSuiveurs supply, health, switch, temperature and oil levels
 - Provide emergency stop operation if required
 
 Component description
