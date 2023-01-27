@@ -49,7 +49,7 @@ Codification
 .. list-table:: Codification for Passive Friction MotoSuiveur Units
    :header-rows: 1
    :class: tight-table
-   :widths: 10, 30, 30, 30
+   :widths: 5, 35, 60
 
    * - Position
      - Parameter
