@@ -6,7 +6,7 @@ Selecting a MotoSuiveur Solution
 
 .. =========================================================================================================================
 
-Selecting the right MotoSuiveur Unit
+MotoSuiveur Unit selection
 ======================================
 
 Arrest type selection
@@ -48,25 +48,27 @@ Selecting a Passive Friction MotoSuiveur Unit (MSF)
 
 .. rubric:: Hoist input data
 
-- SWL = 4900 kg
-- Dead weight = 100 Kg
-- Reeving = 2/1
-- Drum diameter = 250 mm
-- Gearbox ratio = 60
-- Motor speed = 3000 rpm
+| SWL = **4900 kg**
+| Dead weight = **100 Kg**
+| Reeving = **2/1**
+| Drum diameter = **250 mm**
+| Gearbox ratio = **60**
+| Motor speed = **3000 rpm**
 
-- | Is it possible to put a torque limiter? 
-  | **Yes**
-- | Is there important inertia after the torque limiter? 
-  | **No**
-- | Is the rotation speed at drum exceeding 35 rpm?	
-  | **Yes**, see calculation below (50 rpm > 35 rpm)
+| Is it possible to put a torque limiter? 
+| **Yes**
+
+| Is there important inertia after the torque limiter? 
+| **No**
+
+| Is the rotation speed at drum exceeding 35 rpm?	
+| **Yes**, see calculation below (50 rpm > 35 rpm)
 
 
 +------------------------------+---------+-------------+--------+--------------------+
 | Designation                  | Symbol  | Value       | Units  | Formula / comment  |
 +==============================+=========+=============+========+====================+
-| Forces and torques           |         |             |        |                    |
+| **Forces and torques**                                                             |
 +------------------------------+---------+-------------+--------+--------------------+
 | Load weight                  | WL      | **4,900**   | kg     |                    |
 +------------------------------+---------+-------------+--------+--------------------+
@@ -78,17 +80,17 @@ Selecting a Passive Friction MotoSuiveur Unit (MSF)
 +------------------------------+---------+-------------+--------+--------------------+
 | Lifting force                | FL      | 49,050      | N      | =SWL*g             |
 +------------------------------+---------+-------------+--------+--------------------+
-| Reeving ratio                | im      | **2**       | -      |                    |
+| Reeving ratio                | im      | **2**       |        |                    |
 +------------------------------+---------+-------------+--------+--------------------+
 | Drum pitch diameter          | D       | **250**     | mm     |                    |
 +------------------------------+---------+-------------+--------+--------------------+
-| Gearbox ratio                | ir      | **60**      | -      |                    |
+| Gearbox ratio                | ir      | **60**      |        |                    |
 +------------------------------+---------+-------------+--------+--------------------+
 | Force at driven rope strand  | Fc      | 24,525      | N      | =SWL*g/im          |
 +------------------------------+---------+-------------+--------+--------------------+
-| Static torque at drum        | CS      | 3,065       | Nm     | =Fc*D/2000         |
+| Static torque at drum        | |Cs|    | 3,065       | Nm     | =Fc*D/2000         |
 +------------------------------+---------+-------------+--------+--------------------+
-| Speeds                       |         |             |        |                    |
+| **Speeds**                                                                         |
 +------------------------------+---------+-------------+--------+--------------------+
 | Speed at High Speed Line     | SHSL    | **3,000**   | Rpm    |                    |
 +------------------------------+---------+-------------+--------+--------------------+
@@ -97,22 +99,23 @@ Selecting a Passive Friction MotoSuiveur Unit (MSF)
 
 .. rubric:: Size of the MS
 
-CMS mini= 1.4 x Cs = 1.4x 3 065 = 4 291 Nm
+|Cms|= 1.4 x Cs = 1.4x 3 065 = 4 291 Nm
 
 According to :ref:`MotoSuiveur Unit arrest torque table`:
 
-CMS=4 291 Nm < 6 100 Nm  **MS1**
+|Cms|= 4 291 Nm < 6 100 Nm 
+
+**MS1** is the correct size of MotoSuiveur unit for this application.
 
 
 
 
 
-Selecting the right MotoSuiveur control cabinet
-===============================================
+MotoSuiveur control cabinet selection
+======================================
 
-Selecting the right MotoSuiveur load recovery add-on
-=======================================================
+MotoSuiveur load recovery add-on selection
+=============================================
 
-
-Selecting the right MotoSuiveur torque limiter add-on
-=======================================================
+MotoSuiveur torque limiter add-on  selection
+================================================
