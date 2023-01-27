@@ -46,9 +46,11 @@ MotoSuiveur Unit size
 Codification
 ------------
 
-.. list-table:: 
+.. list-table:: Codification for Passive Friction MotoSuiveur Units
    :header-rows: 1
-   
+   :class: tight-table
+   :widths: 10, 30, 30, 30
+
    * - Position
      - Parameter
      - (Value) Description
@@ -70,33 +72,44 @@ Codification
      - L
    * - **2**
      - **Arrest type**
-     - | (D) Hydraulic damping
-       | (F) Passive friction
-       | (E) Elastomer damping
+     - (F) Passive friction
    * - **3**
      - **Recovery type**
-     - 
+     - | (R) Integrated Electrical Recovery Mechanism
+       | (E) Electrical Recovery Tool Included
+       | (M) Manual Recovery Tool Included
+       | (X) Not Applicable
    * - **4**
      - **Mounting type**
-     - 
+     - | (P) Bearing with mounting plate
+       | (F) Foot mounted bearing (only for passive friction)
+       | (A) Shaft mounted with reaction arm on side
+       | (S) Shaft mounted with reaction arm support
    * - **5**
      - **Rotation direction at lowering**
-     - 
+     - | (C) Clockwise
+       | (A) Anti-clockwise
    * - **6**
      - **Reaction arm position**
-     - 
+     - | (1)..(12)
+       | See xxx for details.
    * - **7**
      - **Driving type**
-     - 
+     - | (S) Splined shaft
+       | (F) Flange (only for Bearing mounting type (P))
    * - **8**
      - **Servo motor position**
-     - 
+     - | (1)..(12)
+       | See xxx for details.
    * - **9**
      - **Power supply voltage**
-     - 
+     - | (1) 230 VAC I+N 
+       | (2) 400VAC III  
+       | (3) 230-400VAC III+N
    * - **10**
      - **Integrated Recovery position**   
-     - 
+     - | (1)..(7)
+       | See xxx for details.
 
 
 
@@ -116,8 +129,9 @@ Codification
      - 
 
 .. note::
-  Example :  |
-  MS0  L  F  R  P  C  1  S  6  1  /  5  TS
+
+  | Example :
+  | MS0  L  F  R  P  C  1  S  6  1  /  5  TS
 
 
 Nameplate
