@@ -1,2 +1,2 @@
-.. |Cs| replace:: C\ :sub:`S`
-.. |Vmax| replace:: **V\ :sub:`MAX`**
+.. |Cs| replace:: C\:sub:`S`
+.. |Vmax| replace:: V\:sub:`MAX`
