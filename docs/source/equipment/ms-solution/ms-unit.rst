@@ -31,17 +31,6 @@ Components
 Product range
 ---------------
 
-MotoSuiveur Unit size
-^^^^^^^^^^^^^^^^^^^^^^^
-
-.. csv-table:: MotoSuiveur Unit arrest torque
-   :file: ../../_tables/ms-unit-torque.csv
-   :delim: ;
-   :header-rows: 1
-   :widths: 10, 30, 30, 30
-   :class: tight-table
-   :align: center
-
 
 Codification
 ------------
@@ -112,10 +101,56 @@ Codification
      - | (1)..(7)
        | See xxx for details.
 
-
-
 .. note::
   size + type = model ?
+
+.. note::
+
+  | Example :
+  | MS0  L  F  R  P  C  1  S  6  1  /  5  TS
+
+MotoSuiveur Unit size
+^^^^^^^^^^^^^^^^^^^^^^^
+
+.. csv-table:: MotoSuiveur Unit arrest torque
+   :file: ../../_tables/ms-unit-torque.csv
+   :delim: ;
+   :header-rows: 1
+   :widths: 10, 30, 30, 30
+   :class: tight-table
+   :align: center
+
+Arrest type
+^^^^^^^^^^^^
+
+This document focuses on Passive Friction arrest type MotoSuiveur. 
+
+See xxx for Damping arrest type.
+
+
+Rotation direction at lowering
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+Reaction arm position
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+Driving type
+^^^^^^^^^^^^^^^^^^
+
+
+Servo motor position
+^^^^^^^^^^^^^^^^^^^^^^
+
+
+Power supply voltage
+^^^^^^^^^^^^^^^^^^^^^^
+
+
+Integrated Recovery position
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 
 
 .. list-table:: 
@@ -129,10 +164,10 @@ Codification
    * - **2**
      - 
 
-.. note::
 
-  | Example :
-  | MS0  L  F  R  P  C  1  S  6  1  /  5  TS
+
+
+
 
 
 Nameplate
