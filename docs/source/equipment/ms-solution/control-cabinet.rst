@@ -88,7 +88,7 @@ Outputs for MS control cabinet
 
 - MotoSuiveur ready UP 	    : Up movement is available
 - MotoSuiveur ready DOWN: Down movement is available
-- Quick stop	    : 
+- Quick stop: 
   - After a MotoSuiveur fault (drive or sensor), immediate stop of hoist drive, without ramp.
   - After quick stop delay time, adjustable on HMI, with a sensor fault, it's possible to start in the opposite direction. With a MotoSuiveur drive fault, it's necessary to push RESET button after hoist state control.
 

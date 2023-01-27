@@ -23,6 +23,7 @@ extensions = [
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
     'sphinx.ext.autosectionlabel',
+    'hoverxref.extension',
 #    'piccolo_theme',
     'sphinx_material',
 ]

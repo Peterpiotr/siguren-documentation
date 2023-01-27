@@ -5,7 +5,7 @@ test page
 hhhhhhhh
 ============
 
-kkkk
+kkkk lorem :hoverxref:`ipsum <faq>`
 
 .. figure:: .png
 	:figwidth: 600 px
