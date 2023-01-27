@@ -25,7 +25,7 @@ During these tests, the oil tank is filled, the level is adjusted and the hydrau
       - 8.5
 
 .. _Breather cap:
-.. figure:: img/lubrication-01.png
+.. figure:: ../../_img/lubrication-01.png
 	:figwidth: 600 px
 	
 	Breather cap
@@ -79,7 +79,7 @@ Oil change
 :ref:`Oil holes` shows the locations of holes for oil changing and filling.
 
 .. _Oil holes:
-.. figure:: img/lubrication-02.png
+.. figure:: ../../_img/lubrication-02.png
 	:figwidth: 600 px
 	
 	Oil holes

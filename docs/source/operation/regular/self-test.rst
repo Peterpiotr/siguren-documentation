@@ -18,7 +18,7 @@ After :doc:`internal-test` finishes, Self-test operation mode (further called se
 
 
 .. _Sequence of self-test steps:
-.. figure:: img/SequenceSelfTestSteps.png
+.. figure:: ../../_img/SequenceSelfTestSteps.png
 	:scale: 100 %
 	:align: center
 
@@ -35,7 +35,7 @@ Electrical test checks for active signals on inputs of the MS controller before 
 :numref:`Steps of Electrical test` shows the steps of the electrical test. 
 
 .. _Steps of Electrical test:
-.. figure:: img/stepsElectricalTest.png
+.. figure:: ../../_img/stepsElectricalTest.png
 	:scale: 100 %
 	:align: center
 
@@ -55,7 +55,7 @@ centered position and functionality of switches.
 :numref:`Steps of Switch test` shows the steps of the switch test. 
 
 .. _Steps of Switch test:
-.. figure:: img/stepsSwitchTest.png
+.. figure:: ../../_img/stepsSwitchTest.png
 	:scale: 100 %
 	:align: center
 
@@ -82,7 +82,7 @@ Play test measures play between worm and worm wheel.
 :numref:`Play test steps` shows the steps of Play test.
 
 .. _Play test steps:
-.. figure:: img/playTestSteps.png
+.. figure:: ../../_img/playTestSteps.png
 	:scale: 100 %
 	:align: center
 

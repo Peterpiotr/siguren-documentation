@@ -12,7 +12,7 @@ What does it mean for the MotoSuiveur Unit to be 'blocked'?
 
 
 .. _Unblocking the MS:
-.. figure:: img/mounting-procedure-02.jpg
+.. figure:: ../../_img/mounting-procedure-02.jpg
 	:scale: 100 %
 	:align: center
 

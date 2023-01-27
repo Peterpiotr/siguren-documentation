@@ -9,7 +9,7 @@ All Motosuiveur® are checked after assembly, set and tested on bench. During th
 
 To prevent draining again the system on activation, the Motosuiveur® must be handled in the position shown in the illustration below, with the cap in top position.
 
-.. .. figure:: img/
+.. .. figure:: ../_img/
 ..     :figwidth: 600 px
 ..     :align: center  
 ..     

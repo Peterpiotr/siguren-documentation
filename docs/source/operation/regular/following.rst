@@ -20,7 +20,7 @@ Following operation mode principle
 present the main principle of Following operation mode and overspeed detection. 
 
 .. _Main principle of following operation mode and overspeed detection:
-.. figure:: img/following-01.png
+.. figure:: ../../_img/following-01.png
    :align: center
 
    Main principle of following operation mode and overspeed detection
@@ -39,7 +39,7 @@ present the main principle of Following operation mode and overspeed detection.
 The steps of following operation mode are presented on :numref:`Steps of Following operation mode`.
 
 .. _Steps of Following operation mode:
-.. figure:: img/following-02.png
+.. figure:: ../../_img/following-02.png
 	:align: center
 
 	Steps of Following operation mode 

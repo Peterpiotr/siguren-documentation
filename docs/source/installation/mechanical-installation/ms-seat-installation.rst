@@ -9,7 +9,7 @@ Installing seat blocks
 =======================
 
 .. _Seat placing:
-.. figure:: img/mounting-procedure-06.jpg
+.. figure:: ../_img/mounting-procedure-06.jpg
 	:width: 100 %
 	:align: center
 
@@ -17,7 +17,7 @@ Installing seat blocks
 
 
 .. _Seat welding:
-.. figure:: img/mounting-procedure-07.jpg
+.. figure:: ../_img/mounting-procedure-07.jpg
 	:width: 100 %
 	:align: center
 

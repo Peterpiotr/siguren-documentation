@@ -15,7 +15,7 @@ Controls and indicators of this function are located on the :doc:`control panel`
 :numref:`Principle of Backup/Recovery operation` shows the principle of Backup/Recovery operation mode. 
 
 .. _Principle of Backup/Recovery operation :
-.. figure:: img/backup-mode-02.png
+.. figure:: ../../_img/backup-mode-02.png
 	:align: center
 
 	Principle of Backup/Recovery operation 
@@ -46,7 +46,7 @@ An example is shown on :numref:`Example for manual operation in backup mode`.
     In Back-up mode no **ON signal** is required to perform movement of MS. 
 
 .. _Example for manual operation in backup mode :
-.. figure:: img/backup-mode-01.png
+.. figure:: ../../_img/backup-mode-01.png
 	:align: center
 
 	Example for manual operation in backup mode 

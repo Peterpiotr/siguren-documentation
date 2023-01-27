@@ -111,7 +111,7 @@ Instructions
 +++++++++++++++
 
 .. _Hydraulic Damping MS step lowering picture:
-.. figure:: img/stepLowering.png
+.. figure:: ../../_img/stepLowering.png
 	:scale: 75 %
 	:align: center
 	
@@ -146,7 +146,7 @@ Instructions
 ++++++++++++++
 
 .. _Backup Mode gravity lowering picture :
-.. figure:: img/backupGravityLowering.png
+.. figure:: ../../_img/backupGravityLowering.png
 	:scale: 75 %
 	:align: center
 	
@@ -178,7 +178,7 @@ Instructions
 ^^^^^^^^^^^^^^
 
 .. _MS assisted gravity lowering picture: 
-.. figure:: img/MSassistedGravityLowering.png
+.. figure:: ../../_img/MSassistedGravityLowering.png
 	:scale: 75 %
 	:align: center
 	

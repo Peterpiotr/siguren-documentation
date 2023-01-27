@@ -21,7 +21,7 @@ For any noticed problem, write down all reserves on delivery on the carrier deli
     The Motosuiveur® of the installation can be attached to a torque limiter (as option) rated to a value specifically calculated for your application. 
     Similarly, the electric boxed sets containing equipment’s which are pre-set to the specific values of your application must not be inverted.
 
-.. .. figure:: img/
+.. .. figure:: ../_img/
 ..     :figwidth: 600 px
 ..     :align: center  
 ..     

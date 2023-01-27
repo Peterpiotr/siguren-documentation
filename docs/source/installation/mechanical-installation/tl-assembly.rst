@@ -18,7 +18,7 @@ The torque limiter coupling is made of:
     - The duplex coupling chain
     - The driving hub
 
-.. figure:: img/tl-assembly-01.png
+.. figure:: ../_img/tl-assembly-01.png
     :figwidth: 600 px
     :align: center  
     
@@ -26,7 +26,7 @@ The torque limiter coupling is made of:
 
 The cylinder of the limiter part contains helical springs which create the pressure force applied to the friction linings.
 
-.. figure:: img/tl-assembly-02.png
+.. figure:: ../_img/tl-assembly-02.png
     :figwidth: 600 px
     :align: center  
     
