@@ -5,7 +5,7 @@ test page
 hhhhhhhh
 ============
 
-kkkk lorem :hoverxref:`equipment/ms-solution/ms-selection:example-ref`
+kkkk lorem :hoverxref:`ms-selection:example-ref`
 
 .. figure:: .png
 	:figwidth: 600 px
