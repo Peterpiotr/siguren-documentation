@@ -1,0 +1,9 @@
+﻿MS size;Hydraulic Damping MS, Maximal braking torque, CMS_hyd (Nm);Passive Friction MS, Maximal braking torque, CMS_fri (Nm);Lifting capacity, Recovery option, CMS_rec (Nm)
+MS0;4 000;2 400;1 600
+MS1;9 500;6 100;3 800
+MS2;18 500;12 600;7 400
+MS3;32 000;23 000;1 2 800
+MS4;50 750;40 000;20 300
+MS5;75 750;63 600;30 300
+MS6;148 000;130 200;59 200
+MS7;255 000;225 000;102 200
