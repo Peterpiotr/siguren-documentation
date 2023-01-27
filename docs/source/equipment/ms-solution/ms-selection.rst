@@ -40,11 +40,8 @@ The Passive Friction MotoSuiveur Unit is directly selected to ensure sufficient 
 The speed at the MotoSuiveur Unit wheel |Vmax| can be up to 100 RPM.
 
 
-Examples
----------
-
-Selecting a Passive Friction MotoSuiveur Unit (MSF)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Example : Selecting a Passive Friction MotoSuiveur Unit (MSF)
+----------------------------------------------------------------
 
 .. rubric:: Hoist input data
 
@@ -111,11 +108,11 @@ According to :ref:`MotoSuiveur Unit arrest torque table`:
 
 
 
-MotoSuiveur control cabinet selection
+MS control cabinet selection
 ======================================
 
-MotoSuiveur load recovery add-on selection
+MS load recovery add-on selection
 =============================================
 
-MotoSuiveur torque limiter add-on  selection
+MS torque limiter add-on  selection
 ================================================
