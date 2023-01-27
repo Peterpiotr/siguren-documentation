@@ -75,16 +75,16 @@ Hoist interfaces
 
 	Hoist interface
 
-Inputs for MotoSuiveur cabinet
-----------------------
+Inputs for MS control cabinet
+---------------------------------
 
 - ON 	: hoist drive ready
 - UP 	: command for UP movement
 - DOWN	: command for DOWN movement
 - RESET: must be used after a MotoSuiveur drive fault (not for MotoSuiveur sensors)
 
-Outputs for MotoSuiveur cabinet
-------------------------
+Outputs for MS control cabinet
+---------------------------------
 
 - MotoSuiveur ready UP 	    : Up movement is available
 - MotoSuiveur ready DOWN: Down movement is available
@@ -94,13 +94,51 @@ Outputs for MotoSuiveur cabinet
 
 
 Example for wiring of MotoSuiveur interfaces
---------------------------------------
+-----------------------------------------------
 
 .. figure:: ../../_img/hoist-interfaces-02.png
 	:figwidth: 600 px
 	:align: center
 
 	Example for wiring of MotoSuiveur interfaces
+
+
+Basic line
+------------
+
+.. note::
+	Source: :download:`catalog_MS_2018__00-draft.docx`
+
+.. _Basic line:
+.. figure:: ../../_img/control-cabinet-03.png
+	:figwidth: 600 px
+	:align: center
+
+	Basic line
+
+
+Touch screen line
+-------------------
+
+.. _Touch screen line:
+.. figure:: ../../_img/control-cabinet-04.png
+	:figwidth: 600 px
+	:align: center
+
+	Touch screen line
+
+
+Recovery line
+---------------
+
+.. _Recovery line:
+.. figure:: ../../_img/control-cabinet-05.png
+	:figwidth: 600 px
+	:align: center
+
+	Recovery line
+
+
 
 Chronograph
 -------------
