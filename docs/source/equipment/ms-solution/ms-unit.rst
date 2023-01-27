@@ -19,12 +19,13 @@ Components
     :figwidth: 600 px
     :align: center  
     
-    | MotoSuiveur Unit components
-    | 1) Drum adapter flange, custom for every application
-    | 2) Servo motor, with power and Resolver connectors
-    | 3) Heavy-duty bearing, for drum bearing by MotoSuiveur Unit (optional)
-    | 4) Mounting feet and positioning sockets
-    | 5) Inspection and maintenance plug
+    MotoSuiveur Unit components:
+    
+    1) Drum adapter flange, custom for every application
+    2) Servo motor, with power and Resolver connectors
+    3) Heavy-duty bearing, for drum bearing by MotoSuiveur Unit (optional)
+    4) Mounting feet and positioning sockets
+    5) Inspection and maintenance plug
 
 
 
