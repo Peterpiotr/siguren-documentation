@@ -2,6 +2,10 @@
 Selecting a MotoSuiveur Solution
 =================================
 
+.. include:: ../../_text-substitutions.rst
+
+.. =========================================================================================================================
+
 Selecting the right MotoSuiveur Unit
 ======================================
 
@@ -17,9 +21,9 @@ Arrest type selection
 Arrest torque calculation
 ---------------------------
 
-The main criterion is the arrest torque at full speed Vmax. 
+The main criterion is the arrest torque at full speed **|Vmax|**. 
 
-The starting point to define this torque is the full load static torque at the drum (or at the MS wheel) Cs, without taking into account the efficiency.
+The starting point to define this torque is the full load static torque at the drum (or at the MS wheel) **|Cs|**, without taking into account the efficiency.
 
 .. figure:: ../../_img/ms-selection-02.png
 	:scale: 100 %
@@ -27,13 +31,13 @@ The starting point to define this torque is the full load static torque at the d
 
 	Hoist kinematic chain force analysis
 
-The Passive Friction SIGUREN UNIT® is directly selected to ensure sufficient torque to stop the full load. 
+The Passive Friction MotoSuiveur Unit is directly selected to ensure sufficient torque to stop the full load. 
 
 .. math::
 
-  C_MS ≥ 1.4C_S
+  C_{MS} ≥ 1.4C_S
 
-The speed at the SIGUREN UNIT® wheel can be up to 100 RPM.
+The speed at the MotoSuiveur Unit wheel can be up to 100 RPM.
 
 
 Examples
