@@ -3,7 +3,8 @@
 }
 
 h2, h3 {
-    border-bottom:1px solid #d00000 !important;
+    margin-top: 3;
+    border-bottom: 2px solid #2439bb !important;
 }
 /*
 .with-border img {
