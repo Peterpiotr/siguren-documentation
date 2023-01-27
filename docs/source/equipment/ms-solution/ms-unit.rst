@@ -107,8 +107,8 @@ Codification
 
 MotoSuiveur Unit size
 ^^^^^^^^^^^^^^^^^^^^^^^
-
-.. csv-table:: MotoSuiveur Unit arrest torque
+.. _MotoSuiveur Unit arrest torque table:
+.. csv-table:: MotoSuiveur Unit arrest torque table
    :file: ../../_tables/ms-unit-torque.csv
    :delim: ;
    :header-rows: 1
