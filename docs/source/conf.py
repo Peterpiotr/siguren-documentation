@@ -110,3 +110,10 @@ html_css_files = [
 latex_elements = {
     'figure_align':'H',
 }
+
+hoverxref_auto_ref = True
+
+hoverxref_role_types = {
+    'hoverxref' : 'modal',
+    'ref' : 'tooltip',
+}
