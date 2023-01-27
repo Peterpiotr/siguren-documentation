@@ -31,6 +31,8 @@ Components
 Product range
 ---------------
 
+MotoSuiveur Unit arrest torque
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. csv-table:: MotoSuiveur Unit arrest torque
    :file: ../../_tables/ms-unit-torque.csv
@@ -44,6 +46,53 @@ Product range
 Codification
 ------------
 
+.. list-table:: 
+   :header-rows: 1
+  
+   * - MS
+     - **1**
+     - L
+     - **2**
+     - **3 **
+     - **4 **
+     - **5 **
+     - **6 **
+     - **7 **
+     - **8 **
+     - **9 **
+     - **10 **
+   * - MotoSuiveur
+     - Size
+     - Lifting Series
+     - Arrest type
+     - Recovery type
+     - Mounting type
+     - Rotation direction at lowering
+     - Reaction arm position
+     - Driving type
+     - Servo motor position
+     - Power supply voltage
+     - Integrated Recovery position
+
+
+.. note::
+  size + type = model ?
+
+
+.. list-table:: 
+   :widths: 5 95
+   :header-rows: 1
+  
+   * - Step
+     - Description
+   * - **1**
+     - 
+   * - **2**
+     - 
+
+.. note::
+  | Example :  
+  | MS0  L  F  R  P  C  1  S  6  1  /  5  TS
 
 
 Nameplate
