@@ -49,7 +49,8 @@ Codification
 .. list-table:: Codification for Passive Friction MotoSuiveur Units
    :header-rows: 1
    :class: tight-table
-   :widths: 5, 35, 60
+   :width: 100 %
+   :widths: 5, 45, 50
 
    * - Position
      - Parameter
@@ -72,7 +73,7 @@ Codification
      - L
    * - **2**
      - **Arrest type**
-     - (F) Passive friction
+     - | (F) Passive friction
    * - **3**
      - **Recovery type**
      - | (R) Integrated Electrical Recovery Mechanism
