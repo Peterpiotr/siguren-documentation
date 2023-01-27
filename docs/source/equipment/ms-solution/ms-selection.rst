@@ -21,9 +21,9 @@ Arrest type selection
 Arrest torque calculation
 ---------------------------
 
-The main criterion is the arrest torque at full speed **|Vmax|**. 
+The main criterion is the arrest torque at full speed |Vmax|. 
 
-The starting point to define this torque is the full load static torque at the drum (or at the MS wheel) **|Cs|**, without taking into account the efficiency.
+The starting point to define this torque is the full load static torque at the drum (or at the MS wheel) |Cs|, without taking into account the efficiency.
 
 .. figure:: ../../_img/ms-selection-02.png
 	:scale: 100 %
