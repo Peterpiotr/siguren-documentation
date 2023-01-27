@@ -2,4 +2,4 @@
 Automatic recovery engagement procedure
 ==========================================
 
-.. include:: ../img/substitutions.rst
+.. include:: ../_img/substitutions.rst

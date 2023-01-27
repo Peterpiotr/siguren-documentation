@@ -2,6 +2,10 @@
 Unblocking
 ============
 
+.. include:: ../../_img/_image-substitutions.rst
+
+.. ==========================================================================================================
+
 .. note::
     Extracted from :download:`Mounting procedure.pptx <../archives/Mounting-procedure.pptx>` .
 
@@ -21,3 +25,4 @@ Unblocking
 	   | |mounting-procedure-02|
    * - **3**
      - Release the locking mechanism.
+
