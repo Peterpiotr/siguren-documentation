@@ -5,7 +5,7 @@ test page
 hhhhhhhh
 ============
 
-kkkk lorem :hoverxref:`ipsum <faq>`
+kkkk lorem :hoverxref:`equipment/ms-solution/ms-selection:example-ref`
 
 .. figure:: .png
 	:figwidth: 600 px
@@ -13,8 +13,6 @@ kkkk lorem :hoverxref:`ipsum <faq>`
 
 	General view
 
-.. |image0xx| image:: installation/img/mounting-procedure-01.jpg
-				:width: 75 %
 
 .. list-table:: 
    :widths: 5 95

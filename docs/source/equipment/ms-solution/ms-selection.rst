@@ -40,6 +40,8 @@ The Passive Friction MotoSuiveur Unit is directly selected to ensure sufficient 
 The speed at the MotoSuiveur Unit wheel |Vmax| can be up to 100 RPM.
 
 
+.. _example-ref:
+
 Example : Selecting a Passive Friction MotoSuiveur Unit (MSF)
 ----------------------------------------------------------------
 
