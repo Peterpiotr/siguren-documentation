@@ -28,10 +28,6 @@ Components
     5) Inspection and maintenance plug
 
 
-Product range
----------------
-
-
 Codification
 ------------
 
@@ -194,6 +190,9 @@ Nameplate
     The MotoSuiveur is factory set taking into account the speed, load and inertia of the equipment. 
     | Increasing the speed / inertia of the equipment on which the MotoSuiveur is installed is not allowed and may lead to serious damage. 
 
+
+Dimensions
+============
 
 
 Interface with hoist

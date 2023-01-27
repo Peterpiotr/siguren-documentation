@@ -14,7 +14,6 @@ MotoSuiveur HMI
     - Changing values of variables.  
     - What messages appear on screen according to what is happening on the hoist.
 
-
 The MotoSuiveur HMI is a Schneider Magelis HMI STU 655/855 color graphic touchscreen terminal 
 programmed with the MotoSuiveurHMI firmware by Siguren technologies. 
 MotoSuiveur HMI communicates with the MotoSuiveur controller via MODBUS RTU protocol.
@@ -26,15 +25,27 @@ MotoSuiveur HMI communicates with the MotoSuiveur controller via MODBUS RTU prot
 
 	MotoSuiveur HMI 
 
+The display has three functions:
+
+- Display the data and main information (speed, current functioning mode, state of the motion authorization signal, fault history, mechanical functioning time)
+- Enter data in SIGUREN UNIT® system by a qualified operator (over speed threshold, acceleration deceleration)
+- SWP (Safe Working Periods) calculation according to FEM 9.755
+
+
 Advantages of using MotoSuiveurHMI to operate with MotoSuiveur are:
 
-	- Display MotoSuiveur status information in the form of messages, event listings, graphics and numerical values;
-	- Change the MotoSuiveur configuration. Configuration has a secure access code at different levels;
-	- Change operating mode of MotoSuiveur;
-	- Display maintenance information of MotoSuiveur.
+- Display MotoSuiveur status information in the form of messages, event listings, graphics and numerical values;
+- Change the MotoSuiveur configuration. Configuration has a secure access code at different levels;
+- Change operating mode of MotoSuiveur;
+- Display maintenance information of MotoSuiveur.
 
 .. note::
     MotoSuiveurHMI is not part of standard MotoSuiveur equipment and can be ordered additionally.
+
+
+
+
+
 
 
 HMI Touch Screen Operations

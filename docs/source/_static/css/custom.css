@@ -2,7 +2,9 @@
     white-space:normal !important;
 }
 
-
+h2, h3 {
+    border-bottom:1px solid #d00000 !important;
+}
 /*
 .with-border img {
     border:1px solid black !important;
