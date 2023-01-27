@@ -99,11 +99,11 @@ Selecting a Passive Friction MotoSuiveur Unit (MSF)
 
 .. rubric:: Size of the MS
 
-|Cms|= 1.4 x Cs = 1.4x 3 065 = 4 291 Nm
+|Cms| = 1.4 x Cs = 1.4x 3 065 = 4 291 Nm
 
 According to :ref:`MotoSuiveur Unit arrest torque table`:
 
-|Cms|= 4 291 Nm < 6 100 Nm 
+|Cms| = 4 291 Nm < 6 100 Nm 
 
 **MS1** is the correct size of MotoSuiveur unit for this application.
 
