@@ -20,12 +20,29 @@ Components
     :align: center  
     
     MotoSuiveur Unit components:
-    
+
     1) Drum adapter flange, custom for every application
     2) Servo motor, with power and Resolver connectors
     3) Heavy-duty bearing, for drum bearing by MotoSuiveur Unit (optional)
     4) Mounting feet and positioning sockets
     5) Inspection and maintenance plug
+
+
+Product range
+---------------
+
+
+.. csv-table:: MotoSuiveur Unit arrest torque
+   :file: ../../_tables/ms-unit-torque.csv
+   :delim: ;
+   :header-rows: 1
+   :widths: 10, 30, 30, 30
+   :class: tight-table
+   :align: center
+
+
+Codification
+------------
 
 
 
@@ -34,9 +51,7 @@ Nameplate
 
 The nameplate of the MotoSuiveur Unit indicates :
 
-- the maximum rotating speed (1), 
-- the corresponding braking torque (2),
-- other characteristics (mass (3), oil quantity (4), etc…)
+
 
 .. important::
   The MotoSuiveur is designed to resist the dynamic solicitations of a defined application; so before any putting in operation, 
@@ -47,6 +62,13 @@ The nameplate of the MotoSuiveur Unit indicates :
     :align: center  
     
     MotoSuiveur Unit nameplate
+
+    1) the maximum rotating speed, 
+    2) the corresponding braking torque,
+    3) Mass,
+    4) Oil quantity,
+    5) -
+
 
 .. warning::
     | The MotoSuiveur is factory set taking into account the speed, load and inertia of the equipment. 
