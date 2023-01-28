@@ -206,6 +206,7 @@ Foot mounted bearing
    :file: ../../_tables/ms-foot-mounted-bearing-dimensions.csv
    :delim: ;
    :header-rows: 1
+   :stub-columns: 1
    :class: tight-table
    :align: center
 
@@ -221,6 +222,7 @@ Shaft mounted with reaction on side
    :file: ../../_tables/ms-shaft-mounted-reaction-arm-dimensions.csv
    :delim: ;
    :header-rows: 1
+   :stub-columns: 1
    :class: tight-table
    :align: center
 
@@ -229,6 +231,20 @@ Interface with hoist
 
 Drum shaft with splines
 ------------------------
+
+.. figure:: ../../_img/ms-unit-08.png
+    
+    Drum shaft with splines
+
+
+.. _Drum shaft with splines:
+.. csv-table:: Drum shaft with splines
+   :file: ../../_tables/drum-shaft-splines-dimensions.csv
+   :delim: ;
+   :header-rows: 1
+   :stub-columns: 1
+   :class: tight-table
+   :align: center
 
 Driving flange
 --------------
