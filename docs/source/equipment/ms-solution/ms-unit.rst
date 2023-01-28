@@ -194,11 +194,44 @@ Nameplate
 Dimensions
 ============
 
+Foot mounted bearing
+---------------------
+
+.. figure:: ../../_img/ms-unit-06.png
+    
+    MotoSuiveur Unit Foot mounted bearing
+
+.. _MotoSuiveur Unit Foot mounted bearing:
+.. csv-table:: MotoSuiveur Unit Foot mounted bearing dimensions
+   :file: ../../_tables/ms-foot-mounted-bearing-dimensions.csv
+   :delim: ;
+   :header-rows: 1
+   :class: tight-table
+   :align: center
+
+Shaft mounted with reaction on side
+------------------------------------
+
+.. figure:: ../../_img/ms-unit-07.png
+    
+    MotoSuiveur Unit Shaft mounted with reaction on side
+
+.. _MotoSuiveur Unit Shaft mounted with reaction on side:
+.. csv-table:: MotoSuiveur Unit Shaft mounted with reaction on side dimensions
+   :file: ../../_tables/ms-shaft-mounted-reaction-arm-dimensions.csv
+   :delim: ;
+   :header-rows: 1
+   :class: tight-table
+   :align: center
 
 Interface with hoist
 ======================
 
+Drum shaft with splines
+------------------------
 
+Driving flange
+--------------
 
 
 Manual command handle (wrench)
