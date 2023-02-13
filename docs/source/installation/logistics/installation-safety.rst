@@ -31,18 +31,18 @@ So it has to be easily accessible.
 
 In particular, the following conditions are required:
 
-    - Allow handling.
-    - Ensure accessibility.
-    - Ensure the safety of the maintenance and surveillance staff.
-    - Insulate the sequipment of a too polluting environment.
-    - Allow a normal air admission necessary to a good thermal exchange.
-    - Ensure acceptable room temperature (from 0° C to 45° C) for the standard version).
-    - A sheltered working location.
-    - Ensure that using the handle is easy and can be done in sufficient safety conditions.
-    - The electric boxed set containing the operating console must be easy to reach. It is better if it is next to the MotoSuiveur and visible by an operator located near the handle. If it is not feasible, install a buzzer near the MotoSuiveur to gravity lowering operations with the service brake.
-    - Make sure that the electric cables between the MotoSuiveur and the electric boxed set are not subject to chemical or mechanical aggressions. 
-    - Make sure that no heat source is in direct contact with the MotoSuiveur.
-    - The MotoSuiveur must be filled with oil SIGUREN SQ32 
+- Allow handling.
+- Ensure accessibility.
+- Ensure the safety of the maintenance and surveillance staff.
+- Insulate the sequipment of a too polluting environment.
+- Allow a normal air admission necessary to a good thermal exchange.
+- Ensure acceptable room temperature (from 0° C to 45° C) for the standard version).
+- A sheltered working location.
+- Ensure that using the handle is easy and can be done in sufficient safety conditions.
+- The electric boxed set containing the operating console must be easy to reach. It is better if it is next to the MotoSuiveur and visible by an operator located near the handle. If it is not feasible, install a buzzer near the MotoSuiveur to gravity lowering operations with the service brake.
+- Make sure that the electric cables between the MotoSuiveur and the electric boxed set are not subject to chemical or mechanical aggressions. 
+- Make sure that no heat source is in direct contact with the MotoSuiveur.
+- The MotoSuiveur must be filled with oil SIGUREN SQ32 
 
 Installation steps
 ===================
@@ -50,10 +50,9 @@ Installation steps
 For a fine installation of the MotoSuiveur and to avoid ill-timed blockings during the setting of the command station and of the drives, 
 we advise users to start the winch assembly by following these steps:
 
-    - Mounting of the torque limiter (OPTION)
-    - Setting and testing of the lifting drive and the command cabinet
-    - Installation of the MotoSuiveur on the drum and its reaction arm
-    - Positionning of the manual commands
-    - Oil level check
-    - Electric linking of the MotoSuiveur 
-
+- Mounting of the torque limiter (OPTION)
+- Setting and testing of the lifting drive and the command cabinet
+- Installation of the MotoSuiveur on the drum and its reaction arm
+- Positionning of the manual commands
+- Oil level check
+- Electric linking of the MotoSuiveur 

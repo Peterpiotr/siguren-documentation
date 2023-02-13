@@ -17,9 +17,9 @@ Learn more about MotoSuiveur Solutions components.
 
 
 * **MotoSuiveur Solutions components**:
-  :doc:`/equipment/ms-unit` |
-  :doc:`/equipment/control-cabinet` |
-  :doc:`/equipment/tl-addon` |
+  :doc:`/equipment/ms-solution/ms-unit` |
+  :doc:`/equipment/ms-solution/control-cabinet` |
+  :doc:`/equipment/ms-solution/tl-addon` |
 
 
 * **Control interfaces**:
