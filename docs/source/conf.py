@@ -10,7 +10,7 @@ copyright = f'{year}, SIGUREN technologies Ltd.'
 author = 'SIGUREN technologies Ltd.'
 
 master_doc = "index"
-version = '0.1.0'
+version = '0.1.x'
 release = version
 
 # -- General configuration

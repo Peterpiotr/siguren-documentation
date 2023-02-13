@@ -7,7 +7,7 @@ Lubrication
 .. ========================================================================================
 
 .. note::
-    Based on :download:`Using the MS Recovery Capabilities <../archives/using-the-ms-recovery-capabilities-02.docx>`
+    Based on :download:`../../_archives/Using the MS Recovery Capabilities <../archives/using-the-ms-recovery-capabilities-02.docx>`
 
 
 All MotoSuiveur units, are checked after assembly, set and tested on a bench at Siguren. 
