@@ -48,7 +48,8 @@ Learn more about the process of integrating a MotoSuiveur Solution into an exist
   :doc:`/installation/logistics/setting-drive`
 
 * **Installation on existing hoist**:
-  :doc:`/installation/mechanical-installation/`
+  :doc:`/installation/mechanical-installation/installation-on-existing-hoist` |
+  :doc:`/installation/mechanical-installation/setting-drive` 
 
 * **Electrical connections**:
   :doc:`/installation/controls-installation/connect-ms-control-cabinet`
