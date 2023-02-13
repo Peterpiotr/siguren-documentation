@@ -2,7 +2,7 @@
 Lubrication
 =============
 
-.. include:: ../../substitutions.rst
+.. include:: ../../_img/_image-substitutions.rst
 
 .. ========================================================================================
 
