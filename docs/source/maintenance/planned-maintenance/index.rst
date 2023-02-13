@@ -8,7 +8,7 @@ Planned maintenance
   :caption: Maintenance
 
   health-safety
-  electric-maintenance-and-testing
+  electrical-maintenance-and-testing
   maintenance-schedule
   lubrication
   storage

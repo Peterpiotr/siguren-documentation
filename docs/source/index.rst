@@ -23,11 +23,11 @@ Learn more about MotoSuiveur Solutions components.
 
 
 * **Control interfaces**:
-  :doc:`/equipment/control-panel` |
-  :doc:`/equipment/gui-hmi` |
+  :doc:`/equipment/control-interface/control-panel` |
+  :doc:`/equipment/control-interface/ms-hmi` |
 
 * **MotoSuiveur Recovery Add-ons**:
-  :doc:`/equipment/rec-addons` |
+  :doc:`/equipment/ms-solution/rec-addons` |
 
 .. toctree::
    :maxdepth: 2
@@ -44,14 +44,14 @@ Installation
 Learn more about the process of integrating a MotoSuiveur Solution into an existing or new hoist design.
 
 * **Logistics**:
-  :doc:`` |
-  :doc:``
+  :doc:`/installation/logistics/installation-safety` |
+  :doc:`/installation/logistics/setting-drive`
 
 * **Installation on existing hoist**:
-  :doc:``
+  :doc:`/installation/mechanical-installation/`
 
 * **Electrical connections**:
-  :doc:``
+  :doc:`/installation/controls-installation/connect-ms-control-cabinet`
 
 .. toctree::
   :maxdepth: 2
@@ -66,14 +66,15 @@ Operation
 ===========
 
 * **Regular operation**:
-  :doc:`` |
-  :doc:``
+  :doc:`/operation/regular/following` |
+  :doc:`/operation/regular/operation-modes`
 
 * **Load arrest**:
-  :doc:``
+  :doc:`/operation/load-arrest/load-arrest` |
+  :doc:`/operation/load-arrest/re-engaging` 
 
 * **Load recovery**:
-  :doc:``
+  :doc:`/operation/recovery/recovery-operation`
 
 .. toctree::
   :maxdepth: 2
@@ -88,11 +89,13 @@ Troubleshooting
 ================
 
 * **Diagnostics**:
-  :doc:`` |
-  :doc:``
+  :doc:`/troubleshooting/diagnostics/hmi-guided-troubleshooting` |
+  :doc:`/troubleshooting/diagnostics/controller-errors`
 
 * **Troubleshooting measures**:
-  :doc:``
+  :doc:`/troubleshooting/troubleshooting-measures/unblocking-ms` |
+  :doc:`/troubleshooting/troubleshooting-measures/variable-change` |
+  :doc:`/troubleshooting/troubleshooting-measures/ms-worm-removal` |
 
 .. toctree::
   :maxdepth: 2
@@ -106,12 +109,11 @@ Maintenance
 =============
 
 * **Planned maintenance schedule**:
-  :doc:`/planned-maintenance` |
-  :doc:`/spare-parts` 
+  :doc:`/maintenance/planned-maintenance/maintenance-schedule` |
+  :doc:`/maintenance/planned-maintenance/electrical-maintenance-and-testing` 
 
 * **Spare parts**:
-  :doc:`/planned-maintenance` |
-  :doc:`/spare-parts` 
+  :doc:`/maintenance/spare-parts/spare-parts` 
 
 .. toctree::
   :maxdepth: 2

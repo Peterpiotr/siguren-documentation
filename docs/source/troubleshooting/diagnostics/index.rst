@@ -6,6 +6,6 @@ Diagnostics
   :maxdepth: 2
 
   controller-errors
-  gui-guided-troubleshooting
+  hmi-guided-troubleshooting
   unblocking-ms
   controls-check
