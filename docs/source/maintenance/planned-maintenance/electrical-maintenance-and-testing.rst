@@ -3,7 +3,7 @@ Electrical maintenance
 =======================
 
 .. note::
-	Source is :doc:`49104-15-001 Operation  Maintenance Manual Issue D (1).pdf`
+	Source is :doc:`../../49104-15-001 Operation  Maintenance Manual Issue D (1).pdf`
 
 Due to inherent dangers in the maintenance and testing of electrical equipment, special attention should
 be paid to safety, not only to the personnel working the immediate area but also to equipment under test,

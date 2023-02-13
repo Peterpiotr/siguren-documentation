@@ -3,7 +3,7 @@ Flange installation
 ====================
 
 .. note::
-    Extracted from :download:`Mounting procedure.pptx <../archives/mounting-procedure.pptx>` .
+    Extracted from :download:`Mounting procedure.pptx <../../_archives/mounting-procedure.pptx>` .
 
 
 Drum – MS assembly
@@ -33,7 +33,7 @@ If you cannot rotate the barrel, do the following:
 4. Assemble the MS to the drum and secure it with the bolts M16. 
 
 .. _Securing with bolts:
-.. figure:: ../_img/mounting-procedure-03.jpg
+.. figure:: ../../_img/mounting-procedure-03.jpg
 	:width: 75 %
 	:align: center
 
@@ -45,7 +45,7 @@ If you cannot rotate the barrel, do the following:
 5. Insert the centering bush.
 
 .. _Centering bush assembly:
-.. figure:: ../_img/mounting-procedure-04.jpg
+.. figure:: ../../_img/mounting-procedure-04.jpg
 	:width: 75 %
 	:align: center
 
@@ -54,7 +54,7 @@ If you cannot rotate the barrel, do the following:
 6. Mount the stop washer. 3xM12 hexagon head screws. Tightening torque – 79 Nm
 
 .. _Stop washer assembly:
-.. figure:: ../_img/mounting-procedure-05.jpg
+.. figure:: ../../_img/mounting-procedure-05.jpg
 	:width: 75 %
 	:align: center
 
