@@ -2,7 +2,7 @@
 Planned maintenance schedule
 =============================
 
-.. include:: ../substitutions.rst
+.. include:: ../../substitutions.rst
 
 .. ========================================================================================
 
