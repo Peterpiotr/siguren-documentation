@@ -30,7 +30,7 @@ Learn more about MotoSuiveur Solutions components.
   :doc:`/equipment/ms-solution/rec-addons` |
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 4
    :hidden:
    :caption: Equipment overview
 
@@ -55,7 +55,7 @@ Learn more about the process of integrating a MotoSuiveur Solution into an exist
   :doc:`/installation/controls-installation/connect-ms-control-cabinet`
 
 .. toctree::
-  :maxdepth: 3
+  :maxdepth: 4
   :hidden:
   :caption: Installation
 
@@ -78,7 +78,7 @@ Operation
   :doc:`/operation/recovery/recovery-operation`
 
 .. toctree::
-  :maxdepth: 3
+  :maxdepth: 4
   :hidden:
   :caption: Operation
 
@@ -99,7 +99,7 @@ Troubleshooting
   :doc:`/troubleshooting/troubleshooting-measures/ms-worm-removal` |
 
 .. toctree::
-  :maxdepth: 3
+  :maxdepth: 4
   :hidden:
   :caption: Troubleshooting
 
@@ -117,7 +117,7 @@ Maintenance
   :doc:`/maintenance/spare-parts/spare-parts` 
 
 .. toctree::
-  :maxdepth: 3
+  :maxdepth: 4
   :hidden:
   :caption: Maintenance
 
@@ -134,7 +134,7 @@ Reference
 -------
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 4
    :hidden:
    :caption: Reference
 
