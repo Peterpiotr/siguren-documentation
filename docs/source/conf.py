@@ -36,7 +36,7 @@ intersphinx_disabled_domains = ['std']
 
 templates_path = ['_templates']
 
-numfig = True
+# numfig = True
 
 # -- Options for HTML output
 
