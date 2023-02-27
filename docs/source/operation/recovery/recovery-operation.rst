@@ -13,32 +13,7 @@ Using the MS recovery capabilities
 ===================================
 
 .. note::
-    Source :download:`Using the MS Recovery Capabilities <../../_archives/using-the-ms-recovery-capabilities-02.docx>`
-
-
-.. list-table:: List tables can have captions like this one.
-    :widths: 10 5 10 50
-    :header-rows: 1
-    :stub-columns: 1
-
-    * - List table
-      - Header 1
-      - Header 2
-      - Header 3 long. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sit amet mauris arcu.
-    * - Stub Row 1
-      - Row 1
-      - |image041|
-      - Column 3 long. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sit amet mauris arcu.
-    * - Stub Row 2
-      - Row 2
-      - Column 2
-      - Column 3 long. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sit amet mauris arcu.
-    * - Stub Row 3
-      - Row 3
-      - Column 2
-      - Column 3 long. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sit amet mauris arcu.
-
-
+    Source :download:`../../_archives/using-the-ms-recovery-capabilities-02.docx`
 
 The MS will never allow a load drop. It will arrest the hoist drum whenever the hoist brake is unable to do so. 
 However, the MS can be used as a gearbox to lower and even raise the load. 
@@ -313,7 +288,7 @@ The following table shows the procedure to follow in each case of failure.
 If the reason of the failure is not diagnosed proceed in the following order:
 
 - Procedure n°6-1 : Recovery after load arrest - Operation from the hardware buttons 
-- Then Procedure n°6-2 : Recovery after load arrest - Operation from the Proface touchscreen
+- Then Procedure n°6-2 : Recovery after load arrest - Operation from the touchscreen
 - Then Procedure n°6-3 : Recovery operation with pre-engagement with the load
 - Then Procedure n°6-4 : Recovery operation with pre-engagement with the hoist motor
 
@@ -324,7 +299,7 @@ Procedure n°6-1 : Recovery after load arrest - Operation from the hardware butt
 
 This procedure has to be followed after a load drop. 
 
-The MotoSuiveur Unit carries the load.
+The MotoSuiveur Unit bears the load.
 
 .. list-table:: Procedure n°6-1 : Recovery after load arrest - Operation from the hardware buttons 
    :widths: 5 95
@@ -403,13 +378,14 @@ The MotoSuiveur Unit carries the load.
   Lengthy and/or repetitive use of the recovery facility can cause excessive wear of the MotoSuiveur.
 
 
-Procedure n°6-2 : Recovery after load arrest - Operation from the Proface touchscreen
+Procedure n°6-2 : Recovery after load arrest - Operation from the touchscreen
 ---------------------------------------------------------------------------------------
 
-The recovery operations can be done either from the Siguren control panel with physical buttons or from the Proface touchscreen.
+The recovery operations can be done either from the Siguren control panel with physical buttons 
+or from the touchscreen.
 
-Operating from the Proface can be the prefered choice when the Siguren control panel is not easily accessible and that the 
-Proface touchscreen is installed on the remote control box.
+Operating from the touchscreen can be the preferred choice (②) when the Siguren control panel 
+is not easily accessible and that the touchscreen is installed on the remote control box.
 
 
 .. list-table:: Procedure n°6-2 : Recovery after load arrest - Operation from the Proface touchscreen
