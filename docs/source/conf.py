@@ -109,9 +109,9 @@ html_css_files = [
 
 latex_engine = 'xelatex'
 
-latex_elements = {
-    'figure_align':'H',
-}
+#latex_elements = {
+#    'figure_align':'H',
+#}
 
 hoverxref_auto_ref = True
 
