@@ -391,7 +391,7 @@ is not easily accessible and that the touchscreen is installed on the remote con
 .. list-table:: Procedure n°6-2 : Recovery after load arrest - Operation from the Proface touchscreen
    :widths: 5 95
    :header-rows: 1
-   :class: instruction-table
+   :class: tight-table
   
    * - Step
      - Description
