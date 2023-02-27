@@ -14,12 +14,13 @@ Control panel
 .. note::
 	Source is :doc:`49104-15-001 Operation  Maintenance Manual Issue D (1).pdf`
 
+MS control cabinet is built according to the configuration of the MS control diagram. Control cabinet and MS Controller have nameplates indicating their specifics.
 The Front Panel is the main source for power and recovery functions.
 
 The operator has the facility to use the controls on the HMI and the controls on the Recovery and Main Supply Panel as shown on below.
 
 .. _Control panel layout SCX:
-.. figure:: ../_img/control-panel-03.png
+.. figure:: ../../_img/control-panel-03.png
 	:align: center
 	:figwidth: 600 px
 
