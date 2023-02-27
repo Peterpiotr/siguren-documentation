@@ -2,7 +2,7 @@
 Load recovery 
 ==============
 
-.. include:: ../img/substitutions.rst
+.. include:: ../../_img/_image-substitutions.rst
 
 .. ====================================================================================================================
 
@@ -13,7 +13,7 @@ Using the MS recovery capabilities
 ===================================
 
 .. note::
-    Source :download:`Using the MS Recovery Capabilities <../archives/using-the-ms-recovery-capabilities-02.docx>`
+    Source :download:`Using the MS Recovery Capabilities <../../_archives/using-the-ms-recovery-capabilities-02.docx>`
 
 
 .. list-table:: List tables can have captions like this one.
