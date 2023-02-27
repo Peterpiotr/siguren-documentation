@@ -107,6 +107,8 @@ html_css_files = [
     ('print.css', {'media': 'print'}) # modifies pdf output?? 
 ]
 
+latex_engine = 'xelatex'
+
 latex_elements = {
     'figure_align':'H',
 }
