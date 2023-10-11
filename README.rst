@@ -1,6 +1,13 @@
-Template for the Read the Docs tutorial
-=======================================
+ReadMe - Siguren Documentation with SPhinx and ReadTheDocs
+===========================================================
 
-Read the tutorial here:
+================
+Version History
+================
 
-https://docs.readthedocs.io/en/stable/tutorial/
+-------
+0.1.x
+-------
+
+- пълно съдържание
+- някои предварителни статии
