@@ -1,6 +1,8 @@
-Template for the Read the Docs tutorial
+Version History
 =======================================
 
-Read the tutorial here:
+=======
+v0.1.1
+=======
 
-https://docs.readthedocs.io/en/stable/tutorial/
+- publish contents of docx/pdf manual
