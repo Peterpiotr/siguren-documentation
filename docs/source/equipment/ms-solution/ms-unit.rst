@@ -17,11 +17,11 @@ Component description
 Components
 -----------
 
-.. figure:: hydraulic_ms
+.. figure:: ../../_img/MS_Unit/hydraulic_ms.jpg
     :figwidth: 600 px
     :align: center  
     
-    MotoSuiveur Unit components:
+  Hydraulic MotoSuiveur Unit components:
    :file: ../../_tables/hydraulic_ms.csv
    :delim: ;
    :header-rows: 1
