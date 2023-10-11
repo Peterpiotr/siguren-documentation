@@ -46,3 +46,6 @@
 .. |manual-service-brake-motosuiveur-backup-02|  image:: ../../_img/manual-service-brake-motosuiveur-backup-02.png
 
 .. |mounting-procedure-02|  image:: ../../_img/mounting-procedure-02.jpg
+.. MS Units==== ============================================================    
+.. |hydraulic_ms|  image:: ../../_img/MS_Unit/Hydraulic.jpg    
+.. |friction_ms|  image:: ../../_img/MS_Unit/Friction.jpg 

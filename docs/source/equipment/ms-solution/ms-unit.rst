@@ -2,6 +2,8 @@
 MotoSuiveur Unit
 ==================
 
+.. include:: ../../_img/_image-substitutions.rst
+
 .. role:: mechpart
    :class: mechpart
 
@@ -15,17 +17,18 @@ Component description
 Components
 -----------
 
-.. figure:: ../../_img/ms-unit-05.png
+.. figure:: hydraulic_ms
     :figwidth: 600 px
     :align: center  
     
     MotoSuiveur Unit components:
+   :file: ../../_tables/hydraulic_ms.csv
+   :delim: ;
+   :header-rows: 1
+   :widths: 10, 30, 30, 30
+   :class: tight-table
+   :align: center
 
-    1) Drum adapter flange, custom for every application
-    2) Servo motor, with power and Resolver connectors
-    3) Heavy-duty bearing, for drum bearing by MotoSuiveur Unit (optional)
-    4) Mounting feet and positioning sockets
-    5) Inspection and maintenance plug
 
 
 Codification
