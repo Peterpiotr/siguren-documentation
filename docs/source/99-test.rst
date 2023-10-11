@@ -5,13 +5,14 @@ test page
 hhhhhhhh
 ============
 
-kkkk lorem :hoverxref:`example-ref`
+kkkk lorem :hoverxref:`example-ref` 
 
 .. figure:: .png
 	:figwidth: 600 px
 	:align: center
 
 	General view
+
 
 
 .. list-table:: 
