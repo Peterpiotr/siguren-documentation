@@ -28,6 +28,7 @@ Components
    :header-rows: 1
    :class: tight-table
    :align: left
+   :widths: 5, 45, 50
 
 
 
