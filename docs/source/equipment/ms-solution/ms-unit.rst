@@ -18,17 +18,17 @@ Components
 -----------
 
 .. figure:: ../../_img/MS_Unit/Hydraulic.jpg
-    :figwidth: 600 px
-    :align: center  
+   :figwidth: 600 px
+   :align: center  
     
-  Hydraulic MotoSuiveur Unit components:
-  .. csv-table:: MotoSuiveur Unit arrest torque table
-     :file: ../../_tables/hydraulic_ms.csv
-     :delim: ;
-     :header-rows: 1
-     :widths: 10, 30, 30, 30
-     :class: tight-table
-     :align: center
+Hydraulic MotoSuiveur Unit components
+.. csv-table:: MotoSuiveur Unit arrest torque table
+   :file: ../../_tables/hydraulic_ms.csv
+   :delim: ;
+   :header-rows: 1
+   :widths: 10, 30, 30, 30
+   :class: tight-table
+   :align: center
 
 
 
