@@ -28,10 +28,23 @@ Components
    :delim: ;
    :header-rows: 1
    :class: tight-table
-   :align: left
+   :align: center, left, left
    :widths: auto
 
 
+
+.. figure:: ../../_img/MS_Unit/friction.jpg
+   :figwidth: 600 px
+   :align: center  
+    
+
+.. csv-table:: Friction MotoSuiveur Unit components
+   :file: ../../_tables/friction_ms.csv
+   :delim: ;
+   :header-rows: 1
+   :class: tight-table
+   :align: center, left, left
+   :widths: auto
 
 
 Codification
