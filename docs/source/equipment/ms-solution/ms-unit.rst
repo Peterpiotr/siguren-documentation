@@ -49,8 +49,8 @@ Friction MotoSuiveur
    :widths: auto
 
 
-Codification
-------------
+.. Codification
+.. ------------
 
 .. .. list-table:: Codification for Passive Friction MotoSuiveur Units
    :header-rows: 1
@@ -126,11 +126,11 @@ Codification
 ..
   .. note::
 
-  | Example :
+..  | Example :
   | MS0  L  F  R  P  C  1  S  6  1  /  5  TS
 
 MotoSuiveur Unit size
-^^^^^^^^^^^^^^^^^^^^^^^
+---------------------
 .. _MotoSuiveur Unit arrest torque table:
 .. csv-table:: MotoSuiveur Unit arrest torque table
    :file: ../../_tables/ms-unit-torque.csv
@@ -140,40 +140,41 @@ MotoSuiveur Unit size
    :class: tight-table
    :align: center
 
-Arrest type
-^^^^^^^^^^^^
+.. Arrest type
+.. ^^^^^^^^^^^^
 
-This document focuses on Passive Friction arrest type MotoSuiveur. 
+.. This document focuses on Passive Friction arrest type MotoSuiveur. 
 
-See xxx for Damping arrest type.
-
-
-Rotation direction at lowering
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. See xxx for Damping arrest type.
 
 
-Reaction arm position
-^^^^^^^^^^^^^^^^^^^^^^^^
+.. Rotation direction at lowering
+.. ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 
-Driving type
-^^^^^^^^^^^^^^^^^^
+.. Reaction arm position
+  ^^^^^^^^^^^^^^^^^^^^^^^^
 
 
-Servo motor position
-^^^^^^^^^^^^^^^^^^^^^^
+.. Driving type
+ ^^^^^^^^^^^^^^^^^^
 
 
-Power supply voltage
-^^^^^^^^^^^^^^^^^^^^^^
+.. Servo motor position
+ ^^^^^^^^^^^^^^^^^^^^^^
 
 
-Integrated Recovery position
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. Power supply voltage
+ ^^^^^^^^^^^^^^^^^^^^^^
+
+
+.. Integrated Recovery position
+ ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 
 
-.. list-table:: 
+..
+  .. list-table:: 
    :widths: 5 95
    :header-rows: 1
   
@@ -189,12 +190,14 @@ Integrated Recovery position
 
 
 
+..
+ Nameplate
+ ----------
 
-Nameplate
-----------
 
 
-.. figure:: ../../_img/ms-unit-02.png
+..
+  .. figure:: ../../_img/ms-unit-02.png
     :figwidth: 600 px
     :align: center  
     
@@ -206,11 +209,11 @@ Nameplate
     4) Oil quantity,
     5) -
 
-.. important::
+  .. important::
   The MotoSuiveur is designed to resist the dynamic solicitations of a defined application; so before any putting in operation, 
   make sure that the installation complies entirely with the application that the MotoSuiveur has been ordered for by checking the nameplate.
-
-.. warning::
+..
+ .. warning::
     The MotoSuiveur is factory set taking into account the speed, load and inertia of the equipment. 
     | Increasing the speed / inertia of the equipment on which the MotoSuiveur is installed is not allowed and may lead to serious damage. 
 
@@ -218,15 +221,15 @@ Nameplate
 Dimensions
 ============
 
-Foot mounted bearing
----------------------
+.. Foot mounted bearing
+  ---------------------
 
-.. figure:: ../../_img/ms-unit-06.png
+.. .. figure:: ../../_img/ms-unit-06.png
     
-    MotoSuiveur Unit Foot mounted bearing
+..    MotoSuiveur Unit Foot mounted bearing
 
-.. _MotoSuiveur Unit Foot mounted bearing:
-.. csv-table:: MotoSuiveur Unit Foot mounted bearing dimensions
+.. .. _MotoSuiveur Unit Foot mounted bearing:
+ .. csv-table:: MotoSuiveur Unit Foot mounted bearing dimensions
    :file: ../../_tables/ms-foot-mounted-bearing-dimensions.csv
    :delim: ;
    :header-rows: 1
@@ -234,15 +237,15 @@ Foot mounted bearing
    :class: tight-table
    :align: center
 
-Shaft mounted with reaction on side
-------------------------------------
+.. Shaft mounted with reaction on side
+ ------------------------------------
 
-.. figure:: ../../_img/ms-unit-07.png
+.. .. figure:: ../../_img/ms-unit-07.png
     
-    MotoSuiveur Unit Shaft mounted with reaction on side
+..   MotoSuiveur Unit Shaft mounted with reaction on side
 
-.. _MotoSuiveur Unit Shaft mounted with reaction on side:
-.. csv-table:: MotoSuiveur Unit Shaft mounted with reaction on side dimensions
+.. .. _MotoSuiveur Unit Shaft mounted with reaction on side:
+ .. csv-table:: MotoSuiveur Unit Shaft mounted with reaction on side dimensions
    :file: ../../_tables/ms-shaft-mounted-reaction-arm-dimensions.csv
    :delim: ;
    :header-rows: 1
@@ -253,16 +256,32 @@ Shaft mounted with reaction on side
 Interface with hoist
 ======================
 
-Drum shaft with splines
-------------------------
+The MotoSuiveur secured hoist system comprises of the following components shown below.
+.. figure:: ../../_img/MS_secured_hoist.png
 
-.. figure:: ../../_img/ms-unit-08.png
-    
-    Drum shaft with splines
+.. csv-table:: MotoSuiveur secured hoist
+   :file: ../../_tables/MS-Secured-Hoist.csv
+   :delim: ;
+   :header-rows: 1
+   :widths: auto
+   :class: tight-table
+   :align: left
+
+* The MS can be fixed in different methods to the hoist. The following sections explain in more detail.
+** Torque limiter is mandatory for hydraulic MS type
 
 
-.. _Drum shaft with splines:
-.. csv-table:: Drum shaft with splines
+
+.. Drum shaft with splines
+ ------------------------
+
+.. .. figure:: ../../_img/ms-unit-08.png
+  
+
+
+.. 
+ .. _Drum shaft with splines:
+ .. csv-table:: Drum shaft with splines
    :file: ../../_tables/drum-shaft-splines-dimensions.csv
    :delim: ;
    :header-rows: 1
@@ -270,39 +289,44 @@ Drum shaft with splines
    :class: tight-table
    :align: center
 
-Driving flange
---------------
 
 
-Manual command handle (wrench)
-===============================
 
-.. note::
+.. Driving flange
+ --------------
+
+
+.. Manual command handle (wrench)
+ ===============================
+
+..
+ .. note::
 	Source: :download:`User Manual-7.4.doc`
 
-The manual operation devices allow the MotoSuiveur® to set-down the load in case of a breakdown (gravity lowering). 
-The operating procedure is described in *chapter 5*.
+.. The manual operation devices allow the MotoSuiveur® to set-down the load in case of a breakdown (gravity lowering). 
+ The operating procedure is described in *chapter 5*.
 
-.. figure:: ../../_img/ms-unit-03.png
+.. .. figure:: ../../_img/ms-unit-03.png
     :figwidth: 600 px
     :align: center  
     
     Manual command handle
 
-For example, the manual command handle can be composed of a standard speed handle (square ¾ “) (1), a socket universal (2) and a socket (3).
+.. For example, the manual command handle can be composed of a standard speed handle (square ¾ “) (1), a socket universal (2) and a socket (3).
 
-.. figure:: ../../_img/ms-unit-04.png
+.. .. figure:: ../../_img/ms-unit-04.png
     :figwidth: 600 px
     :align: center  
     
     Manual command handle parts
 
-.. important::
+.. 
+  .. important::
     It must be used by operators informed of procedures.
 
-It is to be used only in case of gravity lowering with manual control from the MotoSuiveur®, for example in case of power failure of the electric supply of the MotoSuiveur®.
+.. It is to be used only in case of gravity lowering with manual control from the MotoSuiveur®, for example in case of power failure of the electric supply of the MotoSuiveur®.
 
-.. list-table:: Manual handle mounting instruction
+.. .. list-table:: Manual handle mounting instruction
    :widths: 5 95
    :header-rows: 1
    :class: instruction-table
