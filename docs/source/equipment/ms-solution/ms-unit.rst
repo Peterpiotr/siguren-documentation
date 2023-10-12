@@ -23,7 +23,7 @@ Hydraulic Damping MotoSuiveur
    :align: center  
     
 
-.. csv-table:: Hydraulic MotoSuiveur Unit components
+.. csv-table:: Hydraulic Dampming MotoSuiveur Unit components
    :file: ../../_tables/hydraulic_ms.csv
    :delim: ;
    :header-rows: 1
