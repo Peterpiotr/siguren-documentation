@@ -288,7 +288,7 @@ The MS unit is electrically controlled using typical components as shown in the 
    SIGUREN TECHNOLOGIES STRONGLY ENCOURAGES RECOMMEND MS MAIN POWER SUPPLY TO BE SEPARATED FROM E-STOP.
 
 
-.. figure:: ../../_img/MS_Unit/MS Electrical description.jpg
+.. figure:: ../../_img/MS_Unit/MS-Electrical-description.jpg
 
 .. csv-table:: MotoSuiveur secured hoist
    :file: ../../_tables/electrical-interface.csv
