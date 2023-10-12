@@ -8,8 +8,9 @@ MotoSuiveur Unit
    :class: mechpart
 
 .. note::
-    Describes the MotoSuiveur unit. Describes what options users have for assembling an MotoSuiveur unit with their hoist, new or existing. 
-    MotoSuiveur seat and flange/splines. Bearing/non-bearing. Arrest torque absorption.
+The MotoSuiveur® unit is a proprietary system for the protection of the main hoist load from over-speed and load path failures, and for the recovery of the load in the event of a failure. The unit is supplied with a proprietary control panel from the equipment manufacturers. The crane’s hardwired controls are interfaced to this panel to control the MotoSuiveur® in normal operation. 
+The MS unit is a failsafe mechanical hoist arrester, designed and manufactured by Siguren Technologies LTD. The MS unit protects against failures in hoist drive trains that would otherwise lead to dropped loads or overloads.
+
 
 Component description
 ======================
@@ -28,7 +29,7 @@ Components
    :header-rows: 1
    :class: tight-table
    :align: left
-   :widths: 5, 45, 50
+   :widths: auto
 
 
 
