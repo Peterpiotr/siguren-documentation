@@ -267,8 +267,8 @@ The MotoSuiveur secured hoist system comprises of the following components shown
    :class: tight-table
    :align: left
 
-* The MS can be fixed in different methods to the hoist. The following sections explain in more detail.
-** Torque limiter is mandatory for hydraulic MS type
+* *The MS can be fixed in different methods to the hoist. The following sections explain in more detail.*
+** *Torque limiter is mandatory for hydraulic MS type
 
 
 
