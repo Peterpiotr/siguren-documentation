@@ -23,7 +23,7 @@ Hydraulic Damping MotoSuiveur
    :align: center  
     
 
-.. csv-table:: Hydraulic Damping Dampming MotoSuiveur Unit components
+.. csv-table:: Hydraulic Damping MotoSuiveur Unit components
    :file: ../../_tables/hydraulic_ms.csv
    :delim: ;
    :header-rows: 1
@@ -52,7 +52,7 @@ Friction MotoSuiveur
 Codification
 ------------
 
-.. list-table:: Codification for Passive Friction MotoSuiveur Units
+.. .. list-table:: Codification for Passive Friction MotoSuiveur Units
    :header-rows: 1
    :class: tight-table
    :width: 100 %
@@ -118,10 +118,13 @@ Codification
      - | (1)..(7)
        | See xxx for details.
 
-.. note::
+
+..
+  .. note::
   size + type = model ?
 
-.. note::
+..
+  .. note::
 
   | Example :
   | MS0  L  F  R  P  C  1  S  6  1  /  5  TS
