@@ -131,6 +131,7 @@ Friction MotoSuiveur
 
 MotoSuiveur Unit size
 ---------------------
+
 .. _MotoSuiveur Unit arrest torque table:
 .. csv-table:: MotoSuiveur Unit arrest torque table
    :file: ../../_tables/ms-unit-torque.csv
@@ -218,8 +219,8 @@ MotoSuiveur Unit size
     | Increasing the speed / inertia of the equipment on which the MotoSuiveur is installed is not allowed and may lead to serious damage. 
 
 
-Dimensions
-============
+.. Dimensions
+ ============
 
 .. Foot mounted bearing
   ---------------------
@@ -268,8 +269,8 @@ The MotoSuiveur secured hoist system comprises of the following components shown
    :class: tight-table
    :align: left
 
-* *The MS can be fixed in different methods to the hoist. The following sections explain in more detail.*
-** *Torque limiter is mandatory for hydraulic MS type
+*1 The MS can be fixed in different methods to the hoist. The following sections explain in more detail.
+*2 Torque limiter is mandatory for hydraulic MS type
 
 
 
