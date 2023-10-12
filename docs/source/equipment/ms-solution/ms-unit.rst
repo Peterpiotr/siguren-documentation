@@ -257,6 +257,7 @@ Interface with hoist
 ======================
 
 The MotoSuiveur secured hoist system comprises of the following components shown below.
+
 .. figure:: ../../_img/MS_secured_hoist.png
 
 .. csv-table:: MotoSuiveur secured hoist
