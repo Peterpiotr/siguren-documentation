@@ -15,7 +15,7 @@ The MS unit is a failsafe mechanical hoist arrester, designed and manufactured b
 Component description
 ======================
 
-Hydraulic MotoSuiveur
+Hydraulic Damping MotoSuiveur
 ---------------------
 
 .. figure:: ../../_img/MS_Unit/Hydraulic.jpg
@@ -35,7 +35,7 @@ Hydraulic MotoSuiveur
 Friction MotoSuiveur
 ---------------------
 
-.. figure:: ../../_img/MS_Unit/friction.jpg
+.. figure:: ../../_img/MS_Unit/Friction.jpg
    :figwidth: 600 px
    :align: center  
     
