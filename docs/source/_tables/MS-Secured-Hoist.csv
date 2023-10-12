@@ -1,6 +1,6 @@
-"No          ";"Component                                       ";"Requirement";Type
-"1           ";"MS control cabinet";"Mandatory (core)";Dimensions of control cabinet vary according to project requirements
-"2           ";"MS unit";"Mandatory (core)";Damping Hydraulic  / Damping Elastomer / Friction
-"3           ";"MS mounting seat / Reaction arm [1]_";"Mandatory (core)";-
-"4           ";"Hoist motor with brake      ";"-";-
-"5           ";"Torque limiter [2]_";"Add-on";TL40, TL50, TL63, TL80, TL100, TL125, TL160
+"No          ";"Component                       ";"Requirement";Type
+"1           ";"MS control cabinet              ";"Mandatory (core)";Dimensions of control cabinet vary according to project requirements
+"2           ";"MS unit                         ";"Mandatory (core)";Damping Hydraulic  / Damping Elastomer / Friction
+"3           ";"MS mounting seat / Reaction arm(1) ";"Mandatory (core)";-
+"4           ";"Hoist motor with brake          ";"-";-
+"5           ";"Torque limiter(2)                  ";"Add-on";TL40, TL50, TL63, TL80, TL100, TL125, TL160

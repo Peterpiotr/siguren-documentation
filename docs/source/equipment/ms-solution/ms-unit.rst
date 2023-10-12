@@ -8,7 +8,8 @@ MotoSuiveur Unit
    :class: mechpart
 
 .. note::
-The MotoSuiveur® unit is a proprietary system for the protection of the main hoist load from over-speed and load path failures, and for the recovery of the load in the event of a failure. The unit is supplied with a proprietary control panel from the equipment manufacturers. The crane’s hardwired controls are interfaced to this panel to control the MotoSuiveur® in normal operation. 
+The MotoSuiveur® unit (referred to for short MS) is a proprietary system for the protection of the main hoist load from over-speed and load path failures, and for the recovery of the load in the event of a failure. The unit is supplied with a proprietary control panel from the equipment manufacturers. The crane’s hardwired controls are interfaced to this panel to control the MotoSuiveur® in normal operation. 
+
 The MS unit is a failsafe mechanical hoist arrester, designed and manufactured by Siguren Technologies LTD. The MS unit protects against failures in hoist drive trains that would otherwise lead to dropped loads or overloads.
 
 
@@ -257,6 +258,11 @@ MotoSuiveur Unit size
 Interface with hoist
 ======================
 
+Mechanical interface with hoist
+-------------------------------
+
+The MotoSuiveur wheel hub is interfaced mechanically to hoist drum via differend methods.
+
 The MotoSuiveur secured hoist system comprises of the following components shown below.
 
 .. figure:: ../../_img/MS_Unit/MS_secured_hoist.png
@@ -270,8 +276,27 @@ The MotoSuiveur secured hoist system comprises of the following components shown
    :align: left
 
 1 - The MS can be fixed in different methods to the hoist. The following sections explain in more detail.
+
 2 - Torque limiter is mandatory for hydraulic MS type
 
+Electrical interface with hoist
+-------------------------------
+
+The MS unit is electrically controlled using typical components as shown in the figure below. Typically hoist main power supply and MS main power supply are separated.
+
+.. note::
+   SIGUREN TECHNOLOGIES STRONGLY ENCOURAGES RECOMMEND MS MAIN POWER SUPPLY TO BE SEPARATED FROM E-STOP.
+
+
+.. figure:: ../../_img/MS_Unit/MS Electrical description.jpg
+
+.. csv-table:: MotoSuiveur secured hoist
+   :file: ../../_tables/electrical-interface.csv
+   :delim: ;
+   :header-rows: 1
+   :widths: auto
+   :class: tight-table
+   :align: left
 
 
 .. Drum shaft with splines
