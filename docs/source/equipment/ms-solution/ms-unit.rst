@@ -275,14 +275,19 @@ The MotoSuiveur secured hoist system comprises of the following components shown
    :class: tight-table
    :align: left
 
-1 - The MS can be fixed in different methods to the hoist. The following sections explain in more detail.
+1 - The MotoSuiveur can be fixed in different methods to the hoist. The following sections explain in more detail.
 
 2 - Torque limiter is mandatory for hydraulic MS type
 
 Electrical interface with hoist
 -------------------------------
 
-The MS unit is electrically controlled using typical components as shown in the figure below. Typically hoist main power supply and MS main power supply are separated.
+The MotoSuiveur system is electrically controlled using typical components as shown in the figure below. 
+
+MotoSuiveur system is controlled by hoist control. No external control is needed.
+
+.. note::
+   It is recommended hoist main power supply and MS main power supply are separated.
 
 .. note::
    SIGUREN TECHNOLOGIES STRONGLY ENCOURAGES RECOMMEND MS MAIN POWER SUPPLY TO BE SEPARATED FROM E-STOP.
