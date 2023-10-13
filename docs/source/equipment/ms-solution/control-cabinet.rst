@@ -101,4 +101,5 @@ All electrical parameters and iterfaces are determined by the pre-configuration 
 .. ---------------------------------------------------------------------------------------------------------------------------------
 
 
-For a detailed description of the control interface and components, see the :ref:`Control cabinet` section. 
+* **Control cabinet**:
+  :doc:`../../equipment/control-interface/control-panel` |
