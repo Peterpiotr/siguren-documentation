@@ -5,7 +5,7 @@ Control panel
 
 .. include:: ../../_img/_image-substitutions.rst
 
-.. _cabinet:
+.. _Control cabinet:
 
 
 
