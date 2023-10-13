@@ -21,8 +21,7 @@ MotoSuiveur Control cabinet
 
 MotoSuiveur control cabinet (picture below) is built according to the configuration of the MS control diagram_. 
 Control cabinet and MS Controller have nameplates indicating voltage (power requirements), serial number, date (Nameplates).
-.. _diagram: 
-.. figure:: ../../_img/control-cabinet-01.png
+
 
 .. figure:: ../../_img/Control-Cabinet/Control-cabinet-overview.png
    :figwidth: 800 px
@@ -72,7 +71,7 @@ Worm screw positions coming from digital sensors are sent to the Main hoist cont
 
 Integration of the MotoSuiveur in the control system
 =======================================================
-
+.. _diagram: 
 .. _Integration of the MotoSuiveur in the control system
 .. figure:: ../../_img/control-cabinet-02.png
 	:figwidth: 600 px
