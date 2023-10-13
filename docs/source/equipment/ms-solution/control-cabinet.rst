@@ -1,23 +1,40 @@
 ================
 Control cabinet
 ================
-
-.. note::
+..
+ .. note::
 	Describes what standard MotoSuiveur electrical panel is like. I/O, components, connectors, options…
-
-.. note::
+..
+ .. note::
 	Source: :download:`User Manual-7.4.doc`
+..
+ About the MotoSuiveur control system
+ =====================================
+..
+ The MotoSuiveur control system comes with different architectures to meet the installation requirements.
+..
+ The MotoSuiveur has been designed to be integrated almost stand-alone on hoisting system and basically requires 
+ only the servo-motor controller to be connected to the main hoist panel. However, most of the time, 
+ the MotoSuiveur is integrated in the control system with its own control system.
+..
+ All configurations integrate the very same servo-motor controller software.
 
-About the MotoSuiveur control system
-=====================================
+MotoSuiveur control cabinet (picture below) is built according to the configuration of the MS control diagram_. 
+Control cabinet and MS Controller have nameplates indicating voltage (power requirements), serial number, date (Nameplates).
+.. _diagram:../../_img/control-cabinet-01.png
 
-The MotoSuiveur control system comes with different architectures to meet the installation requirements.
+.. figure:: ../../_img/Control-Cabinet/Control-cabinet-overview.png
+   :figwidth: 600 px
+   :align: center  
+    
 
-The MotoSuiveur has been designed to be integrated almost stand-alone on hoisting system and basically requires 
-only the servo-motor controller to be connected to the main hoist panel. However, most of the time, 
-the MotoSuiveur is integrated in the control system with its own control system.
-
-All configurations integrate the very same servo-motor controller software.
+.. csv-table:: MotoSuiveur control cabinet overview
+   :file: ../../_tables/control-cabinet-overview.csv
+   :delim: ;
+   :header-rows: 1
+   :class: tight-table
+   :align: left
+   :widths: auto
 
 
 Description

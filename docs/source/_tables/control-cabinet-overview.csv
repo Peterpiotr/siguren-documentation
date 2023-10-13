@@ -1,0 +1,6 @@
+"No          ";"Name                                       ";"Description     "
+"1           ";"MSHMI";"Shows actual MS system status and information. 
+Displays warning and error messages"
+"2           ";"Controls and indicator lamps";"Change MS operating mode. Actual status of MS system."
+"3           ";"Nameplate";"Control cabinet information – SN, model, date of production, power supply"
+"4           ";"Cable glands";"Control panel cables I/O"
