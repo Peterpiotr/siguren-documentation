@@ -20,7 +20,7 @@ MotoSuiveur Control cabinet
  All configurations integrate the very same servo-motor controller software.
 
 MotoSuiveur control cabinet (picture below) is built according to the configuration of the MS control diagram_. 
-Control cabinet and MS Controller have nameplates indicating voltage (power requirements), serial number, date (Nameplates).
+Control cabinet have nameplate_ located on front side of the door indicating input power (voltage, frequency, current), serial number, date.
 
 
 .. figure:: ../../_img/Control-Cabinet/Control-cabinet-overview.png
@@ -36,20 +36,20 @@ Control cabinet and MS Controller have nameplates indicating voltage (power requ
    :align: left
    :widths: auto
 
+..
+ Description
+ =============
+..
+ Servo-motor controller
+ ------------------------
+..
+ Each MotoSuiveur is fitted with a servo-motor that adapts the rotation of the worm screw to the orders given to the hoist motor. 
+ The servo-motor is controlled by a controller that embeds a software especially developed by the MotoSuiveur manufacturer.
+..
+ The servo-motor controller is connected directly to the servo-motor through a dedicated cable 
+ that controls the servo-motor and sends position data back to the controller.
 
-Description
-=============
-
-Servo-motor controller
-------------------------
-
-Each MotoSuiveur is fitted with a servo-motor that adapts the rotation of the worm screw to the orders given to the hoist motor. 
-The servo-motor is controlled by a controller that embeds a software especially developed by the MotoSuiveur manufacturer.
-
-The servo-motor controller is connected directly to the servo-motor through a dedicated cable 
-that controls the servo-motor and sends position data back to the controller.
-
-
+.. _nameplate:
 Nameplate
 ----------
 
