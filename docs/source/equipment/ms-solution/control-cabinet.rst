@@ -92,7 +92,6 @@ The integration of the MS into the control system of a new or existing crane is 
 All electrical parameters and iterfaces are determined by the pre-configuration diagram.
 
 .. _diagram:
-.. _Integration of the MotoSuiveur in the control system
 .. figure:: ../../_img/Control-Cabinet/control-cabinet-configuration.png
 	:figwidth: 800 px
 	:align: center
@@ -102,7 +101,9 @@ All electrical parameters and iterfaces are determined by the pre-configuration 
 .. ---------------------------------------------------------------------------------------------------------------------------------
 
 
-For a detailed description of the control interface and components, see the :hoverxref:`control-cabinet`section.
+For a detailed description of the control interface and components, see the :ref:`Control cabinet` section. 
+
+
 
 
 

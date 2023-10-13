@@ -154,7 +154,7 @@ The motor is actuated when the hoist operation is requested. When the servo moto
 ..  | Example :
   | MS0  L  F  R  P  C  1  S  6  1  /  5  TS
 
-MotoSuiveur Unit size
+MotoSuiveur unit size
 ---------------------
 
 .. _MotoSuiveur Unit arrest torque table:

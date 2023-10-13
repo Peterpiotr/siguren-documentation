@@ -1,5 +1,5 @@
 
-.. _control-cabinet:
+.. _Control cabinet:
 ==============
 Control panel
 ==============
