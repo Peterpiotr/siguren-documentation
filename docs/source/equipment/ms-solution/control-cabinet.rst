@@ -1,6 +1,6 @@
-================
-Control cabinet
-================
+===========================
+MotoSuiveur Control cabinet
+===========================
 ..
  .. note::
 	Describes what standard MotoSuiveur electrical panel is like. I/O, components, connectors, options…
@@ -21,11 +21,12 @@ Control cabinet
 
 MotoSuiveur control cabinet (picture below) is built according to the configuration of the MS control diagram_. 
 Control cabinet and MS Controller have nameplates indicating voltage (power requirements), serial number, date (Nameplates).
-.. _diagram:../../_img/control-cabinet-01.png
+.. _diagram: 
+.. figure:: ../../_img/control-cabinet-01.png
 
 .. figure:: ../../_img/Control-Cabinet/Control-cabinet-overview.png
-   :figwidth: 600 px
-   :align: center  
+   :figwidth: 800 px
+   :align: right  
     
 
 .. csv-table:: MotoSuiveur control cabinet overview
