@@ -23,6 +23,7 @@ The operator has the facility to use the controls on the HMI and the controls on
 .. figure:: ../_img/control-panel-03.png
 	:align: center
 	:figwidth: 600 px
+	:alt: Control cabinet
 
 	Control panel layout SCX
 
