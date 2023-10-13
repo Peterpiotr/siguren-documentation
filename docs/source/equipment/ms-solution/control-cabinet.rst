@@ -100,6 +100,5 @@ All electrical parameters and iterfaces are determined by the pre-configuration 
 
 .. ---------------------------------------------------------------------------------------------------------------------------------
 
-
- **Reference**:
+*Reference*:
   :doc:`../../equipment/control-interface/control-panel`
