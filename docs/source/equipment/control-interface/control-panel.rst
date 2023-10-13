@@ -1,10 +1,13 @@
 
-.. _Control cabinet:
 ==============
 Control panel
 ==============
 
 .. include:: ../../_img/_image-substitutions.rst
+
+.. _cabinet:
+
+
 
 .. note::
 	the control panel can be on the door of the control cabinet, but can also be located in the operator's cabin for example.
