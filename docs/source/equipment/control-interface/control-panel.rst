@@ -3,11 +3,6 @@
 Control panel
 ==============
 
-.. _Control cabinet:
-Control panel
-
-
-
 .. note::
 	the control panel can be on the door of the control cabinet, but can also be located in the operator's cabin for example.
 
@@ -24,7 +19,7 @@ The operator has the facility to use the controls on the HMI and the controls on
 
 
 
-.. _Control panel layout SCX:
+.. _Control cabinet:
 .. figure:: ../_img/control-panel-03.png
 	:align: center
 	:figwidth: 600 px
