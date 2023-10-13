@@ -1,3 +1,5 @@
+
+.. _control-cabinet:
 ==============
 Control panel
 ==============

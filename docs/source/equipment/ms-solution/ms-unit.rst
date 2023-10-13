@@ -7,10 +7,16 @@ MotoSuiveur Unit
 .. role:: mechpart
    :class: mechpart
 
-.. note::
-The MotoSuiveur® unit (referred to for short MS) is a proprietary system for the protection of the main hoist load from over-speed and load path failures, and for the recovery of the load in the event of a failure. The unit is supplied with a proprietary control panel from the equipment manufacturers. The crane’s hardwired controls are interfaced to this panel to control the MotoSuiveur® in normal operation. 
 
-The MS unit is a failsafe mechanical hoist arrester, designed and manufactured by Siguren Technologies LTD. The MS unit protects against failures in hoist drive trains that would otherwise lead to dropped loads or overloads.
+The MotoSuiveur® unit (referred to for short MS) is a proprietary system for the protection of the main hoist load from over-speed and load path failures, 
+and for the recovery of the load in the event of a failure. The unit is supplied with a proprietary control panel from the equipment manufacturers. 
+The crane’s hardwired controls are interfaced to this panel to control the MotoSuiveur® in normal operation. 
+
+The MS unit is a failsafe mechanical hoist arrester, designed and manufactured by Siguren Technologies LTD. 
+The MS unit protects against failures in hoist drive trains that would otherwise lead to dropped loads or overloads.
+
+MS unit provides mechanical failsafe protection in the event of any electro-mechanical failure of the hoist drive train. 
+In addition to the unit, a torque limiter is put in the drive-train to limit overload into the hoist lifting mechanism. 
 
 
 Component description
@@ -49,6 +55,24 @@ Friction MotoSuiveur
    :align: left
    :widths: auto
 
+
+MotoSuiveur principle
+---------------------
+
+
+The MS wheel is internally splined and is connected to a splined shaft attached to the crane drive train to transmit torque via plain bearings 
+between the shaft and wheel to support the interface radially. 
+The wheel interface consists of a plain bearing mounted between the wheel and casing for radial support where the wheel interacts directly 
+with the casing for lateral and axial loads. 
+The worm and wheel interact in a standard manner, with the mesh such that nominal clearance is achieved and that the wheel cannot force rotation on to the worm. 
+The worm bears onto the casing directly and is supported laterally and radially. 
+Axial restraint is provided by a small indent plunger which holds the worm in place where the normal servo motor torque is applied (i.e., under normal conditions). 
+Extending from the worm in one direction is a shaft with a splined surface, this interfaces with a bevel gear with an internal spline and is axially free to translate 
+along the worm shaft. Meshing with the bevel gear is its reciprocal gear, which is rigidly fixed to a servo motor, itself mounted to the casing. 
+This motor provides rotation to the worm via the bevel gear arrangement at a pre-set torque. The worm conveys this torque onto the wheel through its mesh. 
+The motor is actuated when the hoist operation is requested. When the servo motor actuates it allows the worm to convey the torque onto the wheel,
+ but this torque is insufficient to allow the crane drive to actuate, instead allowing the wheel to rotate with the drum shaft through the normal crane drive. 
+ Finally, to complete the moment couple between the drum shaft and the MS unit, a dowel pins mounts between the unit and the crane body.
 
 .. Codification
 .. ------------

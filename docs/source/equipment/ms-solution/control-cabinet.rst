@@ -49,35 +49,62 @@ Control cabinet have nameplate_ located on front side of the door indicating inp
  The servo-motor controller is connected directly to the servo-motor through a dedicated cable 
  that controls the servo-motor and sends position data back to the controller.
 
+
+.. ---------------------------------------------------------------------------------------------------------------------------------
+
 .. _nameplate:
 Nameplate
 ----------
 
-Architecture of a *standalone* MotoSuiveur Solution
+The nameplate of the MS Control Cabinet indicates model, serial number, date of production, voltage / power requirements.
+Exemplary general appearance of control cabinet nameplate shown on figure below.
+
+.. figure:: ../../_img/Control-Cabinet/control-cabinet-nameplate.png
+	:figwidth: 800 px
+	:align: center
+
+.. ---------------------------------------------------------------------------------------------------------------------------------
+
+Architecture of a *standalone* MotoSuiveur system
 ======================================================
 
-.. _Architecture of a standalone MotoSuiveur Solution:
-.. figure:: ../../_img/control-cabinet-01.png
+.. figure:: ../../_img/controlSignals.png
 	:figwidth: 600 px
 	:align: center
 
-	Architecture of a standalone MotoSuiveur Solution
 
-In the standalone architecture, the MotoSuiveur servo-motor controller receives only inputs from the Main hoist control panel, 
+In the standalone architecture, the MotoSuiveur servo-motor controller receives only inputs from the main hoist control panel, 
 basically [⬆️ Up] and [⬇️ Down] and potentially analog and digital inputs from the MotoSuiveur sensors.
+On figure below is presented the architecture of the standalone MotoSuiveur Solution.
 
-Worm screw positions coming from digital sensors are sent to the Main hoist control panel.
+.. figure:: ../../_img/generalViewConnectionsMS-MSCC.png
+	:figwidth: 600 px
+	:align: center
 
+.. Worm screw positions coming from digital sensors are sent to the Main hoist control panel.
+
+.. ---------------------------------------------------------------------------------------------------------------------------------
 
 Integration of the MotoSuiveur in the control system
 =======================================================
-.. _diagram: 
+
+The integration of the MS into the control system of a new or existing crane is done by pre-configuring the MotoSuiveur I/O interface. 
+All electrical parameters and iterfaces are determined by the pre-configuration diagram.
+
+.. _diagram:
 .. _Integration of the MotoSuiveur in the control system
-.. figure:: ../../_img/control-cabinet-02.png
-	:figwidth: 600 px
+.. figure:: ../../_img/Control-Cabinet/control-cabinet-configuration.png
+	:figwidth: 800 px
 	:align: center
 
 	Integration of the MotoSuiveur in the control system
+
+.. ---------------------------------------------------------------------------------------------------------------------------------
+
+
+For a detailed description of the control interface and components, see the :hoverxref:`control-cabinet`section.
+
+
 
 
 Hoist interfaces
