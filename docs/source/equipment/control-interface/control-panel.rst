@@ -1,12 +1,12 @@
 
 ==============
-.. _Control cabinet:
 Control panel
 ==============
 
 .. include:: ../../_img/_image-substitutions.rst
 
-
+.. _Control cabinet:
+  Control panel
 
 
 
