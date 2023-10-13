@@ -3,10 +3,8 @@
 Control panel
 ==============
 
-.. include:: ../../_img/_image-substitutions.rst
-
 .. _Control cabinet:
-  Control panel
+Control panel
 
 
 
