@@ -73,8 +73,16 @@ Architecture of a *standalone* MotoSuiveur system
 	:align: center
 
 
-In the standalone architecture, the MotoSuiveur servo-motor controller receives only inputs from the main hoist control panel, 
-basically [⬆️ Up] and [⬇️ Down] and potentially analog and digital inputs from the MotoSuiveur sensors.
+In the standalone architecture, the MotoSuiveur controller receives only inputs from the main hoist control panel, 
+basically [⬆️ Up] and [⬇️ Down] on terminal T2. 
+
+Terminal block T4 is a set of digital outputs (relays) providing MotoSuiveur status information, as well as an enable signal for operation, 
+enabling upward and downward movement signals.
+
+Terminal blocks T3, T5**, T6, T7 and T8 are analog and digital inputs for MotoSuiveur standalone system.
+
+* *T5 is not shown on picture below*
+
 On figure below is presented the architecture of the standalone MotoSuiveur Solution.
 
 .. figure:: ../../_img/generalViewConnectionsMS-MSCC.png
@@ -100,4 +108,4 @@ All electrical parameters and iterfaces are determined by the pre-configuration 
 
 .. ---------------------------------------------------------------------------------------------------------------------------------
 
-*Reference*: :doc:`../../equipment/control-interface/control-panel`
+**For more details:** :doc:`../../equipment/control-interface/control-panel`
