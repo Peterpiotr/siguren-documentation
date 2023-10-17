@@ -118,7 +118,6 @@ Reset
 ^^^^^^
 
 :guilabel:`🔘 Reset button` reset MotoSuiveur system electrically and mechanically. After reset, MotoSuiveur system is performing self-test. 
-If MotoSuiveur is blocked, mechanically reset is not possible.
 
 
 **References:**

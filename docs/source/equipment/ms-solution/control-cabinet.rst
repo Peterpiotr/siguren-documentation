@@ -1,23 +1,6 @@
 ===========================
 MotoSuiveur Control cabinet
 ===========================
-..
- .. note::
-	Describes what standard MotoSuiveur electrical panel is like. I/O, components, connectors, options…
-..
- .. note::
-	Source: :download:`User Manual-7.4.doc`
-..
- About the MotoSuiveur control system
- =====================================
-..
- The MotoSuiveur control system comes with different architectures to meet the installation requirements.
-..
- The MotoSuiveur has been designed to be integrated almost stand-alone on hoisting system and basically requires 
- only the servo-motor controller to be connected to the main hoist panel. However, most of the time, 
- the MotoSuiveur is integrated in the control system with its own control system.
-..
- All configurations integrate the very same servo-motor controller software.
 
 MotoSuiveur control cabinet (picture below) is built according to the configuration of the MS control diagram_. 
 Control cabinet have nameplate_ located on front side of the door indicating input power (voltage, frequency, current), serial number, date.
@@ -36,21 +19,6 @@ Control cabinet have nameplate_ located on front side of the door indicating inp
    :align: left
    :widths: auto
 
-..
- Description
- =============
-..
- Servo-motor controller
- ------------------------
-..
- Each MotoSuiveur is fitted with a servo-motor that adapts the rotation of the worm screw to the orders given to the hoist motor. 
- The servo-motor is controlled by a controller that embeds a software especially developed by the MotoSuiveur manufacturer.
-..
- The servo-motor controller is connected directly to the servo-motor through a dedicated cable 
- that controls the servo-motor and sends position data back to the controller.
-
-
-.. ---------------------------------------------------------------------------------------------------------------------------------
 
 .. _nameplate:
 Nameplate
@@ -63,7 +31,7 @@ Exemplary general appearance of control cabinet nameplate shown on figure below.
 	:figwidth: 800 px
 	:align: center
 
-.. ---------------------------------------------------------------------------------------------------------------------------------
+
 
 Architecture of a *standalone* MotoSuiveur system
 ======================================================
@@ -89,9 +57,6 @@ On figure below is presented the architecture of the standalone MotoSuiveur Solu
 	:figwidth: 600 px
 	:align: center
 
-.. Worm screw positions coming from digital sensors are sent to the Main hoist control panel.
-
-.. ---------------------------------------------------------------------------------------------------------------------------------
 
 Integration of the MotoSuiveur in the control system
 =======================================================
@@ -106,6 +71,5 @@ All electrical parameters and iterfaces are determined by the pre-configuration 
 
 	Integration of the MotoSuiveur in the control system
 
-.. ---------------------------------------------------------------------------------------------------------------------------------
 
 **For more details:** :doc:`../../equipment/control-interface/control-panel`
