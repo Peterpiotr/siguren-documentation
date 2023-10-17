@@ -3,37 +3,57 @@
 Control panel
 ==============
 
-.. note::
-	the control panel can be on the door of the control cabinet, but can also be located in the operator's cabin for example.
+Layout of the control panel is defined according to pre-selected functionality relative to the MS Block Diagram. 
+The control panel can be located on the control cabinet front door, can be external or a combination of both.
+The operator has the facility to use the controls via switches or MSHMI.
+The switches and HMI can be used to switch the operating modes of the MotoSuiveur system.
 
 
-(Front) panel layout
+
+Front door panel layout
 ======================
 
-.. note::
-	Source is :doc:`49104-15-001 Operation  Maintenance Manual Issue D (1).pdf`
+The control panel contains indicators and control switches. They are divided into two groups: mandatory and optional.
 
-The Front Panel is the main source for power and recovery functions.
+Mandatory are:
 
-The operator has the facility to use the controls on the HMI and the controls on the Recovery and Main Supply Panel as shown on below.
+- Hoist Enabled
+- Fault
+- Reset
 
+The figure below shows an example overview of a control panel with and without MSHMI.
 
-
-.. _Control cabinet:
-.. figure:: ../_img/control-panel-03.png
+.. _Control panel figure:
+.. figure:: ../../_img/Control-panel/control-panel-overview.png
 	:align: center
 	:figwidth: 600 px
 	:alt: Control cabinet
 
-	Control panel layout SCX
+Control panel according documentation 
 
-The panel allows the operator to do the following:
+.. _General view of control panel:
+.. figure:: ../../_img/control-panel-02.png
+	:align: center
+	:figwidth: 600 px
+	:alt: Control cabinet
 
-- :doc:`Reset the system <system-reset.rst>`
-- Utilise the :doc:`recovery functions <recovery-operation.rst>`
-- Utilise the :doc:`Backup system <backup-recovery-mode.rst>`
-- Monitor the status of the MotoSuiveurs supply, health, switch, temperature and oil levels
-- Provide emergency stop operation if required
+Control panel as built
+
+
+.. csv-table:: Control panel layout without MSHMI
+   :file: ../../_tables/control-panel-legend.csv
+   :delim: ;
+   :header-rows: 1
+   :widths: auto
+   :class: tight-table
+   :align: center
+
+
+
+External control panel
+======================
+
+
 
 Component description
 ======================
@@ -54,9 +74,7 @@ Local controls are used for:
 	- enable and control MotoSuiveur Backup/ Recovery mode - figure 3 items 4, 5, 10, 11.
 
 
-.. _General view of MotoSuiveur control panel:
-.. figure:: ../../_img/control-panel-02.png
-	:align: center
+
 
 	General view of MotoSuiveur control panel
 
@@ -198,3 +216,6 @@ In Appendix Table 1 signal combinations are presented and described.
 
 Selection guidelines
 ======================
+
+**References:**
+:doc:`../../equipment/control-interface/control-cabinet`

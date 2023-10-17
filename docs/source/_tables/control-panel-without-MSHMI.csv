@@ -1,0 +1,12 @@
+"No          ";"Type";"Function";Description
+"1           ";"Light";"Hoist Enabled ";MS enabled. MS ready for following
+"2           ";"Light";"Fault Indicator";MS fault indicator
+"3           ";"Light";"Upward enabled";Allows rising direction movement
+"4           ";"Selector";"Recovery Off/On";Switch on/off  MS recovery mode
+"5           ";"Selector";"Recovery Mode Down/Up";"MS recovery mechanysm control"
+"6           ";"Selector ";"Enable override";"Forced hoist enable "
+"7           ";"Light";"Low Oil Level";Indicator for low oil level in MS unit
+"8           ";"Light";"Downward enabled ";Allows lowering direction movement
+"9           ";"Light";"Recovery Mode";Indicator for active MS recovery mode
+"10          ";"Light";"Recovery Engaged";Indicator for engaged recovery mechanism
+"11          ";"Button";"Reset";MS system reset

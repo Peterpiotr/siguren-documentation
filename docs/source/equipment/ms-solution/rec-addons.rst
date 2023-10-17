@@ -32,21 +32,26 @@ Exemplary general appearance of MS unit equipped with MS-IRD is shown on figure 
 
 Exemplary general appearance of MS unit equipped with MS-IRD
 
-Independent Load Recovery (Handheld recovery tool (HRT) / Portable recovery tool (PRT))
-=======================================================================================
+Independent Load Recovery 
+=========================
+
+Handheld recovery tool (HRT) / Portable recovery tool (PRT)
+=============================================================
 
 When a power or mechanical failure occurs, the hoist kinematic chain is rendered inoperative. For hoists that have a single load path, 
 crane operators have little choice: they need to override the brakes and proceed to a load-controlled lowering. 
 This is a complex and perilous operation that can turn into an uncontrolled load drop if not executed expertly.
-MS offers two independent load recovery systems – HRT and PRT. HRT is appropriate for MS0 and MS1. PRT is appropriate up to MS4 size.
+MS offers two independent load recovery systems – HRT and PRT. 
+
+- *HRT is appropriate for MS0 and MS1.* 
+- *PRT is appropriate up to MS4 size.*
 
 .. figure:: ../../_img/Recovery/hrt.png
 	:align: center
 	:figwidth: 456 px
 	:name: HRT
 	:alt: HRT
-
-
+				 
 HRT
 
 .. figure:: ../../_img/Recovery/prt.png
