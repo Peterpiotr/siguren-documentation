@@ -1,3 +1,4 @@
+.. include:: ../../_img/_image-substitutions.rst
 
 ==============
 Control panel
