@@ -71,8 +71,8 @@ Extending from the worm in one direction is a shaft with a splined surface, this
 along the worm shaft. Meshing with the bevel gear is its reciprocal gear, which is rigidly fixed to a servo motor, itself mounted to the casing. 
 This motor provides rotation to the worm via the bevel gear arrangement at a pre-set torque. The worm conveys this torque onto the wheel through its mesh. 
 The motor is actuated when the hoist operation is requested. When the servo motor actuates it allows the worm to convey the torque onto the wheel,
- but this torque is insufficient to allow the crane drive to actuate, instead allowing the wheel to rotate with the drum shaft through the normal crane drive. 
- Finally, to complete the moment couple between the drum shaft and the MS unit, a dowel pins mounts between the unit and the crane body.
+but this torque is insufficient to allow the crane drive to actuate, instead allowing the wheel to rotate with the drum shaft through the normal crane drive. 
+Finally, to complete the moment couple between the drum shaft and the MS unit, a dowel pins mounts between the unit and the crane body.
 
 
 MotoSuiveur unit size
