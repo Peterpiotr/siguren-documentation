@@ -106,7 +106,7 @@ If MotoSuiveur controller internal fault appear further operation is prohibited.
 .. warning:: 
 	The system displays only last MotoSuiveur warning (``wrn_num``) or MotoSuiveur fault (``flt_num``) occurred.
 
-Faults and warnings are displayed on MotoSuiveur 7-segment controller. 
+Faults and warnings are displayed on MotoSuiveur controller integrated 7-segment display. 
 The display indicates all types of MotoSuiveur warnings/faults and MotoSuiveur controller internal errors. 
 Indication is a combination of letters and numbers.
 MotoSuiveur controller internal faults are indicated with blinked combination of |image035|, number and finish with symbol |image039|.
