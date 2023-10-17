@@ -16,7 +16,7 @@ Front door panel layout
 
 The control panel contains indicators and control switches. They are divided into two groups: mandatory and optional.
 
-Mandatory are:
+Mandatory_ are:
 
 - Hoist Enabled
 - Fault
@@ -71,6 +71,7 @@ External control panel overview
    :align: center
 
 
+.. _Mandatory:
 Mandatory signals and controls
 ==============================
 
