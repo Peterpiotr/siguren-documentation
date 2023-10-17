@@ -43,6 +43,8 @@ MS offers two independent load recovery systems – HRT and PRT. HRT is appropri
 .. figure:: ../../_img/Recovery/hrt.png
 	:align: center
 	:figwidth: 456 px
+	:name: HRT
+	:alt: HRT
 
 
 HRT
