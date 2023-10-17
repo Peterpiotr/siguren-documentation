@@ -19,7 +19,7 @@ With MS-IRD, crane operators can remotely recover the load safely and rapidly ev
 
 .. figure:: ../../_img/Recovery/Integrated-recovery.png
 	:align: center
-    :figwidth: 500 px
+	:figwidth: 456 px
 
 Exemplary general appearance of MS system equipped with MS-IRD
 
@@ -28,7 +28,7 @@ Exemplary general appearance of MS unit equipped with MS-IRD is shown on figure 
 
 .. figure:: ../../_img/Recovery/Integrated-recovery-1.png
 	:align: center
-    :figwidth: 500 px
+	:figwidth: 456 px
 
 Exemplary general appearance of MS unit equipped with MS-IRD
 
@@ -42,14 +42,14 @@ MS offers two independent load recovery systems – HRT and PRT. HRT is appropri
 
 .. figure:: ../../_img/Recovery/hrt.png
 	:align: center
-    :figwidth: 500 px
+	:figwidth: 456 px
 
 
 HRT
 
 .. figure:: ../../_img/Recovery/prt.png
 	:align: center
-    :figwidth: 500 px
+	:figwidth: 456 px
 
 
 PRT
@@ -61,7 +61,7 @@ BRT is used to set the motor brake to the slippage limit to facilitate worm rota
 
 .. figure:: ../../_img/Recovery/brt.png
 	:align: center
-	:figwidth: 500 px
+	:figwidth: 456 px
 
 
 BRT
