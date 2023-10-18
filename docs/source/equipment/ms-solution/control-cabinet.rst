@@ -42,7 +42,7 @@ Architecture of a *standalone* MotoSuiveur system
 
 
 In the standalone architecture, the MotoSuiveur controller receives only inputs from the main hoist control panel, 
-basically [⬆️ Up] and [⬇️ Down] on terminal T2. 
+basically [🔼 Up] and [🔽 Down] on terminal T2. 
 
 Terminal block T4 is a set of digital outputs (relays) providing MotoSuiveur status information, as well as an enable signal for operation, 
 enabling upward and downward movement signals.
