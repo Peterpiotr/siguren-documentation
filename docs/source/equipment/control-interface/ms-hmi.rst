@@ -36,6 +36,11 @@ MSHMI Touch Screen Operations
 The functions of MSHMI presented above are organized in screens. 
 Each screen has a set of functions and/ or indicators and a button to return to the previous screen (one level up).
 
+.. _Menu Screen Components:
+.. figure:: ../../_img/HMI/HMI-tree.PNG
+	:figwidth: 1000 px
+
+
 
 Main Screen
 ------------
@@ -53,15 +58,9 @@ Main Screen
    :class: tight-table
    :align: left
 
+
 Menu Screen
 ------------
-
-+-------------------------------------+
-| Navigation                          |
-+=====================================+
-| Main screen ➔ Menu screen          |
-+-------------------------------------+
-
 
 .. _Menu Screen Components:
 .. figure:: ../../_img/HMI/menu-screen.PNG

@@ -75,6 +75,7 @@ This also references the second item [#f2]_.
     - Assemble the flanged MS to the side flange of the barrel. The washers create a gap which allows the MS to be strictly aligned with the barrel (shaft) axis. The MS wheel and flange are fitted to the existing barrel shaft so the MS is strictly concentric to the barrel.
 
 
+
 +-----+------+-----+-----+------+-----+
 | sd  | fsd  | fs  | df  | fsd  |     |
 +=====+======+=====+=====+======+=====+
@@ -95,6 +96,10 @@ This also references the second item [#f2]_.
 
 The "rubric" directive inserts a "rubric" element into the document tree. A rubric is like an informal heading that doesn't correspond to the document's structure.
 
+
++--------------------------+----------------------------+
+| **Navigation to screen** | Main screen ➔ Menu screen |
++--------------------------+----------------------------+
 
 
 Some text that requires a footnote [#f1]_ .
