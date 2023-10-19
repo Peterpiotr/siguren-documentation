@@ -43,7 +43,7 @@ Main Screen
 .. figure:: ../../_img/HMI/main-screen.PNG
 	:figwidth: 500 px
 
-	Main Screen Components
+	Main screen components
 
 .. csv-table:: Main screen
    :file: ../../_tables/HMI/main.csv
@@ -51,7 +51,7 @@ Main Screen
    :header-rows: 1
    :widths: auto
    :class: tight-table
-   :align: center
+   :align: left
 
 Menu Screen
 ------------
@@ -67,7 +67,7 @@ Menu Screen
 .. figure:: ../../_img/HMI/menu-screen.PNG
 	:figwidth: 500 px
 
-	Menu Screen Components
+	Menu screen components
 
 .. csv-table:: Menu screen
    :file: ../../_tables/HMI/menu.csv
@@ -75,16 +75,16 @@ Menu Screen
    :header-rows: 1
    :widths: auto
    :class: tight-table
-   :align: center
+   :align: left
 
 MS variables Screen
-------------
+-------------------
 
 .. _MS variables Screen:
 .. figure:: ../../_img/HMI/variables.PNG
 	:figwidth: 500 px
 
-	Menu Screen Components
+	Ms variables screen components
 
 .. csv-table:: MS variables screen
    :file: ../../_tables/HMI/variables.csv
@@ -92,21 +92,23 @@ MS variables Screen
    :header-rows: 1
    :widths: auto
    :class: tight-table
-   :align: center
+   :align: left
 
-
-.. _Navigation to MS variables Screen:
-.. figure:: ../../_img/HMI/change-variable.PNG
-	:figwidth: 500 px
-
-   Navigation to MS variables screen
-
-To open MS Variables screen from the Main screen the following is required:
+Navigation to MS variables screen and change value of variable
 
 1. On Main screen tap Menu button.
 2. On Menu screen tap on MS variables button.
 3. To exit from MS variables screen, tap on Back button.
+4. Select type of variable (VR or VL0) by tap on VR/VL button.
+5. Select variable by tap on arrows 🔼 🔽
+6. Entere desired value by tap on *Enter desired value* field 🟩
+7. On screen numlock pad appears
+8. Eneter desired value and tap on *Enter* button
+9. To set current value becomes equal to desired, tap on green tick button ✅
 
+.. _Navigation to MS variables Screen:
+.. figure:: ../../_img/HMI/change-variable.PNG
+   :figwidth: 500 px
 
 
 Comments:
@@ -119,3 +121,8 @@ Comments:
 -	For security reasons, when a password is entered, the authorization is given during 5 minutes for the access of each level. After 5 minutes, the operator should enter the password again
 -	The required password level is the minimum level asked to the operator (for instance, when level 2 is required, the operator can enter level 2 or level 3)
 -	If the password is wrong, this screen is displayed.
+
+
+
+
+
