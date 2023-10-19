@@ -79,6 +79,7 @@ Menu Screen
 
 MS variables Screen
 ------------
+
 .. _MS variables Screen:
 .. figure:: ../../_img/HMI/variables.PNG
 	:figwidth: 500 px
@@ -93,13 +94,18 @@ MS variables Screen
    :class: tight-table
    :align: center
 
-Navigation to MS variables screen
 
 .. _Navigation to MS variables Screen:
 .. figure:: ../../_img/HMI/change-variable.PNG
 	:figwidth: 500 px
 
-1. 
+   Navigation to MS variables screen
+
+To open MS Variables screen from the Main screen the following is required:
+
+1. On Main screen tap Menu button.
+2. On Menu screen tap on MS variables button.
+3. To exit from MS variables screen, tap on Back button.
 
 
 
