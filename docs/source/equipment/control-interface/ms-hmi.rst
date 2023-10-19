@@ -59,7 +59,7 @@ Screens decription
 Main Screen
 ------------
 
-.. note::
+.. tip::
  The main screen appears after a successful connection between MSHMI and the controller.
  The main screen provides actual status for MS system. 
 
