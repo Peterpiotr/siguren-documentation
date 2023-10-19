@@ -32,18 +32,37 @@ MSHMI significantly expands the capabilities of MotoSuiveur system by allowing:
 
 MSHMI Touch Screen Operations
 =============================
+.. Important::
+   Presented MSHMI description is for firmware version 1.3.5 for MSCD controller!
 
-The functions of MSHMI presented above are organized in screens. 
-Each screen has a set of functions and/ or indicators and a button to return to the previous screen (one level up).
+
+.. note::
+ The functions of MSHMI presented above are organized in screens. 
+ Each screen has a set of functions and/ or indicators and a button to return to the previous screen (one level up).
 
 .. _Menu Screen Components:
 .. figure:: ../../_img/HMI/HMI-tree.PNG
 	:figwidth: 1200 px
 
 
+- `Main Screen`_
+- `MS variables Screen`_
+- `Maintenance Screen`_
+- `Self-test Screen`_
+- `Event record Screen`_
+- `Version Screen`_
+- `Language Screen`_
+
+Screens decription
+==================
 
 Main Screen
 ------------
+
+.. note::
+ The main screen appears after a successful connection between MSHMI and the controller.
+ The main screen provides actual status for MS system. 
+
 .. _Main Screen Components:
 .. figure:: ../../_img/HMI/main-screen.PNG
 	:figwidth: 500 px
@@ -62,7 +81,10 @@ Main Screen
 Menu Screen
 ------------
 
-.. _Menu Screen Components:
+.. note::
+ Menu screen contains all submenus for setup, status and information of MS system.
+
+.. _Menu Screen:
 .. figure:: ../../_img/HMI/menu-screen.PNG
 	:figwidth: 500 px
 
@@ -78,6 +100,11 @@ Menu Screen
 
 MS variables Screen
 -------------------
+
+.. note::
+ Screen MS variables displays and allows to changing variables that are stored in MS
+ Controller memory. Variables are types **VL** (Long) in range 0 – 63 and type **VR** (Real) in
+ range 0 - 63.
 
 .. _MS variables Screen:
 .. figure:: ../../_img/HMI/variables.PNG
@@ -113,6 +140,13 @@ Navigation to MS variables screen and change value of variable
 Maintenance Screen
 -------------------
 
+.. note::
+ Screen Maintenance displays maintenance information of MS system. This screen
+ provides information about maintenance parameters status of MS system – Total brakes, working time of MS, odometer, workmeter.
+ Based on current values of parameters is displayed what type of maintenance is needed. 
+ Maintenance type is displayed with letters A, B, C and D. Information regarding
+ different types can be taken by pressing Maintenance Info button.
+
 .. _Maintenance Screen:
 .. figure:: ../../_img/HMI/maintenance.PNG
 	:figwidth: 500 px
@@ -138,6 +172,9 @@ Maintenance Screen
 Self-test Screen
 -------------------
 
+.. note::
+   Screen Self-Test displays values from last MS system self-test. 
+
 .. _Self-test Screen:
 .. figure:: ../../_img/HMI/self-test.PNG
 	:figwidth: 500 px
@@ -156,7 +193,12 @@ Self-test Screen
 Event record Screen
 -------------------
 
-.. _Event record Screen:
+.. note::
+   Screen Event Records gives option to choose between 3 logging groups. Opening
+   presents specific events of MS system. Every logging group stores last 10 events
+   after restart or power loss of MSHMI.
+
+.. _Event record screen:
 .. figure:: ../../_img/HMI/logging-groups.PNG
 	:figwidth: 500 px
 
@@ -176,17 +218,26 @@ Event record Screen
 
 	MS status log screen components
 
+.. note::
+   MS Status log group contains all events appears during MS system operation.
+
 .. _MS warning log Screen:
 .. figure:: ../../_img/HMI/warning-log.PNG
 	:figwidth: 500 px
 
 	MS warning log screen components
 
+.. note::
+   MS Warning log group contains all warning events appears during MS system operation.
+
 .. _MS fault log Screen:
 .. figure:: ../../_img/HMI/fault-log.PNG
 	:figwidth: 500 px
 
 	MS fault log screen components
+
+.. note::
+   MS Warning log group contains all fault events appears during MS system operation.
 
 .. csv-table:: Log screens 
    :file: ../../_tables/HMI/log-components.csv
@@ -198,6 +249,10 @@ Event record Screen
 
 Version Screen
 -------------------
+
+.. note::
+   Screen Version presents information about MS sytem: name of project, HMI firmware version, Software
+   version and MS Controller firmware version.
 
 .. _Version Screen:
 .. figure:: ../../_img/HMI/system-information.PNG
@@ -216,6 +271,9 @@ Version Screen
 
 Language Screen
 -------------------
+
+.. note::
+   Screen Language allows change of screen language.
 
 .. _Language Screen:
 .. figure:: ../../_img/HMI/language.PNG
