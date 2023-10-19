@@ -16,7 +16,7 @@ MSHMI significantly expands the capabilities of MotoSuiveur system by allowing:
 - Displayng value of  brake counter
 - Displayng warning and fault messages and guidance on how to solve them
 - Displaying log of events. Last 10 events are stored in memory after MSHMI reset or power off
-- Change the MotoSuiveur configuration. Configuration has a secure access code at different levels
+- Change the MotoSuiveur settings. Configuration has a secure access code at different levels
 - Display maintenance information of MotoSuiveur
 
 
@@ -29,16 +29,17 @@ MSHMI significantly expands the capabilities of MotoSuiveur system by allowing:
 
 .. note::
     MotoSuiveurHMI is not part of standard MotoSuiveur equipment and can be ordered additionally.
+    MSHMI can be added/ordered in any stage of project.
 
 MSHMI Touch Screen Operations
 =============================
 .. Important::
-   Presented MSHMI description is for firmware version 1.3.5 for MSCD controller!
+   Presented MSHMI operations are for firmware version 1.3.5 for MSCD controller!
 
 
 .. note::
- The functions of MSHMI presented above are organized in screens. 
- Each screen has a set of functions and/ or indicators and a button to return to the previous screen (one level up).
+ The functions of MSHMI are organized in screens. 
+ Each screen has a set of functions and/or indicators and a *Return* button for redirection to the previous screen (one level up).
 
 .. _Menu Screen Components:
 .. figure:: ../../_img/HMI/HMI-tree.PNG
@@ -82,6 +83,9 @@ Menu Screen
 ------------
 
 Menu screen contains all submenus for setup, status and information of MS system.
+
+.. Important::
+   Access to some screens are password protected!
 
 .. _Menu Screen:
 .. figure:: ../../_img/HMI/menu-screen.PNG
@@ -135,6 +139,10 @@ Navigation to MS variables screen and change value of variable
    :figwidth: 500 px
 
 
+.. Important::
+   Variables list and changing values of variables is allowed only for authorized personnel!
+
+
 Maintenance Screen
 -------------------
 
@@ -142,7 +150,7 @@ Screen Maintenance displays maintenance information of MS system. This screen
 provides information about maintenance parameters status of MS system – Total brakes, working time of MS, odometer, workmeter.
 Based on current values of parameters is displayed what type of maintenance is needed. 
 Maintenance type is displayed with letters A, B, C and D. Information regarding
-different types can be taken by pressing Maintenance Info button.
+different types can be taken by pressing *Maintenance Info* button.
 
 .. _Maintenance Screen:
 .. figure:: ../../_img/HMI/maintenance.PNG
