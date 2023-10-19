@@ -47,11 +47,11 @@ basically [🔼 Up] and [🔽 Down] on terminal T2.
 Terminal block T4 is a set of digital outputs (relays) providing MotoSuiveur status information, as well as an enable signal for operation, 
 enabling upward and downward movement signals.
 
-Terminal blocks T3, *T5*, T6, T7 and T8 are analog and digital inputs for MotoSuiveur standalone system.
+Terminal blocks T3, T5 [1]_, T6, T7 and T8 are analog and digital inputs for MotoSuiveur standalone system.
 
 On figure below is presented the architecture of the standalone MotoSuiveur Solution.
 
-*T5 is not shown on figure below*
+.. [1] *T5 is not shown on figure below*
 
 .. figure:: ../../_img/generalViewConnectionsMS-MSCC.png
 	:figwidth: 600 px
