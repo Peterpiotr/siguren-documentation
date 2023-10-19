@@ -85,7 +85,7 @@ Menu Screen
 Menu screen contains all submenus for setup, status and information of MS system.
 
 .. Important::
-   Access to some screens are password protected!
+   Access to some screens is password protected!
 
 .. _Menu Screen:
 .. figure:: ../../_img/HMI/menu-screen.PNG
