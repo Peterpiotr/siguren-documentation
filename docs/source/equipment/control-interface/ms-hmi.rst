@@ -38,7 +38,7 @@ Each screen has a set of functions and/ or indicators and a button to return to 
 
 .. _Menu Screen Components:
 .. figure:: ../../_img/HMI/HMI-tree.PNG
-	:figwidth: 1000 px
+	:figwidth: 1200 px
 
 
 
@@ -102,7 +102,7 @@ Navigation to MS variables screen and change value of variable
 5. Select variable by tap on arrows 🔼 🔽
 6. Entere desired value by tap on *Enter desired value* field 🟩
 7. On screen numlock pad appears
-8. Eneter desired value and tap on *Enter* button
+8. Eneter desired value and tap on *Enter* button. To exit from numpad without changes tap on *Esc* button
 9. To set current value becomes equal to desired, tap on green tick button ✅
 
 .. _Navigation to MS variables Screen:
@@ -110,16 +110,128 @@ Navigation to MS variables screen and change value of variable
    :figwidth: 500 px
 
 
-Comments:
+Maintenance Screen
+-------------------
 
--	See “User rights” to check the rights and authorized access depending on the entered password
--	To quit the password menu, click on “ESC”
--	To erase the last digit, press “BS”
--	To erase all digits, press “CLR”
--	To switch from lower case to capital letters (or back), press “CAPS”
--	For security reasons, when a password is entered, the authorization is given during 5 minutes for the access of each level. After 5 minutes, the operator should enter the password again
--	The required password level is the minimum level asked to the operator (for instance, when level 2 is required, the operator can enter level 2 or level 3)
--	If the password is wrong, this screen is displayed.
+.. _Maintenance Screen:
+.. figure:: ../../_img/HMI/maintenance.PNG
+	:figwidth: 500 px
+
+	Maintenance screen components
+
+.. csv-table:: Maintenance screen
+   :file: ../../_tables/HMI/maintenance.csv
+   :delim: ;
+   :header-rows: 1
+   :widths: auto
+   :class: tight-table
+   :align: left
+
+.. _Maintenance info:
+.. figure:: ../../_img/HMI/change-maintenance.PNG
+	:figwidth: 500 px
+
+	Maintenance info pop up window
+
+
+
+Self-test Screen
+-------------------
+
+.. _Self-test Screen:
+.. figure:: ../../_img/HMI/self-test.PNG
+	:figwidth: 500 px
+
+	Self-test screen components
+
+.. csv-table:: Self-test screen
+   :file: ../../_tables/HMI/self-test.csv
+   :delim: ;
+   :header-rows: 1
+   :widths: auto
+   :class: tight-table
+   :align: left
+
+
+Event record Screen
+-------------------
+
+.. _Event record Screen:
+.. figure:: ../../_img/HMI/logging-groups.PNG
+	:figwidth: 500 px
+
+	Event record screen components
+
+.. csv-table:: Event record screen
+   :file: ../../_tables/HMI/event-record.csv
+   :delim: ;
+   :header-rows: 1
+   :widths: auto
+   :class: tight-table
+   :align: left
+
+.. _MS status log Screen:
+.. figure:: ../../_img/HMI/status-log.PNG
+	:figwidth: 500 px
+
+	MS status log screen components
+
+.. _MS warning log Screen:
+.. figure:: ../../_img/HMI/warning-log.PNG
+	:figwidth: 500 px
+
+	MS warning log screen components
+
+.. _MS fault log Screen:
+.. figure:: ../../_img/HMI/fault-log.PNG
+	:figwidth: 500 px
+
+	MS fault log screen components
+
+.. csv-table:: Log screens 
+   :file: ../../_tables/HMI/log-components.csv
+   :delim: ;
+   :header-rows: 1
+   :widths: auto
+   :class: tight-table
+   :align: left
+
+Version Screen
+-------------------
+
+.. _Version Screen:
+.. figure:: ../../_img/HMI/system-information.PNG
+	:figwidth: 500 px
+
+	Version screen components
+
+.. csv-table:: Version screen 
+   :file: ../../_tables/HMI/system-information.csv
+   :delim: ;
+   :header-rows: 1
+   :widths: auto
+   :class: tight-table
+   :align: left
+
+
+Language Screen
+-------------------
+
+.. _Language Screen:
+.. figure:: ../../_img/HMI/language.PNG
+	:figwidth: 500 px
+
+	Language screen components
+
+.. csv-table:: Language screen 
+   :file: ../../_tables/HMI/language.csv
+   :delim: ;
+   :header-rows: 1
+   :widths: auto
+   :class: tight-table
+   :align: left
+
+
 
 
 
