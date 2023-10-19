@@ -45,7 +45,8 @@ MSHMI Touch Screen Operations
 	:figwidth: 1200 px
 
 
-- `Main Screen`_
+- `Main Screen Components`_
+- `Menu Screen`_
 - `MS variables Screen`_
 - `Maintenance Screen`_
 - `Self-test Screen`_
@@ -59,9 +60,8 @@ Screens decription
 Main Screen
 ------------
 
-.. tip::
- The main screen appears after a successful connection between MSHMI and the controller.
- The main screen provides actual status for MS system. 
+The main screen appears after a successful connection between MSHMI and the controller.
+The main screen provides actual status for MS system. 
 
 .. _Main Screen Components:
 .. figure:: ../../_img/HMI/main-screen.PNG
@@ -110,7 +110,7 @@ MS variables Screen
 .. figure:: ../../_img/HMI/variables.PNG
 	:figwidth: 500 px
 
-	Ms variables screen components
+	MS variables screen components
 
 .. csv-table:: MS variables screen
    :file: ../../_tables/HMI/variables.csv
