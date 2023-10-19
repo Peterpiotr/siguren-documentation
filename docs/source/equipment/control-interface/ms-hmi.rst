@@ -60,8 +60,8 @@ Screens decription
 Main Screen
 ------------
 
-The main screen appears after a successful connection between MSHMI and the controller.
-The main screen provides actual status for MS system. 
+Main screen appears after a successful connection between MSHMI and the controller.
+Main screen provides actual status for MS system. 
 
 .. _Main Screen Components:
 .. figure:: ../../_img/HMI/main-screen.PNG
@@ -81,8 +81,7 @@ The main screen provides actual status for MS system.
 Menu Screen
 ------------
 
-.. note::
- Menu screen contains all submenus for setup, status and information of MS system.
+Menu screen contains all submenus for setup, status and information of MS system.
 
 .. _Menu Screen:
 .. figure:: ../../_img/HMI/menu-screen.PNG
@@ -101,10 +100,9 @@ Menu Screen
 MS variables Screen
 -------------------
 
-.. note::
- Screen MS variables displays and allows to changing variables that are stored in MS
- Controller memory. Variables are types **VL** (Long) in range 0 – 63 and type **VR** (Real) in
- range 0 - 63.
+Screen MS variables displays and allows to changing variables that are stored in MS
+Controller memory. Variables are types **VL** (Long) in range 0 – 63 and type **VR** (Real) in
+range 0 - 63.
 
 .. _MS variables Screen:
 .. figure:: ../../_img/HMI/variables.PNG
@@ -140,12 +138,11 @@ Navigation to MS variables screen and change value of variable
 Maintenance Screen
 -------------------
 
-.. note::
- Screen Maintenance displays maintenance information of MS system. This screen
- provides information about maintenance parameters status of MS system – Total brakes, working time of MS, odometer, workmeter.
- Based on current values of parameters is displayed what type of maintenance is needed. 
- Maintenance type is displayed with letters A, B, C and D. Information regarding
- different types can be taken by pressing Maintenance Info button.
+Screen Maintenance displays maintenance information of MS system. This screen
+provides information about maintenance parameters status of MS system – Total brakes, working time of MS, odometer, workmeter.
+Based on current values of parameters is displayed what type of maintenance is needed. 
+Maintenance type is displayed with letters A, B, C and D. Information regarding
+different types can be taken by pressing Maintenance Info button.
 
 .. _Maintenance Screen:
 .. figure:: ../../_img/HMI/maintenance.PNG
@@ -172,8 +169,7 @@ Maintenance Screen
 Self-test Screen
 -------------------
 
-.. note::
-   Screen Self-Test displays values from last MS system self-test. 
+Screen Self-Test displays values from last MS system self-test. 
 
 .. _Self-test Screen:
 .. figure:: ../../_img/HMI/self-test.PNG
@@ -193,10 +189,9 @@ Self-test Screen
 Event record Screen
 -------------------
 
-.. note::
-   Screen Event Records gives option to choose between 3 logging groups. Opening
-   presents specific events of MS system. Every logging group stores last 10 events
-   after restart or power loss of MSHMI.
+Screen Event Records gives option to choose between 3 logging groups. Opening
+presents specific events of MS system. Every logging group stores last 10 events
+after restart or power loss of MSHMI.
 
 .. _Event record screen:
 .. figure:: ../../_img/HMI/logging-groups.PNG
@@ -218,8 +213,7 @@ Event record Screen
 
 	MS status log screen components
 
-.. note::
-   MS Status log group contains all events appears during MS system operation.
+MS Status log group contains all events appears during MS system operation.
 
 .. _MS warning log Screen:
 .. figure:: ../../_img/HMI/warning-log.PNG
@@ -227,8 +221,7 @@ Event record Screen
 
 	MS warning log screen components
 
-.. note::
-   MS Warning log group contains all warning events appears during MS system operation.
+MS Warning log group contains all warning events appears during MS system operation.
 
 .. _MS fault log Screen:
 .. figure:: ../../_img/HMI/fault-log.PNG
@@ -236,8 +229,7 @@ Event record Screen
 
 	MS fault log screen components
 
-.. note::
-   MS Warning log group contains all fault events appears during MS system operation.
+MS Warning log group contains all fault events appears during MS system operation.
 
 .. csv-table:: Log screens 
    :file: ../../_tables/HMI/log-components.csv
@@ -250,9 +242,8 @@ Event record Screen
 Version Screen
 -------------------
 
-.. note::
-   Screen Version presents information about MS sytem: name of project, HMI firmware version, Software
-   version and MS Controller firmware version.
+Screen Version presents information about MS sytem: name of project, HMI firmware version, Software
+version and MS Controller firmware version.
 
 .. _Version Screen:
 .. figure:: ../../_img/HMI/system-information.PNG
@@ -272,8 +263,7 @@ Version Screen
 Language Screen
 -------------------
 
-.. note::
-   Screen Language allows change of screen language.
+Screen Language allows change of screen language.
 
 .. _Language Screen:
 .. figure:: ../../_img/HMI/language.PNG
