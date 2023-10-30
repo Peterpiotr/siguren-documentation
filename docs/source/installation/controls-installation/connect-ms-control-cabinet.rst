@@ -139,6 +139,13 @@ How to connect proximity sensors / limit switches
 
 Position proximity sensors/switches are used for allowing or prohibits hoist movement. Position sensors/switches are using in active state output signal. 
 
+.. _Movement:
+.. figure:: ../../_img/Controls-installation/scr-uscr.PNG
+	:figwidth: 465 px
+	:align: center
+
+	Movement table
+
 The figure below shows an example of the installation of the limit switches. 
 NC contacts are used for connection. Signal from switches is active when they are not pressed.
 
@@ -152,3 +159,43 @@ NC contacts are used for connection. Signal from switches is active when they ar
 
 In case of proxy position sensors are used, sensors are with NO output and are active when worm is in correct position. 
 
+.. _Proximity sensors:
+.. figure:: ../../_img/Controls-installation/position-sensors.png
+	:figwidth: 465 px
+	:align: center
+
+	Proximity sensors
+
+
+How to connect recovery motor
+-----------------------------
+
+Recovery systems are two types with same functionallity.:
+- AC asynchronous motor controlled by variable speed drive;
+- DC motor controlled by Siguren motor controller MSRM4514
+
+AC asynchronous motor is controlled by 230VAC or 400VAC variable speed drive. 
+Windings of motor are connected in STAR (Y) configuration.
+
+.. _Star connection schematic:
+.. figure:: ../../_img/Controls-installation/notor-star-connection.png
+	:figwidth: 465 px
+	:align: center
+
+	Star connection schematic
+
+.. _Star connection:
+.. figure:: ../../_img/Controls-installation/recovery-motor-connection-star.jpg
+	:figwidth: 465 px
+	:align: center
+
+	AC motor connection
+
+DC motor is controlled by MSRM4514 motor controller operating on 48VDC voltage.
+
+.. _DC motor:
+.. figure:: ../../_img/Controls-installation/recovery-motor-dc.jpg
+	:figwidth: 465 px
+	:align: center
+
+	DC motor connection
