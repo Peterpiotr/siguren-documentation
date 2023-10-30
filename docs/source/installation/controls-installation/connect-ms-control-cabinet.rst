@@ -2,12 +2,6 @@
 Control cabinet connection to MS unit
 =====================================
 
-.. note::
-  How do I connect MS to my existing controls and power sources?
-
-.. note::
-    Extracted from :download:`Siguren MS manual.docx <../archives/siguren-ms-manual-ternium.docx>` .
-
 After mechanical assembly of MotoSuiveur system to hoist is done, electrical connection must be made between MS and control cabinet. 
 Figure below shows general view of typical MotoSuiveur  electrical components that should 
 be connected according specific for the project electrical circuit diagram.
@@ -102,14 +96,14 @@ Signal arrangement of connector on motor side for motor type S1.
 
 Signal arrangement of connector on motor side for motor type S2. 
 
-.. _Power connector type S1:
+.. _Power connector type S2:
 .. figure:: ../../_img/Controls-installation/S2-power.PNG
 	:figwidth: 465 px
 	:align: center
 
 	Power connector type S2 (C6)
 
-.. _Resolver connector type S1:
+.. _Resolver connector type S2:
 .. figure:: ../../_img/Controls-installation/S2-resolver.PNG
 	:figwidth: 465 px
 	:align: center
@@ -120,3 +114,41 @@ Signal arrangement of connector on motor side for motor type S2.
 
 How to connect oil and temperature sensors
 ------------------------------------------
+
+Oil level sensor (S1) and Temperature sensor (S2) are standard 4 male pin M12 connector type PNP or NPN type. 
+Figure below shows M12 connector specification and present information which type should be used. 
+
+.. _M12 connector layout:
+.. figure:: ../../_img/Controls-installation/oil-and-temp.png
+	:figwidth: 465 px
+	:align: center
+
+	M12 connector layout
+
+
+.. _Oil and temperature:
+.. figure:: ../../_img/Controls-installation/oil-sensors-connection.png
+	:figwidth: 465 px
+	:align: center
+
+	Oil and temperature sensors connection
+
+
+How to connect proximity sensors / limit switches
+-------------------------------------------------
+
+Position proximity sensors/switches are used for allowing or prohibits hoist movement. Position sensors/switches are using in active state output signal. 
+
+The figure below shows an example of the installation of the limit switches. 
+NC contacts are used for connection. Signal from switches is active when they are not pressed.
+
+.. _Limit switches:
+.. figure:: ../../_img/Controls-installation/limit-switches.png
+	:figwidth: 465 px
+	:align: center
+
+	Limit switches
+
+
+In case of proxy position sensors are used, sensors are with NO output and are active when worm is in correct position. 
+
