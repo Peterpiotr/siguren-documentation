@@ -2,6 +2,10 @@
 MS Controller settings
 ======================
 
+Each Motosuiveur system is fitted with a servo motor that adapts the rotation of the worm screw to the orders given to the hoist motor. 
+The servo motor is controlled by a MS Controller that embeds a software especially developed Siguren Technologies.
+MS Controller is connected directly to the servo motor through a dedicated cable that controls the servo motor and sends position data back to the controller.
+
 .. _MS Controller:
 .. figure:: ../../_img/Controls-installation/ms-controller-230.PNG
 	:figwidth: 465 px
@@ -10,7 +14,7 @@ MS Controller settings
 	MS Controller
 
 
-The MS controller is the core of MS system operation. The controller is pre-programmed, set up and tested on the MS system. 
+The MS controller is pre-programmed, set up and tested in conjunction with the entire MS system 
 The settings and tests are made according to the predefined:
 
 - the acceleration ramps
