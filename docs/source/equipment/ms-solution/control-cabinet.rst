@@ -62,14 +62,14 @@ Integration of the MotoSuiveur in the control system
 =======================================================
 
 The integration of the MS into the control system of a new or existing crane is done by pre-configuring the MotoSuiveur I/O interface. 
-All electrical parameters and iterfaces are determined by the pre-configuration diagram.
+All electrical parameters and iterfaces are specified by the pre-configuration diagram.
 
 .. _diagram:
 .. figure:: ../../_img/Control-Cabinet/control-cabinet-configuration.png
 	:figwidth: 800 px
 	:align: center
 
-	Integration of the MotoSuiveur in the control system
+	Integration of the MotoSuiveur in hoist control system
 
 
 **For more details:** :doc:`../../equipment/control-interface/control-panel`

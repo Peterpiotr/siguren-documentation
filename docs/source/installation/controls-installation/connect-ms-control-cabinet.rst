@@ -31,6 +31,44 @@ Electrical connection of the MotoSuiveur panel
 Terminals **T1, T2, T4, T4, T6, T7** are mandatory.
 
 
+In the table below is presented a complete and detailed description of the terminals.
+The set of inputs and outputs is defined in advance for each project based on pre-configuration diagram (MS block diagram).
+
+:doc:`../../equipment/ms-solution/control-cabinet.rst`
+
+.. csv-table:: Detailed description of terminals
+   :file: ../../_tables/terminasl-description.csv
+   :delim: ;
+   :header-rows: 1
+   :class: tight-table
+   :align: left
+   :widths: auto
+
+
+\*\ If power supply is separated
+
+\**\ Control voltage from MS control cabinet
+
+\***\ After Reset command MS performs self-test
+
+\****\ Backup and Recovery mode in some models can be combined in common switch Backup/Recovery
+ 	 
+PS – Power Supply
+
+DI – Digital Input
+
+DO – Digital Output/Relay Contact Output
+
+AI – Analog Input
+
+AO – Analog Output
+
+RES – Resolver 
+
+CV – Control Voltage
+
+
+
 Electrical connection of the MotoSuiveur unit
 ===============================================
 
@@ -50,7 +88,6 @@ Principle location of electrical components on MotoSuiveur unit are shown on fig
    :class: tight-table
    :align: left
    :widths: auto
-
 
 How to connect MS servo motor - C6 & C7
 ----------------------------------------
