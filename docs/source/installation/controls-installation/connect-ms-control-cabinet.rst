@@ -34,10 +34,6 @@ Terminals **T1, T2, T4, T4, T6, T7** are mandatory.
 In the table below is presented a complete and detailed description of the terminals.
 The set of inputs and outputs is defined in advance for each project based on pre-configuration diagram (MS block diagram).
 
-:doc:`MS block diagram <../../equipment/ms-solution/control-cabinet.rst>` 
-:ref:`../../equipment/ms-solution/control-cabinet.rst`
-
-.. _Block-diagram: docs/source/installation/controls-installation/connect-ms-control-cabinet.rst
 
 .. csv-table:: Detailed description of terminals
    :file: ../../_tables/terminasl-description.csv

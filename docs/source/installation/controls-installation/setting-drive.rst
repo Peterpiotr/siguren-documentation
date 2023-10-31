@@ -1,20 +1,29 @@
-===============
-Drive settings
-===============
+======================
+MS Controller settings
+======================
 
-.. note::
-	Source: :download:`User Manual-7.4.doc`
+.. _MS Controller:
+.. figure:: ../../_img/Controls-installation/ms-controller-230.PNG
+	:figwidth: 465 px
+	:align: center
 
-It is preferable that before the MotoSuiveur is assembled, settings and tests are performed on the hoist drives:
+	MS Controller
 
-    - the acceleration ramps
-    - the deceleration ramps
-    - the opening of the service brake against the motor torque
-    - the closing of the service brake against the motor speed
-    - the thresholds of the fixed speeds
-    - the minimum and maximum speeds
 
-The MotoSuiveur is programmed to brake as soon as the maximum and minimum thresholds are exceeded for each of these values. 
+The MS controller is the core of MS system operation. The controller is pre-programmed, set up and tested on the MS system. 
+The settings and tests are made according to the predefined:
+
+- the acceleration ramps
+- the deceleration ramps
+- nominal speed
+- treshold overspeed
+
+MS controller setup parameters (variables) can be changed after initial programming.
+This can be done in 3 different ways:
+
+- via laptop
+- via MSHMI
+- online session with Siguren Technologies team
 
 .. important::
-    If when engaged the drive is NOT correctly set, the MotoSuiveur will automatically brake, until the good value is obtained.
+    The MS Controller variables can only be changed by authorized personnel.
