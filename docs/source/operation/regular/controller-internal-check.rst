@@ -20,3 +20,11 @@ Initial initialization check
 3. |communication| - communication initialization OK
 4. |init-app-done| - initialization of loaded software OK
 5. |init-done| - initialization done
+
+MS Controller OS version
+----------------------------
+
+Currently MS controllers are operating with OS version 1.4.2.
+On picture below is shown OS version displaying.
+
+|1| |none|. |4| |none|. |2|
