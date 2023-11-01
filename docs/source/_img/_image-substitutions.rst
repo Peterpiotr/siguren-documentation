@@ -58,7 +58,7 @@
 .. |driver|         image:: ../../_img/7-segment/MS-Controller-internal-check/Driver-initialized.PNG
 .. |communication|  image:: ../../_img/7-segment/MS-Controller-internal-check/Communication-Ok.PNG
 
-.. OS Version==========================================================
+.. OS Version==============================================================
 .. |1|          image:: ../../_img/7-segment/OS-version/1.PNG
 .. |2|          image:: ../../_img/7-segment/OS-version/2.PNG   
 .. |4|          image:: ../../_img/7-segment/OS-version/4.PNG

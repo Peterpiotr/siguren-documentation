@@ -21,10 +21,34 @@ Initial initialization check
 4. |init-app-done| - initialization of loaded software OK
 5. |init-done| - initialization done
 
+
 MS Controller OS version
 ----------------------------
 
 Currently MS controllers are operating with OS version 1.4.2.
 On picture below is shown OS version displaying.
 
-|1| |none|. |4| |none|. |2|
+|1| 
+
+|none|. 
+
+|4| 
+
+|none|. 
+
+|2|
+
+
+Fieldbus addres
+----------------------------
+
+Last step in internal initialization is field bus address displayng.
+Fieldbus addres is configurated by nodID dip switches located on MS Controller front side.
+
+|image049|
+
+|image059|
+
+|none|
+
+|1| 
