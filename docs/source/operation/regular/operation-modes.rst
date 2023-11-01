@@ -22,16 +22,15 @@ Operation sequence of MotoSuiveur system as follows:
 9. If Reset is performed by pressing Reset button, control voltage of MotoSuiveur system is off. After Reset button is released operation sequence start from point 1
 
 
-Links to all steps from sequence
 
-:doc:`MS Controller internal check<../../operation/regular/controller-internal-check>`
+:doc:`MS Controller internal check<../../../regular/controller-internal-check>`
 
-:doc:`../../equipment/control-interface/control-cabinet`
+:doc:`MS System self-test<../../../regular/self-test>`
 
-:doc:`../../equipment/control-interface/control-cabinet`
+:doc:`Following<../../../regular/following>`
 
-:doc:`../../equipment/control-interface/control-cabinet`
+:doc:`Backup<../../../recovery/backup-procedure>`
 
-:doc:`../../equipment/control-interface/control-cabinet`
+:doc:`Recovery<../../../recovery/recovery-operation>`
 
-:doc:`../../equipment/control-interface/control-cabinet`
+:doc:`MS System reset<../../../regular/system-reset>`

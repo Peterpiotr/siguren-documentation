@@ -1,5 +1,5 @@
 ==========================
-Controller internal check
+MS Controller internal check
 ==========================
 
 .. include:: ../../_img/_image-substitutions.rst
@@ -51,4 +51,4 @@ On sequence below ish shown example for nodID address 01:
 Video with presented example is shown bwlow:
 
 .. image:: ../../_img/7-segment/MS-Controller-internal-check/internal-check.gif
-    :width: 200 px
+    :width: 150 px
