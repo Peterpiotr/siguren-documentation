@@ -26,17 +26,13 @@ MS Controller OS version
 ----------------------------
 
 Currently MS controllers are operating with OS version 1.4.2.
-On picture below is shown OS version displaying.
+On picture below is shown sequence for OS version 1.4.2 displaying.
 
-|1| 
-
-|none|. 
-
-|4| 
-
-|none|. 
-
-|2|
+1. |1| 
+2. |none|. 
+3. |4| 
+4. |none|. 
+5. |2|
 
 
 Fieldbus addres
@@ -45,10 +41,14 @@ Fieldbus addres
 Last step in internal initialization is field bus address displayng.
 Fieldbus addres is configurated by nodID dip switches located on MS Controller front side.
 
-|image049|
+On sequence below ish shown example for nodID address 01:
 
-|image059|
+1. |image049|
+2. |image059|
+3. |none|
+4. |1| 
 
-|none|
+Video with presented example is shown bwlow:
 
-|1| 
+.. image:: ../../_img/7-segment/MS-Controller-internal-check/internal-check.gif
+    :width: 200 px
