@@ -21,15 +21,15 @@ Operation sequence of MotoSuiveur system as follows:
 8. If Backup mode is activated, MotoSuiveur system enter in Backup mode
 9. If Reset is performed by pressing Reset button, control voltage of MotoSuiveur system is off. After Reset button is released operation sequence start from point 1
 
+Releated pages:
 
-
-:doc:`MS Controller internal check <../../operation/regular/controller-internal-check.rst>`
+:doc:`MS Controller internal check <../../operation/regular/controller-internal-check>`
 
 :doc:`MS System self-test <../../operation/regular/self-test>`
 
 :doc:`Following <../../operation/regular/following>`
 
-:doc:`Backup <../../operation/recovery/backup-procedure.rst>`
+:doc:`Backup <../../operation/recovery/backup-procedure>`
 
 :doc:`Recovery <../../operation/recovery/recovery-operation>`
 
