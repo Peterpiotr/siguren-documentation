@@ -49,3 +49,11 @@
 .. MS Units================================================================    
 .. |hydraulic_ms|  image:: ../../_img/MS_Unit/Hydraulic.jpg    
 .. |friction_ms|   image:: ../../_img/MS_Unit/Friction.jpg 
+
+.. Initialization==========================================================
+.. |start|          image:: ../../_img/7-segment/MS-Controller-internal-check/start.PNG
+.. |init-done|      image:: ../../_img/7-segment/MS-Controller-internal-check/init-done.PNG
+.. |init-app-done|  image:: ../../_img/7-segment/MS-Controller-internal-check/Init-application-done.PNG
+.. |feetback|       image:: ../../_img/7-segment/MS-Controller-internal-check/feedback-ok.PNG
+.. |driver|         image:: ../../_img/7-segment/MS-Controller-internal-check/Driver-initialized.PNG
+.. |communication|  image:: ../../_img/7-segment/MS-Controller-internal-check/Communication-Ok.PNG
