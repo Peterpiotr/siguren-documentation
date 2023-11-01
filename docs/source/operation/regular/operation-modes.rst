@@ -23,14 +23,14 @@ Operation sequence of MotoSuiveur system as follows:
 
 
 
-:doc:`MS Controller internal check <../../../regular/controller-internal-check>`
+:doc:`MS Controller internal check <../../operation/regular/controller-internal-check.rst>`
 
-:doc:`MS System self-test <../../../regular/self-test>`
+:doc:`MS System self-test <../../operation/regular/self-test>`
 
-:doc:`Following <../../../regular/following>`
+:doc:`Following <../../operation/regular/following>`
 
-:doc:`Backup <../../../recovery/backup-procedure>`
+:doc:`Backup <../../operation/recovery/backup-procedure.rst>`
 
-:doc:`Recovery <../../../recovery/recovery-operation>`
+:doc:`Recovery <../../operation/recovery/recovery-operation>`
 
-:doc:`MS System reset <../../../regular/system-reset>`
+:doc:`MS System reset <../../operation/regular/system-reset>`
