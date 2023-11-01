@@ -24,7 +24,7 @@ Operation sequence of MotoSuiveur system as follows:
 
 Links to all steps from sequence
 
-*MS Controller internal check:* :doc:`/controller-internal-check.rst`
+*MS Controller internal check:* :doc:`../../operation/regular/controller-internal-check`
 
 :doc:`../../equipment/control-interface/control-cabinet`
 
