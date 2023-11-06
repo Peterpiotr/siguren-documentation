@@ -14,53 +14,61 @@ Sequence of Self-test operations are displayed on MS controller 7 – segment di
 
 In table below self-test sequence is shown.
 
-  +------------+-------------------+-----------------------------------------------+
-  | Symbol     | Test              |     Description                               |
-  +============+===================+===============================================+
-  | |image013| | Software          |Checking version of MS controller software     |
-  +------------+-------------------+-----------------------------------------------+
-  | |image017| | Electrical        |Check for activated commands for movement,     |
-  |            |                   |presence of an enabling signal from crane/hoist|
-  +------------+-------------------+-----------------------------------------------+
-  | |image001| | Home              |Worm positioning in nominal position between   |
-  |            |                   |SCRE and USCRE limit switches                  |
-  +            +-------------------+-----------------------------------------------+
-  |            | Bliocking check   |Check for blocked worm. In the event that the  |
-  |            |                   |MS holds the load or for any other reason the  |
-  |            |                   |worm cannot exit the hydraulic chamber do not  |
-  |            |                   |settle in the nominal position                 |                    
-  +            +-------------------+-----------------------------------------------+
-  |            | Healthy           |Check for blocked worm. In the event that the  |
-  |            |                   |MS holds the load or for any other reason the  |
-  |            |                   |worm cannot exit the hydraulic chamber do not  |
-  |            |                   |settle in the nominal position                 |                    
-  +------------+-------------------+-----------------------------------------------+
-  | |image021| | Switch test*      |Functional testing of MS unit limit switches   |
-  |            |                   |for operability and correct positioning        |
-  +------------+-------------------+-----------------------------------------------+
-  | |image025| | Damping test*     |Hydraulic chamber hardness test of MS unit.    |
-  |            |                   |Checking for change in hydraulic cartridge     |
-  |            |                   |setting and sufficient oil in the hydraulic    |
-  |            |                   |chamber.                                       |
-  +------------+-------------------+-----------------------------------------------+
-  | |image029| | Air test*         |Hydraulic chamber hardness test of MS unit.    |
-  |            |                   |Checking for change in hydraulic cartridge     |
-  |            |                   |setting and sufficient oil in the hydraulic    |
-  |            |                   |chamber.                                       |
-  +------------+-------------------+-----------------------------------------------+
-  | |image001| | Home              |Worm positioning in nominal position between   |
-  |            |                   |SCRE and USCRE limit switches                  |
-  +------------+-------------------+-----------------------------------------------+
-  | |image033| | Play test         |Check for nominal backlash (worm free play)    | 
-  |            |                   |between worm and worm wheel                    |
-  +------------+-------------------+-----------------------------------------------+
+  +------------+-------------------+-----------------------------------------------+--------------------------+
+  | Symbol     | Test              |Description                                    | Possible warnings/faults |
+  +============+===================+===============================================+==========================+
+  | |image013| | Software          |Checking version of MS controller software     | E28                      |
+  +------------+-------------------+-----------------------------------------------+--------------------------+
+  | |image017| | Electrical        |Check for activated commands for movement,     | E64, E65, E05, E04, E02, |
+  |            |                   |presence of an enabling signal from crane/hoist| E03, E57, E69            |
+  +------------+-------------------+-----------------------------------------------+--------------------------+
+  | |image001| | Home              |Worm positioning in nominal position between   |                          |
+  |            |                   |SCRE and USCRE limit switches                  |                          |
+  +            +-------------------+-----------------------------------------------+--------------------------+
+  |            | Bliocking check   |Check for blocked worm. In the event that the  | E10                      |
+  |            |                   |MS holds the load or for any other reason the  |                          |
+  |            |                   |worm cannot exit the hydraulic chamber do not  |                          |
+  |            |                   |settle in the nominal position                 |                          |
+  +            +-------------------+-----------------------------------------------+--------------------------+
+  |            | Healthy           |Indication on MS Controller 7-segment display  |                          |
+  |            |                   |for electrical healthy and unblocked worm      |                          |
+  +------------+-------------------+-----------------------------------------------+--------------------------+
+  | |image021| | Switch test*      |Functional testing of MS unit limit switches   | E11, E12, E13, E14       |
+  |            |                   |for operability and correct positioning        |                          |
+  +------------+-------------------+-----------------------------------------------+--------------------------+
+  | |image025| | Damping test*     |Hydraulic chamber hardness test of MS unit.    | F22, F23                 |
+  |            |                   |Checking for change in hydraulic cartridge     |                          |
+  |            |                   |setting and sufficient oil in the hydraulic    |                          |
+  |            |                   |chamber.                                       |                          |
+  +------------+-------------------+-----------------------------------------------+--------------------------+
+  | |image029| | Air test*         |Hydraulic chamber hardness test of MS unit.    | F20                      |
+  |            |                   |Checking for change in hydraulic cartridge     |                          |
+  |            |                   |setting and sufficient oil in the hydraulic    |                          |
+  |            |                   |chamber.                                       |                          |
+  +------------+-------------------+-----------------------------------------------+--------------------------+
+  | |image001| | Home              |Worm positioning in nominal position between   | E10                      |
+  |            |                   |SCRE and USCRE limit switches                  |                          |
+  +------------+-------------------+-----------------------------------------------+--------------------------+
+  | |image033| | Play test         |Check for nominal backlash (worm free play)    | F15, F15                 |
+  |            |                   |between worm and worm wheel                    |                          |
+  +------------+-------------------+-----------------------------------------------+--------------------------+
+
+Any warnings and faults that occur during MotoSuiveur system operation are displayed on the HMI screen (if installed) and on the 7-segment display of the MS controller. 
+Each fault is characterized by a number and a description. Faults are divided into two groups - system faults (in result of MS controller internal check) 
+and MotoSuiveur system faults. 
+System faults are those that are related to the electrical performance of the MS controller or mechanical. 
+MotoSuiveur system faults are related to the working process of the MS unit.
+Indication of warning or fault on MS Controller 7-segment display is a combination of letter and numbers. 
+MS controller internal faults are indicated with blinked combination of |image035| , number and finish with symbol |image039|.
+MS faults are displayed with combination of |image036| and number. MS warnings are displayed with combination of |image035| and number. 
+
+
 
 
 Sowtware test
 --------------
 
 Software test perform check for correct version of MS controller firmware version.
-If version is not correct, E28 appears.
 
 
 Electrical test
