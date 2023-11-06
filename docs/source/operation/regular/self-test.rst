@@ -62,7 +62,24 @@ Indication of warning or fault on MS Controller 7-segment display is a combinati
 MS controller internal faults are indicated with blinked combination of |image035| , number and finish with symbol |image039|.
 MS faults are displayed with combination of |image036| and number. MS warnings are displayed with combination of |image035| and number. 
 
+On pigures below ish shown example for MS Controller internal fault (E01) and MS warning (E10).
 
+.. _MS Controller internal fault:
+.. figure:: ../../_img/Regular-operations/E01-internal-error.png
+   :figwidth: 600 px
+   :align: center
+
+   MS Controller internal fault
+
+.. _MS warninig:
+.. figure:: ../../_img/Regular-operations/E10-MS-error.png
+   :figwidth: 600 px
+   :align: center
+
+   MS warning
+
+
+Detailed description of warnings, faults and troubleshooting. (link)
 
 
 Sowtware test
@@ -84,17 +101,57 @@ if some of the checks do not pass, a warning occurs.
    :align: left
    :widths: auto
 
-\* *If MotoSuiveur unit is equipped with Recovery system
+
+\*\ *If MotoSuiveur unit is equipped with Recovery system*
+
+
+Positioning
+------------
+
+Positioning is a sequence of movements designed to position the worm in the normal position (between the limit switches/proximity sensors). 
+
 
 
 Switch test
---------------
+------------
 
 Switch test checks correct positioning of position limit switches/proximity sensors and them healthy.
 Sequence of switch test is listed in table below.
 
-.. csv-table:: Electrical test sequence
+.. csv-table:: Switch test sequence
    :file: ../../_tables/switch-test.csv
+   :delim: ;
+   :header-rows: 1
+   :class: tight-table
+   :align: left
+   :widths: auto
+
+
+Damping test
+------------
+
+Damping test is performed only for hydraulic type MS units.
+It is used to check the hardness of the damping chamber.
+Sequence of checks is listed in table below.
+
+.. csv-table:: Damping test sequence
+   :file: ../../_tables/damping-test.csv
+   :delim: ;
+   :header-rows: 1
+   :class: tight-table
+   :align: left
+   :widths: auto
+
+
+Air test
+--------
+
+The air test checks for the presence of air in the damping chamber.
+The test is performed with three short movements (knocks) in sequence.
+Test sequence is listed in table below
+
+.. csv-table:: Air test sequence
+   :file: ../../_tables/air-test.csv
    :delim: ;
    :header-rows: 1
    :class: tight-table

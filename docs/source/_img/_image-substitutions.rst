@@ -38,6 +38,7 @@
 .. |image058| image:: ../../_img/7-segment/image058-rs.png
 .. |image059| image:: ../../_img/7-segment/image059-rs.png
 .. |image060| image:: ../../_img/7-segment/image060-rs.png
+.. |image061| image:: ../../_img/7-segment/image061-rs.png
 .. =========================================================================
 .. |password-entry-01| image:: ../../_img/password-entry-01.png
 .. |password-entry-02| image:: ../../_img/password-entry-02.png

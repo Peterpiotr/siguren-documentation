@@ -214,7 +214,7 @@ AC asynchronous motor is controlled by 230VAC or 400VAC variable speed drive.
 Windings of motor are connected in STAR (Y) configuration.
 
 .. _Star connection schematic:
-.. figure:: ../../_img/Controls-installation/notor-star-connection.png
+.. figure:: ../../_img/Controls-installation/motor-star-connection.png
 	:figwidth: 465 px
 	:align: center
 
