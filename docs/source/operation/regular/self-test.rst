@@ -73,6 +73,8 @@ Software test perform check for correct version of MS controller firmware versio
 
 Electrical test
 ---------------
+Electrical test performs sequence of checks listed in table below. 
+if some of the checks do not pass, a warning occurs.
 
 .. csv-table:: Electrical test sequence
    :file: ../../_tables/self-test.csv
@@ -82,4 +84,19 @@ Electrical test
    :align: left
    :widths: auto
 
-\*\ *If MotoSuiveur unit is equipped with Recovery system
+\* *If MotoSuiveur unit is equipped with Recovery system
+
+
+Switch test
+--------------
+
+Switch test checks correct positioning of position limit switches/proximity sensors and them healthy.
+Sequence of switch test is listed in table below.
+
+.. csv-table:: Electrical test sequence
+   :file: ../../_tables/switch-test.csv
+   :delim: ;
+   :header-rows: 1
+   :class: tight-table
+   :align: left
+   :widths: auto
