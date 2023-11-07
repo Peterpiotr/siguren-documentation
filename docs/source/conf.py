@@ -29,6 +29,13 @@ extensions = [
     'sphinx_tags',
 ]
 
+
+tags_create_tags = True
+tags_output_dir = "_tags"
+tags_overview_title = "Tags"
+tags_extension = ["md", "rst"]
+
+
 intersphinx_mapping = {
     'python': ('https://docs.python.org/3/', None),
     'sphinx': ('https://www.sphinx-doc.org/en/master/', None),
