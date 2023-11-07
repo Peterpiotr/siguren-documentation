@@ -5,6 +5,9 @@ test page
 hhhhhhhhsdjfijsdfijfkdjlfxcjklhvklcjvsiodjfgsdiohfgsdiofh
 =========================================================
 
+.. tags:: tag1, tag2
+
+
 kkkk lorem :hoverxref:`example-ref`
 
 .. figure:: .png

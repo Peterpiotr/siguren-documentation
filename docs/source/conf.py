@@ -10,7 +10,7 @@ copyright = f'{year}, SIGUREN technologies Ltd.'
 author = 'SIGUREN technologies Ltd.'
 
 master_doc = "index"
-version = '0.1.x'
+version = '0.1.1'
 release = version
 
 # -- General configuration
@@ -26,6 +26,7 @@ extensions = [
     'hoverxref.extension',
 #    'piccolo_theme',
     'sphinx_material',
+    'sphinx_tags',
 ]
 
 intersphinx_mapping = {
