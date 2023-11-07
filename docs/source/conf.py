@@ -31,9 +31,8 @@ extensions = [
 
 
 tags_create_tags = True
-tags_output_dir = "_tags"
-tags_overview_title = "Tags"
-tags_extension = ["md", "rst"]
+
+tags_extension = ["rst", "ipynb"]
 
 
 intersphinx_mapping = {
