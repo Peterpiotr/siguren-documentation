@@ -26,7 +26,7 @@ extensions = [
     'hoverxref.extension',
 #    'piccolo_theme',
     'sphinx_material',
-#    "sphinx_tags",
+    "sphinx_tags",
 ]
 
 intersphinx_mapping = {
