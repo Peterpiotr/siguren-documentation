@@ -7,6 +7,10 @@ hhhhhhhhsdjfijsdfijfkdjlfxcjklhvklcjvsiodjfgsdiohfgsdiofh
 
 .. tags:: tag1, tag2
 
+.. seealso::
+
+  saidaosfhjfh
+
 
 kkkk lorem :hoverxref:`example-ref`
 
