@@ -5,7 +5,7 @@ test page
 hhhhhhhhsdjfijsdfijfkdjlfxcjklhvklcjvsiodjfgsdiohfgsdiofh
 =========================================================
 
-
+.. tags:: tag1, tag2
 
 .. seealso::
 
