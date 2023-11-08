@@ -26,7 +26,7 @@ extensions = [
     'hoverxref.extension',
 #    'piccolo_theme',
     'sphinx_material',
-    'sphinx-tags',
+    'sphinx_tags',
 ]
 
 
