@@ -21,7 +21,7 @@ MSHMI significantly expands the capabilities of MotoSuiveur system by allowing:
 
 
 .. _MotoSuiveur HMI view:
-.. figure:: ../../_img/ms-hmi-01.png
+.. figure:: ../../_img/Peter/ms-hmi-01.png
 	:scale: 100 %
 	:align: center
 

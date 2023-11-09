@@ -14,7 +14,7 @@ Electrical connection of the MotoSuiveur panel
 
 
 .. _Electrical connections of MotoSuiveur panel:
-.. figure:: ../../_img/generalViewConnectionsMS-MSCC.png
+.. figure:: ../../_img/Peter/generalViewConnectionsMS-MSCC.png
 	:figwidth: 465 px
 	:align: center
 
@@ -74,7 +74,7 @@ Electrical connection of the MotoSuiveur unit
 Principle location of electrical components on MotoSuiveur unit are shown on figure below.
 
 .. _Electrical connections of MotoSuiveur unit:
-.. figure:: ../../_img/Controls-installation/MS-unit.png
+.. figure:: ../../_img/Controls-installation/MS-unit.PNG
 	:figwidth: 465 px
 	:align: center
 
