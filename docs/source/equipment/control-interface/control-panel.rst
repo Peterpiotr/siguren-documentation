@@ -123,4 +123,5 @@ Reset
 
 
 **References:**
-:doc:`../../equipment/control-interface/control-cabinet`
+
+:doc:`../../equipment/ms-solution/control-cabinet`
