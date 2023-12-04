@@ -33,7 +33,7 @@ In table below self-test sequence is shown.
   |            | Healthy           |Indication on MS Controller 7-segment display  |                          |
   |            |                   |for electrical healthy and unblocked worm      |                          |
   +------------+-------------------+-----------------------------------------------+--------------------------+
-  | |image021| | Switch test*      |Functional testing of MS unit limit switches   | E11, E12, E13, E14       |
+  | |image021| | Switch test       |Functional testing of MS unit limit switches   | E11, E12, E13, E14       |
   |            |                   |for operability and correct positioning        |                          |
   +------------+-------------------+-----------------------------------------------+--------------------------+
   | |image025| | Damping test*     |Hydraulic chamber hardness test of MS unit.    | F22, F23                 |
@@ -49,9 +49,12 @@ In table below self-test sequence is shown.
   | |image001| | Home              |Worm positioning in nominal position between   | E10                      |
   |            |                   |SCRE and USCRE limit switches                  |                          |
   +------------+-------------------+-----------------------------------------------+--------------------------+
-  | |image033| | Play test         |Check for nominal backlash (worm free play)    | F15, F15                 |
+  | |image033| | Play test         |Check for nominal backlash (worm free play)    | F15, F17                 |
   |            |                   |between worm and worm wheel                    |                          |
   +------------+-------------------+-----------------------------------------------+--------------------------+
+
+
+\*\ This tests are performed only for **hydraulic MotoSuiveur system**
 
 Any warnings and faults that occur during MotoSuiveur system operation are displayed on the HMI screen (if installed) and on the 7-segment display of the MS controller. 
 Each fault is characterized by a number and a description. Faults are divided into two groups - system faults (in result of MS controller internal check) 
@@ -148,10 +151,25 @@ Air test
 
 The air test checks for the presence of air in the damping chamber.
 The test is performed with three short movements (knocks) in sequence.
-Test sequence is listed in table below
+Test sequence is listed in table below.
 
 .. csv-table:: Air test sequence
    :file: ../../_tables/air-test.csv
+   :delim: ;
+   :header-rows: 1
+   :class: tight-table
+   :align: left
+   :widths: auto
+
+
+Play test
+---------
+
+Check for nominal backlash (worm free play) between between pistons () with low torque.
+Test sequense is listed below.
+
+.. csv-table:: Play test sequence
+   :file: ../../_tables/play-test.csv
    :delim: ;
    :header-rows: 1
    :class: tight-table
