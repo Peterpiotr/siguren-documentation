@@ -9,8 +9,12 @@ Following mode
 Following operation mode starts after successful passed of self–test. 
 The function of Following mode is intended for follow movements of the hoist/crane and to monitor 
 for exceeding the :term:`rated speed` with defined positive tolerance. 
-
 The speed, which is considered high is called :term:`overspeed`. 
+
+Following is the main operating mode of the MotoSuiveur system. It is separated into Rest and Follow states. 
+At Rest, MotoSuiveur system is waiting for a movement request.  
+When a movement request is received, MotoSuiveur system starts following.
+Rest and Following states are indicated on `MS Controller 7-segment display`_ and :doc:`MSHMI <../../equipment/control-interface/ms-hmi.rst>` in field "Status:".
          
 .. important::             
     By design MS **will not allow** overspeed. 
@@ -40,18 +44,20 @@ to prevent load drop.
    :class: tight-table
    :align: left
 
-Controller display
-===================
+MS Controller display
+=====================
+
+.. _MS Controller 7-segment display:
 
 :numref:`Symbols displayed on 7-segment display on MS controller` shows the 
 symbols displayed on 7–segment display during following operation mode respectively when on rest.
 
 .. _Symbols displayed on 7-segment display on MS controller:
-.. csv-table:: Symbols displayed on 7-segment display on MS controller when on rest
+.. csv-table:: Rest
    :file: ../../_tables/following-mode-digits-rest.csv
    :delim: ;
    :header-rows: 1
-   :widths: 20, 80
+   :widths: auto
    :class: tight-table
    :align: center
 
@@ -59,10 +65,10 @@ symbols displayed on 7–segment display during following operation mode respect
 symbols displayed on 7–segment display during following operation mode during movement.
 
 .. _Symbols displayed on 7-segment display on MS controller during movement:
-.. csv-table:: Symbols displayed on 7-segment display on MS controller during movement
+.. csv-table:: Movement
    :file: ../../_tables/following-mode-digits-movement.csv
    :header-rows: 1
    :delim: ;
-   :widths: 10, 20, 70
+   :widths: auto
    :class: tight-table
    :align: center

@@ -33,7 +33,7 @@ The figure below shows an example overview of a control panel with and without M
 Control panel according documentation 
 
 .. _General view of control panel:
-.. figure:: ../../_img/control-panel-02.png
+.. figure:: ../../_img/Peter/control-panel-02.png
 	:align: center
 	:figwidth: 600 px
 	:alt: Control cabinet

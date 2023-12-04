@@ -36,7 +36,7 @@ Exemplary general appearance of control cabinet nameplate shown on figure below.
 Architecture of a *standalone* MotoSuiveur system
 ======================================================
 
-.. figure:: ../../_img/controlSignals.png
+.. figure:: ../../_img/Peter/controlSignals.png
 	:figwidth: 600 px
 	:align: center
 
@@ -53,7 +53,7 @@ On figure below is presented the architecture of the standalone MotoSuiveur Solu
 
 \*\ *T5 is not shown on figure below*
 
-.. figure:: ../../_img/generalViewConnectionsMS-MSCC.png
+.. figure:: ../../_img/Peter/generalViewConnectionsMS-MSCC.png
 	:figwidth: 600 px
 	:align: center
 
