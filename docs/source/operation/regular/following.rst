@@ -14,7 +14,7 @@ The speed, which is considered high is called :term:`overspeed`.
 Following is the main operating mode of the MotoSuiveur system. It is separated into Rest and Follow states. 
 At Rest, MotoSuiveur system is waiting for a movement request.  
 When a movement request is received, MotoSuiveur system starts following.
-Rest and Following states are indicated on `MS Controller 7-segment display`_ and :doc:`MSHMI <../../equipment/control-interface/ms-hmi>` in :ms-hmi:`Main screen` field "MS system status:".
+Rest and Following states are indicated on `MS Controller 7-segment display`_ and :doc:`MSHMI <../../equipment/control-interface/ms-hmi>` in :ms-hmi:`Main Screen` field "MS system status:".
          
 .. important::             
     By design MS **will not allow** overspeed. 
