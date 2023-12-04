@@ -2,10 +2,12 @@
 Following mode
 ==============
 
+.. tags:: following, overspeed
+
 .. include:: ../substitutions.rst
 
 Following operation mode starts after successful passed of self–test. 
-The function of this operation mode is intended for follow movements of the hoist and to monitor 
+The function of Following mode is intended for follow movements of the hoist/crane and to monitor 
 for exceeding the :term:`rated speed` with defined positive tolerance. 
 
 The speed, which is considered high is called :term:`overspeed`. 
@@ -16,8 +18,11 @@ The speed, which is considered high is called :term:`overspeed`.
 Following operation mode principle
 ====================================
 
-:numref:`Main principle of following operation mode and overspeed detection` and :numref:`Following mode stages` 
-present the main principle of Following operation mode and overspeed detection. 
+Figure :numref:`Main principle of following operation mode and overspeed detection` 
+present the main principle of Following operation mode (upper part) and Overspeed detection (lower part). 
+MotoSuiveur system follows hoist/crane movement until overspeed is detected.
+When overspeed is detected, MotoSuiveur system trips and mechanicaly lockes hoist/crane
+to prevent load drop.
 
 .. _Main principle of following operation mode and overspeed detection:
 .. figure:: ../../_img/Peter/following-01.png
@@ -28,22 +33,12 @@ present the main principle of Following operation mode and overspeed detection.
 
 .. _Following mode stages:
 .. csv-table:: Following mode stages
-   :file: tables/following-mode-stages.csv
+   :file: ../../_tables/following-mode-stages.csv
    :delim: ;
    :header-rows: 0
-   :widths: 20, 80
+   :widths: auto
    :class: tight-table
-   :align: center
-
-
-The steps of following operation mode are presented on :numref:`Steps of Following operation mode`.
-
-.. _Steps of Following operation mode:
-.. figure:: ../../_img/Peter/following-02.png
-	:align: center
-
-	Steps of Following operation mode 
-
+   :align: left
 
 Controller display
 ===================
@@ -53,7 +48,7 @@ symbols displayed on 7–segment display during following operation mode respect
 
 .. _Symbols displayed on 7-segment display on MS controller:
 .. csv-table:: Symbols displayed on 7-segment display on MS controller when on rest
-   :file: tables/following-mode-digits-rest.csv
+   :file: ../../_tables/following-mode-digits-rest.csv
    :delim: ;
    :header-rows: 1
    :widths: 20, 80
@@ -65,7 +60,7 @@ symbols displayed on 7–segment display during following operation mode during 
 
 .. _Symbols displayed on 7-segment display on MS controller during movement:
 .. csv-table:: Symbols displayed on 7-segment display on MS controller during movement
-   :file: tables/following-mode-digits-movement.csv
+   :file: ../../_tables/following-mode-digits-movement.csv
    :header-rows: 1
    :delim: ;
    :widths: 10, 20, 70
