@@ -4,7 +4,7 @@ Following mode
 
 .. tags:: following, overspeed
 
-.. include:: ../substitutions.rst
+.. include:: ../../_img/_image-substitutions.rst
 
 Following operation mode starts after successful passed of self–test. 
 The function of Following mode is intended for follow movements of the hoist/crane and to monitor 
