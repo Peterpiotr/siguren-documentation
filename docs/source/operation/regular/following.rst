@@ -6,18 +6,21 @@ Following mode
 
 .. include:: ../../_img/_image-substitutions.rst
 
+Following operation mode is the main operating mode of the MotoSuiveur system.
 Following operation mode starts after successful passed of self–test. 
 The function of Following mode is intended for follow movements of the hoist/crane and to monitor 
 for exceeding the :term:`rated speed` with defined positive tolerance. 
 The speed, which is considered high is called :term:`overspeed`. 
 
-Following is the main operating mode of the MotoSuiveur system. It is separated into Rest and Follow states. 
+It is separated into Rest and Follow states. 
 At Rest, MotoSuiveur system is waiting for a movement request.  
 When a movement request is received, MotoSuiveur system starts following.
-Rest and Following states are indicated on `MS Controller 7-segment display`_ and :doc:`MSHMI <../../equipment/control-interface/ms-hmi>` in :ms-hmi:`Main Screen` field "MS system status:".
-         
+Rest and Following states are displayed on `MS Controller 7-segment display`_ and :doc:`MSHMI <../../equipment/control-interface/ms-hmi>` "Main Screen" field "MS system status:".
+
+
+
 .. important::             
-    By design MS **will not allow** overspeed. 
+    By design MotoSuiveur system **will not allow** overspeed. 
 
 Following operation mode principle
 ====================================
@@ -50,7 +53,9 @@ MS Controller display
 .. _MS Controller 7-segment display:
 
 :numref:`Symbols displayed on 7-segment display on MS controller` shows the 
-symbols displayed on 7–segment display during following operation mode respectively when on rest.
+symbols displayed on 7–segment display during Following operation mode in Rest.
+During Rest differend messages can be displayed on 7-segment display.
+They are active only during Rest.
 
 .. _Symbols displayed on 7-segment display on MS controller:
 .. csv-table:: Rest
@@ -67,6 +72,22 @@ symbols displayed on 7–segment display during following operation mode during 
 .. _Symbols displayed on 7-segment display on MS controller during movement:
 .. csv-table:: Movement
    :file: ../../_tables/following-mode-digits-movement.csv
+   :header-rows: 1
+   :delim: ;
+   :widths: auto
+   :class: tight-table
+   :align: center
+
+
+MSHMI status messages
+=====================
+
+On MSHMI "Main Screen" status of MotoSuiveur system is displayed.
+In table below status messages are listed.
+
+.. _Status messages:
+.. csv-table:: Status messages
+   :file: ../../_tables/mshmi-status-messages.csv
    :header-rows: 1
    :delim: ;
    :widths: auto
