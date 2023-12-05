@@ -1,6 +1,6 @@
-========
-MotoSuiveur HMI
-========
+=====
+MSHMI
+=====
 
 .. include:: ../equipment/_img/substitutions.rst
 

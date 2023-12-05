@@ -7,6 +7,5 @@ MotoSuiveur Solution
 
    ms-unit
    control-cabinet
-   ms-selection
    tl-addon
    rec-addons
