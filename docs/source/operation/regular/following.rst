@@ -70,7 +70,7 @@ Accordingly, MotoSuiveur system does not provide an Enable signal to hoist.
 
 The states described above do not put the MotoSuiveur system in a fault state. 
 Fault states can occur for a variety of reasons (overspeed detection, unwanted movement detection, loss of power supply etc.). 
-When the hoist is requested to move, the MC starts to follow in the direction it is needed. 
+When the hoist is requested to move, the MC starts to follow in the direction it is required. 
 During following, the MC checks for exceeding the maximum permissible hoist speed. 
 When the MotoSuiveur system detects that the defined speed is exceeded, it trips, Fault indicator became active, 
 Hoist enabled indicator became inactive and prevents the hoist from moving. 
@@ -84,7 +84,7 @@ Fault message is displayed on MS Controller 7-segmend display and MSHMI.
    
    MotoSuiveur system fault state
    
-After MotoSuiveur system enters a fault state, an operator response is required to identify the reason for the fault. 
+After MotoSuiveur system enters a fault state, an operator (authorized personel) response is required to identify the reason for the fault. 
 Once the cause of the failure has been identified and resolved, a :doc:`Reset <../../operation/regular/system-reset>` of the MotoSuiveur system is required. 
 After a successful self-test following a reset of MS system, it enters in following mode.
 
@@ -161,4 +161,5 @@ In table below status messages are listed.
    :align: center
 
 \*\ :doc:`MotoSuiveur system planned maintenance <../../maintenance/planned-maintenance/maintenance-schedule>`
+
 \**\ `Upward movement prohibited`_, `Downward movement prohibited`_

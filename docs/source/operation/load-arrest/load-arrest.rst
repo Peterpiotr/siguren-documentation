@@ -20,4 +20,8 @@ The reasons for MS load arrest can be various such as:
 
 	MotoSuiveur Unit load arrest
 
+.. important::             
+    In case of load arrest action is required. Operator (authorized personel) should identify reason for load arrest.
 
+In case of load arrest Unscrewing enable switch is actuated. Downward enable indicator is inactive.
+After resolving reason for load arrest :doc:`Reset <../../operation/regular/system-reset>` of the MotoSuiveur system is required.
