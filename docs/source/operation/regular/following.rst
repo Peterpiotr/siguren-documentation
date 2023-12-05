@@ -27,7 +27,7 @@ Following operation mode principle
 
 After successful passed of self–test MotoSuiveur system is in Rest.
 In Rest, after a successful self-test and the presence of an enable signal from the crane, 
-the following indicators are active - Hoist enabled, Upward enabled and Downward enabled.
+the following indicators are active - :guilabel:`🟢 Hoist enabled`, :guilabel:`🟢 Upward Enable` and :guilabel:`🟢 Downward Enable`.
 
 .. _Active indicators in following state:
 .. figure:: ../../_img/Regular-operations/indicators-following-state.png
@@ -37,7 +37,7 @@ the following indicators are active - Hoist enabled, Upward enabled and Downward
    Active indicators in following state
 
 The following process is started after pressing the buttons to operate the hoist up or down. 
-If a limit switch prohibiting upward movement is activated during movement, the Upward enable indicator becomes inactive - :numref:`Upward movement prohibited`. 
+If a limit switch prohibiting upward movement is activated during movement, the :guilabel:`🟢 Upward Enable` indicator becomes inactive - :numref:`Upward movement prohibited`. 
 In this state, no upward movement of the crane is allowed, and a short downward movement is required until the MS worm is cantered :numref:`Active indicators in following state`.
 
 .. _Upward movement prohibited:
@@ -47,7 +47,7 @@ In this state, no upward movement of the crane is allowed, and a short downward 
 
    Upward movement prohibited
 
-Accordingly, if the limit switch prohibiting downward movement is activated during movement, the Downward enabled indicator becomes inactive – :numref:`Downward movement prohibited`. 
+Accordingly, if the limit switch prohibiting downward movement is activated during movement, the :guilabel:`🟢 Downward Enable` indicator becomes inactive – :numref:`Downward movement prohibited`. 
 In this state, no downward movement of the crane is allowed, and a short upward movement is required until the MS worm is cantered – :numref:`Active indicators in following state`.
 
 .. _Downward movement prohibited:
@@ -57,7 +57,7 @@ In this state, no downward movement of the crane is allowed, and a short upward 
 
    Downward movement prohibited
 
-If the enable signal from the hoist to MotoSuiveur system loss, the Hoist enabled indicator becomes inactive. 
+If the enable signal from the hoist to MotoSuiveur system loss, the :guilabel:`🟢 Hoist enabled` indicator becomes inactive. 
 In this case MotoSuiveur system does not follow the hoist on a motion request. 
 Accordingly, MotoSuiveur system does not provide an Enable signal to hoist.
 
@@ -72,7 +72,7 @@ The states described above do not put the MotoSuiveur system in a fault state.
 Fault states can occur for a variety of reasons (overspeed detection, unwanted movement detection, loss of power supply etc.). 
 When the hoist is requested to move, the MC starts to follow in the direction it is required. 
 During following, the MC checks for exceeding the maximum permissible hoist speed. 
-When the MotoSuiveur system detects that the defined speed is exceeded, it trips, Fault indicator became active, 
+When the MotoSuiveur system detects that the defined speed is exceeded, it trips, :guilabel:`🔴 Fault indicator` became active, 
 Hoist enabled indicator became inactive and prevents the hoist from moving. 
 Downward enable and Upward enable are ignored in fault state.
 Fault message is displayed on MS Controller 7-segmend display and MSHMI.
@@ -84,7 +84,7 @@ Fault message is displayed on MS Controller 7-segmend display and MSHMI.
    
    MotoSuiveur system fault state
    
-After MotoSuiveur system enters a fault state, an operator (authorized personel) response is required to identify the reason for the fault. 
+After MotoSuiveur system enters a fault state, an operator (authorized personnel) response is required to identify the reason for the fault. 
 Once the cause of the failure has been identified and resolved, a :doc:`Reset <../../operation/regular/system-reset>` of the MotoSuiveur system is required. 
 After a successful self-test following a reset of MS system, it enters in following mode.
 

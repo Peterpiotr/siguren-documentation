@@ -78,12 +78,12 @@ Mandatory signals and controls
 Hoist enabled
 ^^^^^^^^^^^^^^
 
-:guilabel:`🟢 Hoist enabled lamp` indicate that the MotoSuiveur authorizes hoist movements. (figure 5).
+:guilabel:`🟢 Hoist enabled indicator` indicate that the MotoSuiveur authorizes hoist movements. (figure 5).
 
 Hoist enabled signal will be **ON** only in case if **ON** signal from hoist is **ON**.
 
 Hoist enabled signal will be **ON** when :doc:`../operating-instructions/self-test` procedure passes successfully and **ON** signal is available.
-Then :guilabel:`🟢 Hoist enabled lamp` and :guilabel:`⚪ Healthy lamp` are **ON**. 
+Then :guilabel:`🟢 Hoist enabled indicator` and :guilabel:`⚪ Healthy indicator` are **ON**. 
 The signals are indicating ``system ready`` (``MotoSuiveur ready``).
 
 
@@ -91,7 +91,7 @@ The signals are indicating ``system ready`` (``MotoSuiveur ready``).
 Fault 
 ^^^^^^
 
-:guilabel:`🔴 Fault lamp` indicates three different types of faults:
+:guilabel:`🔴 Fault indicator` indicates three different types of faults:
 
 	- MotoSuiveur controller internal errors, described in section ????;
 	- MotoSuiveur faults (further called flt_num), described in section ????;
@@ -102,7 +102,7 @@ This type of errors are with highest priority.
 If MotoSuiveur controller internal fault appear further operation is prohibited.
 	
 .. note::	
- 	:guilabel:`🔴 Fault lamp` is **ON** during MotoSuiveur self-test.
+ 	:guilabel:`🔴 Fault indicator` is **ON** during MotoSuiveur self-test.
 
 .. warning:: 
 	The system displays only last MotoSuiveur warning (``wrn_num``) or MotoSuiveur fault (``flt_num``) occurred.
