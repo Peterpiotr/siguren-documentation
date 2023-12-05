@@ -68,7 +68,7 @@ Accordingly, MotoSuiveur system does not provide an Enable signal to hoist.
 
    No enable signal from hoist
 
-The states described above do not put the MS in a fault state. 
+The states described above do not put the MotoSuiveur system in a fault state. 
 Fault states can occur for a variety of reasons (overspeed detection, unwanted movement detection, loss of power supply etc.). 
 When the hoist is requested to move, the MC starts to follow in the direction it is needed. 
 During following, the MC checks for exceeding the maximum permissible hoist speed. 
@@ -84,14 +84,14 @@ Fault message is displayed on MS Controller 7-segmend display and MSHMI.
    
    MotoSuiveur system fault state
    
-After MS enters a fault state, an operator response is required to identify the reason for the fault. 
-Once the cause of the failure has been identified and resolved, a restart of the MS system is required. 
-After a successful self-test following a :doc:`..\..\operation\regular\system-reset` of MS system, it enters in following mode.
+After MotoSuiveur system enters a fault state, an operator response is required to identify the reason for the fault. 
+Once the cause of the failure has been identified and resolved, a :doc:`Reset <../../operation/regular/system-reset>` of the MotoSuiveur system is required. 
+After a successful self-test following a reset of MS system, it enters in following mode.
 
 Figure :numref:`Main principle of following operation mode and overspeed detection` 
 present the main principle of Following operation mode (upper part) and Overspeed detection (lower part). 
 MotoSuiveur system follows hoist/crane movement until overspeed is detected.
-When overspeed is detected, MotoSuiveur system trips and mechanicaly lockes hoist/crane
+When overspeed is detected, MotoSuiveur system **trips** and mechanicaly lockes hoist/crane
 to prevent load drop.
 
 .. _Main principle of following operation mode and overspeed detection:
