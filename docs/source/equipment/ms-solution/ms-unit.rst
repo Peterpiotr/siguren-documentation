@@ -23,7 +23,7 @@ Component description
 ======================
 
 Hydraulic Damping MotoSuiveur
----------------------
+-----------------------------
 
 .. figure:: ../../_img/MS_Unit/Hydraulic.jpg
    :figwidth: 600 px

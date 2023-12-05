@@ -14,7 +14,7 @@ Combination of active (ON) and inactive (OFF) signal lams gives current status o
 Front door panel layout
 ======================
 
-The control panel contains indicators and control switches. They are divided into two groups: mandatory and optional.
+The control panel contains light indicators and control switches. They are divided into two groups: mandatory and optional.
 
 Mandatory_ are:
 
@@ -30,7 +30,7 @@ The figure below shows an example overview of a control panel with and without M
 	:figwidth: 600 px
 	:alt: Control cabinet
 
-Control panel according documentation 
+	Control panel according documentation 
 
 .. _General view of control panel:
 .. figure:: ../../_img/Peter/control-panel-02.png
@@ -38,7 +38,7 @@ Control panel according documentation
 	:figwidth: 600 px
 	:alt: Control cabinet
 
-Control panel as built
+	Control panel as built
 
 
 .. csv-table:: Control panel layout without MSHMI
@@ -49,7 +49,7 @@ Control panel as built
    :class: tight-table
    :align: center
 
-
+	Control cabinet without MSHMI
 
 External control panel
 ======================
@@ -60,7 +60,7 @@ External control panel
 	:figwidth: 600 px
 	:alt: Control cabinet
 
-External control panel overview
+	External control panel overview
 
 .. csv-table:: External control panel
    :file: ../../_tables/control-panel-external.csv
@@ -78,12 +78,12 @@ Mandatory signals and controls
 Hoist enabled
 ^^^^^^^^^^^^^^
 
-:guilabel:`🟢 Hoist enabled indicator` indicate that the MotoSuiveur authorizes hoist movements. (figure 5).
+:guilabel:`🟢 Hoist enabled light` indicate that the MotoSuiveur authorizes hoist movements. (figure 5).
 
 Hoist enabled signal will be **ON** only in case if **ON** signal from hoist is **ON**.
 
 Hoist enabled signal will be **ON** when :doc:`../operating-instructions/self-test` procedure passes successfully and **ON** signal is available.
-Then :guilabel:`🟢 Hoist enabled indicator` and :guilabel:`⚪ Healthy indicator` are **ON**. 
+Then :guilabel:`🟢 Hoist enabled light` and :guilabel:`⚪ Healthy light` are **ON**. 
 The signals are indicating ``system ready`` (``MotoSuiveur ready``).
 
 
@@ -91,7 +91,7 @@ The signals are indicating ``system ready`` (``MotoSuiveur ready``).
 Fault 
 ^^^^^^
 
-:guilabel:`🔴 Fault indicator` indicates three different types of faults:
+:guilabel:`🔴 Fault light` indicates three different types of faults:
 
 	- MotoSuiveur controller internal errors, described in section ????;
 	- MotoSuiveur faults (further called flt_num), described in section ????;
@@ -102,7 +102,7 @@ This type of errors are with highest priority.
 If MotoSuiveur controller internal fault appear further operation is prohibited.
 	
 .. note::	
- 	:guilabel:`🔴 Fault indicator` is **ON** during MotoSuiveur self-test.
+ 	:guilabel:`🔴 Fault light` is **ON** during MotoSuiveur self-test.
 
 .. warning:: 
 	The system displays only last MotoSuiveur warning (``wrn_num``) or MotoSuiveur fault (``flt_num``) occurred.
