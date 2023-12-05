@@ -159,3 +159,6 @@ In table below status messages are listed.
    :widths: auto
    :class: tight-table
    :align: center
+
+\*\ :doc:`MotoSuiveur system planned maintenance <../../maintenance/planned-maintenance/maintenance-schedule>`
+\**\ `Upward movement prohibited`_, `Downward movement prohibited`_
