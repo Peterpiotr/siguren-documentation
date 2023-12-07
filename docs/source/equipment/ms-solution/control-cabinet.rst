@@ -28,7 +28,7 @@ The nameplate of the MS Control Cabinet indicates model, serial number, date of 
 Exemplary general appearance of control cabinet nameplate shown on figure below.
 
 .. figure:: ../../_img/Control-Cabinet/control-cabinet-nameplate.png
-	:figwidth: 800 px
+	:figwidth: 600 px
 	:align: center
 
 
