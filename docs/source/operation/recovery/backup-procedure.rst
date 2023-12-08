@@ -2,7 +2,7 @@
 Backup Procedure
 =================
 
-.. include:: ../img/_image-substitutions.rst
+.. include:: ../../_image-substitutions.rst
 
 Backup mode is available is intended to allow hoist movements in some special situations. 
 This :guilabel:`🔑 Backup Mode Off/On` allows the user to lower or raise the load with the MotoSuiveur Unit ensuring no braking occurs. It does
@@ -69,5 +69,5 @@ Deactivating of Backup Mode
 
 	Backup Mode light off
 
-1. :doc:`Reset <../../operation/regular/system-reset>` of the MotoSuiveur system is required. After Reset Backup mode is deactivated.
+3. :doc:`Reset <../../operation/regular/system-reset>` of the MotoSuiveur system is required. After Reset Backup mode is deactivated.
 
