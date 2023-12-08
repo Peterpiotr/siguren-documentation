@@ -32,6 +32,8 @@ Activating and operating of Backup Mode
 .. figure:: ../../_img/Backup/switch-on-backup.png
 	:figwidth: 600 px
 	:align: center
+
+	Switching on Backup Mode
 	
 2. The Backup mode enable indicator illuminates. A symbol |image058| for activated Backup mode is displayed on the 7-segment indicator of the MS controller.
 
@@ -39,6 +41,8 @@ Activating and operating of Backup Mode
 .. figure:: ../../_img/Backup/backup-light-on.png
 	:figwidth: 600 px
 	:align: center
+
+	Backup Mode light illunminates
 	
 3. MotoSuiveur system is in Backup mode.
 4. Starting movements by hoist control.
@@ -48,5 +52,22 @@ Deactivating of Backup Mode
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 1. Deactivate Backup mode by turning the Backup Off | On switch to the **Off** position.
+
+.. _Switch off Backup mode:
+.. figure:: ../../_img/Backup/switch-off-backup.png
+	:figwidth: 600 px
+	:align: center
+
+	Switching off Backup Mode
+
 2. The backup mode indicator  is not illuminated . On the 7-segment indicator of MS controller the symbol |image058| remain active ana **Backup mode operation is still activated**.
-3. :doc:`Reset <../../operation/regular/system-reset>` of the MotoSuiveur system is required. After Reset Backup mode is deactivated.
+
+.. _Switch off Backup mode light:
+.. figure:: ../../_img/Backup/backup-light-off.png
+	:figwidth: 600 px
+	:align: center
+
+	Backup Mode light off
+
+1. :doc:`Reset <../../operation/regular/system-reset>` of the MotoSuiveur system is required. After Reset Backup mode is deactivated.
+
