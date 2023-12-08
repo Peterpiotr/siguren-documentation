@@ -112,3 +112,37 @@ Some other thext.
 .. rubric:: Footnotes
 
 .. [#f1] Text of the first footnote.
+
+
+Sections
+========
+
+.. only:: builder_html and (not singlehtml)
+
+   .. container:: toc-cards
+
+      .. container:: card
+
+         .. figure:: /images/index_interface.jpg
+            :target: interface/index.html
+
+         :doc:`/interface/index`
+            An introduction to Blender's window system, widgets and tools.
+
+      .. container:: card
+
+         .. figure:: /images/index_editors.jpg
+            :target: editors/index.html
+
+         :doc:`/editors/index`
+            Overview of the interface and functionality of all editors.
+
+      .. container:: card
+
+         .. figure:: /images/index_scene.jpg
+            :target: scene_layout/index.html
+
+         :doc:`/scene_layout/index`
+            Objects and their organization into scenes, view layers and collections.
+
+      .. container:: card
