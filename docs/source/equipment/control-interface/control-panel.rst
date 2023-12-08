@@ -55,7 +55,7 @@ External control panel
 ======================
 
 .. _General view of external control panel:
-.. figure:: ../../_img/control-panel-external.png
+.. figure:: ../../_img/Peter/control-panel-external.png
 	:align: center
 	:figwidth: 600 px
 	:alt: Control cabinet
