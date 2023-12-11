@@ -10,7 +10,7 @@ copyright = f'{year}, SIGUREN technologies Ltd.'
 author = 'SIGUREN technologies Ltd.'
 
 master_doc = "index"
-version = '0.1.x'
+version = '0.1.0'
 release = version
 
 # -- General configuration
@@ -57,7 +57,6 @@ html_logo = '_img/siguren_logo_white.png'
 html_favicon = '_img/favicon.ico'
 
 html_theme_options = {
-# sphinx material theme options ----------------------------------------------------------------------
 
     "html_minify": False,
     "html_prettify": True,
