@@ -97,12 +97,12 @@ Instructions
 	
 	Specified limit speed reached
 
-.. _Backup gravity lowering:
-.. figure:: ../../_img/Peter/backupGravityLowering.png
+.. _Backup gravity lowering diagram:
+.. figure:: ../../_img/Backup/backup-time-diagram.png
 	:figwidth: 600 px
 	:align: center
 	
-	Backup gravity lowering
+	Backup gravity lowering diagram
 
 
 .. note::
@@ -138,10 +138,13 @@ Instructions
 3. Rotate the MS :mechpart:`worm shaft` to lower the load,
 4. Use the Brake Release Tool to maintain the torque to be applied to on the worm shaft inside the specified limits.
 
+
 .. _MS assisted gravity lowering picture: 
-.. figure:: ../../Peter/MSassistedGravityLowering.png
+.. figure:: ../../_img/Peter/MSassistedGravityLowering.png
 	:figwidth: 600 px
 	:align: center
+
+	Assisted gravity lowering
 
 .. csv-table:: MS assisted gravity lowering max torques
    :file: ../../_tables/MSassistedGravityLowering.csv

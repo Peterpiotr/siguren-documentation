@@ -2,49 +2,59 @@
 Manual service brake and MotoSuiveur backup procedure
 ======================================================
 
-.. include:: ../procedures/img/substitutions.rst
+
+.. include:: ../../_img/_image-substitutions.rst
+
+.. role:: mechpart
+   :class: mechpart
 
 .. ====================================================================================================================
 
-.. note::
-	Source: :download:`User Manual-7.4.doc`
+.. important::
+  This procedure has to be followed in case of one MotoSuiveur Unit servo motor is defective.
 
-
-..note ::
-  Full title: Back-up by manual action of the service brake and manual rotation of the MotoSuiveur procedure.
-
-
-This procedure has to be followed in case of one MotoSuiveur motor is defective.
-
-The lowering movement is controlled manually by the operator, through the handle at the
-MotoSuiveur shaft.
-
-This procedure is practically identical to *that described above*. 
-The only difference occurs in step 5 where the operator 1 should place the crank of MS on the screw and follow manually 
-(unlike the previous case where tracking was performed using the control box).
+The load lowering movement is controlled manually by operator, through the handle at the MotoSuiveur shaft.
+Second operator is required to control main hoist brake. 
 
 .. note::
-  | We have to take care to switch off the MotoSuiveur cabinet.
-  | Each of the two operators can stop the operation: the first operator by closing the service brake, the second operator by stopping the rotation of MS.
+  | MotoSuiveur system power should be switched off in control cabinet.
+  | Each of the two operators can stop the operation: the first operator by closing the service brake, the second operator by stopping the rotation of MotoSuiveur Unit.
   | During this procedure, the lowering is controlled by the operator on the service brake. The other operator follows the movement and can always stop it.
 
-.. list-table:: Back-up by manual action of the service brake and manual rotation of the MotoSuiveur procedure
-   :widths: 5 95
-   :header-rows: 1
-   :class: instruction-table
-  
-   * - Step
-     - Description
-   * - **1**
-     - Switch off the MotoSuiveur cabinet (The MotoSuiveurs should be driven manually)
-   * - **2**
-     - | Dismantle the worm cover of the MS
-       | |manual-service-brake-motosuiveur-backup-01|
-   * - **3**
-     - | Mount the manual handle on the MS
-       | |manual-service-brake-motosuiveur-backup-02|
-   * - **4**
-     - Repeat steps 1 to 4 of the previous procedure (procedure 2.1)
-   * - **5**
-     - The operator n°1 opens the service brake step by step (to allow the lowering of the load by gravity without exceeding a certain speed, in which case the MS blocks). 
-       Meanwhile, the other operator n°2 should follow the movement by rotating the handle
+
+Instructions
+^^^^^^^^^^^^^^
+
+.. note::
+  | MotoSuiveur
+
+1. Switch off power of MotoSuiveur system control cabinet (The MotoSuiveurs should be driven manually).
+2. Dismantle the worm cover of the MotoSuiveur Unit.
+
+.. _Dismantle the worm cover of the MS: 
+.. figure:: ../../_img/Peter/manual-service-brake-motosuiveur-backup-01.png
+	:figwidth: 600 px
+	:align: center
+
+	Dismantle the worm cover
+
+3. Mount the manual handle on the MotoSuiveur Unit :mechpart:`worm shaft`.
+
+.. _Mount the manual handle on the MS: 
+.. figure:: ../../_img/Peter/manual-service-brake-motosuiveur-backup-02.png
+	:figwidth: 600 px
+	:align: center
+
+	Mount the manual handle on :mechpart:`worm shaft`
+
+4. The operator n°1 opens the service brake step by step (to allow the lowering of the load by gravity without exceeding a certain speed, in which case the MS blocks). 
+  Meanwhile, the other operator n°2 should follow the movement by rotating the handle.
+
+.. _Lowering: 
+.. figure:: ../../_img/Peter/stepLowering.png
+	:figwidth: 600 px
+	:align: center
+
+	Lowering
+
+5. Lowering continues until the load is safely positioned.
