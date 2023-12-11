@@ -124,10 +124,10 @@ Sections
 
       .. container:: card
 
-         .. figure:: /images/index_interface.jpg
-            :target: interface/index.html
+         .. figure:: /_img/electricalConnections.png
+            :target: equipment/ms-solution/index.html
 
-         :doc:`/interface/index`
+         :doc:`/about/features`
             An introduction to Blender's window system, widgets and tools.
 
       .. container:: card
