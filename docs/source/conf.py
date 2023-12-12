@@ -11,7 +11,7 @@ author = 'SIGUREN technologies Ltd.'
 
 master_doc = "index"
 version = '0.1.1'
-release = version
+release = version 
 
 # -- General configuration
 

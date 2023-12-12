@@ -29,25 +29,58 @@ Instructions
   | MotoSuiveur
 
 1. Switch off power of MotoSuiveur system control cabinet (The MotoSuiveurs should be driven manually).
-2. Dismantle the worm cover of the MotoSuiveur Unit.
+2. Dismantle the worm cover of the MotoSuiveur Unit .
+
+.. _Dismantle the worm cover remove bolts: 
+.. figure:: ../../_img/Backup/remove-cover-bolts-removebg-preview.png
+	:figwidth: 600 px
+	:align: center
+
+	Remove cover bolts
+
 
 .. _Dismantle the worm cover of the MS: 
-.. figure:: ../../_img/Peter/manual-service-brake-motosuiveur-backup-01.png
+.. figure:: ../../_img/Backup/remove-cover-removebg-preview.png
 	:figwidth: 600 px
 	:align: center
 
 	Dismantle the worm cover
 
-3. Mount the manual handle on the MotoSuiveur Unit :mechpart:`worm shaft`.
+3. Remove limworm switch cam
+
+.. _Remove cam bolt: 
+.. figure:: ../../_img/Backup/bolt-removebg-preview.png
+	:figwidth: 600 px
+	:align: center
+
+	Remove worm switc cam bolt
+
+.. _Remove cam: 
+.. figure:: ../../_img/Backup/disassembly-switch-cam-removebg-preview.png
+	:figwidth: 600 px
+	:align: center
+
+	Remove worm switch cam
+
+4. Assembly manual handle
+
+.. _Manual handle assembly: 
+.. figure:: ../../_img/Peter/ms-unit-04.png
+	:figwidth: 600 px
+	:align: center
+
+	Assembly of manual handle
+
+5. Mount the manual handle on the MotoSuiveur Unit :mechpart:`worm shaft`.
 
 .. _Mount the manual handle on the MS: 
-.. figure:: ../../_img/Peter/manual-service-brake-motosuiveur-backup-02.png
+.. figure:: ../../_img/Backup/manual-handle-mounted-removebg-preview.png
 	:figwidth: 600 px
 	:align: center
 
 	Mount the manual handle on :mechpart:`worm shaft`
 
-4. The operator n°1 opens the service brake step by step (to allow the lowering of the load by gravity without exceeding a certain speed, in which case the MS blocks). 
+1. The operator n°1 opens the service brake step by step (to allow the lowering of the load by gravity without exceeding a certain speed, in which case the MS blocks). 
   Meanwhile, the other operator n°2 should follow the movement by rotating the handle.
 
 .. _Lowering: 
@@ -58,3 +91,10 @@ Instructions
 	Lowering
 
 5. Lowering continues until the load is safely positioned.
+
+.. _Load safe: 
+.. figure:: ../../_img/Backup/de-risk-icons.png
+	:figwidth: 300 px
+	:align: center
+
+	Safe positioned load
