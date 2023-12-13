@@ -214,5 +214,5 @@ Centering is performed:
 
 	Reset MotoSuiveur System
 
-.. information::
+.. note::
 	`Load Recovery video  <https://www.youtube.com/watch?v=3iZUa1VCCgs&t=228s&ab_channel=SIGURENtechnologies>`_
