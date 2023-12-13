@@ -1,5 +1,5 @@
 =====================================
-Back-up by forced lowering procedure
+Recovery by forced lowering procedure
 =====================================
 
 .. include:: ../img/substitutions.rst

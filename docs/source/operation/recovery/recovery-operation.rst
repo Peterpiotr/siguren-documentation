@@ -69,32 +69,6 @@ Instructions
 	Indicative barrel speed: 0.1 - 0.3 rpm
 
 
-
-
-
-Automated backup gravity lowering with controlling hoist brake by MotoSuiveur System
-------------------------------------------------------------------------------------
-
-This type of gravity lowering is fully automated and controlled by MotoSuiveur system.
-MotoSuiveur system opens hoist main brake and follow load moving by gravitation.
-Following continues until speed reaches predefined speed and MotoSuiveur system closes hoist brake.
-The starting and termination of the lowering is controlled by an operator.
-
-
-Instructions
-^^^^^^^^^^^^^
-
-1. Switch on Backup mode
-
-
-
-
-
-
-
-
-
-
 Integrated Recovery System 
 ==========================
 
@@ -239,3 +213,8 @@ Centering is performed:
 	:align: center
 
 	Reset MotoSuiveur System
+
+
+Load recovery video: 
+
+`Load Recovery video  <https://www.youtube.com/watch?v=3iZUa1VCCgs&t=228s&ab_channel=SIGURENtechnologies>`_
