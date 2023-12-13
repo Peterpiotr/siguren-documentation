@@ -147,7 +147,7 @@ After successful engagement, the recovery procedure can begin. To start lowering
 
 4. Complete recovery lowering
 
-When safe location is reached and load is detouched, the :guilabel:`Recovery Mode Down/Up`` switch should be turned to the neutral position.
+When safe location is reached and load is detouched, the :guilabel:`Recovery Mode Down/Up` switch should be turned to the neutral position.
 Hoist main (service) brake has to **close**.
 
 .. _Recovery neutral position:
@@ -187,10 +187,12 @@ Centering is performed:
 
 6.2 Short **upward** movement with Recovery System is required for disengaging Recovery Mechanism from worm shaft.
 
+Switch :guilabel:`Recovery Mode Down/Up` to position **UP** for 2 - 5 seconds. After that switch to **neutral position**.
+
 
 .. _Short upward movement:
 .. figure:: ../../_img/Recovery/recovery-upward-short.PNG
-	:figwidth: 200 px
+	:figwidth: 250 px
 	:align: center
 
 	Short upward movement
@@ -215,4 +217,4 @@ Centering is performed:
 	Reset MotoSuiveur System
 
 .. note::
-	`Load Recovery video  <https://www.youtube.com/watch?v=3iZUa1VCCgs&t=228s&ab_channel=SIGURENtechnologies>`_
+	`Integrated Load Recovery video  <https://www.youtube.com/watch?v=3iZUa1VCCgs&t=228s&ab_channel=SIGURENtechnologies>`_

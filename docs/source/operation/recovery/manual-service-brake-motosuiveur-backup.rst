@@ -46,7 +46,7 @@ Instructions
 
 	Dismantle the worm cover
 
-3. Remove limworm switch cam
+3. Remove worm switch cam
 
 .. _Remove cam bolt: 
 .. figure:: ../../_img/Backup/bolt-removebg-preview.png
