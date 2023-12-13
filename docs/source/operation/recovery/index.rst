@@ -1,5 +1,5 @@
 =========================
-Load recovery operation
+Backup and Recovery operation
 =========================
 
 .. note::

@@ -1,6 +1,6 @@
-==============
-Load recovery 
-==============
+========================
+Load recovery operations
+========================
 
 .. include:: ../../_img/_image-substitutions.rst
 
@@ -72,7 +72,7 @@ Instructions
 
 
 
-Automated backup gravity lowering with controlling hoist brake by MotoSuiveur system
+Automated backup gravity lowering with controlling hoist brake by MotoSuiveur System
 ------------------------------------------------------------------------------------
 
 This type of gravity lowering is fully automated and controlled by MotoSuiveur system.
@@ -95,430 +95,147 @@ Instructions
 
 
 
-Recovery Procedure
-=======================
+Integrated Recovery System 
+==========================
 
-.. note::
-	Source is :doc:`49104-15-001 Operation  Maintenance Manual Issue D (1).pdf`
+When deciding a recovery with MotoSuiveur Integrated Recovery System is required to be undertaken an assessment should be made to establish where the fault has occurred. 
+MotoSuiveur Integrated Recovery System can only be used if the hoist is mechanical drive chain is not blocked by a mechanical means such as 
+hoist gearbox failure or main hoist (service) brake failure.  
+In the event the failure does permit the recovery the procedure describes the process to be undertaken to complete the 
+recovery utilising the integrated MotoSuiveur recovery system.
 
-The MotoSuiveur unit is a proprietary system for protection of the main hoist load from over-speed and
-load path failures, and for recovery of the load in the event of a failure. The MotoSuiveur unit is supplied
-with a proprietary control panel from the equipment manufacturers. The crane hardwired controls are
-interfaced to this panel to control the MotoSuiveur in normal operation.
+Whilst undertaking the recovery process and in all cases the main motor hoist service brake is required to be operable and correctly functioning. 
+Тhis will then be required to be opened (automatically or manually) for the entire duration of the recovery starting from when the Integrated Recovery System is engaged.
 
-A separate operator panel, the MS remote panel, is provided, located adjacent the crane operator panel,
-which houses the MotoSuiveur recovery controls and MotoSuiveur HMI. In the event of a protection
-system trip, caused by main hoist over-height or main hoist over-load, the crane operator will require the
-use of the recovery procedure.
-
-Prior to any recovery operations commencing, the cause of the fault should be identified. The following
-procedure below explains the recovery procedure process.
-
-.. list-table:: 
-   :widths: 5 95
-   :header-rows: 1
-   :class: instruction-table
-  
-   * - Step
-     - Description
-   * - **1**
-     - **Isolate the MotoSuiveur Panel using the isolator.**
-   * - **2**
-     - **Plug the 230v recovery plug into the front of the left hand door.**
-   * - **3**
-     - **Using the isolator enable the 230v on the panel.**
-   * - **4**
-     - **Wait for the HMI to fully complete its start-up procedure.**
-   * - **5**
-     - **Depress the blue** :guilabel:`Recovery Reset Button` **to reset the recovery VSD.**
-   * - **6**
-     - | **Switch on the recovery mode to start the recovery nut engagement process.** 
-       | The engagement will cycle the recovery motor forward approx. 10s then reverse approx. 1 s. 
-       | This will cycle until the engagement is completed.
-   * - **7**
-     - On completion of the engagement process the :guilabel:`🟢 Recovery Nut Engage Lamp` will be illuminated.
-   * - **8**
-     - | **Open the hoist brake to lower the load.** 
-       | If the weight of the load is insufficient to make the hoist lower by gravity then the pushing down function must be used.
-   * - **9**
-     - **Using the recovery direction switch make a small (5 second) movement in the raise direction to ensure the teeth of the recovery nut is fully engaged.**
-   * - **10**
-     - | **Complete a recovery lower movement to lower the load and maintain the switch in the lower position until the :guilabel:`Inner Switch Lamp` has switched off.** 
-       | MS Worm Screw has moved into the normal position.
-   * - **11**
-     - | **Complete a recovery raise movement to disengage the recovery nut.** 
-       | Indicated by the changing state of the :guilabel:`Recovery Nut Engaged Lamp` to **NOT** illuminated.
-   * - **12**
-     - | **Once the nut is disengaged the** :guilabel:`Recovery Raised Switch` **can be released to the central position.** 
-       | The recovery drive will begin to run on the release of the switch to the central position. This is normal.
-   * - **13**
-     - **Switch the recovery mode to the Off position using the :guilabel:`switch`.** 
-   * - **14**
-     - **Switch the isolator to the central Off position and wait for 2 minutes.** 
-   * - **15**
-     - **Remove the 230v recovery plug from the front of the panel door.** 
-   * - **16**
-     - **Using the isolator move this into the normal positon by applying 400v to the panel.**
-   * - **17**
-     - As soon as the panel is energised the drive will initiate a self-test and start the HMI software. 
-   * - **18**
-     - The self-test will complete and the :guilabel:`🟢 Enable Lamp` will be illuminated.
+The purpose of the Integrated Recovery System is to provide an independent means of enabling the raising or lowering the load in the event of a failure of the main hoisting mechanism.
+This means of hoisting is achieved and initiated from the MotoSuiveur System control cabinet with physical switches. 
 
 .. important::
-  | Recovery Limitations:
-  | **Downward direction**: Full SWL and locked service brake only. Service brake should be opened during recovery.
-  | **Upward direction**: Limited to 3.5t hook block only without load applied and brake operable. Upward movement with SWL and Hoist brake closed is not permitted.
+	Prior to any recovery operations commencing, the cause of the fault should be identified.
 
+Instructions
+^^^^^^^^^^^^^
 
-Using of the recovery system 
-==============================
-
-.. note::
-	Source: :download:`User Manual-7.4.doc`
-
-The purpose of the recovery system is to lower the load on a safe place if a component of the overall lifting equipment is damaged or unavailable.
-
-.. important::
-  The system has to be used only by trained and authorized workers.
-  The procedures must be correctly followed to avoid damaging the equipment.
-
-The following table shows the procedure to follow in each case of failure.
-
-.. _Recovery procedures table :
-.. list-table:: 
-   :widths: 25 25 25 25
-   :header-rows: 1
-
-   * - Failed component/Type of failure
-     - Operation without load
-     - Operation with load
-     - Remarks/restrictions
-   * - Hoist motor failure
-     - Procedure n°6-2
-     - Procedure n°6-3
-     - -
-   * - Brake locked closed
-     - Procedure n°6-2
-     - Procedure n°6-2
-     - Raising movement forbidden with load
-   * - Brake locked open
-     - Procedure n°6-2
-     - Procedure n°6-1
-     - -
-   * - MotoSuiveur motor failure
-     - Procedure n°6-4
-     - Procedure n°6-3
-     - -
-
-If the reason of the failure is not diagnosed proceed in the following order:
-
-- Procedure n°6-1 : Recovery after load arrest - Operation from the hardware buttons 
-- Then Procedure n°6-2 : Recovery after load arrest - Operation from the Proface touchscreen
-- Then Procedure n°6-3 : Recovery operation with pre-engagement with the load
-- Then Procedure n°6-4 : Recovery operation with pre-engagement with the hoist motor
-
-Procedure n°6-1 : Recovery after load arrest - Operation from the hardware buttons 
-------------------------------------------------------------------------------------
-
-.. illustrations are missing in the source document. 
-
-This procedure has to be followed after a load drop. 
-
-The MotoSuiveur Unit carries the load.
-
-.. list-table:: Procedure n°6-1 : Recovery after load arrest - Operation from the hardware buttons 
-   :widths: 5 95
-   :header-rows: 1
-   :class: instruction-table
+1. Activating Recovery mode 
    
-   * - Step
-     - Description
-   * - **1**
-     - **On the Main control panel, select “Recovery mode” on the “Normal mode” to “Recovery mode” selection button.** 
-        
-       When selecting “Recovery mode”, the Proface touch screen turns automatically to the “Engagement screen” (see Recovery procedure with the Proface for more details).
-   * - **2**
-     - **Engaging the clutch(es) of the recovery motor(s).**
-       
-       The engagement procedure is done automatically by the Siguren control panel logics. 
-       
-       If the “ Clutch engaged” light is already on, jump to next step.
-       
-       Otherwise, on the Siguren control panel, press and release the :guilabel:`“Engagement” push button`.
-       On the Proface touch screen, the blinking :guilabel:`orange light` indicates that the MotoSuiveur is proceeding with the engagement.
-       On installations with 2 recovery motors, the engagement procedure is performed one after the other. Any modification on these settings requires level 4 password.
-       
-       The duration of the engagement cycle is set in the “recovery settings” menu by the manufacturer. It is typically set between 1 to 3 minutes per recovery motor.
-       
-       The clutch(es) of the recovery motor(s) is/are engaged when the “Recovery available” light of the Siguren control panel switches on.
-       
-       On the Proface, the engagement light turns to permanent green. A button appears on the right handside bottom to allow the visualization of the recovery operation screen.
-   * - **3**
-     - **The engagement process fails**
-       If the engagement process fails, it could be for one of the following reasons:
-      
-       - At least one controller of the recovery motor(s) is not working,
-       - Recovery motors power is not turned on,
-       - The engagement procedure is stopped by time out 
-    
-       Issue with recovery motors
- 
-       **Make sure the recovery controllers are running properly.**
-       **Make sure the recovery motors are powered on.**
-     
-       Engagement process time-out
- 
-       If the engagement is not completed before the cycle timeout, the “engagement” light on the control panel does not turn on, the :guilabel:`engagement status light` turns to permanent red.
-       The engagement failure may come from a short setting of the engagement cycle timeout delay. If the engagement procedure fails due to timeout, it is possible to repeat the procedure again from STEP 2.
-       After many failed trials, verify that the recovery motor(s) operate(s) correctly.
-       
-       See “potential reasons for an engagement failure” paragraph next page.    
-   * - **4**
-     - **Recovery hoisting down operations**
-       It is possible to perform recovery operations if and only if the recovery motor(s) is/are engaged.
-       **On the Siguren control panel, turn the selection button to “Recovery down” to lower the load on the floor (or on a safe area).**
-       
-       It is possible to hoist the load up if necessary. But avoid hoisting the maximum load up with the recovery facility during more than 1 minute.
-       Also make sure that the service brake is open during this movement. If it is not the case, it is mandatory to lower the load. 
-       If this condition is not respected, the equipment could be damaged.
-       
-       **When the load touches the floor, release the** :guilabel:`“recovery down” selection button` of the Siguren control panel.
-       Remove the load from the hook.
-       On the Siguren control panel, select “Recovery up”. This action disengages the clutch(es). “Recovery available” light should turn off. 
-       In the recovery control box, press the push button “Recovery up” to disengage the nut. Check that the “Nut engaged” lamp switches off and the “Nut disengaged” lamp switches on.
+Activateing of recovery mode is done by turning the :guilabel:`🔑 Recovery Mode Off | On` switch to the On position. The :guilabel:`🟠 Recovery Mode`` indicator light illuminate.
+MS Controller 7-segment display indicates recovery mode - |image041|.
 
+.. _Activate MS recovery:
+.. figure:: ../../_img/Recovery/recovery-switch-on.png
+	:figwidth: 600 px
+	:align: center
 
+	Activating recovery mode
 
+.. _Recovery mode light:
+.. figure:: ../../_img/Recovery/recovery-indicator-on.png
+	:figwidth: 600 px
+	:align: center
+
+	Recovery mode light indicator
+
+2. Engagement of Integrated Recovery System
+
+Engagement of the integrated recovery system is performed by stepwise clockwise movement of the worm shaft (screwing). 
+These movements are performed by MotoSuiveur System servo motor. 
+
+Once the worm shaft is screwed enough by servo motor, enagaging is completed by the integrated recovery system until the Recovery engaged indicator is illuminated.
+
+.. _Recovery engaged light:
+.. figure:: ../../_img/Recovery/recovery-engaged-on.png
+	:figwidth: 600 px
+	:align: center
+
+	Recovery engaged light indicator
 
 .. note::
-  At the end of this procedure the MotoSuiveur screw is locked in the elastomers in the lift side. 
-  With the main hoisting motor, make a 1 second movement at low speed in the down direction to unlock the screw.
+	It is possible that the Recovery system engagement is incomplete after the initial activation of Recovery mode. 
+  In this case, a :doc:`Reset <../../operation/regular/system-reset>` of MotoSuiveur System is required. Reset is done by remaining the Recovery mode switch 
+  in position **on** and performing an MotoSuiveur System :doc:`Reset <../../operation/regular/system-reset>`.
 
-.. important::
-  The power supply of the equipment must be cut before any maintenance operation.
-  Do not power up the equipment until the failed component has been fixed or changed.
+3. Recovery lowering
 
-.. warning::
-  The recovery feature is designed to be used as an exceptional hoisting solution.
-  Lengthy and/or repetitive use of the recovery facility can cause excessive wear of the MotoSuiveur.
+After successful engagement, the recovery procedure can begin. To start lowering following actions are:
 
+3.1 Open hoist maun brake.
 
-Procedure n°6-2 : Recovery after load arrest - Operation from the Proface touchscreen
----------------------------------------------------------------------------------------
+3.2 Turning the :guilabel:`Recovery Mode Down/Up`` switch to position **Down** .
 
-The recovery operations can be done either from the Siguren control panel with physical buttons or from the Proface touchscreen.
+3.3 Lowering continues until the load has reached a safe location for detached from the hoist.
 
-Operating from the Proface can be the prefered choice when the Siguren control panel is not easily accessible and that the 
-Proface touchscreen is installed on the remote control box.
+.. _Recovery down:
+.. figure:: ../../_img/Recovery/recovery-down.png
+	:figwidth: 600 px
+	:align: center
 
+	Turning switch to position Down
 
-.. list-table:: Procedure n°6-2 : Recovery after load arrest - Operation from the Proface touchscreen
-   :widths: 5 95
-   :header-rows: 1
-   :class: instruction-table
-  
-   * - Step
-     - Description
-   * - **1**
-     - **Selecting “recovery mode”**
-       The recovery mode can be either selected from the Main hoisting cabinet by selecting “Recovery Mode” 
-       on the selection button or from the Proface touch screen.
+4. Complete recovery lowering
 
-       - You need to know the password for level 3 authorization to proceed with recovery operations
-       - On the touchscreen, from the main screen, select “Menu” at the right hand-side bottom of the Main operation screen.
-       - Select “Operating modes” in this menu.
-       - A keypad screen appears to propose you to enter “the level 3” password.
-       - Enter the correct PIN and press enter to get access to the “Operating modes” screen.
-       - Select the mode by clicking the Recovery switch button.
-       - On installations with 2 recovery motors make sure that the “Max position difference” number is correct. This value is expressed into the servo-motor position coding units. It is normally preset by the manufacturer. However, it may vary according installations (diameter of the drum(s) etc.). Once modified this parameter is saved.
-       - Proceed with engagement by pressing the arrow button.
-       - On installations with 2 recovery motors, the position difference between both MotoSuiveurs is automatically reset to compute the difference from this value.
-       - The screen switches to the engagement procedure screen.
-       - Press the “Recovery engagement” yellow button to start the engagement cycle.
-       - On installations with 2 recovery motors, engagement processes recovery motors engagement one after the other. The red bar turns half green half red when the first recovery motor is engaged and totally green when both are engaged.
-       - On the Proface touch screen, the blinking orange light indicates that the MotoSuiveur is proceeding with the engagement.
-       - Engagement procedure request the MotoSuiveur servo-motor to put the screen into the unscrew mechanical stop and at the same time the recovery motor does little screw and unscrew movements at low torque to let the clutch flywheel mesh with the clutch wheel.
-       - The duration of the engagement cycle is set in the “recovery” settings menu by the manufacturer. It is typically set between 1 to 3 minutes per recovery motor.
-       - On installations with 2 recovery motors, the engagement is done one after the other. The second recovery motor starts is engagement process when the first one is engaged.
-       - The clutch(es) of the recovery motor(s) is/are engaged when the “Engagement status” light turns to permanent green. In parallel the “ Recovery available” light of the Siguren control panel switches on. 
-       - A button appears on the right handside bottom to allow the visualization of the recovery operation screen.
-   * - **2**
-     - **The engagement procedure fails**
-       
-       There are a few reasons why the engagement procedure could fail:
-       
-       -	At least one controller of the recovery motor(s) is not working,
-       -	Recovery motors power is not turned on,
-       -	 The engagement procedure is stopped by time out 
-       
-       **Issue with recovery motors**
-       
-       Make sure the recovery controllers are running properly.
-       Make sure the recovery motors are powered on.
-       
-       **Engagement process time-out**
-       
-       - If the engagement is not completed before the cycle timeout, the “engagement” light on the control panel does not turn on, the engagement status light turns to permanent red.
-       - The engagement failure may come from a short setting of the engagement cycle timeout delay. If the engagement procedure fails due to timeout, it is possible to repeat the procedure again from STEP 2.
-       - After many failed trials, verify that the recovery motor(s) operate(s) correctly.
-       - See “potential reasons for an engagement failure” paragraph next page.
+When safe location is reached and load is detouched, the :guilabel:`Recovery Mode Down/Up`` switch should be turned to the neutral position.
+Hoist main (service) brake has to **close**.
 
-   * - **3**
-     - **Recovery hoisting up/down operations**
+.. _Recovery neutral position:
+.. figure:: ../../_img/Recovery/recovery-neutral-position.png
+	:figwidth: 600 px
+	:align: center
 
-       The engagement performed from the Proface touch screen can be followed by hoisting up/ hoisting down operation performed from the Siguren control panel. We describe here operation made from the Proface touch screen.
-       
-       - It is possible to perform recovery operations if and only if the recovery motor(s) is/are engaged.
-       - One the recovery is available, the access to the hoisting operation screen is done by pressing the “To hoisting operation” rightward arrow on the right hand-side bottom.
-       - The screen displays the status of the engagement switch (ISN), the status of the VAR that controls the recovery motors.
-       - Up and down hoisting operations are down with up and down buttons...
-       - All load hoisting up operations under recovery should not exceed 1mn and wait for the recovery motor to cool down during 10 mn.
-       - Some installations, in particular those with two MotoSuiveurs, have an oversized recovery capablity. In that case hoisting up operations may have no time limit. Verify your installation capabilities
-       - On installations with 2 recovery motors, it is possible to run recovery motors independently or in sync(center buttons). 
-         The default operation mode is moving both recovery in sync. Operating them separatly should be restricted to especial scenarios. 
-         The logics verifies that the position of each MotoSuiveur and compares them. 
-         The position difference cannot exceed the maximum defined in the “Recovery settings” or in the “Operating mode” screen when selected on “Recovery" (figure 24) and it is protected by the logics. 
-         A physical position difference exists if and only if the hoisting shaft is broken, e.g. if it is composed of two parts connected by a gear and that gear is broken.
-       - If the position difference exceeds the limit, the logics blocks the movement of each recovery motor in the 
-         direction that would increase the difference whether the order is done independently or in sync.  
-         This limitation persists until the position difference is back to 0 (figures 39 and 40).
-       - When the load touches the floor, the hook stops lowering for about 30s.
-         Continue pressing the “Recovery down” button until the hook start to lower again, the free the hook.
-       - Remove the load from the hook.
-       - In the recovery control box, press the push button “Recovery up” to disengage the nut. Check that the “Recovery engaged” light switches off and the “Recovery disengaged” light switches on.
-       
-       Note: At the end of this procedure the MotoSuiveur worm is locked in the elastomers in the lift side. With the main motor, make a 1 second movement at low speed in the down direction to unlock the screw.
+	Turning switch to neutral position
+
+5. Recentering worm shaft
+
+After detaching load, worm shaft recentering between limit switches is required. 
+Centering is performed:
+
+5.1 With hoist main brake closed downward movement with Integrated Recovey System is required.
+
+.. _Recovery down movement:
+.. figure:: ../../_img/Recovery/recovery-down.png
+	:figwidth: 600 px
+	:align: center
+
+	Turning switch to position Down for recentering
+
+5.2 Movement continues until :guilabel:`🟢 Upward Enabled` and :guilabel:`🟢 Downward Enabled` indicator lights are both iluminated.
+
+.. _Down movement:
+.. figure:: ../../_img/Recovery/upward-downward-enabled-on.png
+	:figwidth: 160 px
+	:align: center
+
+	Recentering of worm shaft
 
 
-.. rubric:: Potential reasons for a recovery engagement failure
-  
-Recovery clutch engagement may fail if:
+6. Exit form Recovery mode
 
--	the engagement sensor is not working properly (blocked in upper position). The engagement could be effective while the indication is wrong.
--	when the worm does not pre-engage due to a potential servo-motor/servo-motor drive issue (this failure may be indicated by the position sensor still on but not always.
--	The recovery motor or its drive are faulty.
--	A mechanical problem occurred on the recovery clutch.
+6.1 Worm shaft is located between limit switches.
 
-.. note:: 
-  At the end of this procedure the MotoSuiveur worm is locked in the elastomers in the lift side. 
-  With the main motor, make a 1 second movement at low speed in the down direction to unlock the screw
-
-.. important::
-  It’s important to cut the power supply of the equipment before any maintenance operation.
-  Do not power up the equipment until the failed component has been fixed or changed.
-
-.. warning::
-  Lengthy and/or repetitive use of the recovery facility can cause excessive wear of the MotoSuiveur.
+6.2 Short **upward** movement with Recovery System is required for disengaging Recovery Mechanism from worm shaft.
 
 
-Procedure n°6-3 : Recovery operation with pre-engagement with the load
-------------------------------------------------------------------------
+.. _Short upward movement:
+.. figure:: ../../_img/Recovery/recovery-upward-short.PNG
+	:figwidth: 200 px
+	:align: center
 
-This procedure has to be followed in the case which the hoist is loaded or/and the MotoSuiveur is failed. 
-The service brake has to be operable.
-
-.. important::
-  It is required that the load is enough distant to the floor to accept a load slip equal to the maximum braking distance of the MotoSuiveur.
-  To refer to the MotoSuiveur calculation note to have the maximum braking distance.
-
-.. list-table:: Procedure n°6-3 : Recovery operation with pre-engagement with the load
-   :widths: 5 95
-   :header-rows: 1
-   :class: instruction-table
-  
-   * - Step
-     - Description
-   * - **1**
-     - Switch off the supply of the MotoSuiveur cabinet or all the circuit breaker inside.
-   * - **2**
-     - In the recovery control box, switch from “Normal mode” to “Recovery mode”.
-   * - **3**
-     - 3.	In the recovery control box, press the “Brake opening” until the load stops.
-       
-       Be careful, at this step the load will slip from a height equal to the braking distance of the MotoSuiveur.
-   * - **4**
-     - In the recovery control box, press the “Nut engagement” push button until the “Nut engaged” lamp switches on.
-   * - **5**
-     - In the recovery control box, press the push button “Recovery down” to lower the load on the floor (or on a safe area).
-
-       It is possible to raise the load if necessary. But avoid raising the maximum load with the recovery facility during more than 1 minute.
-       Also take care that the service brake is open during this movement. If it is not the case, it is mandatory to lower the load. 
-       If this condition is not respected, the equipment should be damaged.
-
-   * - **6**
-     - When the load hits the floor, the hook stops lowering for about 30s.
-       Continue pressing the “Recovery down” button until the hook start to lower again, then free the hook.
-
-   * - **7**
-     - Remove the load from the hook.
-   * - **8**
-     - In the recovery control box, press the push button “Recovery up” to disengage the nut. 
-       Check that the “Nut engaged” lamp switches off and the “Nut disengaged” lamp switches on.
-
-.. note::
-  At the end of this procedure the MotoSuiveur screw is locked in the elastomers in the lift side. 
-  With the main motor, make a 1 second movement at low speed in the down direction to unlock the screw.
-
-.. important::
-  It is important to cut the power supply of the equipment before any maintenance operation.
-  Do not power up the equipment until the failed component has been fixed or changed.
-
-.. warning::
-  Lengthy and/or repetitive use of the recovery facility can cause excessive wear of the MotoSuiveur.
+	Short upward movement
 
 
-Procedure n°6-4 : Recovery operation with pre-engagement with the hoist motor
---------------------------------------------------------------------------------
+6.3 Turnin :guilabel:`🔑 Recovery Mode Off | On` switch to the position **OFF** 
 
-This procedure has to be followed in the case which the hoist is not loaded and the MotoSuiveur is failed.
+.. _Recovery mode off:
+.. figure:: ../../_img/Recovery/recovery-switch-off.png
+	:figwidth: 200 px
+	:align: center
 
-.. list-table:: Procedure n°6-4 : Recovery operation with pre-engagement with the hoist motor
-   :widths: 5 95
-   :header-rows: 1
-   :class: instruction-table
-  
-   * - Step
-     - Description
-   * - **1**
-     - Switch off the supply of the MotoSuiveur cabinet or all the circuit breaker inside.
-   * - **2**
-     - Make a lowering movement with the main motor drive until the load stops.
-       Because the MotoSuiveur cabinet is shut down, the MotoSuiveur authorization is off. 
-       It is possible that this information has to be override by the main controls. 
-       Anyway, the drum has to be rotated in order to push the screw in the damping chamber (lowering side).
-       
-       Be careful to stop the command while the hook stops in order to not wear and/or overheat the torque limiter.
+	Switch off Recovery mode
 
-   * - **3**
-     - In the recovery control box, switch from “Normal mode” to “Recovery mode”.
-   * - **4**
-     - In the recovery control box, press the “Nut engagement” push button until the “Nut engaged” lamp switches on.
-   * - **5**
-     - In the recovery control box, press the push button “Recovery down” to lower the load on the floor (or on a safe area).
-       
-       It’s possible to raise the load if necessary. 
-       But avoid raising the maximum load with the recovery facility during more than 1 minute.
-       Also take care that the service brake is open during this movement. 
-       If it is not the case, it is mandatory to lower the load. 
-       If this condition is not respected, the equipment should be damaged.
+6.4 Reset MotoSuiveur System
 
-   * - **6**
-     - When the load hits the floor, the hook stops lowering for about 30s.
-       Continue pressing the “Recovery down” button until the hook start to lower again, the free the hook.
+.. _Reset MS System:
+.. figure:: ../../_img/Recovery/reset.png
+	:figwidth: 200 px
+	:align: center
 
-   * - **7**
-     - Remove the load from the hook.
-   * - **8**
-     - In the recovery control box, press the push button “Recovery up” to disengage the nut. 
-       Check that the “Nut engaged” lamp switches off and the “Nut disengaged” lamp switches on.
-
-.. note::
-  At the end of this procedure the MotoSuiveur screw is locked in the elastomers in the lift side. 
-  With the main motor, make a 1 second movement at low speed in the down direction to unlock the screw.
-
-.. important::
-  Do not switch power supply of the equipment off before any maintenance operation.
-  Do not power the equipment on until the failed component has been fixed or changed.
-
-.. warning::
-  Lengthy and/or repetitive use of the recovery facility can cause excessive wear of the MotoSuiveur.
+	Reset MotoSuiveur System
