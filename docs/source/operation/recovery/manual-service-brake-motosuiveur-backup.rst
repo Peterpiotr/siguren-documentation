@@ -81,11 +81,11 @@ Instructions
 	Mount the manual handle on :mechpart:`worm shaft`
 
 6. The operator n°1 opens the service brake step by step (to allow the lowering of the load by gravity without exceeding a certain speed, in which case the MS blocks). 
-  Meanwhile, the other operator n°2 should follow the movement by rotating the handle.
+Meanwhile, the other operator n°2 should follow the movement by rotating the handle.
 
 .. _Lowering: 
 .. figure:: ../../_img/Peter/stepLowering.png
-	:figwidth: 400 px
+	:figwidth: 500 px
 	:align: center
 
 	Lowering

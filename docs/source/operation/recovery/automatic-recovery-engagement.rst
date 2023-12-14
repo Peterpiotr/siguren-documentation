@@ -109,7 +109,7 @@ MS Controller 7-segment display indicates **Backup mode** - |image058|.
 
 	Recovery engaged
 
-1. Autiomatic recovery engagement is complete
+6. Autiomatic recovery engagement is complete
 
 .. important::
     If :guilabel:`🟢Recovery engaged` indicator does not illuminate after **30 seconds** a Reset of the MotoSuiveur system is required.

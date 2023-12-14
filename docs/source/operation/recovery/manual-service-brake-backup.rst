@@ -210,4 +210,6 @@ Instructions
 	End of lowering
 
 6. Load is ready to be unhooked
-7. Deactivate Backup mode via ``Deactivating of Backup Mode`` in :doc:`Backup Mode <../../recovery/backup-procedure>`
+7. Deactivate Backup mode via *Deactivating of Backup Mode* in :doc:`Backup Mode <../../operation/recovery/backup-procedure.rst>`
+
+
