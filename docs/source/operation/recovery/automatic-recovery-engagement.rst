@@ -2,7 +2,7 @@
 Automatic recovery engagement procedure
 ==========================================
 
-.. include:: ../../_image-substitutions.rst
+.. include:: ../../_img/_image-substitutions.rst
 
 .. important::
    Automatic recovery engagement is applicable to MotoSuiveur System equipped with Integrated Recovery Drive (MS-IRD).
@@ -42,6 +42,14 @@ MS Controller 7-segment display indicates recovery mode - |image041|.
    Engaging can be defined like knocking sound.
 
 4. Engaging continues until :guilabel:`🟢Recovery engaged` light indicator is illuminated.
+
+.. _Recovery engaged IMDL:
+.. figure:: ../../_img/Recovery/recovery-engaged-on.png
+	:figwidth: 200 px
+	:align: center
+
+	Recovery engaged
+
 5. Autiomatic recovery engagement is complete
 
 .. important::
@@ -78,7 +86,7 @@ MS Controller 7-segment display indicates **Backup mode** - |image058|.
 3. Restart of MotoSuiveur System.
 
 .. _Recovery mode light:
-.. figure:: ../../_img/Recovery/reset.PNG
+.. figure:: ../../_img/Recovery/reset.png
 	:figwidth: 200 px
 	:align: center
 
@@ -93,7 +101,15 @@ MS Controller 7-segment display indicates **Backup mode** - |image058|.
    Engaging can be defined like knocking sound.
 
 5. Engaging continues until :guilabel:`🟢Recovery engaged` light indicator is illuminated.
-6. Autiomatic recovery engagement is complete
+
+.. _Recovery engaged SMD:
+.. figure:: ../../_img/Recovery/recovery-engaged-on.png
+	:figwidth: 200 px
+	:align: center
+
+	Recovery engaged
+
+1. Autiomatic recovery engagement is complete
 
 .. important::
     If :guilabel:`🟢Recovery engaged` indicator does not illuminate after **30 seconds** a Reset of the MotoSuiveur system is required.
@@ -109,19 +125,6 @@ MS Controller 7-segment display indicates **Backup mode** - |image058|.
 
 
 
-Automated backup gravity lowering with controlling hoist brake by MotoSuiveur System
-------------------------------------------------------------------------------------
-
-This type of gravity lowering is fully automated and controlled by MotoSuiveur system.
-MotoSuiveur system opens hoist main brake and follow load moving by gravitation.
-Following continues until speed reaches predefined speed and MotoSuiveur system closes hoist brake.
-The starting and termination of the lowering is controlled by an operator.
-
-
-Instructions
-^^^^^^^^^^^^^
-
-1. Switch on Backup mode
 
 
 

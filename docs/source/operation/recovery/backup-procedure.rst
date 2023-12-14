@@ -49,7 +49,7 @@ Activating and operating of Backup Mode
    
 
 Deactivating of Backup Mode
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 1. Deactivate Backup mode by turning the Backup Off | On switch to the **Off** position.
 

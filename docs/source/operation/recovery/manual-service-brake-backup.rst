@@ -141,7 +141,7 @@ Instructions
 
 .. _MS assisted gravity lowering picture: 
 .. figure:: ../../_img/Peter/MSassistedGravityLowering.png
-	:figwidth: 600 px
+	:figwidth: 400 px
 	:align: center
 
 	Assisted gravity lowering
@@ -150,3 +150,64 @@ Instructions
    :file: ../../_tables/MSassistedGravityLowering.csv
    :header-rows: 1
    :class: tight-table
+
+
+Automated backup gravity lowering with controlling hoist brake by MotoSuiveur System
+------------------------------------------------------------------------------------
+
+This type of gravity lowering is fully automated and controlled by MotoSuiveur system.
+MotoSuiveur system opens hoist main brake and follow load moving by gravitation.
+Following continues until speed reaches predefined speed and MotoSuiveur system closes hoist brake.
+The starting and termination of the lowering is controlled by an operator.
+
+
+Instructions
+^^^^^^^^^^^^^
+
+1. Switch on the MotoSuiveur System to :doc:`Backup Mode <../../recovery/backup-procedure>`.
+
+.. _Switch on Backup Mode:
+.. figure:: ../../_img/Backup/switch-on-backup.png
+	:figwidth: 600 px
+	:align: center
+	
+	Switch on Backup Mode
+
+2. Order lowering by switch and hold :guilabel:`Backup mode Down/Up` to position **Down**. 
+
+.. _Automated lowering with hoist brake control:
+.. figure:: ../../_img/Backup/backup-down-up-control.png
+	:figwidth: 600 px
+	:align: center
+	
+	Order lowering
+
+3. MotoSuiveur System starts automated gravity lowering by following algorithm
+
+.. _Automated lowering agorithm:
+.. figure:: ../../_img/Backup/backup-mode-automatic-diagram.PNG
+	:figwidth: 300 px
+	:align: center
+	
+	Automated gravity lowering algorithm
+
+4. Lowering continues until the load is safely positioned.
+
+.. _Load safe: 
+.. figure:: ../../_img/Backup/de-risk-icons.png
+	:figwidth: 200 px
+	:align: center
+
+	Safe positioned load
+
+5. Stop lowering by switch and hold :guilabel:`Backup mode Down/Up` to **neutral** position.
+
+.. _End of lowering: 
+.. figure:: ../../_img/Backup/backup-down-up-control-off.png
+	:figwidth: 300 px
+	:align: center
+
+	End of lowering
+
+6. Load is ready to be unhooked
+7. Deactivate Backup mode via ``Deactivating of Backup Mode`` in :doc:`Backup Mode <../../recovery/backup-procedure>`
