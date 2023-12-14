@@ -129,19 +129,12 @@ Some other thext.
 
 
 
-.. figure:: ../../_img/Recovery/backup-recovery-on.PNG
-  :target: ../../operation/recovery/backup-procedure.rst
-
-:doc:`/interface/index`
-  An introduction to Blender's window system, widgets and tools.
-
-
 .. container:: toc-cards
 
   .. container:: card
 
     .. figure:: ../../_img/Recovery/backup-recovery-on.PNG
-      :target: docs/source/operation/regular/index
+      :target: ../../operation/regular/index
 
     :doc:`../../operation/regular/index`
        An introduction to Blender's window system, widgets and tools.
@@ -149,7 +142,7 @@ Some other thext.
   .. container:: card
 
     .. figure:: ../../_img/Recovery/backup-recovery-on.PNG
-      :target: docs/source/operation/regular/index
+      :target: ../../operation/regular/index
 
     :doc:`../../operation/regular/index`
        An introduction to Blender's window system, widgets and tools.
