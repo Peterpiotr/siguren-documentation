@@ -114,7 +114,8 @@ MS Controller 7-segment display indicates recovery mode - |image041|.
 Engagement of the integrated recovery system is performed by stepwise clockwise movement of the worm shaft (screwing). 
 These movements are performed by MotoSuiveur System servo motor. 
 
-Once the worm shaft is screwed enough by servo motor, enagaging is completed by the integrated recovery system until the Recovery engaged indicator is illuminated.
+Once the worm shaft is screwed enough by servo motor, enagaging is completed by the integrated recovery system until the
+:guilabel:`🟢Recovery engaged` light indicator is illuminated.
 
 .. _Recovery engaged light:
 .. figure:: ../../_img/Recovery/recovery-engaged-on.png

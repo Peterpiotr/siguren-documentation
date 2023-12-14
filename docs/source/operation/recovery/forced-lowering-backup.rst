@@ -72,3 +72,7 @@ Instruction
 
 5. Start lowering
 6. As soon as the load is safe (on the ground or an adapted structure), inspect the MotoSuiveur (worm and wheel) and the hoist.
+
+
+.. warning::
+  Detailed inspection of the MotoSuiveur Unit (worm and wheel) and the hoist is mandatory after lowering is complete!

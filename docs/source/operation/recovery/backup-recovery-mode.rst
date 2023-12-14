@@ -2,7 +2,7 @@
 Back-up/Recovery mode
 ======================
 
-.. include:: ../substitutions.rst
+.. include:: ../../_image-substitutions.rst
 
 .. ========================================================================================
 
@@ -15,7 +15,7 @@ Controls and indicators of this function are located on the :doc:`control panel`
 :numref:`Principle of Backup/Recovery operation` shows the principle of Backup/Recovery operation mode. 
 
 .. _Principle of Backup/Recovery operation :
-.. figure:: ../../_img/backup-mode-02.png
+.. figure:: ../../_img/Peter/backup-mode-02.png
 	:align: center
 
 	Principle of Backup/Recovery operation 
