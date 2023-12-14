@@ -143,5 +143,13 @@ Some other thext.
     .. figure:: ../../_img/Recovery/backup-recovery-on.PNG
       :target: docs/source/operation/regular/index
 
-    :doc:`docs/source/operation/regular/index`
+    :doc:`../../operation/regular/index`
+       An introduction to Blender's window system, widgets and tools.
+
+  .. container:: card
+
+    .. figure:: ../../_img/Recovery/backup-recovery-on.PNG
+      :target: docs/source/operation/regular/index
+
+    :doc:`../../operation/regular/index`
        An introduction to Blender's window system, widgets and tools.
