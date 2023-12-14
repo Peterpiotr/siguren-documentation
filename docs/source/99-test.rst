@@ -125,3 +125,23 @@ Some other thext.
 .. rubric:: Footnotes
 
 .. [#f1] Text of the first footnote.
+
+
+
+
+.. figure:: ../../_img/Recovery/backup-recovery-on.PNG
+  :target: ../../operation/recovery/backup-procedure.rst
+
+:doc:`/interface/index`
+  An introduction to Blender's window system, widgets and tools.
+
+
+.. container:: toc-cards
+
+  .. container:: card
+
+    .. figure:: ../../_img/Recovery/backup-recovery-on.PNG
+      :target: docs/source/operation/regular/index
+
+    :doc:`docs/source/operation/regular/index`
+       An introduction to Blender's window system, widgets and tools.
