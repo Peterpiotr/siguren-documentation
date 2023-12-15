@@ -8,6 +8,7 @@ Dimitar Test
 
 
 .. grid:: 2
+    :gutter: 2
 
     .. card::  Motosuiveur Unit
         :width: 25%
