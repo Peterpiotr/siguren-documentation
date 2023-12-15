@@ -1,5 +1,5 @@
 ======================
-Back-up/Recovery mode
+Backup/Recovery mode
 ======================
 
 .. include:: ../../_img/_image-substitutions.rst
@@ -7,7 +7,7 @@ Back-up/Recovery mode
 .. ========================================================================================
 
 .. note::
-    Backup/Recovery mode is applicable only for MotoSuiveur Systems equipped with **MSCD** MS Controller
+    Backup/Recovery mode is applicable only for MotoSuiveur Systems equipped with **MSCD** MS Controller and equipped with MS-IRD!
 
 .. note::
     Backup/Recovery operation mode functions are intended for *unusual* situations during MotoSuiveur Systems operation. 
@@ -15,9 +15,9 @@ Back-up/Recovery mode
 .. "function" vs "mode" vs "operation mode"
 
 Controls and indicators of this function are located on the :doc:`control panel front door <../../equipment/control-interface/control-panel>`
- – figure 3, items 4, 5, 10, 11.
+– figure 3, items 4, 5, 10, 11.
 
-:numref:`Principle of Backup/Recovery operation` shows the principle of Backup/Recovery operation mode. 
+Diagram below shows the principle of Backup/Recovery operation mode. 
 
 .. _Principle of Backup/Recovery operation :
 .. figure:: ../../_img/Peter/backup-mode-02.png
@@ -32,13 +32,13 @@ represent the places where request for these operation modes are checked.
 Switching to Backup/Recovery mode is performed through :guilabel:`🔑 Backup/Recovery OFF/ON` key switch. 
 After switching :guilabel:`🔑 Backup/Recovery OFF/ON key` to position **ON**, Backup mode start operating. 
 
-|image058| :guilabel:`indication for backup mode` is displayed on 7–segment display and :guilabel:`🟠 Backup/Recovery Mode` indicator lamp iluminated.
+|image058| :guilabel:`indication for backup mode` is displayed on 7–segment display and :guilabel:`🟠 Backup/Recovery Mode` indicator lamp is iluminated.
  
 .. important::
     Backup function ignore all settings and fault detection related with following operation and allows movement of hoist with hoist limited speed.
 
 
-Back-up operation mode
+Backup operation mode
 =========================
 
 In Backup operating mode, control is performed through commands for lifting and lowering of the hoist. 
@@ -63,9 +63,6 @@ located :doc:`control panel front door <../../equipment/control-interface/contro
 
 Recovery operation mode
 =========================
-
-.. important::
-    Described recovery operation mode is releated to MotoSuiveur Systems equipped with MS-IRD!
 
 Recovery mode is second part of Backup/Recovery operation. 
 
