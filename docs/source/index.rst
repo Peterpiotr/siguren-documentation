@@ -24,7 +24,12 @@ Learn more about MotoSuiveur Solutions components.
     :target: https://siguren-documentation.readthedocs.io/en/0.1.1/installation/mechanical-installation/index.html
 
     :doc:`docs/source/troubleshooting/diagnostics/controls-check`
-        Asdklsdfk;ldkfg;ljkeporg.
+        Asdklsdfk;ldkfg;ljkeporg.|
+.. figure:: _img/Backup/backup-down-up-control-off.png
+    :target: https://siguren-documentation.readthedocs.io/en/0.1.1/installation/mechanical-installation/index.html
+
+    :doc:`docs/source/troubleshooting/diagnostics/controls-check`
+        Asdklsdfk;ldkfg;ljkeporg.|
 
 
 
