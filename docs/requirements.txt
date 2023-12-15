@@ -5,26 +5,3 @@ sphinx-material==0.0.35
 readthedocs-sphinx-search==0.1.1
 sphinx-hoverxref
 sphinx-tags
-
-# Sphinx dependencies that are important
-Jinja2==3.1.2
-Pygments==2.16.1
-docutils==0.18.1
-snowballstemmer==2.2.0
-babel==2.13.0
-requests==2.31.0
-
-# Only needed for building translations.
-sphinx-intl==2.1.0
-
-# Only needed to match the theme used for the official documentation.
-# Without this theme, the default theme will be used.
-sphinx_rtd_theme==2.0.0rc4
-
-# Only for convenience, allows live updating while editing RST files.
-# Access by running:
-#   make livehtml
-sphinx-autobuild==2021.3.14
-
-# Required for spell-checking
-pyenchant
