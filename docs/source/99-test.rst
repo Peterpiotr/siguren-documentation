@@ -134,7 +134,7 @@ Some other thext.
   .. container:: card
 
     .. figure:: ../../_img/Recovery/backup-recovery-on.PNG
-      :target: ../../operation/regular/index.html
+      :target: /operation/regular/index.html
 
     :doc:`../../operation/regular/index`
        An introduction to Blender's window system, widgets and tools.
@@ -142,7 +142,7 @@ Some other thext.
   .. container:: card
 
     .. figure:: ../../_img/Recovery/backup-recovery-on.PNG
-      :target: ../../operation/regular/index.html
+      :target: docs/source/troubleshooting/troubleshooting-measures/index.html
 
     :doc:`../../operation/regular/index`
        An introduction to Blender's window system, widgets and tools.
