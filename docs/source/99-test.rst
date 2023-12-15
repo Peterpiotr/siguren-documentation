@@ -129,10 +129,10 @@ Some other thext.
 
 
 
-.. figure:: /../../_img/Recovery/backup-recovery-on.PNG
+.. figure:: ../../_img/Backup/backup-down-up-control-off.png
   :target: https://siguren-documentation.readthedocs.io/en/0.1.1/99-test.html
 
-  :doc:`../../operation/regular/index`
-    An introduction to Blender's window system, widgets and tools.
+:doc:`../../operation/regular/index`
+  An introduction to Blender's window system, widgets and tools.
 
 
