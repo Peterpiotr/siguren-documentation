@@ -67,6 +67,7 @@ Sections
 
 
 .. card:: Card Title
+    :width: 25%
 
     Header
     ^^^
