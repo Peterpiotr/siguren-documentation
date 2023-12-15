@@ -3,16 +3,6 @@ Dimitar Test
 ============
 
 
-
-.. include:: ../../_img/_image-substitutions.rst
-
-
-.. figure:: _img/Backup/backup-down-up-control-off.png
-	:figwidth: 300 px
-	:align: center
-
-	End of lowering
-
 .. container:: toc-cards
 
     .. container:: card
