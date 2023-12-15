@@ -138,3 +138,4 @@ Reference
    glossary
    external-links
    99-test
+   test-dimitar
