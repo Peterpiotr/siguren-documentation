@@ -20,18 +20,6 @@ Learn more about MotoSuiveur Solutions components.
   :doc:`/equipment/ms-solution/ms-unit` |
   :doc:`/equipment/ms-solution/control-cabinet` |
   :doc:`/equipment/ms-solution/tl-addon` |
-.. figure:: _img/Backup/backup-down-up-control-off.png
-    :target: https://siguren-documentation.readthedocs.io/en/0.1.1/installation/mechanical-installation/index.html
-
-    :doc:`docs/source/troubleshooting/diagnostics/controls-check`
-        Asdklsdfk;ldkfg;ljkeporg.|
-.. figure:: _img/Backup/backup-down-up-control-off.png
-    :target: https://siguren-documentation.readthedocs.io/en/0.1.1/installation/mechanical-installation/index.html
-
-    :doc:`docs/source/troubleshooting/diagnostics/controls-check`
-        Asdklsdfk;ldkfg;ljkeporg.|
-
-
 
 * **Control interfaces**:
   :doc:`/equipment/control-interface/control-panel` |
