@@ -92,52 +92,17 @@ Instructions
 
 1. Activating Recovery mode 
    
-Activateing of recovery mode is done by turning the :guilabel:`🔑 Recovery Mode Off | On` switch to the On position. The :guilabel:`🟠 Recovery Mode`` indicator light illuminate.
-MS Controller 7-segment display indicates recovery mode - |image041|.
+Activate Recovery mode by following steps in :doc:`Automatic recovery engagement procedure <../../operation/recovery/automatic-recovery-engagement>`
 
-.. _Activate MS recovery:
-.. figure:: ../../_img/Recovery/recovery-switch-on.png
-	:figwidth: 600 px
-	:align: center
-
-	Activating recovery mode
-
-.. _Recovery mode light:
-.. figure:: ../../_img/Recovery/recovery-indicator-on.png
-	:figwidth: 600 px
-	:align: center
-
-	Recovery mode light indicator
-
-2. Engagement of Integrated Recovery System
-
-Engagement of the integrated recovery system is performed by stepwise clockwise movement of the worm shaft (screwing). 
-These movements are performed by MotoSuiveur System servo motor. 
-
-Once the worm shaft is screwed enough by servo motor, enagaging is completed by the integrated recovery system until the
-:guilabel:`🟢Recovery engaged` light indicator is illuminated.
-
-.. _Recovery engaged light:
-.. figure:: ../../_img/Recovery/recovery-engaged-on.png
-	:figwidth: 600 px
-	:align: center
-
-	Recovery engaged light indicator
-
-.. note::
-	It is possible that the Recovery system engagement is incomplete after the initial activation of Recovery mode. 
-  In this case, a :doc:`Reset <../../operation/regular/system-reset>` of MotoSuiveur System is required. Reset is done by remaining the Recovery mode switch 
-  in position **on** and performing an MotoSuiveur System :doc:`Reset <../../operation/regular/system-reset>`.
-
-3. Recovery lowering
+2. Recovery lowering
 
 After successful engagement, the recovery procedure can begin. To start lowering following actions are:
 
-3.1 Open hoist maun brake.
+2.1 Open hoist maun brake.
 
-3.2 Turning the :guilabel:`Recovery Mode Down/Up`` switch to position **Down** .
+2.2 Turning the :guilabel:`Recovery Mode Down/Up`` switch to position **Down** .
 
-3.3 Lowering continues until the load has reached a safe location for detached from the hoist.
+2.3 Lowering continues until the load has reached a safe location for detached from the hoist.
 
 .. _Recovery down:
 .. figure:: ../../_img/Recovery/recovery-down.png
@@ -146,7 +111,7 @@ After successful engagement, the recovery procedure can begin. To start lowering
 
 	Turning switch to position Down
 
-4. Complete recovery lowering
+3. Complete recovery lowering
 
 When safe location is reached and load is detouched, the :guilabel:`Recovery Mode Down/Up` switch should be turned to the neutral position.
 Hoist main (service) brake has to **close**.
@@ -158,12 +123,12 @@ Hoist main (service) brake has to **close**.
 
 	Turning switch to neutral position
 
-5. Recentering worm shaft
+4. Recentering worm shaft
 
 After detaching load, worm shaft recentering between limit switches is required. 
 Centering is performed:
 
-5.1 With hoist main brake closed downward movement with Integrated Recovey System is required.
+4.1 With hoist main brake closed downward movement with Integrated Recovey System is required.
 
 .. _Recovery down movement:
 .. figure:: ../../_img/Recovery/recovery-down.png
@@ -172,7 +137,7 @@ Centering is performed:
 
 	Turning switch to position Down for recentering
 
-5.2 Movement continues until :guilabel:`🟢 Upward Enabled` and :guilabel:`🟢 Downward Enabled` indicator lights are both iluminated.
+4.2 Movement continues until :guilabel:`🟢 Upward Enabled` and :guilabel:`🟢 Downward Enabled` indicator lights are both iluminated.
 
 .. _Down movement:
 .. figure:: ../../_img/Recovery/upward-downward-enabled-on.png
@@ -182,11 +147,11 @@ Centering is performed:
 	Recentering of worm shaft
 
 
-6. Exit form Recovery mode
+5. Exit form Recovery mode
 
-6.1 Worm shaft is located between limit switches.
+5.1 Worm shaft is located between limit switches.
 
-6.2 Short **upward** movement with Recovery System is required for disengaging Recovery Mechanism from worm shaft.
+5.2 Short **upward** movement with Recovery System is required for disengaging Recovery Mechanism from worm shaft.
 
 Switch :guilabel:`Recovery Mode Down/Up` to position **UP** for 2 - 5 seconds. After that switch to **neutral position**.
 
@@ -199,7 +164,7 @@ Switch :guilabel:`Recovery Mode Down/Up` to position **UP** for 2 - 5 seconds. A
 	Short upward movement
 
 
-6.3 Turnin :guilabel:`🔑 Recovery Mode Off | On` switch to the position **OFF** 
+5.3 Turnin :guilabel:`🔑 Recovery Mode Off | On` switch to the position **OFF** 
 
 .. _Recovery mode off:
 .. figure:: ../../_img/Recovery/recovery-switch-off.png
@@ -208,7 +173,7 @@ Switch :guilabel:`Recovery Mode Down/Up` to position **UP** for 2 - 5 seconds. A
 
 	Switch off Recovery mode
 
-6.4 Reset MotoSuiveur System
+5.4 Reset MotoSuiveur System
 
 .. _Reset MS System:
 .. figure:: ../../_img/Recovery/reset.png

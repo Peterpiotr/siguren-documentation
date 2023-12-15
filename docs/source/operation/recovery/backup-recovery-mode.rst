@@ -2,11 +2,15 @@
 Back-up/Recovery mode
 ======================
 
-.. include:: ../../_image-substitutions.rst
+.. include:: ../../_img/_image-substitutions.rst
 
 .. ========================================================================================
 
-Backup/Recovery operation mode functions are intended for *unusual* situations during MS operation. 
+.. note::
+    Backup/Recovery mode is applicable only for MotoSuiveur Systems equipped with **MSCD** MS Controller
+
+.. note::
+    Backup/Recovery operation mode functions are intended for *unusual* situations during MotoSuiveur Systems operation. 
 
 .. "function" vs "mode" vs "operation mode"
 

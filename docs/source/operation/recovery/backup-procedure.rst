@@ -26,7 +26,7 @@ Backup procedure
 Activating and operating of Backup Mode
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-1. Activate Backup mode by turning the Backup Off | On switch to the **On** position.
+1. Activate Backup mode by turning the :guilabel:`Backup Mode Off | On`* or :guilabel:`Backup/Recovery Mode Off | On`** switch to the **On** position.
 
 .. _Switch on Backup mode:
 .. figure:: ../../_img/Backup/switch-on-backup.png
@@ -34,7 +34,12 @@ Activating and operating of Backup Mode
 	:align: center
 
 	Switching on Backup Mode
-	
+
+.. note::
+	\*\ For MotoSuiveur systems equipped with **MSCL** MS Controller
+
+	\**\ For MotoSuiveur systems equipped with **MSCD** MS Controller
+
 2. The Backup mode enable indicator illuminates. A symbol |image058| for activated Backup mode is displayed on the 7-segment indicator of the MS controller.
 
 .. _Switch on Backup mode light:
