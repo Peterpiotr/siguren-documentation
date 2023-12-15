@@ -7,7 +7,7 @@ Backup/Recovery mode
 .. ========================================================================================
 
 .. note::
-    Backup/Recovery mode is applicable only for MotoSuiveur Systems equipped with **MSCD** MS Controller and equipped with MS-IRD!
+    Backup/Recovery mode is applicable only for MotoSuiveur Systems equipped with **MSCD** MS Controller and equipped with **MS-IRD**!
 
 .. note::
     Backup/Recovery operation mode functions are intended for *unusual* situations during MotoSuiveur Systems operation. 
@@ -87,6 +87,6 @@ After succesfull engagement of MS-IRD follow steps for :doc:`recovery operation 
     
 The verification consists of the following steps:
 
-- :guilabel:`🟢 Recovery mode lamp` and :guilabel:`🟢 Recovery engaged` lamp are **ON**,
-- :guilabel:`🔑 Backup/Recovery control key` is in position **0**=**OFF**,
-- On 7–segment display symbols |image058| or |image041| are *NOT* displayed.
+- :guilabel:`🟢 Backup/Recovery` and :guilabel:`🟢 Recovery engaged` lamp are **NOT ON**,
+- :guilabel:`🔑 Backup/Recovery Off/On` is in position **OFF**,
+- On MS Controller 7–segment display symbols |image058| or |image041| are **NOT** displayed.

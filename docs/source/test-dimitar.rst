@@ -2,6 +2,8 @@
 Dimitar Test
 ============
 
+.. only:: builder_html
+
 Sections
 ========
 
