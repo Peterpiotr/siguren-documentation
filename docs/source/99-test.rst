@@ -129,7 +129,7 @@ Some other thext.
 
 
 
-.. figure:: ../../_img/Recovery/backup-recovery-on.PNG
+.. figure:: /../../_img/Recovery/backup-recovery-on.PNG
   :target: https://siguren-documentation.readthedocs.io/en/0.1.1/99-test.html
 
   :doc:`../../operation/regular/index`
