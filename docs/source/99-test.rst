@@ -134,7 +134,7 @@ Some other thext.
   .. container:: card
 
     .. figure:: ../../_img/Recovery/backup-recovery-on.PNG
-      :target: /operation/regular/index.html
+      :target: https://siguren-documentation.readthedocs.io/en/0.1.1/99-test.html
 
     :doc:`../../operation/regular/index`
        An introduction to Blender's window system, widgets and tools.
