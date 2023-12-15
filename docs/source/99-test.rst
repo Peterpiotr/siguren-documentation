@@ -129,17 +129,13 @@ Some other thext.
 
 
 
-.. container:: toc-cards
+.. figure:: ../../_img/Recovery/backup-recovery-on.PNG
+  :target: https://siguren-documentation.readthedocs.io/en/0.1.1/99-test.html
 
-  .. container:: card
+  :doc:`../../operation/regular/index`
+    An introduction to Blender's window system, widgets and tools.
 
-    .. figure:: ../../_img/Recovery/backup-recovery-on.PNG
-      :target: https://siguren-documentation.readthedocs.io/en/0.1.1/99-test.html
 
-    :doc:`../../operation/regular/index`
-       An introduction to Blender's window system, widgets and tools.
-
-  .. container:: card
 
     .. figure:: ../../_img/Recovery/backup-recovery-on.PNG
       :target: docs/source/troubleshooting/troubleshooting-measures/index.html
