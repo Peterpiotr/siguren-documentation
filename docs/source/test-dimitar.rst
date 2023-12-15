@@ -16,9 +16,9 @@ Dimitar Test
         :doc:`Motosuiveur Unit <equipment/ms-solution/ms-unit>`
         
 
-    .. card::
+    .. card:: MS Unit
         :width: 50%
         :img-top: ../../_img/Peter/ms-unit-01.png
         
         :doc:`Motosuiveur Unit <equipment/ms-solution/ms-unit>`
-        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        +++++++++++++++++++++++++++++++++++++++++++++++++++++++
