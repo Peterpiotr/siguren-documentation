@@ -1,6 +1,10 @@
 ============
 Dimitar Test
 ============
+
+Sections
+========
+
 .. only:: builder_html and (not singlehtml)
 
     .. container:: toc-cards
@@ -21,4 +25,12 @@ Dimitar Test
             :doc:`docs/source/troubleshooting/diagnostics/controls-check`
                 Asdklsdfk;ldkfg;ljkeporg.
 
-New build
+
+.. container:: global-index-toc
+
+   .. toctree::
+      :caption: Sections
+      :maxdepth: 2
+
+      docs/source/operation/regular/following.rst
+      docs/source/troubleshooting/diagnostics/controls-check.rst
