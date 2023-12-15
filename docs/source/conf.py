@@ -28,6 +28,7 @@ extensions = [
 #    'piccolo_theme',
     'sphinx_material',
     'sphinx_tags',
+    'sphinx_design',
 ]
 
 

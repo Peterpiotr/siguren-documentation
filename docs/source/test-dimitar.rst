@@ -58,3 +58,18 @@ Sections
             ..  rst-class:: horizbuttons-striking-m
 
             -  `Following <https://siguren-documentation.readthedocs.io/en/0.1.1/operation/regular/following.html>`__
+
+
+.. card:: Following Mode
+
+    .. figure:: _img/Backup/backup-down-up-control-off.png
+        :target: https://siguren-documentation.readthedocs.io/en/0.1.1/99-test.html
+
+
+.. card:: Card Title
+
+    Header
+    ^^^
+    Card content
+    +++
+    Footer
