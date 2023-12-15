@@ -60,17 +60,33 @@ Sections
             -  `Following <https://siguren-documentation.readthedocs.io/en/0.1.1/operation/regular/following.html>`__
 
 
-.. card:: Following Mode
-
-    .. figure:: _img/Backup/backup-down-up-control-off.png
-        :target: https://siguren-documentation.readthedocs.io/en/0.1.1/99-test.html
-
-
-.. card:: Card Title
+.. card:: MotoSuiveour Unit
     :width: 25%
+    :img-background: ../../_img/Peter/ms-unit-01.png
+    :link: https://siguren-documentation.readthedocs.io/en/0.1.1/equipment/ms-solution/ms-unit.html
 
-    Header
-    ^^^
-    Card content
-    +++
-    Footer
+
+.. grid:: 1 2 3
+    :outline:
+
+    .. grid-item::
+
+        .. card:: MotoSuiveour Unit
+            :width: 25%
+            :img-background: ../../_img/Peter/ms-unit-01.png
+            :link: https://siguren-documentation.readthedocs.io/en/0.1.1/equipment/ms-solution/ms-unit.html
+
+    .. grid-item::
+
+        .. card:: MotoSuiveour Unit
+            :width: 25%
+            :img-background: ../../_img/Peter/ms-unit-01.png
+            :link: https://siguren-documentation.readthedocs.io/en/0.1.1/equipment/ms-solution/ms-unit.html
+
+    .. grid-item::
+
+        .. card:: MotoSuiveour Unit
+            :width: 25%
+            :img-background: ../../_img/Peter/ms-unit-01.png
+            :link: https://siguren-documentation.readthedocs.io/en/0.1.1/equipment/ms-solution/ms-unit.html
+            
