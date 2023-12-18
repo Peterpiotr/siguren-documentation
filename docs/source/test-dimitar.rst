@@ -18,7 +18,7 @@ Dimitar Test
 
     .. card:: MS Unit
         :width: 25%
-        :img-top: _img/Peter/ms-unit-01.png
+        :img-top: _img/Peter/MSwarningNumber10.png
         
         :doc:`Motosuiveur Unit <equipment/ms-solution/ms-unit>`
         +++++++++++++++++++++++++++++++++++++++++++++++++++++++
