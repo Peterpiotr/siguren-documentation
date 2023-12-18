@@ -26,7 +26,7 @@ Backup procedure
 Activating and operating of Backup Mode
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-1. Activate Backup mode by turning the :guilabel:`Backup Mode Off | On`* or :guilabel:`Backup/Recovery Mode Off | On`** switch to the **On** position.
+1. Activate Backup mode by turning the :guilabel:`Backup Mode Off | On` \*\ or :guilabel:`Backup/Recovery Mode Off | On` \**\ switch to the **On** position.
 
 .. _Switch on Backup mode:
 .. figure:: ../../_img/Backup/switch-on-backup.png
