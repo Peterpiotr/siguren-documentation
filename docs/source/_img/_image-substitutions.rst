@@ -66,4 +66,4 @@
 .. |none|       image:: ../../_img/7-segment/OS-version/none.PNG
 
 .. Troubleshooting=========================================================
-.. |info-button|       image:: ../../_img/Troubleshooting/Bitmap1242.bmp
+.. |info-button|       image:: ../../_img/Troubleshooting/info-button.png

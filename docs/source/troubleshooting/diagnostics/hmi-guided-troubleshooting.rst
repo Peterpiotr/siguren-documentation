@@ -25,4 +25,4 @@ Example for Motosuiveur System E02 is shown on picture below - :numref:`MS fault
 	:figwidth: 600 px
 	:align: center
 
-	Motosuiveur System E02
+	MotoSuiveur System E02
