@@ -64,3 +64,6 @@
 .. |2|          image:: ../../_img/7-segment/OS-version/2.PNG   
 .. |4|          image:: ../../_img/7-segment/OS-version/4.PNG
 .. |none|       image:: ../../_img/7-segment/OS-version/none.PNG
+
+.. Troubleshooting=========================================================
+.. |info-button|       image:: ../../_img/Troubleshooting/Bitmap1242.bmp
