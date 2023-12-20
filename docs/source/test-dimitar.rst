@@ -28,15 +28,9 @@ Dimitar Test
      :gutter: 2
     
     .. grid-item-card::  MotoSuiveur® Unit
-        :width: auto
-        :img-background: _img/Peter/MSwarningNumber10.png
-
         :doc:`MotoSuiveur® Unit <equipment/ms-solution/ms-unit>`
         
 
     .. grid-item-card:: MS Unit
-        :width: auto
-        :img-top: _img/Peter/MSwarningNumber10.png
-        
         :doc:`MotoSuiveur® Unit <equipment/ms-solution/ms-unit>`
         +++++++++++++++++++++++++++++++++++++++++++++++++++++++
