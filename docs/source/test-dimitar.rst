@@ -33,7 +33,7 @@ resized
 -------
 
 .. grid:: 2
-    :gutter: 4
+    :gutter: 1
     
     .. grid-item-card::
         :width: auto
