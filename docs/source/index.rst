@@ -22,22 +22,22 @@ Learn more about MotoSuiveur® Solutions components.
     
     .. grid-item-card::
         :width: auto
-        :img-top: ../Index/control-cabinet.jpg
-        :link: ../ms-solution/ms-unit
+        :img-top: _img/Index/control-cabinet.jpg
+        :link: equipment/ms-solution/ms-unit.rst
 
         What is MotoSuiveur® Unit
 
     .. grid-item-card::
         :width: auto
-        :img-top: ../Index/ms-unit.jpg
-        :link: ../ms-solution/control-cabinet.rst
+        :img-top: _img/Index/ms-unit.jpg
+        :link: equipment/ms-solution/control-cabinet.rst
 
         MotoSuiveur® Control cabinet
 
     .. grid-item-card::
         :width: auto
         :img-top: _img/Index/torque-limiter.jpg
-        :link: ../ms-solution/control-cabinet.rst
+        :link: equipment/ms-solution/control-cabinet.rst
 
         Torque limiter add-on
 
@@ -50,15 +50,15 @@ Learn more about MotoSuiveur® Solutions components.
     
     .. grid-item-card::
         :width: auto
-        :img-top: ../Index/control-panel.jpg
-        :link: ../control-interface/control-panel.rst
+        :img-top: _img/Index/control-panel.jpg
+        :link: equipment/control-interface/control-panel.rst
 
         MotoSuiveur® Control Panel
 
     .. grid-item-card::
         :width: auto
-        :img-top: ../Index/mshmi.jpg
-        :link: ../control-interface/ms-hmi.rst
+        :img-top: _img/Index/mshmi.jpg
+        :link: equipment/control-interface/ms-hmi.rst
 
         MSHMI
 
