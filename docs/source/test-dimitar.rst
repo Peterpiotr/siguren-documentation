@@ -11,7 +11,7 @@ Dimitar Test
 Original size
 -------------
 
-.. grid:: 2
+.. grid:: 3
     :gutter: 4
     
     .. grid-item-card::
