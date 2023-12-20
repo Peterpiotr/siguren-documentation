@@ -25,135 +25,17 @@ Dimitar Test
 
 
 .. grid:: 2
-    :gutter: 3
+    :gutter: 2
     
-    .. grid-item-card:: 
+    .. grid-item-card::
+        :width: auto
         :img-top: _img/Peter/MSwarningNumber10.png
         :doc:`MotoSuiveur® Unit <equipment/ms-solution/ms-unit>`
-        :width: auto
+        
         
 
     .. grid-item-card::
-        :img-top: _img/Peter/MSwarningNumber10.png
-        :doc:`MotoSuiveur® Unit <equipment/ms-solution/ms-unit>`
-        +++++++++++++++++++++++++++++++++++++++++++++++++++++++
         :width: auto
-
-
-
-
-.. grid:: 2
-    :gutter: 5 5 5 5
-    
-    .. grid-item-card::  MotoSuiveur® Unit
-        
-        :doc:`MotoSuiveur® Unit <equipment/ms-solution/ms-unit>`
-        
-
-    .. grid-item-card:: MS Unit
-        
-        :doc:`MotoSuiveur® Unit <equipment/ms-solution/ms-unit>`
-        +++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
-    .. grid-item-card::  MotoSuiveur® Unit
-        
-        :doc:`MotoSuiveur® Unit <equipment/ms-solution/ms-unit>`
-        
-
-    .. grid-item-card:: MS Unit
-        
-        :doc:`MotoSuiveur® Unit <equipment/ms-solution/ms-unit>`
-        +++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
-.. grid:: 2
-    :gutter: 0 5 5 5
-    
-    .. grid-item-card::  MotoSuiveur® Unit
-        
-        :doc:`MotoSuiveur® Unit <equipment/ms-solution/ms-unit>`
-        
-
-    .. grid-item-card:: MS Unit
-        
-        :doc:`MotoSuiveur® Unit <equipment/ms-solution/ms-unit>`
-        +++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
-    .. grid-item-card::  MotoSuiveur® Unit
-        
-        :doc:`MotoSuiveur® Unit <equipment/ms-solution/ms-unit>`
-        
-
-    .. grid-item-card:: MS Unit
-        
-        :doc:`MotoSuiveur® Unit <equipment/ms-solution/ms-unit>`
-        +++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
-.. grid:: 2
-    :gutter: 5 0 5 5
-    
-    .. grid-item-card::  MotoSuiveur® Unit
-        
-        :doc:`MotoSuiveur® Unit <equipment/ms-solution/ms-unit>`
-        
-
-    .. grid-item-card:: MS Unit
-        
-        :doc:`MotoSuiveur® Unit <equipment/ms-solution/ms-unit>`
-        +++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
-    .. grid-item-card::  MotoSuiveur® Unit
-        
-        :doc:`MotoSuiveur® Unit <equipment/ms-solution/ms-unit>`
-        
-
-    .. grid-item-card:: MS Unit
-        
-        :doc:`MotoSuiveur® Unit <equipment/ms-solution/ms-unit>`
-        +++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
-.. grid:: 2
-    :gutter: 5 5 0 5
-    
-    .. grid-item-card::  MotoSuiveur® Unit
-        
-        :doc:`MotoSuiveur® Unit <equipment/ms-solution/ms-unit>`
-        
-
-    .. grid-item-card:: MS Unit
-        
-        :doc:`MotoSuiveur® Unit <equipment/ms-solution/ms-unit>`
-        +++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
-    .. grid-item-card::  MotoSuiveur® Unit
-        
-        :doc:`MotoSuiveur® Unit <equipment/ms-solution/ms-unit>`
-        
-
-    .. grid-item-card:: MS Unit
-        
-        :doc:`MotoSuiveur® Unit <equipment/ms-solution/ms-unit>`
-        +++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
-
-.. grid:: 2
-    :gutter: 5 5 5 0
-    
-    .. grid-item-card::  MotoSuiveur® Unit
-        
-        :doc:`MotoSuiveur® Unit <equipment/ms-solution/ms-unit>`
-        
-
-    .. grid-item-card:: MS Unit
-        
-        :doc:`MotoSuiveur® Unit <equipment/ms-solution/ms-unit>`
-        +++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
-    .. grid-item-card::  MotoSuiveur® Unit
-        
-        :doc:`MotoSuiveur® Unit <equipment/ms-solution/ms-unit>`
-        
-
-    .. grid-item-card:: MS Unit
-        
+        :img-top: _img/Peter/MSwarningNumber10.png
         :doc:`MotoSuiveur® Unit <equipment/ms-solution/ms-unit>`
         +++++++++++++++++++++++++++++++++++++++++++++++++++++++
