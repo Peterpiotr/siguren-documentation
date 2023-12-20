@@ -83,6 +83,36 @@ Installation
 
 Learn more about the process of integrating a MotoSuiveur® Solution into an existing or new hoist design.
 
+* **Electrical connections**:
+
+* **MotoSuiveur® System components**:
+
+.. grid:: 3
+    :gutter: 2
+    
+    .. grid-item-card::
+        :img-top: _img/Index/control-cabinet-connection.jpg
+        :link: installation/controls-installation/connect-ms-control-cabinet.rst
+        :text-align: center
+
+        Electrical connection of MotoSuiveur® control Cabinet
+
+    .. grid-item-card::
+        :img-top: _img/Index/ms-controller.jpg
+        :link: installation/controls-installation/setting-drive.rst
+        :text-align: center
+
+        MS Controller settings 
+
+    .. grid-item-card::
+        :img-top: _img/Multiple-MS/Silo.png
+        :link: installation/controls-installation/multiple-ms.rst
+        :text-align: center
+
+        Installing multiple MotoSuiveur® Units 
+
+
+
 * **Logistics**:
   :doc:`/installation/logistics/installation-safety` |
   :doc:`/installation/logistics/setting-drive`
