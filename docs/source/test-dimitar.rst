@@ -13,15 +13,17 @@ Dimitar Test
     :gutter: 1
     
     .. grid-item-card::
-        :width: auto
         :img-top: _img/Peter/MSwarningNumber10.png
         :link: ../ms-solution/ms-unit
+
+        MotoSuiveur Unit
+
+
         
         
 
     .. grid-item-card::
-        :width: auto
         :img-top: _img/Peter/MSwarningNumber10.png
+        :link: ../diagnostics/controller-errors.rst
 
-        :doc:`MotoSuiveur® Unit <equipment/ms-solution/ms-unit>`
-        +++++++++++++++++++++++++++++++++++++++++++++++++++++++
+        MS Controller Faults and Warnings
