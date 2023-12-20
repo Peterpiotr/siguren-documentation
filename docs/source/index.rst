@@ -18,7 +18,7 @@ Learn more about MotoSuiveur® Solutions components.
 * **MotoSuiveur® System components**:
 
 .. grid:: 3
-    :gutter: 1
+    :gutter: 2
     
     .. grid-item-card::
         :img-top: _img/Index/control-cabinet.jpg
@@ -43,7 +43,7 @@ Learn more about MotoSuiveur® Solutions components.
 * **Control interfaces**:
 
 .. grid:: 3
-    :gutter: 1
+    :gutter: 2
     
     .. grid-item-card::
         :img-top: _img/Index/control-panel.jpg
