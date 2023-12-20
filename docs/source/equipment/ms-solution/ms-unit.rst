@@ -1,5 +1,5 @@
 ==================
-MotoSuiveur® Unit
+What is MotoSuiveur® Unit
 ==================
 
 .. include:: ../../_img/_image-substitutions.rst
@@ -19,7 +19,7 @@ MotoSuiveur® Unit provides mechanical failsafe protection in the event of any e
 In addition to the MotoSuiveur® Unit, a torque limiter is put in the drive-train to limit any overload into the hoist lifting mechanism. 
 
 
-Component description
+Description of components
 ======================
 
 Hydraulic Damping MotoSuiveur®
@@ -56,7 +56,7 @@ Friction MotoSuiveur®
    :widths: auto
 
 
-MotoSuiveur® principle
+Principle of MotoSuiveur® System
 ---------------------
 
 
@@ -64,15 +64,15 @@ The MS wheel is internally splined and is connected to a splined shaft attached 
 between the shaft and wheel to support the interface radially. 
 The wheel interface consists of a plain bearing mounted between the wheel and casing for radial support where the wheel interacts directly 
 with the casing for lateral and axial loads. 
-The worm and wheel interact in a standard manner, with the mesh such that nominal clearance is achieved and that the wheel cannot force rotation on to the worm. 
+The worm and wheel interact in a standard manner, with the mesh such that clearance is achieved and that the wheel cannot force rotation on to the worm. 
 The worm bears onto the casing directly and is supported laterally and radially. 
-Axial restraint is provided by a small indent plunger which holds the worm in place where the normal servo motor torque is applied (i.e., under normal conditions). 
+Axial restraint is provided by spring which holds the worm in place where the normal servo motor torque is applied (i.e., under normal conditions). 
 Extending from the worm in one direction is a shaft with a splined surface, this interfaces with a bevel gear with an internal spline and is axially free to translate 
 along the worm shaft. Meshing with the bevel gear is its reciprocal gear, which is rigidly fixed to a servo motor, itself mounted to the casing. 
 This motor provides rotation to the worm via the bevel gear arrangement at a pre-set torque. The worm conveys this torque onto the wheel through its mesh. 
 The motor is actuated when the hoist operation is requested. When the servo motor actuates it allows the worm to convey the torque onto the wheel,
 but this torque is insufficient to allow the crane drive to actuate, instead allowing the wheel to rotate with the drum shaft through the normal crane drive. 
-Finally, to complete the moment couple between the drum shaft and the MS unit, a dowel pins mounts between the unit and the crane body.
+Finally, to complete the moment couple between the drum shaft and the MS unit, a dowel pins mounts between the torque arm and the hoist body.
 
 
 MotoSuiveur® unit size
@@ -96,7 +96,7 @@ Mechanical interface with hoist
 
 The MotoSuiveur® wheel hub is interfaced mechanically to hoist drum via differend methods.
 
-The MotoSuiveur® secured hoist system comprises of the following components shown below.
+The MotoSuiveur® secured hoist system typically comprises of the following components shown below.
 
 .. figure:: ../../_img/MS_Unit/MS_secured_hoist.png
 
@@ -108,7 +108,7 @@ The MotoSuiveur® secured hoist system comprises of the following components sho
    :class: tight-table
    :align: left
 
-1 - The MotoSuiveur® can be fixed in different methods to the hoist. The following sections explain in more detail.
+1 - The MotoSuiveur® Unit can be fixed in different methods to the hoist. The following sections explain in more detail.
 
 2 - Torque limiter is mandatory for hydraulic MS type
 
@@ -117,13 +117,13 @@ Electrical interface with hoist
 
 The MotoSuiveur® system is electrically controlled using typical components as shown in the figure below. 
 
-MotoSuiveur® system is controlled by hoist control. No external control is needed.
+MotoSuiveur® system is controlled by hoist commands. No external control is needed.
 
 .. note::
    It is recommended hoist main power supply and MS main power supply are separated.
 
 .. note::
-   SIGUREN TECHNOLOGIES STRONGLY ENCOURAGES RECOMMEND MS MAIN POWER SUPPLY TO BE SEPARATED FROM E-STOP.
+   SIGUREN TECHNOLOGIES RECOMMENDS that the power supply to the MotoSuiveur® System should not be cut off by the E-stop button.
 
 
 .. figure:: ../../_img/MS_Unit/MS-Electrical-description.jpg
