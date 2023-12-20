@@ -13,7 +13,6 @@ Dimitar Test
     :gutter: 4
     
     .. grid-item-card::
-
         :img-top: _img/Peter/MSwarningNumber10.png
         :link: ../ms-solution/ms-unit
 
@@ -22,7 +21,6 @@ Dimitar Test
         
 
     .. grid-item-card::
-
         :img-top: _img/Peter/MSwarningNumber10.png
         :link: ../diagnostics/controller-errors.rst
 
