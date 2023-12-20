@@ -31,14 +31,15 @@ Learn more about MotoSuiveur® Solutions components.
     .. grid-item-card::
         :img-top: _img/Index/control-cabinet.jpg
         :link-type: doc
-        :link: equipment/ms-solution/control-cabinet.rst
+        :link: equipment/ms-solution/control-cabinet
         :text-align: center
 
         MotoSuiveur® Control cabinet
 
     .. grid-item-card::
         :img-top: _img/Index/torque-limiter.jpg
-        :link: equipment/ms-solution/control-cabinet.rst
+        :link-type: doc
+        :link: equipment/ms-solution/control-cabinet
         :text-align: center
 
         Torque limiter add-on
@@ -52,14 +53,16 @@ Learn more about MotoSuiveur® Solutions components.
     
     .. grid-item-card::
         :img-top: _img/Index/control-panel.jpg
-        :link: equipment/control-interface/control-panel.rst
+        :link-type: doc
+        :link: equipment/control-interface/control-panel
         :text-align: center
 
         MotoSuiveur® Control Panel
 
     .. grid-item-card::
         :img-top: _img/Index/mshmi.jpg
-        :link: equipment/control-interface/ms-hmi.rst
+        :link-type: doc
+        :link: equipment/control-interface/ms-hmi
         :text-align: center
 
         MSHMI
@@ -72,7 +75,8 @@ Learn more about MotoSuiveur® Solutions components.
     
     .. grid-item-card::
         :img-top: _img/Index/MS-IRD.jpg
-        :link: equipment/ms-solution/rec-addons.rst
+        :link-type: doc
+        :link: equipment/ms-solution/rec-addons
         :text-align: center
 
         MotoSuiveur® Recovery add-on
@@ -92,21 +96,24 @@ Learn more about the process of integrating a MotoSuiveur® Solution into an exi
     
     .. grid-item-card::
         :img-top: _img/Peter/generalViewConnectionsMS-MSCC.png
-        :link: installation/controls-installation/connect-ms-control-cabinet.rst
+        :link-type: doc
+        :link: installation/controls-installation/connect-ms-control-cabinet
         :text-align: center
 
         Electrical connection of MotoSuiveur® control Cabinet
 
     .. grid-item-card::
         :img-top: _img/Index/ms-controller.jpg
-        :link: installation/controls-installation/setting-drive.rst
+        :link-type: doc
+        :link: installation/controls-installation/setting-drive
         :text-align: center
 
         MS Controller settings 
 
     .. grid-item-card::
         :img-top: _img/Multiple-MS/Silo.png
-        :link: installation/controls-installation/multiple-ms.rst
+        :link-type: doc
+        :link: installation/controls-installation/multiple-ms
         :text-align: center
 
         Installing multiple MotoSuiveur® Units 
@@ -121,8 +128,6 @@ Learn more about the process of integrating a MotoSuiveur® Solution into an exi
   :doc:`/installation/mechanical-installation/installation-on-existing-hoist` |
   :doc:`/installation/mechanical-installation/setting-drive` 
 
-* **Electrical connections**:
-  :doc:`/installation/controls-installation/connect-ms-control-cabinet`
 
 .. toctree::
   :maxdepth: 2
@@ -137,14 +142,87 @@ Operation
 ===========
 
 * **Regular operation**:
-  :doc:`/operation/regular/following` |
-  :doc:`/operation/regular/operation-modes`
+
+.. grid:: 3
+    :gutter: 2
+    
+    .. grid-item-card::
+        :img-top: _img/Index/operation-modes.jpg
+        :link-type: doc
+        :link: operation/regular/operation-modes
+        :text-align: center
+
+        Operation modes
+
+    .. grid-item-card::
+        :img-top: _img/Regular-operations/reset-buton.png
+        :link-type: doc
+        :link: operation/regular/system-reset
+        :text-align: center
+
+        Reset MotoSuiveur® System 
+
+    .. grid-item-card::
+        :img-top: _img/Index/internal-check.PNG
+        :link-type: doc
+        :link: operation/regular/controller-internal-check
+        :text-align: center
+
+        MS Controller internal check
+
+
+.. grid:: 3
+    :gutter: 2
+    
+    .. grid-item-card::
+        :img-top: _img/Index/self-test.PNG
+        :link-type: doc
+        :link: docs/source/operation/regular/self-test
+        :text-align: center
+
+        MotoSuiveur® Systrem self-test
+
+    .. grid-item-card::
+        :img-top: _img/Index/following.jpg
+        :link-type: doc
+        :link: operation/regular/following
+        :text-align: center
+
+        MotoSuiveur® Systrem following mode
+
+
 
 * **Load arrest**:
-  :doc:`/operation/load-arrest/load-arrest` |
-  :doc:`/operation/load-arrest/re-engaging` 
 
-* **Load recovery**:
+.. grid:: 3
+    :gutter: 2
+    
+    .. grid-item-card::
+        :img-top: _img/Load-arrest/load-arrest.JPG
+        :link-type: doc
+        :link: operation/load-arrest/load-arrest
+        :text-align: center
+
+        MotoSuiveur® Systrem load arrest
+
+    .. grid-item-card::
+        :img-top: _img/Regular-operations/enable-override.PNG
+        :link-type: doc
+        :link: operation/load-arrest/re-engaging
+        :text-align: center
+
+        MotoSuiveur® Systrem re-engaging
+
+
+* **Backup and Recovery operations**:
+
+
+
+
+
+
+
+
   :doc:`/operation/recovery/recovery-operation`
 
 .. toctree::
