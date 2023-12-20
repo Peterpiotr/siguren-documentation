@@ -15,6 +15,56 @@ Equipment overview
 
 Learn more about MotoSuiveur® Solutions components.
 
+* **MotoSuiveur® System components**:
+
+.. grid:: 3
+    :gutter: 4
+    
+    .. grid-item-card::
+        :width: auto
+        :img-top: ../Index/control-cabinet.jpg
+        :link: ../ms-solution/ms-unit
+
+        What is MotoSuiveur® Unit
+
+    .. grid-item-card::
+        :width: auto
+        :img-top: ../Index/ms-unit.jpg
+        :link: ../ms-solution/control-cabinet.rst
+
+        MotoSuiveur® Control cabinet
+
+    .. grid-item-card::
+        :width: auto
+        :img-top: _img/Index/torque-limiter.jpg
+        :link: ../ms-solution/control-cabinet.rst
+
+        Torque limiter add-on
+
+
+
+* **Control interfaces**:
+
+.. grid:: 3
+    :gutter: 4
+    
+    .. grid-item-card::
+        :width: auto
+        :img-top: ../Index/control-panel.jpg
+        :link: ../control-interface/control-panel.rst
+
+        MotoSuiveur® Control Panel
+
+    .. grid-item-card::
+        :width: auto
+        :img-top: ../Index/mshmi.jpg
+        :link: ../control-interface/ms-hmi.rst
+
+        MSHMI
+
+
+
+
 
 * **MotoSuiveur® Solutions components**:
   :doc:`/equipment/ms-solution/ms-unit` |

@@ -32,8 +32,8 @@ Original size
 resized
 -------
 
-.. grid:: 2
-    :gutter: 1
+.. grid:: 3
+    :gutter: 4
     
     .. grid-item-card::
         :width: auto
