@@ -21,21 +21,18 @@ Learn more about MotoSuiveur® Solutions components.
     :gutter: 1
     
     .. grid-item-card::
-        :width: auto
         :img-top: _img/Index/control-cabinet.jpg
         :link: equipment/ms-solution/ms-unit.rst
 
         What is MotoSuiveur® Unit
 
     .. grid-item-card::
-        :width: auto
         :img-top: _img/Index/ms-unit.jpg
         :link: equipment/ms-solution/control-cabinet.rst
 
         MotoSuiveur® Control cabinet
 
     .. grid-item-card::
-        :width: auto
         :img-top: _img/Index/torque-limiter.jpg
         :link: equipment/ms-solution/control-cabinet.rst
 
@@ -49,14 +46,12 @@ Learn more about MotoSuiveur® Solutions components.
     :gutter: 1
     
     .. grid-item-card::
-        :width: auto
         :img-top: _img/Index/control-panel.jpg
         :link: equipment/control-interface/control-panel.rst
 
         MotoSuiveur® Control Panel
 
     .. grid-item-card::
-        :width: auto
         :img-top: _img/Index/mshmi.jpg
         :link: equipment/control-interface/ms-hmi.rst
 
