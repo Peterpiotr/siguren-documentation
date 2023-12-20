@@ -1,5 +1,5 @@
 =====================
-MotoSuiveur Solution
+MotoSuiveur® Solution
 =====================
 
 .. toctree::

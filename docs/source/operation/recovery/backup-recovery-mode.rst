@@ -7,10 +7,10 @@ Backup/Recovery mode
 .. ========================================================================================
 
 .. note::
-    Backup/Recovery mode is applicable only for MotoSuiveur Systems equipped with **MSCD** MS Controller and equipped with **MS-IRD**!
+    Backup/Recovery mode is applicable only for MotoSuiveur® Systems equipped with **MSCD** MS Controller and equipped with **MS-IRD**!
 
 .. note::
-    Backup/Recovery operation mode functions are intended for *unusual* situations during MotoSuiveur Systems operation. 
+    Backup/Recovery operation mode functions are intended for *unusual* situations during MotoSuiveur® Systems operation. 
 
 .. "function" vs "mode" vs "operation mode"
 
@@ -55,7 +55,7 @@ located :doc:`control panel front door <../../equipment/control-interface/contro
     See also and merge : :doc:`Backup procedure <../../operation/recovery/backup-procedure>`
 
 .. important::
-    In Backup mode no enable signal (On) **form** hoist to MotoSuiveur is required to perform movement.
+    In Backup mode no enable signal (On) **form** hoist to MotoSuiveur® is required to perform movement.
     If enable signal **to** hoist is required, :guilabel:`🔑 Enable Override` should be used. 
 
 
@@ -68,12 +68,12 @@ Recovery mode is second part of Backup/Recovery operation.
 
 This mode starts operating the way shown on :numref:`Principle of Backup/Recovery operation`.
 
-After reset of MotoSuiveur System, MS Controller checks for active Backup/Recovery mode request (:guilabel:`🔑 Backup/Recovery Off/On` is **ON**). 
+After reset of MotoSuiveur® System, MS Controller checks for active Backup/Recovery mode request (:guilabel:`🔑 Backup/Recovery Off/On` is **ON**). 
 If request is active 7–segment display shows |image041| :guilabel:`🟠 Backup/Recovery Mode` is iluminated and 
 :doc:`automatic recovery engagement <../../operation/recovery/automatic-recovery-engagement>` start. 
 
 Completion of **ENGAGEMENT** is indicated by :guilabel:`🟢 Recovery Engaged` indication lamp. 
-If :guilabel:`🟢 Recovery Engaged` is not iluminated after first engagement, reset ot MotoSuiveur system is required.
+If :guilabel:`🟢 Recovery Engaged` is not iluminated after first engagement, reset ot MotoSuiveur® system is required.
 
 After succesfull engagement of MS-IRD follow steps for :doc:`recovery operation <../../operation/recovery/recovery-operation>`
 

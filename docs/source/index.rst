@@ -1,8 +1,8 @@
 ===============================
-MotoSuiveur User Documentation
+MotoSuiveur® User Documentation
 ===============================
 
-**MotoSuiveur Solutions** are hoist safety solutions designed to actively permit only safe operation, 
+**MotoSuiveur® Solutions** are hoist safety solutions designed to actively permit only safe operation, 
 and instantly default to a safe arrested state when hoisting is disrupted.
 
 .. note::
@@ -13,10 +13,10 @@ and instantly default to a safe arrested state when hoisting is disrupted.
 Equipment overview
 ===================
 
-Learn more about MotoSuiveur Solutions components.
+Learn more about MotoSuiveur® Solutions components.
 
 
-* **MotoSuiveur Solutions components**:
+* **MotoSuiveur® Solutions components**:
   :doc:`/equipment/ms-solution/ms-unit` |
   :doc:`/equipment/ms-solution/control-cabinet` |
   :doc:`/equipment/ms-solution/tl-addon` |
@@ -25,7 +25,7 @@ Learn more about MotoSuiveur Solutions components.
   :doc:`/equipment/control-interface/control-panel` |
   :doc:`/equipment/control-interface/ms-hmi` |
 
-* **MotoSuiveur Recovery Add-ons**:
+* **MotoSuiveur® Recovery Add-ons**:
   :doc:`/equipment/ms-solution/rec-addons` |
 
 .. toctree::
@@ -40,7 +40,7 @@ Learn more about MotoSuiveur Solutions components.
 Installation
 =============
 
-Learn more about the process of integrating a MotoSuiveur Solution into an existing or new hoist design.
+Learn more about the process of integrating a MotoSuiveur® Solution into an existing or new hoist design.
 
 * **Logistics**:
   :doc:`/installation/logistics/installation-safety` |

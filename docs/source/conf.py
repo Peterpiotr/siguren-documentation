@@ -4,7 +4,7 @@ import datetime
 
 # -- Project information
 
-project = 'MotoSuiveur Solutions documentation'
+project = 'MotoSuiveur® Solutions documentation'
 year = datetime.datetime.now().year
 copyright = f'{year}, SIGUREN technologies Ltd.'
 author = 'SIGUREN technologies Ltd.'
@@ -76,7 +76,7 @@ html_theme_options = {
     "color_accent": "red",
     "theme_color": "2439bb",
     "master_doc": False,
-    'nav_title': 'MotoSuiveur Solutions User Documentation',
+    'nav_title': 'MotoSuiveur® Solutions User Documentation',
     "heroes": {
         "index": "A fail-safety solution for your most demanding hoists.",
         "troubleshooting/index": "Get out of tight situations.",

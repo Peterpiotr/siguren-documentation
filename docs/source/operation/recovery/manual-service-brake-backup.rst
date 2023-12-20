@@ -9,28 +9,28 @@ Backup mode by manual action of the service brake procedure
 
 .. ====================================================================================================================
 
-MotoSuiveur followed gravity lowering
+MotoSuiveur® followed gravity lowering
 -------------------------------------
 
 Step lowering
 ^^^^^^^^^^^^^^^^
 
 .. note::
-	This method can be used **only with Hydraulic Damping MotoSuiveur Unit**.
+	This method can be used **only with Hydraulic Damping MotoSuiveur® Unit**.
 
 This lowering method is based on pulse opening the hoist brake (manually or electrically) to lower the load a few centimeters per single open. 
-The MotoSuiveur Unit :mechpart:`worm shaft` will shift toward the damping chamber each time the brake is opened. 
-The electrical or brake lever pulse must be short enough to not allow the worm to reach the MotoSuiveur Unit :mechpart:`elastomer` at the bottom of the damping chamber. 
+The MotoSuiveur® Unit :mechpart:`worm shaft` will shift toward the damping chamber each time the brake is opened. 
+The electrical or brake lever pulse must be short enough to not allow the worm to reach the MotoSuiveur® Unit :mechpart:`elastomer` at the bottom of the damping chamber. 
 Then it is possible to return the :mechpart:`worm shaft` to its “centered” position by hand using Handheld recovery tool. 
 Repeat this until the load reaches the floor.
 
-This way, very low torque applied on the MotoSuiveur Unit :mechpart:`worm shaft` will be needed (approximately 1/5000 of the barrel torque). 
+This way, very low torque applied on the MotoSuiveur® Unit :mechpart:`worm shaft` will be needed (approximately 1/5000 of the barrel torque). 
 Using handwheel / crank handle or standard ratchet handle.
 
-The MotoSuiveur Unit can automatically follow if switched to Backup Mode. 
+The MotoSuiveur® Unit can automatically follow if switched to Backup Mode. 
 This negates the need of manual operation at the :mechpart:`worm shaft`. 
-In case of power outage, the MotoSuiveur can be UPS/battery operated.
-Furthermore, the MotoSuiveur system can control the brake opening / closing, thus making the gravity load recovery automated.
+In case of power outage, the MotoSuiveur® can be UPS/battery operated.
+Furthermore, the MotoSuiveur® system can control the brake opening / closing, thus making the gravity load recovery automated.
 
 Instructions
 +++++++++++++++
@@ -53,13 +53,13 @@ Instructions
 Backup Mode gravity lowering
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Backup mode gravity lowering is methos for semi-automated lowering. Manual opening of hoist motorbrake and automatically following of MotoSuiveur system.
+Backup mode gravity lowering is methos for semi-automated lowering. Manual opening of hoist motorbrake and automatically following of MotoSuiveur® system.
 Backup mode allows following with limited speed and no fault detection.
 
 Instructions
 ++++++++++++
 
-1. Switch on the MotoSuiveur System to :doc:`Backup Mode <../../recovery/backup-procedure>`.
+1. Switch on the MotoSuiveur® System to :doc:`Backup Mode <../../recovery/backup-procedure>`.
 
 .. _Switching on Backup Mode:
 .. figure:: ../../_img/Backup/switch-on-backup.png
@@ -106,7 +106,7 @@ Instructions
 
 
 .. note::
-  The MotoSuiveur system will arrest the barrel if:
+  The MotoSuiveur® system will arrest the barrel if:
 
   -	lowering order is removed or,
   -	overspeed is reached
@@ -152,19 +152,19 @@ Instructions
    :class: tight-table
 
 
-Automated backup gravity lowering with controlling hoist brake by MotoSuiveur System
+Automated backup gravity lowering with controlling hoist brake by MotoSuiveur® System
 ------------------------------------------------------------------------------------
 
-This type of gravity lowering is fully automated and controlled by MotoSuiveur system.
-MotoSuiveur system opens hoist main brake and follow load moving by gravitation.
-Following continues until speed reaches predefined speed and MotoSuiveur system closes hoist brake.
+This type of gravity lowering is fully automated and controlled by MotoSuiveur® system.
+MotoSuiveur® system opens hoist main brake and follow load moving by gravitation.
+Following continues until speed reaches predefined speed and MotoSuiveur® system closes hoist brake.
 The starting and termination of the lowering is controlled by an operator.
 
 
 Instructions
 ^^^^^^^^^^^^^
 
-1. Switch on the MotoSuiveur System to :doc:`Backup Mode <../../recovery/backup-procedure>`.
+1. Switch on the MotoSuiveur® System to :doc:`Backup Mode <../../recovery/backup-procedure>`.
 
 .. _Switch on Backup Mode:
 .. figure:: ../../_img/Backup/switch-on-backup.png
@@ -182,7 +182,7 @@ Instructions
 	
 	Order lowering
 
-3. MotoSuiveur System starts automated gravity lowering by following algorithm
+3. MotoSuiveur® System starts automated gravity lowering by following algorithm
 
 .. _Automated lowering agorithm:
 .. figure:: ../../_img/Backup/backup-mode-automatic-diagram.PNG

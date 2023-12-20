@@ -7,7 +7,7 @@ Delivery checks
 
 On delivery check that all the following parts are present or already mounted and operational:
 
-    - The MotoSuiveur  
+    - The MotoSuiveur®  
     - The breather cap
     - The electric cabinet
     - The supply cables
@@ -18,7 +18,7 @@ On delivery check that they didn’t get damaged during transportation. In parti
 For any noticed problem, write down all reserves on delivery on the carrier delivery sheet, then confirm by registered mail to the carrier within 48 hours.
 
 .. important::
-    The MotoSuiveur of the installation can be attached to a torque limiter (as option) rated to a value specifically calculated for your application. 
+    The MotoSuiveur® of the installation can be attached to a torque limiter (as option) rated to a value specifically calculated for your application. 
     Similarly, the electric boxed sets containing equipment’s which are pre-set to the specific values of your application must not be inverted.
 
 .. .. figure:: ../_img/

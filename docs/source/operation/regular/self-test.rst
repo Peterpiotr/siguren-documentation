@@ -8,8 +8,8 @@ Self-test
      Description refers to software version 8.2.
 
 
-A self-test is a procedure in which the MotoSuiveur unit tests its health through a sequence of tests. 
-The self-test is performed after the initial power-up of the MotoSuiveur system or after a restart from the Reset button on the electrical panel.
+A self-test is a procedure in which the MotoSuiveur® unit tests its health through a sequence of tests. 
+The self-test is performed after the initial power-up of the MotoSuiveur® system or after a restart from the Reset button on the electrical panel.
 Sequence of Self-test operations are displayed on MS controller 7 – segment display.
 
 In table below self-test sequence is shown.
@@ -54,13 +54,13 @@ In table below self-test sequence is shown.
   +------------+-------------------+-----------------------------------------------+--------------------------+
 
 
-\*\ This tests are performed only for **hydraulic MotoSuiveur system**
+\*\ This tests are performed only for **hydraulic MotoSuiveur® system**
 
-Any warnings and faults that occur during MotoSuiveur system operation are displayed on the HMI screen (if installed) and on the 7-segment display of the MS controller. 
+Any warnings and faults that occur during MotoSuiveur® system operation are displayed on the HMI screen (if installed) and on the 7-segment display of the MS controller. 
 Each fault is characterized by a number and a description. Faults are divided into two groups - system faults (in result of MS controller internal check) 
-and MotoSuiveur system faults. 
+and MotoSuiveur® system faults. 
 System faults are those that are related to the electrical performance of the MS controller or mechanical. 
-MotoSuiveur system faults are related to the working process of the MS unit.
+MotoSuiveur® system faults are related to the working process of the MS unit.
 Indication of warning or fault on MS Controller 7-segment display is a combination of letter and numbers. 
 MS controller internal faults are indicated with blinked combination of |image035| , number and finish with symbol |image039|.
 MS faults are displayed with combination of |image036| and number. MS warnings are displayed with combination of |image035| and number. 
@@ -105,7 +105,7 @@ if some of the checks do not pass, a warning occurs.
    :widths: auto
 
 
-\*\ *If MotoSuiveur unit is equipped with Recovery system*
+\*\ *If MotoSuiveur® unit is equipped with Recovery system*
 
 
 Positioning

@@ -9,10 +9,10 @@ Planned maintenance schedule
 .. note::
 	Source: :doc:`49104-15-001 Operation  Maintenance Manual Issue D (1).pdf`
 
-MotoSuiveur Unit and electrical cabinet
+MotoSuiveur® Unit and electrical cabinet
 =========================================
 
-The reliability of the MotoSuiveur will depend if the maintenance procedure is strictly adhered to.
+The reliability of the MotoSuiveur® will depend if the maintenance procedure is strictly adhered to.
 Maintenance operations are to be done based either on the number of revolutions given by the servo-motor
 drive display or on a time basis wherever the smallest value applies.
 

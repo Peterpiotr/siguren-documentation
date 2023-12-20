@@ -54,7 +54,7 @@ This also references the second item [#f2]_.
    * - Step
      - Description
    * - **1**
-     - Switch off the supply of the MotoSuiveur cabinet or all the circuit breaker inside.
+     - Switch off the supply of the MotoSuiveur® cabinet or all the circuit breaker inside.
    * - **2**
      - 
 

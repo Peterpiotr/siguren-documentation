@@ -2,25 +2,25 @@
 Control cabinet connection to MS unit
 =====================================
 
-After mechanical assembly of MotoSuiveur system to hoist is done, electrical connection must be made between MS and control cabinet. 
-Figure below shows general view of typical MotoSuiveur  electrical components that should 
+After mechanical assembly of MotoSuiveur® system to hoist is done, electrical connection must be made between MS and control cabinet. 
+Figure below shows general view of typical MotoSuiveur®  electrical components that should 
 be connected according specific for the project electrical circuit diagram.
 
 .. note::
   All electrical connections are to be made according to electrical circuit diagram of the project!
 
-Electrical connection of the MotoSuiveur panel
+Electrical connection of the MotoSuiveur® panel
 ===============================================
 
 
-.. _Electrical connections of MotoSuiveur panel:
+.. _Electrical connections of MotoSuiveur® panel:
 .. figure:: ../../_img/Peter/generalViewConnectionsMS-MSCC.png
 	:figwidth: 465 px
 	:align: center
 
-	Electrical connection of MotoSuiveur panel
+	Electrical connection of MotoSuiveur® panel
 
-.. csv-table:: MotoSuiveur System electrical components
+.. csv-table:: MotoSuiveur® System electrical components
    :file: ../../_tables/electrical-connection.csv
    :delim: ;
    :header-rows: 1
@@ -68,19 +68,19 @@ CV – Control Voltage
 
 
 
-Electrical connection of the MotoSuiveur unit
+Electrical connection of the MotoSuiveur® unit
 ===============================================
 
-Principle location of electrical components on MotoSuiveur unit are shown on figure below.
+Principle location of electrical components on MotoSuiveur® unit are shown on figure below.
 
-.. _Electrical connections of MotoSuiveur unit:
+.. _Electrical connections of MotoSuiveur® unit:
 .. figure:: ../../_img/Controls-installation/MS-unit.PNG
 	:figwidth: 465 px
 	:align: center
 
-	Electrical connection of MotoSuiveur unit
+	Electrical connection of MotoSuiveur® unit
 
-.. csv-table:: MotoSuiveur unit electrical components
+.. csv-table:: MotoSuiveur® unit electrical components
    :file: ../../_tables/ms-unit-electrical-connection.csv
    :delim: ;
    :header-rows: 1

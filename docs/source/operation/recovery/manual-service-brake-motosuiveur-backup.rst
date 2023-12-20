@@ -1,5 +1,5 @@
 ======================================================
-Manual service brake and MotoSuiveur backup procedure
+Manual service brake and MotoSuiveur® backup procedure
 ======================================================
 
 
@@ -11,14 +11,14 @@ Manual service brake and MotoSuiveur backup procedure
 .. ====================================================================================================================
 
 .. important::
-  This procedure has to be followed in case of one MotoSuiveur Unit servo motor is defective.
+  This procedure has to be followed in case of one MotoSuiveur® Unit servo motor is defective.
 
-The load lowering movement is controlled manually by operator, through the handle at the MotoSuiveur shaft.
+The load lowering movement is controlled manually by operator, through the handle at the MotoSuiveur® shaft.
 Second operator is required to control main hoist brake. 
 
 .. note::
-  | MotoSuiveur system power should be switched off in control cabinet.
-  | Each of the two operators can stop the operation: the first operator by closing the service brake, the second operator by stopping the rotation of MotoSuiveur Unit.
+  | MotoSuiveur® system power should be switched off in control cabinet.
+  | Each of the two operators can stop the operation: the first operator by closing the service brake, the second operator by stopping the rotation of MotoSuiveur® Unit.
   | During this procedure, the lowering is controlled by the operator on the service brake. The other operator follows the movement and can always stop it.
 
 
@@ -26,10 +26,10 @@ Instructions
 ^^^^^^^^^^^^^^
 
 .. note::
-  | MotoSuiveur
+  | MotoSuiveur®
 
-1. Switch off power of MotoSuiveur system control cabinet (The MotoSuiveurs should be driven manually).
-2. Dismantle the worm cover of the MotoSuiveur Unit .
+1. Switch off power of MotoSuiveur® system control cabinet (The MotoSuiveur®s should be driven manually).
+2. Dismantle the worm cover of the MotoSuiveur® Unit .
 
 .. _Dismantle the worm cover remove bolts: 
 .. figure:: ../../_img/Backup/remove-cover-bolts-removebg-preview.png
@@ -71,7 +71,7 @@ Instructions
 
 	Assembly of manual handle
 
-5. Mount the manual handle on the MotoSuiveur Unit :mechpart:`worm shaft`.
+5. Mount the manual handle on the MotoSuiveur® Unit :mechpart:`worm shaft`.
 
 .. _Mount the manual handle on the MS: 
 .. figure:: ../../_img/Backup/manual-handle-mounted-removebg-preview.png

@@ -2,9 +2,9 @@
 Load arrest
 ============
 
-The MotoSuiveur Unit is a failsafe **mechanical** hoist arrester. 
-MotoSuiveur Unit protects against failures in hoist drive trains that would otherwise lead to dropped loads or overloads.
-The reasons for MotoSuiveur system load arrest can be various such as:
+The MotoSuiveur® Unit is a failsafe **mechanical** hoist arrester. 
+MotoSuiveur® Unit protects against failures in hoist drive trains that would otherwise lead to dropped loads or overloads.
+The reasons for MotoSuiveur® system load arrest can be various such as:
 
 - electrical or mechanical failure of the hoist motor brake;
 - electrical or mechanical failure of the hoist motor;
@@ -18,7 +18,7 @@ The reasons for MotoSuiveur system load arrest can be various such as:
 	:figwidth: 600 px
 	:align: center
 
-	MotoSuiveur Unit load arrest
+	MotoSuiveur® Unit load arrest
 
 .. important::             
     In case of load arrest action is required. Operator (authorized personnel) should identify reason for load arrest. Possible the presence of an Fault.
@@ -39,11 +39,11 @@ To perform Re-engaging in this case is required:
 
 1. Cause of the load arrest has been identified and eliminated.
 2. Hoist is healthy.
-3. Enable signal to MotoSuiveur system from hoist is on.
-4. :guilabel:`🟢 Hoist Enabled` signal from MotoSuiveur system to hoist is on*.
+3. Enable signal to MotoSuiveur® system from hoist is on.
+4. :guilabel:`🟢 Hoist Enabled` signal from MotoSuiveur® system to hoist is on*.
 5. Short upward movement is necessary (from hoist control) until :guilabel:`🟢 Downward Enable` light swiches to illuminated.
 6. Both light indicators :guilabel:`🟢 Downward Enable` and :guilabel:`🟢 Upward Enable` are illuminated.
-7. MotoSuiveur system is ready to follow.
+7. MotoSuiveur® system is ready to follow.
 
 \*\ If :guilabel:`🟢 Hoist Enabled` signal is not illuminated, :guilabel:`🔑 Enable Override` should be used to force signal.
 Forced signal should be used **only** for movement performing.
@@ -66,10 +66,10 @@ To perform Re-engaging in this case is required:
 
 1. Cause for load arrest is identified and resolved.
 2. Hoist is healthy 
-3. Switching on :guilabel:`🔑 Enable Override` on MotoSuiveur system control cabinet.
+3. Switching on :guilabel:`🔑 Enable Override` on MotoSuiveur® system control cabinet.
 4. Short upward movement is necessary (from hoist control) until :guilabel:`🟢 Downward Enable` light will be illuminated.
 5. Both light indicators :guilabel:`🟢 Downward Enable` and :guilabel:`🟢 Upward Enable` are illuminated.
-6. :doc:`Reset <../../operation/regular/system-reset>` of the MotoSuiveur system is required.
+6. :doc:`Reset <../../operation/regular/system-reset>` of the MotoSuiveur® system is required.
 
 
 .. note::             

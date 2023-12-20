@@ -1,5 +1,5 @@
 ============================================
-Retrofitting a MotoSuiveur Solution
+Retrofitting a MotoSuiveur® Solution
 ============================================
 
 .. note::

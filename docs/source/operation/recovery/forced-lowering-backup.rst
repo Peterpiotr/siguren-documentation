@@ -20,15 +20,15 @@ This procedure has to be done in case of the main kinematic chain is not availab
 
 Tools that are needed for this type of recovery load are as follows:
 
-- `Handheld Recovery Tool (MS-HRT)  <https://www.siguren.com/product/handheld-recovery-tool-hrt#menu>`_ - for MotoSuiveur Systems size MS0 - MS4 
-- `Portable Recovery Tool (MS-PRT)  <https://www.siguren.com/product/ms-prt#menu>`_ - for MotoSuiveur Systems size MS5 - MS7
+- `Handheld Recovery Tool (MS-HRT)  <https://www.siguren.com/product/handheld-recovery-tool-hrt#menu>`_ - for MotoSuiveur® Systems size MS0 - MS4 
+- `Portable Recovery Tool (MS-PRT)  <https://www.siguren.com/product/ms-prt#menu>`_ - for MotoSuiveur® Systems size MS5 - MS7
 
 
 Instruction
 ^^^^^^^^^^^
 
-1. Switch off power of the MotoSuiveur System control cabinet.
-2. Dismantle the worm cover of the MotoSuiveur Unit .
+1. Switch off power of the MotoSuiveur® System control cabinet.
+2. Dismantle the worm cover of the MotoSuiveur® Unit .
 
 .. _Dismantle the worm cover remove bolts: 
 .. figure:: ../../_img/Backup/remove-cover-bolts-removebg-preview.png
@@ -71,8 +71,8 @@ Instruction
 	Installation of Handheld Recovery Tool (MS-HRT)
 
 5. Start lowering
-6. As soon as the load is safe (on the ground or an adapted structure), inspect the MotoSuiveur (worm and wheel) and the hoist.
+6. As soon as the load is safe (on the ground or an adapted structure), inspect the MotoSuiveur® (worm and wheel) and the hoist.
 
 
 .. warning::
-  Detailed inspection of the MotoSuiveur Unit (worm and wheel) and the hoist is mandatory after lowering is complete!
+  Detailed inspection of the MotoSuiveur® Unit (worm and wheel) and the hoist is mandatory after lowering is complete!

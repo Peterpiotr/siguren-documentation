@@ -1,5 +1,5 @@
 ==================
-MotoSuiveur Unit
+MotoSuiveur® Unit
 ==================
 
 .. include:: ../../_img/_image-substitutions.rst
@@ -8,29 +8,29 @@ MotoSuiveur Unit
    :class: mechpart
 
 
-The MotoSuiveur® unit (referred to for short MS) is a proprietary system for the protection of the main hoist load from over-speed and load path failures, 
+The MotoSuiveur® Unit (referred to for short MS) is a proprietary system for the protection of the hoist load from mechanical or electrical failure and overspeed, 
 and for the recovery of the load in the event of a failure. The unit is supplied with a proprietary control panel from the equipment manufacturers. 
 The crane’s hardwired controls are interfaced to this panel to control the MotoSuiveur® in normal operation. 
 
-The MS unit is a failsafe mechanical hoist arrester, designed and manufactured by Siguren Technologies LTD. 
-The MS unit protects against failures in hoist drive trains that would otherwise lead to dropped loads or overloads.
+The MotoSuiveur® Unit is a failsafe mechanical hoist arrester, designed and manufactured by Siguren Technologies LTD. 
+The MotoSuiveur® Unit protects against failures in hoist drive trains that would otherwise lead to dropped loads or overloads.
 
-MS unit provides mechanical failsafe protection in the event of any electro-mechanical failure of the hoist drive train. 
-In addition to the unit, a torque limiter is put in the drive-train to limit overload into the hoist lifting mechanism. 
+MotoSuiveur® Unit provides mechanical failsafe protection in the event of any electrica or mechanical failure of the hoist drive train. 
+In addition to the MotoSuiveur® Unit, a torque limiter is put in the drive-train to limit any overload into the hoist lifting mechanism. 
 
 
 Component description
 ======================
 
-Hydraulic Damping MotoSuiveur
+Hydraulic Damping MotoSuiveur®
 -----------------------------
 
-.. figure:: ../../_img/MS_Unit/Hydraulic.jpg
+.. figure:: ../../_img/MS_Unit/hydraulic-ms.PNG
    :figwidth: 600 px
    :align: center  
     
 
-.. csv-table:: Hydraulic Damping MotoSuiveur Unit components
+.. csv-table:: Hydraulic Damping MotoSuiveur® Unit components
    :file: ../../_tables/hydraulic_ms.csv
    :delim: ;
    :header-rows: 1
@@ -39,7 +39,7 @@ Hydraulic Damping MotoSuiveur
    :widths: auto
 
 
-Friction MotoSuiveur
+Friction MotoSuiveur®
 ---------------------
 
 .. figure:: ../../_img/MS_Unit/Friction.jpg
@@ -47,7 +47,7 @@ Friction MotoSuiveur
    :align: center  
     
 
-.. csv-table:: Friction MotoSuiveur Unit components
+.. csv-table:: Friction MotoSuiveur® Unit components
    :file: ../../_tables/friction_ms.csv
    :delim: ;
    :header-rows: 1
@@ -56,7 +56,7 @@ Friction MotoSuiveur
    :widths: auto
 
 
-MotoSuiveur principle
+MotoSuiveur® principle
 ---------------------
 
 
@@ -75,11 +75,11 @@ but this torque is insufficient to allow the crane drive to actuate, instead all
 Finally, to complete the moment couple between the drum shaft and the MS unit, a dowel pins mounts between the unit and the crane body.
 
 
-MotoSuiveur unit size
+MotoSuiveur® unit size
 ---------------------
 
-.. _MotoSuiveur Unit arrest torque table:
-.. csv-table:: MotoSuiveur Unit arrest torque table
+.. _MotoSuiveur® Unit arrest torque table:
+.. csv-table:: MotoSuiveur® Unit arrest torque table
    :file: ../../_tables/ms-unit-torque.csv
    :delim: ;
    :header-rows: 1
@@ -94,13 +94,13 @@ Interface with hoist
 Mechanical interface with hoist
 -------------------------------
 
-The MotoSuiveur wheel hub is interfaced mechanically to hoist drum via differend methods.
+The MotoSuiveur® wheel hub is interfaced mechanically to hoist drum via differend methods.
 
-The MotoSuiveur secured hoist system comprises of the following components shown below.
+The MotoSuiveur® secured hoist system comprises of the following components shown below.
 
 .. figure:: ../../_img/MS_Unit/MS_secured_hoist.png
 
-.. csv-table:: MotoSuiveur secured hoist
+.. csv-table:: MotoSuiveur® secured hoist
    :file: ../../_tables/MS-Secured-Hoist.csv
    :delim: ;
    :header-rows: 1
@@ -108,16 +108,16 @@ The MotoSuiveur secured hoist system comprises of the following components shown
    :class: tight-table
    :align: left
 
-1 - The MotoSuiveur can be fixed in different methods to the hoist. The following sections explain in more detail.
+1 - The MotoSuiveur® can be fixed in different methods to the hoist. The following sections explain in more detail.
 
 2 - Torque limiter is mandatory for hydraulic MS type
 
 Electrical interface with hoist
 -------------------------------
 
-The MotoSuiveur system is electrically controlled using typical components as shown in the figure below. 
+The MotoSuiveur® system is electrically controlled using typical components as shown in the figure below. 
 
-MotoSuiveur system is controlled by hoist control. No external control is needed.
+MotoSuiveur® system is controlled by hoist control. No external control is needed.
 
 .. note::
    It is recommended hoist main power supply and MS main power supply are separated.
@@ -128,7 +128,7 @@ MotoSuiveur system is controlled by hoist control. No external control is needed
 
 .. figure:: ../../_img/MS_Unit/MS-Electrical-description.jpg
 
-.. csv-table:: MotoSuiveur secured hoist
+.. csv-table:: MotoSuiveur® secured hoist
    :file: ../../_tables/electrical-interface.csv
    :delim: ;
    :header-rows: 1

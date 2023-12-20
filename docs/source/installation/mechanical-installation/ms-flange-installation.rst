@@ -27,7 +27,7 @@ If you cannot rotate the barrel, do the following:
 
 .. warning::
     If you rotate the worm in CLOCKWISE direction there is a possibility of blocking the MS. 
-    If this happens, please consult :doc:`Unblocking the MotoSuiveur Unit <../troubleshooting/unblocking-ms>`
+    If this happens, please consult :doc:`Unblocking the MotoSuiveur® Unit <../troubleshooting/unblocking-ms>`
 
 .. rst-class:: blue-list
 4. Assemble the MS to the drum and secure it with the bolts M16. 

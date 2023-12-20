@@ -22,6 +22,6 @@ Instruction
 4. Deactivate :doc:`Backup Mode <../../operation/recovery/backup-procedure>`.
        
 .. note::       
-  If limit speed is reached, MotoSuiveur System goes into action intrinsically by blocking the worm **without fault occurrence**.
+  If limit speed is reached, MotoSuiveur® System goes into action intrinsically by blocking the worm **without fault occurrence**.
 
 

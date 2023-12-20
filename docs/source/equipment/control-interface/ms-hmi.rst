@@ -5,30 +5,30 @@ MSHMI
 .. include:: ../equipment/_img/substitutions.rst
 
 
-The MotoSuiveur HMI (MSHMI) is a Schneider Magelis/Harmony HMI STU 655/855 color graphic touchscreen terminal 
-programmed with the MotoSuiveurHMI firmware by Siguren technologies. 
-MotoSuiveur HMI communicates with the MotoSuiveur controller via MODBUS RTU 485 protocol.
+The MotoSuiveur® HMI (MSHMI) is a Schneider Magelis/Harmony HMI STU 655/855 color graphic touchscreen terminal 
+programmed with the MotoSuiveur®HMI firmware by Siguren technologies. 
+MotoSuiveur® HMI communicates with the MotoSuiveur® controller via MODBUS RTU 485 protocol.
 
-MSHMI significantly expands the capabilities of MotoSuiveur system by allowing:
+MSHMI significantly expands the capabilities of MotoSuiveur® system by allowing:
 
-- Monitoring of actual MotoSuiveur system status
+- Monitoring of actual MotoSuiveur® system status
 - Displayng value of oddometer 
 - Displayng value of  brake counter
 - Displayng warning and fault messages and guidance on how to solve them
 - Displaying log of events. Last 10 events are stored in memory after MSHMI reset or power off
-- Change the MotoSuiveur settings. Configuration has a secure access code at different levels
-- Display maintenance information of MotoSuiveur
+- Change the MotoSuiveur® settings. Configuration has a secure access code at different levels
+- Display maintenance information of MotoSuiveur®
 
 
-.. _MotoSuiveur HMI view:
+.. _MotoSuiveur® HMI view:
 .. figure:: ../../_img/Peter/ms-hmi-01.png
 	:scale: 100 %
 	:align: center
 
-	MotoSuiveur HMI 
+	MotoSuiveur® HMI 
 
 .. note::
-    MotoSuiveurHMI is not part of standard MotoSuiveur equipment and can be ordered additionally.
+    MotoSuiveur®HMI is not part of standard MotoSuiveur® equipment and can be ordered additionally.
     MSHMI can be added/ordered in any stage of project.
 
 MSHMI Touch Screen Operations

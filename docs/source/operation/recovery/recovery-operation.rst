@@ -9,29 +9,29 @@ Load recovery operations
 .. role:: mechpart
    :class: mechpart
 
-Using the MotoSuiveur system recovery capabilities
+Using the MotoSuiveur® system recovery capabilities
 ==================================================
 
-The MotoSuiveur Unit will never allow a load drop. It will arrest the hoist drum whenever the hoist brake is unable to do so. 
-However, the MotoSuiveur Unit can be used as a gearbox to lower and even raise the load. 
+The MotoSuiveur® Unit will never allow a load drop. It will arrest the hoist drum whenever the hoist brake is unable to do so. 
+However, the MotoSuiveur® Unit can be used as a gearbox to lower and even raise the load. 
 
 .. note::
-	The MotoSuiveur Unit is irreversible – meaning that load drop is impossible even when the MotoSuiveur Unit alone is used for recovering the load. 
+	The MotoSuiveur® Unit is irreversible – meaning that load drop is impossible even when the MotoSuiveur® Unit alone is used for recovering the load. 
 	This allows the user to use the weight of the load without risking a load drop.
 
 Three main methods can be used (and combined) to recover the load, depending on how the hoist brake 
-and the MotoSuiveur Unit can be accessed and used in the emergency situation that requires the recovery:
+and the MotoSuiveur® Unit can be accessed and used in the emergency situation that requires the recovery:
 
 - :ref:`Forced MS recovery`
 - :ref:`MS followed gravity lowering`
 - :ref:`MS assisted gravity lowering`
 
 
-Forced MotoSuiveur recovery
+Forced MotoSuiveur® recovery
 ---------------------------
 
-With the hoist brake open and the MotoSuiveur Unit holding the load, rotate the MS :mechpart:`worm shaft` with considerable torque. 
-In this situation the MotoSuiveur Unit moves the load.
+With the hoist brake open and the MotoSuiveur® Unit holding the load, rotate the MS :mechpart:`worm shaft` with considerable torque. 
+In this situation the MotoSuiveur® Unit moves the load.
 This way, a very high amount of torque must be applied on the MS shaft (approximately 1/8 of the barrel torque).
 
 Using the following hardware:
@@ -72,17 +72,17 @@ Instructions
 Integrated Recovery System 
 ==========================
 
-When deciding a recovery with MotoSuiveur Integrated Recovery System is required to be undertaken an assessment should be made to establish where the fault has occurred. 
-MotoSuiveur Integrated Recovery System can only be used if the hoist is mechanical drive chain is not blocked by a mechanical means such as 
+When deciding a recovery with MotoSuiveur® Integrated Recovery System is required to be undertaken an assessment should be made to establish where the fault has occurred. 
+MotoSuiveur® Integrated Recovery System can only be used if the hoist is mechanical drive chain is not blocked by a mechanical means such as 
 hoist gearbox failure or main hoist (service) brake failure.  
 In the event the failure does permit the recovery the procedure describes the process to be undertaken to complete the 
-recovery utilising the integrated MotoSuiveur recovery system.
+recovery utilising the integrated MotoSuiveur® recovery system.
 
 Whilst undertaking the recovery process and in all cases the main motor hoist service brake is required to be operable and correctly functioning. 
 Тhis will then be required to be opened (automatically or manually) for the entire duration of the recovery starting from when the Integrated Recovery System is engaged.
 
 The purpose of the Integrated Recovery System is to provide an independent means of enabling the raising or lowering the load in the event of a failure of the main hoisting mechanism.
-This means of hoisting is achieved and initiated from the MotoSuiveur System control cabinet with physical switches. 
+This means of hoisting is achieved and initiated from the MotoSuiveur® System control cabinet with physical switches. 
 
 .. important::
 	Prior to any recovery operations commencing, the cause of the fault should be identified.
@@ -173,14 +173,14 @@ Switch :guilabel:`Recovery Mode Down/Up` to position **UP** for 2 - 5 seconds. A
 
 	Switch off Recovery mode
 
-5.4 Reset MotoSuiveur System
+5.4 Reset MotoSuiveur® System
 
 .. _Reset MS System:
 .. figure:: ../../_img/Recovery/reset.png
 	:figwidth: 200 px
 	:align: center
 
-	Reset MotoSuiveur System
+	Reset MotoSuiveur® System
 
 .. note::
 	`Integrated Load Recovery video  <https://www.youtube.com/watch?v=3iZUa1VCCgs&t=228s&ab_channel=SIGURENtechnologies>`_

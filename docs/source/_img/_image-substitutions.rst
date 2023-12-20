@@ -43,8 +43,8 @@
 .. |password-entry-01| image:: ../../_img/password-entry-01.png
 .. |password-entry-02| image:: ../../_img/password-entry-02.png
 .. |manual-service-brake-backup-01|  image:: ../../_img/manual-service-brake-backup-01.png
-.. |manual-service-brake-motosuiveur-backup-01|  image:: ../../_img/manual-service-brake-motosuiveur-backup-01.png
-.. |manual-service-brake-motosuiveur-backup-02|  image:: ../../_img/manual-service-brake-motosuiveur-backup-02.png
+.. |manual-service-brake-MotoSuiveur®-backup-01|  image:: ../../_img/manual-service-brake-MotoSuiveur®-backup-01.png
+.. |manual-service-brake-MotoSuiveur®-backup-02|  image:: ../../_img/manual-service-brake-MotoSuiveur®-backup-02.png
 
 .. |mounting-procedure-02|  image:: ../../_img/mounting-procedure-02.jpg
 .. MS Units================================================================    

@@ -10,10 +10,10 @@ Message;	Title/Description;	                    Possible cases;	Remedy
 **E14**;	Screwing enable switch not made;	    SCRE switch is not reached from worm during Switch test.;	Visual check is needed.
 **E28**;	Incorrect MS firmware version;	        Please, contact Siguren technologies;	
 **F15**;	Worm backlash too big detected (Play too big);	    Worm play is greater than defined.;	Center the worm in position with upward and downward enable indicators are on. Wait 15 sec. Reset MotoSuevour system.
-**F17**;	Worm backlash too small detected (Play too small);	Worm play is smaller than defined.;	Center the worm in position with upward and downward enable indicators are on. Wait 15 sec. Reset MotoSuiveur System (Section 6.3).
-**F20**;	Air detected;	                                    Presence of air into the oil inside the damping chamber;	Air bleeding is necessary. Please, contact MotoSuiveur supplier support
-**F22**;	Damping too soft;	                                Damping nozzles too open;	Center the worm in position with upward and downward enable indicators are on. Wait 15 sec. Reset MotoSuiveur System
-**F23**;	Damping too hard;	                                Damping nozzles too closed;	Center the worm in position with upward and downward enable indicators are on. Wait 15 sec. Reset MotoSuiveur System
-**F33**;	Unscrewing Overspeed / Overspeed during lowering;	Hoist speed exceeds maximum defined speed during lowering;	Reset MotoSuiveur System
-**F34**;	Screwing Overspeed / Overspeed during lifting;	    Hoist speed exceeds maximum defined speed during lifting;	Reset MotoSuiveur System
-**E55**;	Oil;	                                            Low oil level in MotoSuiveur Unit;	Check MS unit oil level. Check healthy of MS oil level sensor. Check healthy of connection between MotoSuiveur oil level sensor and MotoSuiveur control cabinet
+**F17**;	Worm backlash too small detected (Play too small);	Worm play is smaller than defined.;	Center the worm in position with upward and downward enable indicators are on. Wait 15 sec. Reset MotoSuiveur® System (Section 6.3).
+**F20**;	Air detected;	                                    Presence of air into the oil inside the damping chamber;	Air bleeding is necessary. Please, contact MotoSuiveur® supplier support
+**F22**;	Damping too soft;	                                Damping nozzles too open;	Center the worm in position with upward and downward enable indicators are on. Wait 15 sec. Reset MotoSuiveur® System
+**F23**;	Damping too hard;	                                Damping nozzles too closed;	Center the worm in position with upward and downward enable indicators are on. Wait 15 sec. Reset MotoSuiveur® System
+**F33**;	Unscrewing Overspeed / Overspeed during lowering;	Hoist speed exceeds maximum defined speed during lowering;	Reset MotoSuiveur® System
+**F34**;	Screwing Overspeed / Overspeed during lifting;	    Hoist speed exceeds maximum defined speed during lifting;	Reset MotoSuiveur® System
+**E55**;	Oil;	                                            Low oil level in MotoSuiveur® Unit;	Check MS unit oil level. Check healthy of MS oil level sensor. Check healthy of connection between MotoSuiveur® oil level sensor and MotoSuiveur® control cabinet

@@ -1,5 +1,5 @@
 =====================================================
-Integrating MotoSuiveur Solutions to a hoist project
+Integrating MotoSuiveur® Solutions to a hoist project
 =====================================================
 
 Standard "off-the-shelf" hoist design

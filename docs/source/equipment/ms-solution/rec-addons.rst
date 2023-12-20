@@ -2,12 +2,12 @@
 Recovery add-ons
 =================
 
-In addition to Motosuiveur®'s main function of protecting the load on the main hoist from overspeed and load path damage, it also offers the possibility 
+In addition to MotoSuiveur®®'s main function of protecting the load on the main hoist from overspeed and load path damage, it also offers the possibility 
 of load recovery in the event of crane failure
 
 The recovery system serves to lower the suspended load on the crane hook to the ground or to a safe surface.
 
-The load recovery system is an addition to the Motosuiveur® unit and is available in several varieties.
+The load recovery system is an addition to the MotoSuiveur®® unit and is available in several varieties.
 
 
 Integrated Recovery Drive 
@@ -74,5 +74,5 @@ BRT is used to set the motor brake to the slippage limit to facilitate worm rota
 BRT
 
 .. note::
-    SIGUREN TECHNOLOGIES STRONGLY ENCOURAGES USING MOTOSUIVEUR INDEPENDENT LOAD RECOVERY SYSTEMS ONLY IN POST-FAILURE LOAD RECOVERY SITUATIONS TO 
+    SIGUREN TECHNOLOGIES STRONGLY ENCOURAGES USING MotoSuiveur® INDEPENDENT LOAD RECOVERY SYSTEMS ONLY IN POST-FAILURE LOAD RECOVERY SITUATIONS TO 
     BRING THE LOAD TO THE GROUND. RAPID CONSECUTIVE OR PROLONGED USE OF THIS FUNCTIONALITY AS A PRIMARY HOISTING MECHANISM SHOULD BE AVOIDED.
