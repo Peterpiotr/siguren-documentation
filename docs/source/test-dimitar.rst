@@ -1,10 +1,12 @@
 ============
 Dimitar Test
 ============
-.. card:: MotoSuiveour Unit
-    :width: 25%
-    :img-background: _img/Peter/ms-unit-01.png
+.. card:: 
+    :width: auto
+    :img-top: _img/Peter/ms-unit-01.png
     :link: https://siguren-documentation.readthedocs.io/en/0.1.1/equipment/ms-solution/ms-unit.html
+
+    MotoSuiveour Unit
 
 
 .. grid:: 2
@@ -38,6 +40,6 @@ Dimitar Test
     .. grid-item-card::
         :width: auto
         :img-top: _img/Peter/MSwarningNumber10.png
-        
+
         :doc:`MotoSuiveur® Unit <equipment/ms-solution/ms-unit>`
         +++++++++++++++++++++++++++++++++++++++++++++++++++++++
