@@ -70,6 +70,14 @@ Instruction
 
 	Installation of Handheld Recovery Tool (MS-HRT)
 
+.. _Portable Recovery Tool: 
+.. figure:: ../../_img/Recovery/MS-PRT.png
+	:figwidth: 600 px
+	:align: center
+
+	Installation of Portable Recovery Tool (MS-PRT)
+
+
 5. Start lowering
 6. As soon as the load is safe (on the ground or an adapted structure), inspect the MotoSuiveur® (worm and wheel) and the hoist.
 

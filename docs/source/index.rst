@@ -22,7 +22,6 @@ Learn more about MotoSuiveur® Solutions components.
     
     .. grid-item-card::
         :img-top: _img/Index/ms-unit.jpg
-        :margin: 1 2 3 4
         :link: equipment/ms-solution/ms-unit.rst
 
         What is MotoSuiveur® Unit
@@ -59,29 +58,19 @@ Learn more about MotoSuiveur® Solutions components.
         MSHMI
 
 
-
-
-
-* **MotoSuiveur® Solutions components**:
-  :doc:`/equipment/ms-solution/ms-unit` |
-  :doc:`/equipment/ms-solution/control-cabinet` |
-  :doc:`/equipment/ms-solution/tl-addon` |
-
-* **Control interfaces**:
-  :doc:`/equipment/control-interface/control-panel` |
-  :doc:`/equipment/control-interface/ms-hmi` |
-
 * **MotoSuiveur® Recovery Add-ons**:
-  :doc:`/equipment/ms-solution/rec-addons` |
 
-.. toctree::
-   :maxdepth: 2
-   :hidden:
-   :caption: Equipment overview
+.. grid:: 3
+    :gutter: 2
+    
+    .. grid-item-card::
+        :img-top: _img/Index/MS-IRD.jpg
+        :link: equipment/ms-solution/rec-addons.rst
 
-   /equipment/ms-solution/index
-   /equipment/control-interface/index
-   
+        MotoSuiveur® Recovery add-on
+
+        
+
 
 Installation
 =============
