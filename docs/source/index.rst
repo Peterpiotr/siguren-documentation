@@ -95,7 +95,7 @@ Learn more about the process of integrating a MotoSuiveur® Solution into an exi
     :gutter: 2
     
     .. grid-item-card::
-        :img-top: _img/Peter/generalViewConnectionsMS-MSCC.png
+        :img-top: _img/Index/control-cabinet-connection.jpg
         :link-type: doc
         :link: installation/controls-installation/connect-ms-control-cabinet
         :text-align: center
@@ -111,7 +111,7 @@ Learn more about the process of integrating a MotoSuiveur® Solution into an exi
         MS Controller settings 
 
     .. grid-item-card::
-        :img-top: _img/Multiple-MS/Silo.png
+        :img-top: _img/Index/multiple-ms.jpg
         :link-type: doc
         :link: installation/controls-installation/multiple-ms
         :text-align: center
