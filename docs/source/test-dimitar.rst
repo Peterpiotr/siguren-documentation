@@ -8,12 +8,14 @@ Dimitar Test
 
     MotoSuiveour Unit
 
+Original size
+-------------
 
 .. grid:: 2
     :gutter: 4
     
     .. grid-item-card::
-        :img-top: _img/Peter/MSwarningNumber10.png
+        :img-top: _img/Index/Original/Control-cabinet-overview.png
         :link: ../ms-solution/ms-unit
 
         MotoSuiveur Unit
@@ -21,7 +23,28 @@ Dimitar Test
         
 
     .. grid-item-card::
-        :img-top: _img/Peter/MSwarningNumber10.png
+        :img-top: _img/Index/Original/hydraulic-ms.PNG
+        :link: ../diagnostics/controller-errors.rst
+
+        MS Controller Faults and Warnings
+
+
+resized
+-------
+
+.. grid:: 2
+    :gutter: 4
+    
+    .. grid-item-card::
+        :img-top: _img/Index/control-cabinet.jpg
+        :link: ../ms-solution/ms-unit
+
+        MotoSuiveur Unit
+ 
+        
+
+    .. grid-item-card::
+        :img-top: _img/Index/ms-unit.jpg
         :link: ../diagnostics/controller-errors.rst
 
         MS Controller Faults and Warnings
