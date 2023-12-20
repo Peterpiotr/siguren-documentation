@@ -3,7 +3,7 @@ Dimitar Test
 ============
 .. card:: 
     :width: auto
-    :img-top: _img/Peter/ms-unit-01.png
+    :img-top: _img/Peter/MSwarningNumber10.png
     :link: https://siguren-documentation.readthedocs.io/en/0.1.1/equipment/ms-solution/ms-unit.html
 
     MotoSuiveour Unit
@@ -27,7 +27,7 @@ Dimitar Test
 
 
 .. grid:: 2
-    :gutter: 2
+    :gutter: 1
     
     .. grid-item-card::
         :width: auto
