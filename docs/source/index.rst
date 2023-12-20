@@ -22,7 +22,7 @@ Learn more about MotoSuiveur® Solutions components.
     
     .. grid-item-card::
         :img-top: _img/Index/ms-unit.jpg
-        :link-type: ref
+        :link-type: doc
         :link: equipment/ms-solution/ms-unit
         :text-align: center
 
@@ -30,7 +30,7 @@ Learn more about MotoSuiveur® Solutions components.
 
     .. grid-item-card::
         :img-top: _img/Index/control-cabinet.jpg
-        :link-type: ref
+        :link-type: doc
         :link: equipment/ms-solution/control-cabinet.rst
         :text-align: center
 
