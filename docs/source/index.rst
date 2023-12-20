@@ -21,13 +21,14 @@ Learn more about MotoSuiveur® Solutions components.
     :gutter: 2
     
     .. grid-item-card::
-        :img-top: _img/Index/control-cabinet.jpg
+        :img-top: _img/Index/ms-unit.jpg
+        :margin: 1 2 3 4
         :link: equipment/ms-solution/ms-unit.rst
 
         What is MotoSuiveur® Unit
 
     .. grid-item-card::
-        :img-top: _img/Index/ms-unit.jpg
+        :img-top: _img/Index/control-cabinet.jpg
         :link: equipment/ms-solution/control-cabinet.rst
 
         MotoSuiveur® Control cabinet
