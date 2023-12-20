@@ -155,7 +155,7 @@ Operation
         Operation modes
 
     .. grid-item-card::
-        :img-top: _img/Regular-operations/reset-buton.png
+        :img-top: _img/Recovery/reset.png
         :link-type: doc
         :link: operation/regular/system-reset
         :text-align: center
