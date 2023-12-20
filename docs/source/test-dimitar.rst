@@ -36,6 +36,7 @@ resized
     :gutter: 4
     
     .. grid-item-card::
+        :width: auto
         :img-top: _img/Index/control-cabinet.jpg
         :link: ../ms-solution/ms-unit
 
@@ -44,6 +45,7 @@ resized
         
 
     .. grid-item-card::
+        :width: auto
         :img-top: _img/Index/ms-unit.jpg
         :link: ../diagnostics/controller-errors.rst
 
