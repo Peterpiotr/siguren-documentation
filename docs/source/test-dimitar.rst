@@ -38,7 +38,7 @@ Dimitar Test
         +++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 .. grid:: 2
-    :gutter: 5 2 3 4
+    :gutter: 5 5 5 5
     
     .. grid-item-card::  MotoSuiveur® Unit
         

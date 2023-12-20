@@ -75,7 +75,7 @@ but this torque is insufficient to allow the crane drive to actuate, instead all
 Finally, to complete the moment couple between the drum shaft and the MS unit, a dowel pins mounts between the torque arm and the hoist body.
 
 
-MotoSuiveur® unit size
+MotoSuiveur® Unit size
 ---------------------
 
 .. _MotoSuiveur® Unit arrest torque table:
@@ -88,7 +88,7 @@ MotoSuiveur® unit size
    :align: center
 
 
-Interface with hoist
+Interfacing MotoSuiveur® System with hoist
 ======================
 
 Mechanical interface with hoist
