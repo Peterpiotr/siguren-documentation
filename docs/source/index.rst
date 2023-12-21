@@ -273,7 +273,6 @@ Operation
 
 
 .. grid:: 3
-    :gutter: 2
     
     .. grid-item-card::
         :img-top: _img/Index/automatic-engagement.jpg
