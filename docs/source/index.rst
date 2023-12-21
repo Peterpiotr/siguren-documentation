@@ -216,6 +216,88 @@ Operation
 
 * **Backup and Recovery operations**:
 
+.. grid:: 3
+    :gutter: 2
+    
+    .. grid-item-card::
+        :img-top: _img/Index/recovery-indicator-on.jpg
+        :link-type: doc
+        :link: operation/recovery/recovery-operation
+        :text-align: center
+
+        Load recovery operations
+
+    .. grid-item-card::
+        :img-top: _img/Index/backup-mode.jpg
+        :link-type: doc
+        :link: operation/recovery/backup-procedure
+        :text-align: center
+
+        Backup Procedure 
+
+    .. grid-item-card::
+        :img-top: _img/Index/backup-recovery-mode.jpg
+        :link-type: doc
+        :link: operation/recovery/backup-recovery-mode
+        :text-align: center
+
+        Backup/Recovery mode
+
+
+.. grid:: 3
+    :gutter: 2
+    
+    .. grid-item-card::
+        :img-top: _img/Index/backup-service-brake.jpg
+        :link-type: doc
+        :link: operation/recovery/manual-service-brake-backup
+        :text-align: center
+
+        Backup mode by manual action of the service brake procedure
+
+    .. grid-item-card::
+        :img-top: _img/Index/recovery-forced.jpg
+        :link-type: doc
+        :link: operation/recovery/forced-lowering-backup
+        :text-align: center
+
+        Recovery by forced lowering procedure
+
+    .. grid-item-card::
+        :img-top: _img/Index/backup-automatic.jpg
+        :link-type: doc
+        :link: operation/recovery/electrical-automatic-backup
+        :text-align: center
+
+        Electrical/automatic Backup procedure
+
+
+.. grid:: 3
+    :gutter: 2
+    
+    .. grid-item-card::
+        :img-top: _img/Index/automatic-engagement.jpg
+        :link-type: doc
+        :link: operation/recovery/automatic-recovery-engagement
+        :text-align: center
+
+        Automatic recovery engagement procedure
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
