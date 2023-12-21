@@ -29,7 +29,7 @@ Learn more about MotoSuiveur® Solutions components.
         What is MotoSuiveur® Unit
 
     .. grid-item-card::
-        :img-top: _img/Index/control-cabinet.jpg
+        :img-top: _img/Index/control-cabinet-1.jpg
         :link-type: doc
         :link: equipment/ms-solution/control-cabinet
         :text-align: center
