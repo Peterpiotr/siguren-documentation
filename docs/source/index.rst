@@ -39,7 +39,7 @@ Learn more about MotoSuiveur® Solutions components.
     .. grid-item-card::
         :img-top: _img/Index/torque-limiter.jpg
         :link-type: doc
-        :link: equipment/ms-solution/control-cabinet
+        :link: equipment/ms-solution/tl-addon
         :text-align: center
 
         Torque limiter add-on
@@ -206,7 +206,7 @@ Operation
         MotoSuiveur® Systrem load arrest
 
     .. grid-item-card::
-        :img-top: _img/Index/recovery-indicator-on.jpg
+        :img-top: _img/Index/enable-override.jpg
         :link-type: doc
         :link: operation/load-arrest/re-engaging
         :text-align: center
