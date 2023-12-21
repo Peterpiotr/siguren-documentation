@@ -198,7 +198,7 @@ Operation
     :gutter: 2
     
     .. grid-item-card::
-        :img-top: _img/Load-arrest/load-arrest.JPG
+        :img-top: _img/Index/load-arrest.jpg
         :link-type: doc
         :link: operation/load-arrest/load-arrest
         :text-align: center
@@ -206,7 +206,7 @@ Operation
         MotoSuiveur® Systrem load arrest
 
     .. grid-item-card::
-        :img-top: _img/Regular-operations/enable-override.PNG
+        :img-top: _img/Index/recovery-indicator-on.jpg
         :link-type: doc
         :link: operation/load-arrest/re-engaging
         :text-align: center
