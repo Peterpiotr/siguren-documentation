@@ -1,0 +1,13 @@
+"Mechanical";"Maintenance interval";Worm rotation count;MS Controller 7-segment display
+"TORQUE LIMITER: Visual inspection (no oxidation marks)
+";"Annually";-;-
+"REACTION ARM: (fixation, welds, cracks, etc)
+";"Annually";-;-
+"SERVO MOTOR WORM TRANSMISSION: Grease - LGMT2
+";"Annually";75E+6;|image045|
+"BELT (IF APPLICABLE): Check for wear
+";"5 Years";75E+6;|image045|
+"WORM SHAFT LIP SEAL:";"5 Years";150E+6;|image046|
+"WHEEL LIP SEAL:";"10 Years **OR** Replace earlier if leaks are present and maintenance history is unknown.";-;-
+"O RINGS:";"Annually";900E+6;|image048|
+"ELECTRICAL CABINET AIR FILTER (if applies): Replace or clean";"Annually";-;-
