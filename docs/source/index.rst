@@ -284,57 +284,6 @@ Operation
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  :doc:`/operation/recovery/recovery-operation`
-
-.. toctree::
-  :maxdepth: 2
-  :hidden:
-  :caption: Operation
-
-  /operation/regular/index
-  /operation/load-arrest/index
-  /operation/recovery/index
-
-Troubleshooting
-================
-
-* **Diagnostics**:
-  :doc:`/troubleshooting/diagnostics/hmi-guided-troubleshooting` |
-  :doc:`/troubleshooting/diagnostics/controller-errors`
-
-* **Troubleshooting measures**:
-  :doc:`/troubleshooting/troubleshooting-measures/unblocking-ms` |
-  :doc:`/troubleshooting/troubleshooting-measures/variable-change` |
-  :doc:`/troubleshooting/troubleshooting-measures/ms-worm-removal` |
-
-.. toctree::
-  :maxdepth: 2
-  :hidden:
-  :caption: Troubleshooting
-
-  /troubleshooting/diagnostics/index
-  /troubleshooting/troubleshooting-measures/index
-
 Maintenance
 =============
 
