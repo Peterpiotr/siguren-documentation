@@ -2,24 +2,17 @@
 Handling
 ==========
 
-.. note::
-	Source: :download:`User Manual-7.4.doc`
+1.	All MS units are controlled after assembly, set and tested on bench. During those tests, the oil fill is adjusted.
+2.	For hydraulic MS units, the damping chamber is bled and sealed. However, a certain quantity of air remains in the rest of the system. To prevent this air to penetrate inside the damping chamber during transportation, which can cause malfunction, the MS units must be carried with the damping chamber in specific position for hydraulic MS units.
+3.	During transportation MS unit must be carried via transport rings (1), oil sensor (2) or breather cap (3) are oriented up and oil drain hole (4) down.
 
-All MotoSuiveur® are checked after assembly, set and tested on bench. During those tests, the oil filling up is adjusted and the hydraulic system is drained. 
 
-To prevent draining again the system on activation, the MotoSuiveur® must be handled in the position shown in the illustration below, with the cap in top position.
+.. _MS transportation:
+.. figure:: ../../_img/Installation/handling.png
+	:figwidth: 600 px
+	:align: center
 
-.. .. figure:: ../_img/
-..     :figwidth: 600 px
-..     :align: center  
-..     
-..     MS handling positions
-
-Before any handling, check:
-
-    - The correct balancing of the load,
-    - The handling equipment capacity and compare it to the load to lift.
-    - That the slings and straps do not lean on fragile parts (pipes, diverse accessories, etc.) and that they do not damage the surface treatment applied on our products.
+	Transportation of MotoSuiveur® Unit
 
 .. warning::
     Never lift a MotoSuiveur® hanged by the motor.

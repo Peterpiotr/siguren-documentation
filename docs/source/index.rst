@@ -121,8 +121,42 @@ Learn more about the process of integrating a MotoSuiveur® Solution into an exi
 
 
 * **Logistics**:
-  :doc:`/installation/logistics/installation-safety` |
-  :doc:`/installation/logistics/setting-drive`
+
+.. grid:: 3
+    :gutter: 2
+    
+    .. grid-item-card::
+        :img-top: _img/Index/installation-safety.jpg
+        :link-type: doc
+        :link: installation/logistics/installation-safety
+        :text-align: center
+
+        Installation safety of MotoSuiveur® System
+
+    .. grid-item-card::
+        :img-top: _img/Index/delivery-check.jpg
+        :link-type: doc
+        :link: installation/logistics/ms-delivery
+        :text-align: center
+
+        Delivery checks
+
+    .. grid-item-card::
+        :img-top: _img/Index/handling
+        :link-type: doc
+        :link: installation/logistics/ms-handling
+        :text-align: center
+
+        Handling 
+
+
+
+
+
+
+
+
+
 
 * **Installation on existing hoist**:
   :doc:`/installation/mechanical-installation/installation-on-existing-hoist` |
@@ -315,5 +349,3 @@ Reference
    faq
    glossary
    external-links
-   99-test
-   test-dimitar
