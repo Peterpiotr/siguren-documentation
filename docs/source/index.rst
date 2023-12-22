@@ -142,7 +142,7 @@ Learn more about the process of integrating a MotoSuiveur® Solution into an exi
         Delivery checks
 
     .. grid-item-card::
-        :img-top: _img/Index/handling
+        :img-top: _img/Index/handling.jpg
         :link-type: doc
         :link: installation/logistics/ms-handling
         :text-align: center
