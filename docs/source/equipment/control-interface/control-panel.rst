@@ -25,7 +25,7 @@ Mandatory are:
 The figure below shows an example overview of a control panel with and without MSHMI.
 
 .. _Control panel figure:
-.. figure:: ../../_img/Control-panel/Control-panel-overview.png
+.. figure:: ../../_img/Control-panel/control-panel-overview.png
 	:align: center
 	:figwidth: 600 px
 	:alt: Control cabinet
