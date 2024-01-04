@@ -81,7 +81,13 @@ Learn more about MotoSuiveur® Solutions components.
 
         MotoSuiveur® Recovery add-on
 
-        
+.. toctree::
+  :maxdepth: 2
+  :hidden:
+  :caption: Installation
+
+  /equipment/control-interface/index
+  /equipment/ms-solution/index       
 
 
 Installation
@@ -148,13 +154,6 @@ Learn more about the process of integrating a MotoSuiveur® Solution into an exi
         :text-align: center
 
         Handling 
-
-
-
-
-
-
-
 
 
 
@@ -316,6 +315,15 @@ Operation
 
         Automatic recovery engagement procedure
 
+
+.. toctree::
+  :maxdepth: 2
+  :hidden:
+  :caption: Operation
+
+  /operation/load-arrest/index
+  /operation/recovery/index
+  /operation/regular/index
 
 
 Maintenance
