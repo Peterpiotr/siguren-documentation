@@ -84,7 +84,7 @@ Learn more about MotoSuiveur® Solutions components.
 .. toctree::
   :maxdepth: 2
   :hidden:
-  :caption: Installation
+  :caption: Equipment overview
 
   /equipment/control-interface/index
   /equipment/ms-solution/index       
