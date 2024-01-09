@@ -10,7 +10,7 @@ copyright = f'{year}, SIGUREN technologies Ltd.'
 author = 'SIGUREN technologies Ltd.'
 
 master_doc = "index"
-version = '0.1.1'
+version = '0.1.x'
 release = version 
 
 
@@ -43,25 +43,18 @@ intersphinx_mapping = {
 }
 intersphinx_disabled_domains = ['std']
 
-
-#intersphinx_mapping = {
-#    'python': ('https://docs.python.org/3/', None),
-#    'sphinx': ('https://www.sphinx-doc.org/en/master/', None),
-#}
-#intersphinx_disabled_domains = ['std']
-
 templates_path = ['_templates']
 
-#numfig = True
+numfig = True
 
 # -- Options for HTML output
 
-html_theme = 'sphinx_material'
+#html_theme = 'sphinx_rtd_theme'
 #html_theme = 'piccolo_theme'
-#html_theme = 'sphinx_material'
+html_theme = 'sphinx_material'
 
 # -- Options for EPUB output
-#epub_show_urls = 'footnote'
+epub_show_urls = 'footnote'
 
 html_logo = '_img/Peter/siguren_logo_white.png'
 
@@ -69,15 +62,16 @@ html_logo = '_img/Peter/siguren_logo_white.png'
 # This file should be a Windows icon file (.ico) being 16x16 or 32x32 pixels large.
 #html_favicon = os.path.join(html_theme_path[0], html_theme, 'static', 'img', 'favicon.ico')
 
-#html_favicon = '_img/favicon.ico'
+html_favicon = '_img/favicon.ico'
 
 html_theme_options = {
+# sphinx material theme options ----------------------------------------------------------------------
 
-#    "html_minify": False,
-#    "html_prettify": True,
-#    "css_minify": True,
-    "logo_icon": "&#xe869",
-#    "repo_type": "github",
+    #"html_minify": False,
+    #"html_prettify": True,
+    #"css_minify": True,
+    #"logo_icon": "&#xe869",
+    #"repo_type": "github",
     "color_primary": "2439bb",
     "color_accent": "red",
     "theme_color": "2439bb",
@@ -95,7 +89,7 @@ html_theme_options = {
     #    "Release (rel)": "/sphinx-material/",
     #    "Development (rel)": "/sphinx-material/devel/",
     #},
-#    "table_classes": ["plain"],
+    "table_classes": ["plain"],
 
     # Visible levels of the global TOC; -1 means unlimited
     'globaltoc_depth': 2,
@@ -122,13 +116,13 @@ html_css_files = [
     ('print.css', {'media': 'print'}) # modifies pdf output?? 
 ]
 
-#latex_elements = {
-#    'figure_align':'H',
-#}
+latex_elements = {
+    'figure_align':'H',
+}
 
-#hoverxref_auto_ref = True
+hoverxref_auto_ref = True
 
-#hoverxref_role_types = {
-#    'hoverxref' : 'modal',
-#    'ref' : 'tooltip',
-#}
+hoverxref_role_types = {
+    'hoverxref' : 'modal',
+    'ref' : 'tooltip',
+}
