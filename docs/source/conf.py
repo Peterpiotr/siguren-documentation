@@ -18,13 +18,13 @@ release = version
 
 
 extensions = [
-#    'sphinx.ext.duration',
-#    'sphinx.ext.doctest',
-#    'sphinx.ext.autodoc',
-#    'sphinx.ext.autosummary',
-#    'sphinx.ext.intersphinx',
-#    'sphinx.ext.autosectionlabel',
-#    'hoverxref.extension',
+    'sphinx.ext.duration',
+    'sphinx.ext.doctest',
+    'sphinx.ext.autodoc',
+    'sphinx.ext.autosummary',
+    'sphinx.ext.intersphinx',
+   'sphinx.ext.autosectionlabel',
+   'hoverxref.extension',
 #    'piccolo_theme',
     'sphinx_material',
     'sphinx_tags',
