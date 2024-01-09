@@ -13,13 +13,14 @@ hhhhhhhhsdjfijsdfijfkdjlfxcjklhvklcjvsiodjfgsdiohfgsdiofh
 
 
 
-kkkk lorem :hoverxref:`example-ref`
+kkkk lorem :hoverxref:`example-ref` 
 
 .. figure:: .png
 	:figwidth: 600 px
 	:align: center
 
 	General view
+
 
 
 .. list-table:: 
@@ -149,3 +150,82 @@ Some other thext.
   An introduction to Blender's window system, widgets and tools.
 
 
+Sections
+========
+
+.. only:: builder_html and (not singlehtml)
+
+   .. container:: toc-cards
+
+      .. container:: card
+
+         .. figure:: /_img/electricalConnections.png
+            :target: interface/index.html
+
+         :doc:`/about/features`
+            An introduction to Blender's window system, widgets and tools.
+
+      .. container:: card
+
+         .. figure:: /images/index_editors.jpg
+            :target: editors/index.html
+
+         :doc:`/editors/index`
+            Overview of the interface and functionality of all editors.
+
+      .. container:: card
+
+         .. figure:: /images/index_scene.jpg
+            :target: scene_layout/index.html
+
+         :doc:`/scene_layout/index`
+            Objects and their organization into scenes, view layers and collections.
+
+      .. container:: card
+
+
+.. grid:: 2 3 3 4
+
+    .. grid-item::
+
+        .. card:: Title
+            :img-background: /_img/electricalConnections.png
+            :class-card: sd-text-black
+            :img-alt: my text
+
+            Text
+
+    .. grid-item-card:: Title
+        :img-top: /_img/electricalConnections.png
+        :img-alt:
+
+        Header
+        ^^^
+        Content
+        +++
+        Footer
+
+    .. grid-item-card:: Title
+        :img-bottom: /_img/electricalConnections.png
+
+        Header
+        ^^^
+        Content
+        +++
+        Footer
+
+.. _cards-clickable:
+
+Cards Clickable
+...............
+
+.. card:: Clickable Card (external)
+    :link: https://example.com
+
+    The entire card can be clicked to navigate to https://example.com.
+
+.. card:: Clickable Card (internal)
+    :link: cards-clickable
+    :link-type: ref
+
+    The entire card can be clicked to navigate to the ``cards`` reference target.
