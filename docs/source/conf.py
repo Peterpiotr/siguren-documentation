@@ -98,17 +98,17 @@ html_theme_options = {
 #    "table_classes": ["plain"],
 
     # Visible levels of the global TOC; -1 means unlimited
-#    'globaltoc_depth': 2,
+    'globaltoc_depth': 2,
     # If False, expand all TOC entries
-#    'globaltoc_collapse': True,
+    'globaltoc_collapse': True,
     # If True, show hidden TOC entries
-#    'globaltoc_includehidden': True,
+    'globaltoc_includehidden': True,
 
 }
 
-#html_sidebars = {
-#    "**": ["logo-text.html", "globaltoc.html", "localtoc.html", "searchbox.html"]
-#}
+html_sidebars = {
+    "**": ["logo-text.html", "globaltoc.html", "localtoc.html", "searchbox.html"]
+}
 
 html_use_index = True
 
