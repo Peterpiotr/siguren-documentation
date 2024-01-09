@@ -7,7 +7,7 @@ build:
 
 # Build from the docs/ directory with Sphinx
 sphinx:
-  configuration: docs/_source/conf.py
+  configuration: docs/source/conf.py
 
 # Build PDF & ePub
 formats:
