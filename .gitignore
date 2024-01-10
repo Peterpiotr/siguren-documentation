@@ -30,6 +30,7 @@ __pycache__/
 build/
 _build/
 siguren-doc-env/
+f5-agility-labs-template/
 develop-eggs/
 dist/
 downloads/
