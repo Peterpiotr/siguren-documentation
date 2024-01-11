@@ -6,4 +6,5 @@ readthedocs-sphinx-search==0.1.1
 sphinx-hoverxref
 sphinx-tags
 sphinx_design
+furo
 

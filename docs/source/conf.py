@@ -25,8 +25,6 @@ extensions = [
     'sphinx.ext.intersphinx',
     'sphinx.ext.autosectionlabel',
     'hoverxref.extension',
-#    'piccolo_theme',
-    'sphinx_material',
     'sphinx_tags',
     'sphinx_design',
 ]
@@ -49,9 +47,7 @@ numfig = True
 
 # -- Options for HTML output
 
-#html_theme = 'sphinx_rtd_theme'
-#html_theme = 'piccolo_theme'
-html_theme = 'sphinx_material'
+html_theme = 'sphinx_rtd_theme'
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
