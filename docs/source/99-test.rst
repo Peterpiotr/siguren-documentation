@@ -1,9 +1,12 @@
 ==========
-test page
+Test page
 ==========
 
-hhhhhhhhsdjfijsdfijfkdjlfxcjklhvklcjvsiodjfgsdiohfgsdiofh
-=========================================================
+Heading 1
+=========
+
+Heading 2
+---------
 
 .. tags:: tag1, tag2
 
@@ -13,22 +16,13 @@ hhhhhhhhsdjfijsdfijfkdjlfxcjklhvklcjvsiodjfgsdiohfgsdiofh
 
 
 
-kkkk lorem :hoverxref:`example-ref` 
+kkkkg lorem :hoverxref:`example-ref` 
 
 .. figure:: .png
 	:figwidth: 600 px
 	:align: center
 
 	General view
-
-more
-
-ok ss sss
-ss
-ce s
-ss
-doc
-dodossdd
 
 
 .. list-table:: 
@@ -115,7 +109,7 @@ The "rubric" directive inserts a "rubric" element into the document tree. A rubr
 
 
 +--------------------------+----------------------------+
-| **Navigation to screen** | Main screen ➔ Menu screen |
+| **Navigation to screen** | Main screen ➔ Menu screen  |
 +--------------------------+----------------------------+
 
 
@@ -136,23 +130,16 @@ Some other thext.
 
 
 
-.. rubric:: Footnotes
-
-.. [#f1] Text of the first footnote.
-
-
-
-
 .. figure:: docs/source/_img/Backup/backup-mode-off-on.PNG
     :target: https://siguren-documentation.readthedocs.io/en/0.1.1/99-test.html
 
 
 
-.. figure:: ../../_img/Backup/backup-down-up-control-off.png
-	:figwidth: 300 px
-	:align: center
+.. figure:: docs/source/_img/Backup/backup-down-up-control-off.png
+    :figwidth: 300 px
+    :align: center
 
-	End of lowering
+	  End of lowering
 
 :doc:`../../operation/regular/index`
   An introduction to Blender's window system, widgets and tools.

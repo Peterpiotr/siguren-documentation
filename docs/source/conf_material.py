@@ -36,28 +36,11 @@ tags_extension = ["rst", "ipynb"]
 
 templates_path = ['_templates']
 
-#numfig = True
+numfig = True
 
 # -- Options for HTML output
 
-html_theme = 'sphinx_rtd_theme'
-
-html_theme_options = {
-    #'analytics_id': 'G-XXXXXXXXXX',  #  Provided by Google in your dashboard
-    #'analytics_anonymize_ip': False,
-    'logo_only': True,
-    'display_version': True,
-    'prev_next_buttons_location': 'bottom',
-    'style_external_links': False,
-    'vcs_pageview_mode': '',
-    'style_nav_header_background': '#2439bb',
-    # Toc options
-    #'collapse_navigation': False,
-    'sticky_navigation': True,
-    #'navigation_depth': 4,
-    #'includehidden': False,
-    #'titles_only': False
-}
+html_theme = 'sphinx_material'
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
@@ -69,6 +52,42 @@ html_logo = '_img/Peter/siguren_logo_white.png'
 #html_favicon = os.path.join(html_theme_path[0], html_theme, 'static', 'img', 'favicon.ico')
 
 html_favicon = '_img/favicon.ico'
+
+html_theme_options = {
+# sphinx material theme options ----------------------------------------------------------------------
+
+    #"html_minify": False,
+    #"html_prettify": True,
+    #"css_minify": True,
+    #"logo_icon": "&#xe869",
+    #"repo_type": "github",
+    "color_primary": "2439bb",
+    "color_accent": "red",
+    "theme_color": "2439bb",
+    "master_doc": False,
+    'nav_title': 'MotoSuiveur® Solutions User Documentation',
+    "heroes": {
+        "index": "A fail-safety solution for your most demanding hoists.",
+        "troubleshooting/index": "Get out of tight situations.",
+    },
+    #"version_dropdown": True,
+    #"version_json": "_static/versions.json",
+    #"version_info": {
+    #    "Release": "https://bashtage.github.io/sphinx-material/",
+    #    "Development": "https://bashtage.github.io/sphinx-material/devel/",
+    #    "Release (rel)": "/sphinx-material/",
+    #    "Development (rel)": "/sphinx-material/devel/",
+    #},
+    "table_classes": ["plain"],
+
+    # Visible levels of the global TOC; -1 means unlimited
+    'globaltoc_depth': 2,
+    # If False, expand all TOC entries
+    'globaltoc_collapse': True,
+    # If True, show hidden TOC entries
+    'globaltoc_includehidden': True,
+
+}
 
 html_sidebars = {
     "**": ["logo-text.html", "globaltoc.html", "localtoc.html", "searchbox.html"]

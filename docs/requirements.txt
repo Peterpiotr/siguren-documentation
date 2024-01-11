@@ -1,10 +1,11 @@
 # Defining the exact version will make sure things don't break
 sphinx==7.2.6
 sphinx_rtd_theme
-sphinx-material==0.0.35
+#sphinx-material==0.0.35
+sphinx-material
 readthedocs-sphinx-search==0.1.1
 sphinx-hoverxref
 sphinx-tags
 sphinx_design
-furo
+#furo
 
