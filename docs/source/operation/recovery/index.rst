@@ -10,6 +10,7 @@ Backup and Recovery operation
    :maxdepth: 2
 
    recovery-operation
+   recovery-operation_v2
    backup-procedure
    backup-recovery-mode
    manual-service-brake-backup

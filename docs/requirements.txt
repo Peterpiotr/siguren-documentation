@@ -8,4 +8,17 @@ sphinx-hoverxref
 sphinx-tags
 sphinx_design
 #furo
+sphinx-typo3-theme
 
+# From Blender docs =================================
+Jinja2==3.1.2
+Pygments==2.16.1
+docutils==0.18.1
+snowballstemmer==2.2.0
+babel==2.13.0
+requests==2.31.0
+
+# Only for convenience, allows live updating while editing RST files.
+# Access by running:
+#   make livehtml
+sphinx-autobuild==2021.3.14

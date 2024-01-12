@@ -8,6 +8,9 @@ Heading 1
 Heading 2
 ---------
 
+pourquoi pas oui
+
+
 .. tags:: tag1, tag2
 
 .. seealso::
@@ -224,3 +227,68 @@ Cards Clickable
     :link-type: ref
 
     The entire card can be clicked to navigate to the ``cards`` reference target.
+
+.. list-table:: Mirror around the 3D Cursor.
+
+   * - .. figure:: _img/Regular-operations/MS-block-diagram-color_1.PNG
+          :width: 320px
+
+          before.
+  
+     - .. figure:: _img/Regular-operations/MS-block-diagram-color_1.PNG
+          :width: 320px
+
+          after.
+
+Heading 2
+^^^^^^^^^^
+
+Curve Preset
+   :Custom:
+      You can choose how the strength of the falloff is determined from the center of the brush
+      to the borders by manually manipulating the control points within the curve widget.
+      There are also a couple of preset custom curves displayed at the bottom of the curve widget
+      that can be used on their own or as a starting point for tweaking.
+
+      .. list-table:: Custom Preset types.
+
+         * - .. figure:: _img/Regular-operations/MS-block-diagram-color_1.PNG
+
+                Smooth.
+
+           - .. figure:: _img/Regular-operations/MS-block-diagram-color_1.PNG
+
+                Sphere.
+
+           - .. figure:: _img/Regular-operations/MS-block-diagram-color_1.PNG
+
+                Root.
+
+         * - .. figure:: _img/Regular-operations/MS-block-diagram-color_1.PNG
+
+                Sharp.
+
+           - .. figure:: _img/Regular-operations/MS-block-diagram-color_1.PNG
+
+                Linear.
+
+           - .. figure:: _img/Regular-operations/MS-block-diagram-color_1.PNG
+
+                Constant.
+
+The following standard selection operations are supported:
+
+- :kbd:`Reset` -- Single faces
+- :kbd:`Shift-Alt-LMB` -- Select more or remove them from the selection.
+- :kbd:`A` -- All faces, :kbd:`A A` to deselect.
+- :kbd:`B` -- Box selection.
+- :kbd:`C` -- Circle select with brush.
+- :kbd:`Ctrl-I` -- Invert selection.
+- :kbd:`L` -- Pick linked (under the mouse cursor).
+- :kbd:`Ctrl-L` -- Select linked.
+- :kbd:`Ctrl-NumpadPlus` -- Extend Selection
+- :kbd:`Ctrl-NumpadMinus` -- Shrink Selection
+
+.. figure:: _img/Regular-operations/MS-block-diagram-color_1.PNG
+
+   Vertex Selection masking.
