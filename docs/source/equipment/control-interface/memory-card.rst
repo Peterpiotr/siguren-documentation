@@ -1,13 +1,11 @@
-===============
-Memory card
-===============
+============
+Memory Card
+============
 
-.. include:: ../substitutions.rst
-
-.. ============================================================================================
+.. include:: /_img/_image-substitutions.rst
 
 .. note::
-	Source is :doc:`49104-15-001 Operation  Maintenance Manual Issue D (1).pdf`
+  From :download:`49104-15-001-Operation-Maintenance-Manual-Issue-D.pdf <../../_archives/49104-15-001-Operation-Maintenance-Manual-Issue-D.pdf>`
 
 IMD Drive PC Loading / Saving procedure
 ========================================
@@ -34,6 +32,8 @@ Saving an application on a PC
   - In the Project menu, click on Save as
   - In the window «Save project as», go to the save folder and enter the name of the project (e.g. : MyProject.IDW).
 
+.. this should be illustrated
+
 .. topic:: If you have the source project
 
   - In the welcome window, select Open project
@@ -43,6 +43,8 @@ Saving an application on a PC
   - Go into Communication \ Receive drive
   - In the selection window, tick Parameters, Variables, Saved data and Cams.
   - Click on Receive to start saving the drive in the PC project.
+
+.. this should be illustrated
 
 Application loading in the drive
 ----------------------------------

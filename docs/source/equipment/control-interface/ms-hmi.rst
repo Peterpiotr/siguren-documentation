@@ -87,7 +87,6 @@ Menu screen contains all submenus for setup, status and information of MS system
 .. Important::
    Access to some screens is password protected!
 
-.. _Menu Screen:
 .. figure:: ../../_img/HMI/menu-screen.PNG
 	:figwidth: 500 px
 
@@ -101,14 +100,13 @@ Menu screen contains all submenus for setup, status and information of MS system
    :class: tight-table
    :align: left
 
-MS variables Screen
+MS Variables Screen
 -------------------
 
 Screen MS variables displays and allows to changing variables that are stored in MS
 Controller memory. Variables are types **VL** (Long) in range 0 – 63 and type **VR** (Real) in
 range 0 - 63.
 
-.. _MS variables Screen:
 .. figure:: ../../_img/HMI/variables.PNG
 	:figwidth: 500 px
 
@@ -152,7 +150,6 @@ Based on current values of parameters is displayed what type of maintenance is n
 Maintenance type is displayed with letters A, B, C and D. Information regarding
 different types can be taken by pressing *Maintenance Info* button.
 
-.. _Maintenance Screen:
 .. figure:: ../../_img/HMI/maintenance.PNG
 	:figwidth: 500 px
 
@@ -175,11 +172,10 @@ different types can be taken by pressing *Maintenance Info* button.
 
 
 Self-test Screen
--------------------
+-----------------
 
 Screen Self-Test displays values from last MS system self-test. 
 
-.. _Self-test Screen:
 .. figure:: ../../_img/HMI/self-test.PNG
 	:figwidth: 500 px
 
@@ -201,7 +197,6 @@ Screen Event Records gives option to choose between 3 logging groups. Opening
 presents specific events of MS system. Every logging group stores last 10 events
 after restart or power loss of MSHMI.
 
-.. _Event record screen:
 .. figure:: ../../_img/HMI/logging-groups.PNG
 	:figwidth: 500 px
 
@@ -253,7 +248,6 @@ Version Screen
 Screen Version presents information about MS sytem: name of project, HMI firmware version, Software
 version and MS Controller firmware version.
 
-.. _Version Screen:
 .. figure:: ../../_img/HMI/system-information.PNG
 	:figwidth: 500 px
 
@@ -273,7 +267,6 @@ Language Screen
 
 Screen Language allows change of screen language.
 
-.. _Language Screen:
 .. figure:: ../../_img/HMI/language.PNG
 	:figwidth: 500 px
 
@@ -283,8 +276,6 @@ Screen Language allows change of screen language.
    :file: ../../_tables/HMI/language.csv
    :delim: ;
    :header-rows: 1
-   :widths: auto
-   :class: tight-table
    :align: left
 
 

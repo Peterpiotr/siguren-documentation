@@ -16,7 +16,7 @@ release = version
 
 # -- General configuration
 
-site_url = 'https://siguren-documentation.readthedocs.io/' 
+#site_url = 'https://siguren-documentation.readthedocs.io/' 
 
 extensions = [
     'sphinx.ext.duration',
@@ -28,7 +28,7 @@ extensions = [
     'hoverxref.extension',
     'sphinx_tags',
     'sphinx_design',
-    'sphinx_sitemap',
+    #'sphinx_sitemap',
 ]
 
 

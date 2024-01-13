@@ -81,12 +81,16 @@ Learn more about MotoSuiveur® Solutions components.
         MotoSuiveur® Recovery add-on
 
 .. toctree::
-  :maxdepth: 2
-  :hidden:
-  :caption: Equipment overview
+    :maxdepth: 2
+    :hidden:
+    :caption: Equipment overview
 
-  /equipment/control-interface/index
-  /equipment/ms-solution/index       
+    /equipment/ms-solution/index
+    /equipment/control-interface/index
+    /about/features
+    /about/ms-tech-overview
+    /about/risk-reduction
+
 
 
 Installation
@@ -343,6 +347,8 @@ Maintenance
   /maintenance/planned-maintenance/index
   /maintenance/spare-parts/index
   /maintenance/updates/index
+  /troubleshooting/troubleshooting-measures/index
+
   .. regulatory-testing
 
 Reference

@@ -21,7 +21,7 @@ pourquoi pas oui
 
 kkkkg lorem :hoverxref:`example-ref` 
 
-.. figure:: .png
+.. figure:: /_img/Backup/backup-down-up-control-off.png
 	:figwidth: 600 px
 	:align: center
 
@@ -133,112 +133,22 @@ Some other thext.
 
 
 
-.. figure:: docs/source/_img/Backup/backup-mode-off-on.PNG
+.. figure:: /_img/Backup/backup-mode-off-on.PNG
     :target: https://siguren-documentation.readthedocs.io/en/0.1.1/99-test.html
 
+    figure comment
 
 
-.. figure:: docs/source/_img/Backup/backup-down-up-control-off.png
+.. figure:: /_img/Backup/backup-down-up-control-off.png
     :figwidth: 300 px
     :align: center
 
-	  End of lowering
+    End of lowering
+
 
 :doc:`../../operation/regular/index`
   An introduction to Blender's window system, widgets and tools.
 
-
-Sections
-========
-
-.. only:: builder_html and (not singlehtml)
-
-   .. container:: toc-cards
-
-      .. container:: card
-
-         .. figure:: /_img/electricalConnections.png
-            :target: interface/index.html
-
-         :doc:`/about/features`
-            An introduction to Blender's window system, widgets and tools.
-
-      .. container:: card
-
-         .. figure:: /images/index_editors.jpg
-            :target: editors/index.html
-
-         :doc:`/editors/index`
-            Overview of the interface and functionality of all editors.
-
-      .. container:: card
-
-         .. figure:: /images/index_scene.jpg
-            :target: scene_layout/index.html
-
-         :doc:`/scene_layout/index`
-            Objects and their organization into scenes, view layers and collections.
-
-      .. container:: card
-
-
-.. grid:: 2 3 3 4
-
-    .. grid-item::
-
-        .. card:: Title
-            :img-background: /_img/electricalConnections.png
-            :class-card: sd-text-black
-            :img-alt: my text
-
-            Text
-
-    .. grid-item-card:: Title
-        :img-top: /_img/electricalConnections.png
-        :img-alt:
-
-        Header
-        ^^^
-        Content
-        +++
-        Footer
-
-    .. grid-item-card:: Title
-        :img-bottom: /_img/electricalConnections.png
-
-        Header
-        ^^^
-        Content
-        +++
-        Footer
-
-.. _cards-clickable:
-
-Cards Clickable
-...............
-
-.. card:: Clickable Card (external)
-    :link: https://example.com
-
-    The entire card can be clicked to navigate to https://example.com.
-
-.. card:: Clickable Card (internal)
-    :link: cards-clickable
-    :link-type: ref
-
-    The entire card can be clicked to navigate to the ``cards`` reference target.
-
-.. list-table:: Mirror around the 3D Cursor.
-
-   * - .. figure:: _img/Regular-operations/MS-block-diagram-color_1.PNG
-          :width: 320px
-
-          before.
-  
-     - .. figure:: _img/Regular-operations/MS-block-diagram-color_1.PNG
-          :width: 320px
-
-          after.
 
 Heading 2
 ^^^^^^^^^^

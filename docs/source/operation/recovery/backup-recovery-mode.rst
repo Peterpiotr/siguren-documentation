@@ -2,7 +2,7 @@
 Backup/Recovery mode
 ======================
 
-.. include:: ../../_img/_image-substitutions.rst
+.. include:: /_img/_image-substitutions.rst
 
 .. ========================================================================================
 
@@ -20,11 +20,11 @@ Controls and indicators of this function are located on the :doc:`control panel 
 Diagram below shows the principle of Backup/Recovery operation mode. 
 
 .. _Principle of Backup/Recovery operation :
-.. figure:: ../../_img/Peter/backup-mode-02.png
+.. figure:: /_img/Peter/backup-mode-02.png
     :align: center
     :figwidth: 600 px
 
-	Principle of Backup/Recovery operation 
+    Principle of Backup/Recovery operation 
 
 Backup/Recovery decision figures located in on principle diagram with dotted outline, 
 represent the places where request for these operation modes are checked. 
@@ -46,7 +46,7 @@ In cases where the hoist control chain is damaged, control can be performed manu
 located :doc:`control panel front door <../../equipment/control-interface/control-panel>` or directly on control terminals via a wire bridge. 
 
 .. _Example for manual operation in backup mode:
-.. figure:: ../../_img/Peter/backup-mode-01.png
+.. figure:: /_img/Peter/backup-mode-01.png
 	:align: center
 
 	Example for manual operation in backup mode 
@@ -66,10 +66,11 @@ Recovery operation mode
 
 Recovery mode is second part of Backup/Recovery operation. 
 
-This mode starts operating the way shown on :numref:`Principle of Backup/Recovery operation`.
+This mode starts operating the way shown on `Principle of Backup/Recovery operation`.
+.. do not use these references anymore?
 
 After reset of MotoSuiveur® System, MS Controller checks for active Backup/Recovery mode request (:guilabel:`🔑 Backup/Recovery Off/On` is **ON**). 
-If request is active 7–segment display shows |image041| :guilabel:`🟠 Backup/Recovery Mode` is iluminated and 
+If request is active 7–segment display shows |image041| :guilabel:`🟠 Backup/Recovery Mode` and 
 :doc:`automatic recovery engagement <../../operation/recovery/automatic-recovery-engagement>` start. 
 
 Completion of **ENGAGEMENT** is indicated by :guilabel:`🟢 Recovery Engaged` indication lamp. 
@@ -86,6 +87,7 @@ After succesfull engagement of MS-IRD follow steps for :doc:`recovery operation 
     please make sure that this operation mode is not activated remotely. 
     
 The verification consists of the following steps:
+.. make into instructions
 
 - :guilabel:`🟢 Backup/Recovery` and :guilabel:`🟢 Recovery engaged` lamp are **NOT ON**,
 - :guilabel:`🔑 Backup/Recovery Off/On` is in position **OFF**,

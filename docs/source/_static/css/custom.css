@@ -57,3 +57,41 @@ table.docutils {
     max-width: 100%;
     display: table;
 }
+
+/*
+ol > li::marker {
+    color: #2439bb; 
+    font-weight: bold;
+    font-size: 1.5em;
+}
+*/
+
+ol {
+    list-style: none !important; /* Removes default list markers */
+    counter-reset: item; /* Creates a new instance of the counter */
+    padding-left: 0; /* Adjust padding as needed */
+}
+
+ol > li {
+    counter-increment: item; /* Increment the counter */
+    position: relative; /* Needed for absolute positioning of the pseudo-element */
+    padding-left: 30px; /* Space for the circled number */
+}
+
+ol > li::before {
+    content: counter(item); /* Display the counter as content */
+    position: absolute; /* Position it absolutely relative to the li */
+    left: 0; /* Position at the start of the li */
+    top: 0; /* Align with the top of the li */
+    width: 20px; /* Size of the circle */
+    height: 20px; /* Size of the circle */
+    border-radius: 50%; /* Makes the shape a circle */
+    background-color: blue; /* Circle color */
+    color: white; /* Text color */
+    text-align: center; /* Center the number horizontally */
+    line-height: 20px; /* Center the number vertically */
+    font-weight: bold; /* Optional: makes the number bold */
+}
+
+
+

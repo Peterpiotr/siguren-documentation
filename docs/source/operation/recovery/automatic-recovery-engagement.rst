@@ -19,29 +19,30 @@ To perform Automatic recovery engagement follow the sequence:
 .. why? in which situation? 
 
 Instructions
-	**1.** Electrical power of MotoSuiveur® System and MS-IRD is **ON**.
 
-	.. This is not a user action
+1. Electrical power of MotoSuiveur® System and MS-IRD is **ON**.
 
-	**2.** Switch :guilabel:`🔑 Recovery Mode Off | On` to position **ON**.
+.. This is not a user action
 
-	.. figure:: ../../_img/Recovery/recovery-switch-on.png
-		:figwidth: 600 px
-		:class: instructionimg
+2. Switch :guilabel:`🔑 Recovery Mode Off | On` to position **ON**.
 
-		Activating recovery mode
+.. figure:: ../../_img/Recovery/recovery-switch-on.png
+	:figwidth: 600 px
+	:class: instructionimg
 
-		- The :guilabel:`🟠 Recovery Mode` indicator light comes on.
+	Activating recovery mode
 
-	.. figure:: ../../_img/Recovery/recovery-indicator-on.png
-		:figwidth: 600 px
-		:class: instructionimg
+	- The :guilabel:`🟠 Recovery Mode` indicator light comes on.
 
-		Recovery mode light indicator
+.. figure:: ../../_img/Recovery/recovery-indicator-on.png
+	:figwidth: 600 px
+	:class: instructionimg
 
-		- MS Controller 7-segment display indicates recovery mode - |image041|.
+	Recovery mode light indicator
 
-	**3.** Wait for :guilabel:`🟢Recovery engaged` light indicator to come on.
+- MS Controller 7-segment display indicates recovery mode - |image041|.
+
+3. Wait for :guilabel:`🟢Recovery engaged` light indicator to come on.
 
 	.. figure:: ../../_img/Recovery/recovery-engaged-on.png
 		:figwidth: 600 px
@@ -49,7 +50,7 @@ Instructions
 
 		Recovery engaged
 
-	- **Automatic recovery engagement is completed.**
+4. **Automatic recovery engagement is completed.**
 
 ..
 
@@ -116,7 +117,7 @@ Instructions
 
 		Recovery engaged SMD
 
-	- Automatic recovery engagement is complete.
+	6. Automatic recovery engagement is complete.
 
 	.. what is the signal that confirms it
 
