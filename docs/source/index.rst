@@ -356,6 +356,7 @@ Reference
    faq
    glossary
    external-links
+   sitemap
 
 How-Tos
 ===========
@@ -391,7 +392,7 @@ How-Tos
 .. toctree::
   :maxdepth: 2
   :hidden:
-  :caption: How to
+  :caption: How tos
 
   /howto/remove-ms-worm
   /howto/recovery-gravity-lowering

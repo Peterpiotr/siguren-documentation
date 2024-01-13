@@ -16,6 +16,7 @@ release = version
 
 # -- General configuration
 
+site_url = 'https://siguren-documentation.readthedocs.io/' 
 
 extensions = [
     'sphinx.ext.duration',
@@ -27,7 +28,7 @@ extensions = [
     'hoverxref.extension',
     'sphinx_tags',
     'sphinx_design',
-    'sphinx_typo3_theme',
+    'sphinx_sitemap',
 ]
 
 
@@ -41,8 +42,7 @@ templates_path = ['_templates']
 
 # -- Options for HTML output
 
-#html_theme = 'sphinx_rtd_theme'
-html_theme = 'sphinx_typo3_theme'
+html_theme = 'sphinx_rtd_theme'
 
 html_theme_options = {
     #'analytics_id': 'G-XXXXXXXXXX',  #  Provided by Google in your dashboard
@@ -85,7 +85,7 @@ html_static_path = ['_static']
 # or fully qualified paths (eg. https://...)
 html_css_files = [
     'css/custom.css',
-    ('print.css', {'media': 'print'}) # modifies pdf output?? 
+    #('print.css', {'media': 'print'}) # modifies pdf output?? 
 ]
 
 latex_elements = {

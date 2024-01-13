@@ -71,14 +71,14 @@ Instructions
 
 	Assembly of manual handle
 
-5. Mount the manual handle on the MotoSuiveur® Unit :mechpart:`worm shaft`.
+5. Mount the manual handle on the MotoSuiveur® Unit worm shaft.
 
 .. _Mount the manual handle on the MS: 
 .. figure:: ../../_img/Backup/manual-handle-mounted-removebg-preview.png
 	:figwidth: 400 px
 	:align: center
 
-	Mount the manual handle on :mechpart:`worm shaft`
+	Mount the manual handle on worm shaft
 
 6. The operator n°1 opens the service brake step by step (to allow the lowering of the load by gravity without exceeding a certain speed, in which case the MS blocks). 
 Meanwhile, the other operator n°2 should follow the movement by rotating the handle.

@@ -12,6 +12,11 @@ img {
 }
 
 
+img.instructionimg {
+    padding: 0.5rem;
+    border: 1px solid grey;
+}
+
 :root {
     --mainNavColor: #2439bb !important;
 }
@@ -37,3 +42,18 @@ img {
     margin:auto 2px;
 }
 
+.wy-table-responsive table td, 
+.wy-table-responsive table th {
+    white-space: normal;
+}
+
+.wy-table-responsive {
+    overflow: hidden;
+    overflow-x: auto;
+}
+
+table.docutils {
+    width: 100%;
+    max-width: 100%;
+    display: table;
+}

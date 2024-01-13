@@ -30,7 +30,7 @@ and the MotoSuiveur® Unit can be accessed and used in the emergency situation t
 Forced MotoSuiveur® recovery
 ---------------------------
 
-With the hoist brake open and the MotoSuiveur® Unit holding the load, rotate the MS :mechpart:`worm shaft` with considerable torque. 
+With the hoist brake open and the MotoSuiveur® Unit holding the load, rotate the MS worm shaft with considerable torque. 
 In this situation the MotoSuiveur® Unit moves the load.
 This way, a very high amount of torque must be applied on the MS shaft (approximately 1/8 of the barrel torque).
 
@@ -45,7 +45,7 @@ Instructions
 ^^^^^^^^^^^^
 
 1. Open the hoist brake
-2. Rotate the :mechpart:`worm shaft` **only in anticlockwise direction** with the **following torque** to lower the SWL. 
+2. Rotate the worm shaft **only in anticlockwise direction** with the **following torque** to lower the SWL. 
 3. Maximum values shown in :numref:`Forced MS Recovery method max torques`.
 
 .. _Forced MS recovery:
