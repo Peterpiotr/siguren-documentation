@@ -37,8 +37,8 @@ the following indicators are active - :guilabel:`🟢 Hoist enabled`, :guilabel:
    Active indicators in following state
 
 The following process is started after pressing the buttons to operate the hoist up or down. 
-If a limit switch prohibiting upward movement is activated during movement, the :guilabel:`🟢 Upward Enable` indicator becomes inactive - :numref:`Upward movement prohibited`. 
-In this state, no upward movement of the crane is allowed, and a short downward movement is required until the MS worm is cantered :numref:`Active indicators in following state`.
+If a limit switch prohibiting upward movement is activated during movement, the :guilabel:`🟢 Upward Enable` indicator becomes inactive - `Upward movement prohibited`. 
+In this state, no upward movement of the crane is allowed, and a short downward movement is required until the MS worm is cantered `Active indicators in following state`.
 
 .. _Upward movement prohibited:
 .. figure:: ../../_img/Regular-operations/indicators-following-state.png
@@ -47,8 +47,8 @@ In this state, no upward movement of the crane is allowed, and a short downward 
 
    Upward movement prohibited
 
-Accordingly, if the limit switch prohibiting downward movement is activated during movement, the :guilabel:`🟢 Downward Enable` indicator becomes inactive – :numref:`Downward movement prohibited`. 
-In this state, no downward movement of the crane is allowed, and a short upward movement is required until the MS worm is cantered – :numref:`Active indicators in following state`.
+Accordingly, if the limit switch prohibiting downward movement is activated during movement, the :guilabel:`🟢 Downward Enable` indicator becomes inactive – `Downward movement prohibited`. 
+In this state, no downward movement of the crane is allowed, and a short upward movement is required until the MS worm is cantered – `Active indicators in following state`.
 
 .. _Downward movement prohibited:
 .. figure:: ../../_img/Regular-operations/downward-prohibited.png
@@ -88,7 +88,7 @@ After MotoSuiveur® system enters a fault state, an operator (authorized personn
 Once the cause of the failure has been identified and resolved, a :doc:`Reset <../../operation/regular/system-reset>` of the MotoSuiveur® system is required. 
 After a successful self-test following a reset of MS system, it enters in following mode.
 
-Figure :numref:`Main principle of following operation mode and overspeed detection` 
+Figure `Main principle of following operation mode and overspeed detection` 
 present the main principle of Following operation mode (upper part) and Overspeed detection (lower part). 
 MotoSuiveur® system follows hoist/crane movement until overspeed is detected.
 When overspeed is detected, MotoSuiveur® system **trips** and mechanicaly lockes hoist/crane
@@ -118,7 +118,7 @@ MS Controller display
 
 .. _MS Controller 7-segment display:
 
-:numref:`Symbols displayed on 7-segment display on MS controller` shows the 
+`Symbols displayed on 7-segment display on MS controller` shows the 
 symbols displayed on 7–segment display during Following operation mode in Rest.
 During Rest differend messages can be displayed on 7-segment display.
 They are active only during Rest.
@@ -132,7 +132,7 @@ They are active only during Rest.
    :class: tight-table
    :align: center
 
-:numref:`Symbols displayed on 7-segment display on MS controller during movement` shows the 
+`Symbols displayed on 7-segment display on MS controller during movement` shows the 
 symbols displayed on 7–segment display during following operation mode during movement.
 
 .. _Symbols displayed on 7-segment display on MS controller during movement:

@@ -9,4 +9,3 @@ Controls installation
   connect-ms-control-cabinet
   setting-drive
   multiple-ms
-  tl-assembly

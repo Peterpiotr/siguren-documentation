@@ -9,11 +9,13 @@ Backup and Recovery Operation
 .. toctree::
    :maxdepth: 2
 
+   recovery-operation
+   recovery-overview
    recovery-operation_v2
    backup-procedure
    backup-recovery-mode
    manual-service-brake-backup
-   manual-service-brake-MotoSuiveur®-backup
+   manual-service-brake-motosuiveur-backup
    forced-lowering-backup
    electrical-automatic-backup 
    automatic-recovery-engagement

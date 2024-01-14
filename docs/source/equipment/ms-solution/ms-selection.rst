@@ -14,7 +14,7 @@ MotoSuiveur® Unit selection
 Arrest type selection
 -----------------------
 
-.. figure:: ../../_img/ms-selection-01.png
+.. figure:: ../../_img/Peter/ms-selection-01.png
 	:scale: 100 %
 	:align: center
 
@@ -27,7 +27,7 @@ The main criterion is the arrest torque at full speed |Vmax|.
 
 The starting point to define this torque is the full load static torque at the drum (or at the MS wheel) |Cs|, without taking into account the efficiency.
 
-.. figure:: ../../_img/ms-selection-02.png
+.. figure:: ../../_img/Peter/ms-selection-02.png
 	:scale: 100 %
 	:align: center
 

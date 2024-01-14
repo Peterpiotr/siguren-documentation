@@ -33,15 +33,15 @@ This way, a very high amount of torque must be applied on the MS shaft (approxim
 
 Using the following hardware:
 
-- :doc:`Portable Recovery Tool <../../ms-solution/rec-addons.rst>` for sizes MS4 - MS7, or
-- :doc:`Handheld Recovery Tool <../../ms-solution/rec-addons.rst>` for sizes MS0 - MS3
+- :doc:`Portable Recovery Tool <../../equipment/ms-solution/rec-addons>` for sizes MS4 - MS7, or
+- :doc:`Handheld Recovery Tool <../../equipment/ms-solution/rec-addons>` for sizes MS0 - MS3
 
-For MS with :doc:`Integrated Remote Recovery` the hardware is integrated and is remotely operated.
+For MS with Integrated Load Recovery the hardware is integrated and is remotely operated.
 
 Instructions
   1. Open the hoist brake
   2. Rotate the worm shaft **only in anticlockwise direction** with the **following torque** to lower the SWL. 
-  3. Maximum values shown in :numref:`Forced MS Recovery method max torques`.
+  3. Maximum values shown in `Forced MS Recovery method max torques`.
 
 .. _Forced MS recovery:
 .. figure:: ../../_img/Recovery/forced-ms-recovery.jpg

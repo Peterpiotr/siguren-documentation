@@ -1,6 +1,6 @@
-============
-Load arrest
-============
+===========
+Load Arrest
+===========
 
 The MotoSuiveur® Unit is a failsafe **mechanical** hoist arrester. 
 MotoSuiveur® Unit protects against failures in hoist drive trains that would otherwise lead to dropped loads or overloads.
@@ -15,8 +15,7 @@ The reasons for MotoSuiveur® system load arrest can be various such as:
 
 .. _MS load arrest:
 .. figure:: ../../_img/Load-arrest/load-arrest.JPG
-	:figwidth: 600 px
-	:align: center
+	:figwidth: 100 %
 
 	MotoSuiveur® Unit load arrest
 
@@ -25,7 +24,6 @@ The reasons for MotoSuiveur® system load arrest can be various such as:
 
 
 
-============
 Re-engaging
 ============
 

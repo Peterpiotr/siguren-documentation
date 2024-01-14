@@ -1,6 +1,6 @@
-==================
+=========================
 What is MotoSuiveur® Unit
-==================
+=========================
 
 .. include:: ../../_img/_image-substitutions.rst
 
@@ -20,10 +20,10 @@ In addition to the MotoSuiveur® Unit, a torque limiter is put in the drive-trai
 
 
 Description of components
-======================
+=========================
 
 Hydraulic Damping MotoSuiveur®
------------------------------
+-------------------------------
 
 .. figure:: ../../_img/MS_Unit/hydraulic-ms.PNG
    :figwidth: 600 px
@@ -57,7 +57,7 @@ Friction MotoSuiveur®
 
 
 Principle of MotoSuiveur® System
----------------------
+---------------------------------
 
 
 The MS wheel is internally splined and is connected to a splined shaft attached to the crane drive train to transmit torque via plain bearings 
@@ -76,7 +76,7 @@ Finally, to complete the moment couple between the drum shaft and the MS unit, a
 
 
 MotoSuiveur® Unit size
----------------------
+-----------------------
 
 .. _MotoSuiveur® Unit arrest torque table:
 .. csv-table:: MotoSuiveur® Unit arrest torque table
@@ -89,7 +89,7 @@ MotoSuiveur® Unit size
 
 
 Interfacing MotoSuiveur® System with hoist
-======================
+==========================================
 
 Mechanical interface with hoist
 -------------------------------

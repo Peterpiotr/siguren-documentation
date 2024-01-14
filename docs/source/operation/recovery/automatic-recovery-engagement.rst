@@ -18,41 +18,41 @@ To perform Automatic recovery engagement follow the sequence:
 
 .. why? in which situation? 
 
-Instructions
+Steps
+	1. Electrical power of MotoSuiveur® System and MS-IRD is **ON**.
 
-1. Electrical power of MotoSuiveur® System and MS-IRD is **ON**.
+		.. This is not a user action
 
-.. This is not a user action
+	2. Switch :guilabel:`🔑 Recovery Mode Off | On` to position **ON**.
 
-2. Switch :guilabel:`🔑 Recovery Mode Off | On` to position **ON**.
+		.. figure:: ../../_img/Recovery/recovery-switch-on.png
+			:figwidth: 600 px
+			:class: instructionimg
 
-.. figure:: ../../_img/Recovery/recovery-switch-on.png
-	:figwidth: 600 px
-	:class: instructionimg
+			Activating recovery mode
 
-	Activating recovery mode
+			- The :guilabel:`🟠 Recovery Mode` indicator light comes on.
 
-	- The :guilabel:`🟠 Recovery Mode` indicator light comes on.
+		.. figure:: ../../_img/Recovery/recovery-indicator-on.png
+			:figwidth: 600 px
+			:class: instructionimg
 
-.. figure:: ../../_img/Recovery/recovery-indicator-on.png
-	:figwidth: 600 px
-	:class: instructionimg
+			Recovery mode light indicator
 
-	Recovery mode light indicator
+		- MS Controller 7-segment display indicates recovery mode - |image041|.
 
-- MS Controller 7-segment display indicates recovery mode - |image041|.
+	3. Wait for :guilabel:`🟢Recovery engaged` light indicator to come on.
 
-3. Wait for :guilabel:`🟢Recovery engaged` light indicator to come on.
+		.. figure:: ../../_img/Recovery/recovery-engaged-on.png
+			:figwidth: 600 px
+			:class: instructionimg
 
-	.. figure:: ../../_img/Recovery/recovery-engaged-on.png
-		:figwidth: 600 px
-		:class: instructionimg
+			Recovery engaged
 
-		Recovery engaged
+	4. **Automatic recovery engagement is completed.**
 
-4. **Automatic recovery engagement is completed.**
-
-..
+	.. what confims this?
+	.. let the final step not be an action?
 
 	.. note::
 		Upon engagement, you will hear a light knocking sound.
@@ -68,16 +68,15 @@ Automatic Recovery Engagement for MotoSuiveur® System with **MSCD** MS Controll
 
 To perform Automatic recovery engagement follow the sequence:
 
-Instructions
+Steps
 	1. Electrical power of MotoSuiveur® System and MS-IRD is **on**.
 
 	..
 
 	2. Switch :guilabel:`🔑 Backup/Recovery Mode Off | On` to position **ON**.
-
+	
 	The :guilabel:`🟠 Backup/Recovery Mode` indicator light illuminate.
 	MS Controller 7-segment display indicates **Backup mode** - |image058|.
-
 
 	.. figure:: ../../_img/Recovery/backup-recovery-on.PNG
 		:figwidth: 200 px

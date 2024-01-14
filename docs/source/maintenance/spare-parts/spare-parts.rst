@@ -9,7 +9,7 @@ Spare parts
 
 
 .. note::
-    Based on :download:`Using the MS Recovery Capabilities <../archives/using-the-ms-recovery-capabilities-02.docx>`
+    Based on :download:`Using the MS Recovery Capabilities <../../_archives/using-the-ms-recovery-capabilities-02.docx>`
 
 .. csv-table:: Mechanical Spares MS6
    :file: tables/mechanical-spares-ms6.csv

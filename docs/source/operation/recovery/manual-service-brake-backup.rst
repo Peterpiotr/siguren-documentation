@@ -52,7 +52,7 @@ Backup mode gravity lowering is methos for semi-automated lowering. Manual openi
 Backup mode allows following with limited speed and no fault detection.
 
 Instructions
-	1. Switch on the MotoSuiveur® System to :doc:`Backup Mode <../../recovery/backup-procedure>`.
+	1. Switch on the MotoSuiveur® System to :doc:`Backup Mode <backup-procedure>`.
 
 	.. figure:: ../../_img/Backup/switch-on-backup.png
 		:figwidth: 100 %
@@ -143,7 +143,7 @@ Instructions
 
 
 Automated backup gravity lowering with controlling hoist brake by MotoSuiveur® System
-------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
 
 This type of gravity lowering is fully automated and controlled by MotoSuiveur® system.
 MotoSuiveur® system opens hoist main brake and follow load moving by gravitation.

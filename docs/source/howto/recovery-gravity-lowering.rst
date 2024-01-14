@@ -29,8 +29,7 @@ used in the emergency situation that requires the recovery.
 For MS with Integrated Remote Recovery the hardware is integrated and is
 remotely operated.
 
-2. **MS followed gravity lowering
-   **
+2. **MS followed gravity lowering**
 
 **2a)- Step lowering:**
 

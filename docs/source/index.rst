@@ -162,7 +162,7 @@ Learn more about the process of integrating a MotoSuiveur® Solution into an exi
 
 * **Installation on existing hoist**:
   :doc:`/installation/mechanical-installation/installation-on-existing-hoist` |
-  :doc:`/installation/mechanical-installation/setting-drive` 
+  :doc:`/installation/controls-installation/setting-drive` 
 
 
 .. toctree::
@@ -213,10 +213,10 @@ Operation
     .. grid-item-card::
         :img-top: _img/Index/self-test.PNG
         :link-type: doc
-        :link: docs/source/operation/regular/self-test
+        :link: operation/regular/self-test
         :text-align: center
 
-        MotoSuiveur® Systrem self-test
+        MotoSuiveur® System self-test
 
     .. grid-item-card::
         :img-top: _img/Index/following.jpg
@@ -348,8 +348,9 @@ Maintenance
   /maintenance/spare-parts/index
   /maintenance/updates/index
   /troubleshooting/troubleshooting-measures/index
+  /troubleshooting/diagnostics/index
 
-  .. regulatory-testing
+.. regulatory-testing
 
 Reference
 ===========

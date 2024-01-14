@@ -3,7 +3,7 @@ Assembly of the torque limiter
 =================================
 
 .. note::
-	Source: :download:`User Manual-7.4.doc`
+	From **User Manual-7.4.doc**
 
 .. important::
     Assembly must be done by qualified operators.
@@ -18,17 +18,15 @@ The torque limiter coupling is made of:
     - The duplex coupling chain
     - The driving hub
 
-.. figure:: ../../_img/tl-assembly-01.png
+.. figure:: ../../_img/Peter/tl-assembly-01.png
     :figwidth: 600 px
-    :align: center  
     
     MS torque limiter
 
 The cylinder of the limiter part contains helical springs which create the pressure force applied to the friction linings.
 
-.. figure:: ../../_img/tl-assembly-02.png
+.. figure:: ../../_img/Peter/tl-assembly-02.png
     :figwidth: 600 px
-    :align: center  
     
     MS torque limiter - Limiter part
 

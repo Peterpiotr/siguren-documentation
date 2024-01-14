@@ -1,14 +1,11 @@
 ======================================================
-Manual service brake and MotoSuiveur® backup procedure
+Manual Service Brake and MotoSuiveur® Backup Procedure
 ======================================================
-
 
 .. include:: ../../_img/_image-substitutions.rst
 
 .. role:: mechpart
    :class: mechpart
-
-.. ====================================================================================================================
 
 .. important::
   This procedure has to be followed in case of one MotoSuiveur® Unit servo motor is defective.
