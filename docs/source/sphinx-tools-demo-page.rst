@@ -1,9 +1,11 @@
-=======================
-Sphinx Tools Demo Page
-=======================
+============================
+Sphinx Tools Demo Page (Dev)
+============================
 
 Heading 1
 =========
+
+Content
 
 Heading 2
 ---------
@@ -15,7 +17,7 @@ Heading 2
 
 .. seealso::
 
-  saidaosfhjfh
+  seealso content
 
 
 
@@ -28,8 +30,6 @@ Heading 2
 	General view
 
 
-.. example-ref:
-  ping-pong
 
 .. list-table:: 
    :widths: 5 95

@@ -14,8 +14,6 @@ Equipment overview
 
 Learn more about MotoSuiveur® Solutions components.
 
-* **MotoSuiveur® System components**:
-
 .. grid:: 3
     :gutter: 2
     
@@ -43,10 +41,6 @@ Learn more about MotoSuiveur® Solutions components.
 
         Torque limiter add-on
 
-
-
-* **Control interfaces**:
-
 .. grid:: 3
     :gutter: 2
     
@@ -66,8 +60,6 @@ Learn more about MotoSuiveur® Solutions components.
 
         MSHMI
 
-
-* **MotoSuiveur® Recovery Add-ons**:
 
 .. grid:: 3
     :gutter: 2
@@ -98,8 +90,6 @@ Installation
 
 Learn more about the process of integrating a MotoSuiveur® Solution into an existing or new hoist design.
 
-* **Electrical connections**:
-
 .. grid:: 3
     :gutter: 2
     
@@ -126,10 +116,6 @@ Learn more about the process of integrating a MotoSuiveur® Solution into an exi
         :text-align: center
 
         Installing multiple MotoSuiveur® Units 
-
-
-
-* **Logistics**:
 
 .. grid:: 3
     :gutter: 2
@@ -176,8 +162,6 @@ Learn more about the process of integrating a MotoSuiveur® Solution into an exi
 
 Operation
 ===========
-
-* **Regular operation**:
 
 .. grid:: 3
     :gutter: 2
@@ -227,9 +211,6 @@ Operation
         MotoSuiveur® System Following Mode
 
 
-
-* **Load arrest**:
-
 .. grid:: 3
     :gutter: 2
     
@@ -249,8 +230,6 @@ Operation
 
         MotoSuiveur® Systrem re-engaging
 
-
-* **Backup and Recovery operations**:
 
 .. grid:: 3
     :gutter: 2
@@ -352,19 +331,6 @@ Maintenance
 
 .. regulatory-testing
 
-Reference
-===========
-
-.. toctree::
-   :maxdepth: 2
-   :hidden:
-   :caption: Reference
-
-   faq
-   glossary
-   external-links
-   sitemap
-   sphinx-tools-demo-page
 
 How-Tos
 ===========
@@ -404,3 +370,16 @@ How-Tos
 
   /howto/remove-ms-worm
   /howto/recovery-gravity-lowering
+
+
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Reference
+
+   faq
+   glossary
+   external-links
+   sitemap
+   sphinx-tools-demo-page

@@ -19,17 +19,18 @@ release = version
 #site_url = 'https://siguren-documentation.readthedocs.io/' 
 
 extensions = [
-    'sphinx.ext.duration',
-    'sphinx.ext.doctest',
-    'sphinx.ext.autodoc',
-    'sphinx.ext.autosummary',
-    'sphinx.ext.intersphinx',
-    'sphinx.ext.autosectionlabel',
-    'hoverxref.extension',
-    'sphinx_tags',
-    'sphinx_design',
-    #'sphinx_sitemap',
+    #'sphinx.ext.duration',          # Measures the duration of the Sphinx build process.
+    #'sphinx.ext.doctest',           # Tests snippets in the documentation by running them as Python doctests.
+    #'sphinx.ext.autodoc',           # Automatically generates documentation from docstrings in your Python source code files.
+    #'sphinx.ext.autosummary',       # Generates summary tables for modules/classes/methods/etc. in your documentation.
+    #'sphinx.ext.intersphinx',       # Links to the documentation of other projects, useful for cross-referencing external Sphinx documentation.
+    #'sphinx.ext.autosectionlabel',  # Automatically creates labels for each section header.
+    'hoverxref.extension',          # Adds tooltip previews for cross-references in the documentation.
+    'sphinx_tags',                  # Adds support for conditional tags in documentation (enables content to be included/excluded based on tags).
+    'sphinx_design',                # Provides additional design elements and layout options for Sphinx documentation.
+    # 'sphinx_sitemap',             # Generates a sitemap.xml file for the documentation for SEO purposes.
 ]
+
 
 
 tags_create_tags = True
