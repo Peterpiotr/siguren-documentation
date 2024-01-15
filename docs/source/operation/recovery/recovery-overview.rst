@@ -38,25 +38,24 @@ Using the following hardware:
 
 For MS with Integrated Load Recovery the hardware is integrated and is remotely operated.
 
-Instructions
+Steps
   1. Open the hoist brake
   2. Rotate the worm shaft **only in anticlockwise direction** with the **following torque** to lower the SWL. 
   3. Maximum values shown in `Forced MS Recovery method max torques`.
 
-.. _Forced MS recovery:
-.. figure:: ../../_img/Recovery/forced-ms-recovery.jpg
-	:figwidth: 600 px
+   .. figure:: ../../_img/Recovery/forced-ms-recovery.jpg
+      :figwidth: 600 px
+      :class: instructionimg
+      
+      Forced recovery
 
-	Forced recovery
-
-.. _Forced MS Recovery method max torques:
-.. csv-table:: Forced MS Recovery method max torques
-   :file: ../../_tables/forcedRecoveryTorque.csv
-   :delim: ,
-   :header-rows: 1
-   :widths: auto
-   :class: tight-table
+   .. csv-table:: Forced MS Recovery method max torques
+      :file: ../../_tables/forcedRecoveryTorque.csv
+      :delim: ,
+      :header-rows: 1
+      :widths: auto
+      :class: tight-table
 
 
-.. important::
-	Indicative barrel speed: 0.1 - 0.3 rpm
+   .. important::
+      Indicative barrel speed: 0.1 - 0.3 rpm

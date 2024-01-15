@@ -51,7 +51,7 @@ Steps
 
 	4. **Automatic recovery engagement is completed.**
 
-	.. what confims this?
+	.. what confirm this?
 	.. let the final step not be an action?
 
 	.. note::
@@ -84,9 +84,9 @@ Steps
 
 		Activating Backlup/Recovery mode
 
-
+	
 	.. figure:: ../../_img/Recovery/backup-recovery-indicator-on.PNG
-		:figwidth: 200 px
+		:figwidth: 300 px
 		:class: instructionimg
 
 		Backup/Recovery mode light indicator

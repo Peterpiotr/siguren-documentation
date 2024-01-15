@@ -9,8 +9,9 @@ year = datetime.datetime.now().year
 copyright = f'{year}, SIGUREN technologies Ltd.'
 author = 'SIGUREN technologies Ltd.'
 
-master_doc = "index"
-version = '0.1.x'
+#master_doc = 'index'
+master_doc = 'index_alt1'
+version = '0.1.x_dev'
 release = version 
 
 
