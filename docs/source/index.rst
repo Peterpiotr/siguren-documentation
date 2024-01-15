@@ -204,7 +204,7 @@ Operation
         :link: operation/regular/controller-internal-check
         :text-align: center
 
-        MS Controller internal check
+        MS Controller Internal Check
 
 
 .. grid:: 3
@@ -216,7 +216,7 @@ Operation
         :link: operation/regular/self-test
         :text-align: center
 
-        MotoSuiveur® System self-test
+        MotoSuiveur® System Self-Test
 
     .. grid-item-card::
         :img-top: _img/Index/following.jpg
@@ -224,7 +224,7 @@ Operation
         :link: operation/regular/following
         :text-align: center
 
-        MotoSuiveur® Systrem following mode
+        MotoSuiveur® System Following Mode
 
 
 
@@ -364,6 +364,7 @@ Reference
    glossary
    external-links
    sitemap
+   sphinx-tools-demo-page
 
 How-Tos
 ===========

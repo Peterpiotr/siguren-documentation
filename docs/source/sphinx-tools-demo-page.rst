@@ -1,6 +1,6 @@
-==========
-Test page
-==========
+=======================
+Sphinx Tools Demo Page
+=======================
 
 Heading 1
 =========
@@ -8,7 +8,7 @@ Heading 1
 Heading 2
 ---------
 
-pourquoi pas oui
+➔ test➔ test➔ test➔ test➔ test➔ test
 
 
 .. tags:: tag1, tag2
@@ -19,14 +19,17 @@ pourquoi pas oui
 
 
 
-kkkkg lorem :hoverxref:`example-ref` 
+:hoverxref:`example-ref` 
 
 .. figure:: /_img/Backup/backup-down-up-control-off.png
 	:figwidth: 600 px
-	:align: center
+	:class: instructionimg
 
 	General view
 
+
+.. example-ref:
+  ping-pong
 
 .. list-table:: 
    :widths: 5 95
@@ -202,3 +205,56 @@ The following standard selection operations are supported:
 .. figure:: _img/Regular-operations/MS-block-diagram-color_1.PNG
 
    Vertex Selection masking.
+
+
+.. the following is from "Dimitar-test.rst"
+
+.. card:: 
+    :width: auto
+    :img-top: _img/Peter/MSwarningNumber10.png
+    :link: https://siguren-documentation.readthedocs.io/en/0.1.1/equipment/ms-solution/ms-unit.html
+
+    MotoSuiveour Unit
+
+Original size
+-------------
+
+.. grid:: 3
+    :gutter: 4
+    
+    .. grid-item-card::
+        :img-top: _img/Index/Original/Control-cabinet-overview.png
+        :link: ../ms-solution/ms-unit
+
+        MotoSuiveur Unit
+ 
+        
+
+    .. grid-item-card::
+        :img-top: _img/Index/Original/hydraulic-ms.PNG
+        :link: ../diagnostics/controller-errors.rst
+
+        MS Controller Faults and Warnings
+
+
+resized
+-------
+
+.. grid:: 3
+    :gutter: 4
+    
+    .. grid-item-card::
+        :width: auto
+        :img-top: _img/Index/control-cabinet.jpg
+        :link: ../ms-solution/ms-unit
+
+        MotoSuiveur Unit
+ 
+        
+
+    .. grid-item-card::
+        :width: auto
+        :img-top: _img/Index/ms-unit.jpg
+        :link: ../diagnostics/controller-errors.rst
+
+        MS Controller Faults and Warnings

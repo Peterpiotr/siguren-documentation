@@ -5,4 +5,4 @@ My tags: tag1
     :maxdepth: 1
     :caption: With this tag
 
-    ../99-test.rst
+    ../sphinx-tools-demo-page.rst
