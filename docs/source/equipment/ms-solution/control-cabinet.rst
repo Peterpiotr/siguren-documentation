@@ -2,13 +2,15 @@
 MotoSuiveur® Control Cabinet
 =============================
 
-MotoSuiveur® control cabinet (picture below) is built according to the configuration of the MS control diagram_. 
+MotoSuiveur® Control Cabinet (MSCC) is built according to the configuration of the MS control diagram_. 
 Control cabinet have nameplate_ located on front side of the door indicating input power (voltage, frequency, current), serial number, date.
 
 
 .. figure:: ../../_img/Control-Cabinet/Control-cabinet-overview.png
-   :figwidth: 800 px
-   :align: right  
+   :figwidth: 100 %
+   :class: instructionimg
+
+   MS Control Cabinet (example)  
     
 
 .. csv-table:: MotoSuiveur® control cabinet overview
@@ -20,7 +22,6 @@ Control cabinet have nameplate_ located on front side of the door indicating inp
    :widths: auto
 
 
-.. _nameplate:
 Nameplate
 ----------
 
@@ -29,17 +30,20 @@ Exemplary general appearance of control cabinet nameplate shown on figure below.
 
 .. figure:: ../../_img/Control-Cabinet/control-cabinet-nameplate.png
 	:figwidth: 600 px
-	:align: center
+	:class: instructionimg
 
+	MS Control Cabinet Nameplate
 
+.. make it larger
 
-Architecture of a *standalone* MotoSuiveur® system
+Architecture of a MotoSuiveur® System
 ======================================================
 
 .. figure:: ../../_img/Peter/controlSignals.png
 	:figwidth: 600 px
-	:align: center
+	:class: instructionimg
 
+	Hoist-MS Control Signals
 
 In the standalone architecture, the MotoSuiveur® controller receives only inputs from the main hoist control panel, 
 basically [🔼 Up] and [🔽 Down] on terminal T2. 
@@ -55,7 +59,9 @@ On figure below is presented the architecture of the standalone MotoSuiveur® So
 
 .. figure:: ../../_img/Peter/generalViewConnectionsMS-MSCC.png
 	:figwidth: 600 px
-	:align: center
+	:class: instructionimg
+
+	MS Control Cabinet Connections
 
 
 Integration of the MotoSuiveur® in the control system
@@ -66,8 +72,8 @@ All electrical parameters and iterfaces are specified by the pre-configuration d
 
 .. _diagram:
 .. figure:: ../../_img/Control-Cabinet/control-cabinet-configuration.png
-	:figwidth: 800 px
-	:align: center
+	:figwidth: 100 %
+	:class: instructionimg
 
 	Integration of the MotoSuiveur® in hoist control system
 

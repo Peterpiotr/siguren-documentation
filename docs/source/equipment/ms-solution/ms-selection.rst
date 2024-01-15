@@ -4,8 +4,6 @@ Selecting a MotoSuiveur® Solution
 
 .. include:: ../../_text-substitutions.rst
 
-.. =========================================================================================================================
-
 .. _example-ref:
 
 MotoSuiveur® Unit selection
