@@ -1,6 +1,6 @@
-===========================
-MotoSuiveur® Control cabinet
-===========================
+=============================
+MotoSuiveur® Control Cabinet
+=============================
 
 MotoSuiveur® control cabinet (picture below) is built according to the configuration of the MS control diagram_. 
 Control cabinet have nameplate_ located on front side of the door indicating input power (voltage, frequency, current), serial number, date.
