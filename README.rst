@@ -1,4 +1,4 @@
-ReadMe - Siguren Documentation with SPhinx and ReadTheDocs
+ReadMe - Siguren Documentation with Sphinx and ReadTheDocs
 ===========================================================
 
 ================
