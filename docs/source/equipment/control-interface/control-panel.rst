@@ -1,8 +1,8 @@
-.. include:: ../../_img/_image-substitutions.rst
+==============
+Control Panel
+==============
 
-==============
-Control panel
-==============
+.. include:: /_img/_image-substitutions.rst
 
 Layout of the control panel is defined according to pre-selected functionality relative to the MS Block Diagram. 
 The control panel can be located on the control cabinet front door, can be external or a combination of both.
@@ -12,7 +12,7 @@ Combination of active (ON) and inactive (OFF) signal lams gives current status o
 
 
 Front door panel layout
-======================
+=======================
 
 The control panel contains light indicators and control switches. They are divided into two groups: mandatory and optional.
 
@@ -25,7 +25,7 @@ Mandatory are:
 The figure below shows an example overview of a control panel with and without MSHMI.
 
 .. _Control panel figure:
-.. figure:: ../../_img/Control-panel/control-panel-overview.png
+.. figure:: /_img/Control-panel/control-panel-overview.png
 	:align: center
 	:figwidth: 600 px
 	:alt: Control cabinet
@@ -33,7 +33,7 @@ The figure below shows an example overview of a control panel with and without M
 	Control panel according documentation 
 
 .. _General view of control panel:
-.. figure:: ../../_img/Peter/control-panel-02.png
+.. figure:: /_img/Peter/control-panel-02.png
 	:align: center
 	:figwidth: 600 px
 	:alt: Control cabinet
@@ -49,13 +49,12 @@ The figure below shows an example overview of a control panel with and without M
    :class: tight-table
    :align: center
 
-	Control cabinet without MSHMI
 
 External control panel
 ======================
 
 .. _General view of external control panel:
-.. figure:: ../../_img/Peter/control-panel-external.png
+.. figure:: /_img/Peter/control-panel-external.png
 	:align: center
 	:figwidth: 600 px
 	:alt: Control cabinet
@@ -71,7 +70,6 @@ External control panel
    :align: center
 
 
-.. _Mandatory:
 Mandatory signals and controls
 ==============================
 
@@ -82,7 +80,7 @@ Hoist enabled
 
 Hoist enabled signal will be **ON** only in case if **ON** signal from hoist is **ON**.
 
-Hoist enabled signal will be **ON** when :doc:`../operating-instructions/self-test` procedure passes successfully and **ON** signal is available.
+Hoist enabled signal will be **ON** when :doc:`/operation/regular/self-test` procedure passes successfully and **ON** signal is available.
 Then :guilabel:`🟢 Hoist enabled light` and :guilabel:`⚪ Healthy light` are **ON**. 
 The signals are indicating ``system ready`` (``MotoSuiveur® ready``).
 

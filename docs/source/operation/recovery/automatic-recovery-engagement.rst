@@ -1,6 +1,6 @@
-==========================================
-Automatic recovery engagement procedure
-==========================================
+==============================
+Automatic Recovery Engagement 
+==============================
 
 .. include:: ../../_img/_image-substitutions.rst
 
@@ -11,109 +11,120 @@ Automatic recovery engagement procedure
    Automatic recovery engagement is applicable when the MotoSuiveur® System and MS-IRD are healthy. 
 
 
-Automatic recovery engagement for MotoSuiveur® System with **MSCL** MS Controllers
----------------------------------------------------------------------------------
+Automatic Recovery Engagement for MotoSuiveur® System with **MSCL** MS Controllers
+====================================================================================
 
 To perform Automatic recovery engagement follow the sequence:
 
-1. Electrical power of MotoSuiveur® System and MS-IRD is **on**.
-2. Switch :guilabel:`🔑 Recovery Mode Off | On` to position **ON**.
+.. why? in which situation? 
 
-The :guilabel:`🟠 Recovery Mode` indicator light illuminate.
-MS Controller 7-segment display indicates recovery mode - |image041|.
+Steps
+	1. Electrical power of MotoSuiveur® System and MS-IRD is **ON**.
 
-.. _Activate MS recovery:
-.. figure:: ../../_img/Recovery/recovery-switch-on.png
-	:figwidth: 600 px
-	:align: center
+		.. This is not a user action
 
-	Activating recovery mode
+	2. Switch :guilabel:`🔑 Recovery Mode Off | On` to position **ON**.
 
-.. _Recovery mode light:
-.. figure:: ../../_img/Recovery/recovery-indicator-on.png
-	:figwidth: 600 px
-	:align: center
+		.. figure:: ../../_img/Recovery/recovery-switch-on.png
+			:figwidth: 600 px
+			:class: instructionimg
 
-	Recovery mode light indicator
+			Activating recovery mode
 
-3. MotoSuiveur® System starts engaging. 
+			- The :guilabel:`🟠 Recovery Mode` indicator light comes on.
 
-.. note::
-   Engaging can be defined like knocking sound.
+		.. figure:: ../../_img/Recovery/recovery-indicator-on.png
+			:figwidth: 600 px
+			:class: instructionimg
 
-4. Engaging continues until :guilabel:`🟢Recovery engaged` light indicator is illuminated.
+			Recovery mode light indicator
 
-.. _Recovery engaged IMDL:
-.. figure:: ../../_img/Recovery/recovery-engaged-on.png
-	:figwidth: 200 px
-	:align: center
+		- MS Controller 7-segment display indicates recovery mode - |image041|.
 
-	Recovery engaged
+	3. Wait for :guilabel:`🟢Recovery engaged` light indicator to come on.
 
-5. Autiomatic recovery engagement is complete
+		.. figure:: ../../_img/Recovery/recovery-engaged-on.png
+			:figwidth: 600 px
+			:class: instructionimg
 
-.. important::
-    If :guilabel:`🟢Recovery engaged` indicator does not illuminate after **30 seconds** a Reset of the MotoSuiveur® system is required.
-    After Reset, MotoSuiveur® system repeats steps **3 and 4 automatically**. 
+			Recovery engaged
+
+	4. **Automatic recovery engagement is completed.**
+
+	.. what confirm this?
+	.. let the final step not be an action?
+
+	.. note::
+		Upon engagement, you will hear a light knocking sound.
+
+	.. important::
+		If :guilabel:`🟢Recovery engaged` indicator does not illuminate after **30 seconds** a Reset of the MotoSuiveur® system is required.
+		After Reset, MotoSuiveur® system repeats steps **3 and 4 automatically**. 
 
 
 
-Automatic recovery engagement for MotoSuiveur® System with **MSCD** MS Controllers
----------------------------------------------------------------------------------
+Automatic Recovery Engagement for MotoSuiveur® System with **MSCD** MS Controllers
+===================================================================================
 
 To perform Automatic recovery engagement follow the sequence:
 
-1. Electrical power of MotoSuiveur® System and MS-IRD is **on**.
-2. Switch :guilabel:`🔑 Backup/Recovery Mode Off | On` to position **ON**.
+Steps
+	1. Electrical power of MotoSuiveur® System and MS-IRD is **on**.
 
-The :guilabel:`🟠 Backup/Recovery Mode` indicator light illuminate.
-MS Controller 7-segment display indicates **Backup mode** - |image058|.
+	..
 
-.. _Activate MS backup/recovery:
-.. figure:: ../../_img/Recovery/backup-recovery-on.PNG
-	:figwidth: 200 px
-	:align: center
+	2. Switch :guilabel:`🔑 Backup/Recovery Mode Off | On` to position **ON**.
+	
+	The :guilabel:`🟠 Backup/Recovery Mode` indicator light illuminate.
+	MS Controller 7-segment display indicates **Backup mode** - |image058|.
 
-	Activating Backlup/Recovery mode
+	.. figure:: ../../_img/Recovery/backup-recovery-on.PNG
+		:figwidth: 200 px
+		:class: instructionimg
 
-.. _Backup/Recovery mode light:
-.. figure:: ../../_img/Recovery/backup-recovery-indicator-on.PNG
-	:figwidth: 200 px
-	:align: center
+		Activating Backlup/Recovery mode
 
-	Backup/Recovery mode light indicator
+	
+	.. figure:: ../../_img/Recovery/backup-recovery-indicator-on.PNG
+		:figwidth: 300 px
+		:class: instructionimg
 
-3. Restart of MotoSuiveur® System.
+		Backup/Recovery mode light indicator
 
-.. _Recovery mode light:
-.. figure:: ../../_img/Recovery/reset.png
-	:figwidth: 200 px
-	:align: center
+	3. Restart the MotoSuiveur® System.
 
-	Reset of MotoSuiveur® System
+	.. figure:: ../../_img/Recovery/reset.png
+		:figwidth: 200 px
+		:class: instructionimg
 
-.. note::
-   During reset :guilabel:`🔑 Backup/Recovery Mode Off | On` is on position **ON**
+		Reset of MotoSuiveur® System
 
-4. MotoSuiveur® System starts engaging. 
+	.. note::
+		During reset :guilabel:`🔑 Backup/Recovery Mode Off | On` is on position **ON**
 
-.. note::
-   Engaging can be defined like knocking sound.
+	4. MotoSuiveur® System starts engaging. 
 
-5. Engaging continues until :guilabel:`🟢Recovery engaged` light indicator is illuminated.
+	.. note::
+		Engaging can be defined like knocking sound.
 
-.. _Recovery engaged SMD:
-.. figure:: ../../_img/Recovery/recovery-engaged-on.png
-	:figwidth: 200 px
-	:align: center
+	5. Engaging continues until :guilabel:`🟢Recovery engaged` light indicator is illuminated.
 
-	Recovery engaged
 
-6. Autiomatic recovery engagement is complete
+	.. figure:: ../../_img/Recovery/recovery-engaged-on.png
+		:figwidth: 200 px
+		:class: instructionimg
 
-.. important::
-    If :guilabel:`🟢Recovery engaged` indicator does not illuminate after **30 seconds** a Reset of the MotoSuiveur® system is required.
-    After Reset, MotoSuiveur® system repeats steps **3 and 4 automatically**. 
+		Recovery engaged SMD
+
+	6. Automatic recovery engagement is complete.
+
+	.. what is the signal that confirms it
+
+	.. important::
+		If :guilabel:`🟢Recovery engaged` indicator does not illuminate after **30 seconds** a Reset of the MotoSuiveur® system is required.
+		After Reset, MotoSuiveur® system repeats steps **3 and 4 automatically**. 
+
+	.. this "important" should be in the steps
 
 
 

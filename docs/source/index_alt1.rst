@@ -9,7 +9,7 @@ and instantly default to a safe arrested state when hoisting is disrupted.
 
    This documentation is under active development.
 
-Equipment overview
+Equipment Overview
 ===================
 
 Learn more about MotoSuiveur® Solutions components.
@@ -71,18 +71,6 @@ Learn more about MotoSuiveur® Solutions components.
         :text-align: center
 
         MotoSuiveur® Recovery add-on
-
-.. toctree::
-    :maxdepth: 2
-    :hidden:
-    :caption: Equipment overview
-
-    /equipment/ms-solution/index
-    /equipment/control-interface/index
-    /about/features
-    /about/ms-tech-overview
-    /about/risk-reduction
-
 
 
 Installation
@@ -149,16 +137,6 @@ Learn more about the process of integrating a MotoSuiveur® Solution into an exi
 * **Installation on existing hoist**:
   :doc:`/installation/mechanical-installation/installation-on-existing-hoist` |
   :doc:`/installation/controls-installation/setting-drive` 
-
-
-.. toctree::
-  :maxdepth: 2
-  :hidden:
-  :caption: Installation
-
-  /installation/logistics/index
-  /installation/mechanical-installation/index
-  /installation/controls-installation/index
 
 Operation
 ===========
@@ -298,16 +276,6 @@ Operation
         Automatic recovery engagement procedure
 
 
-.. toctree::
-  :maxdepth: 2
-  :hidden:
-  :caption: Operation
-
-  /operation/load-arrest/index
-  /operation/recovery/index
-  /operation/regular/index
-
-
 Maintenance
 =============
 
@@ -317,20 +285,6 @@ Maintenance
 
 * **Spare parts**:
   :doc:`/maintenance/spare-parts/spare-parts` 
-
-.. toctree::
-  :maxdepth: 2
-  :hidden:
-  :caption: Maintenance
-
-  /maintenance/planned-maintenance/index
-  /maintenance/spare-parts/index
-  /maintenance/updates/index
-  /troubleshooting/troubleshooting-measures/index
-  /troubleshooting/diagnostics/index
-
-.. regulatory-testing
-
 
 How-Tos
 ===========
@@ -363,6 +317,52 @@ How-Tos
 
 
 
+
+.. toctree::
+    :maxdepth: 2
+    :hidden:
+    :caption: Equipment overview
+
+    /equipment/ms-solution/index
+    /equipment/control-interface/index
+    /about/features
+    /about/ms-tech-overview
+    /about/risk-reduction
+
+
+.. toctree::
+  :maxdepth: 2
+  :hidden:
+  :caption: Installation & Commissioning
+
+  /installation/logistics/index
+  /installation/mechanical-installation/index
+  /installation/controls-installation/index
+
+
+.. toctree::
+  :maxdepth: 2
+  :hidden:
+  :caption: Operation
+
+  /operation/load-arrest/index
+  /operation/recovery/index
+  /operation/regular/index
+
+
+.. toctree::
+  :maxdepth: 2
+  :hidden:
+  :caption: Maintenance
+
+  /maintenance/planned-maintenance/index
+  /maintenance/spare-parts/index
+  /maintenance/updates/index
+  /troubleshooting/troubleshooting-measures/index
+  /troubleshooting/diagnostics/index
+
+.. regulatory-testing
+
 .. toctree::
   :maxdepth: 2
   :hidden:
@@ -383,3 +383,4 @@ How-Tos
    external-links
    sitemap
    sphinx-tools-demo-page
+

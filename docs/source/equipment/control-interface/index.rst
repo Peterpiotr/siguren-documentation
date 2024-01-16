@@ -7,3 +7,4 @@ Control interface
 
    control-panel
    ms-hmi
+   memory-card

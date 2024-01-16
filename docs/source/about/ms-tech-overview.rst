@@ -7,7 +7,7 @@ MotoSuiveur® technology
     Explores how fail-safety is achieved by combining unfailing systems.
 
 .. note::
-	Source: :download:`User Manual-7.4.doc`
+	From **User Manual-7.4.doc**
 
 Why MotoSuiveur®
 =================
@@ -18,15 +18,15 @@ It also allows emergency operation of the hoist using the recovery facility, in 
 
 Moreover, it offers the possibility to check the parameters, to test the securities of the program by modifying some parameters.
 
-.. figure:: ../_img/ms-tech-01.png
+.. figure:: ../_img/Peter/ms-tech-01.png
     :figwidth: 600 px
-    :align: center  
+    :align: center
 
     Example of MotoSuiveur® Solution implementation
 
 
-Functioning principle MotoSuiveur®F
-=========================
+Functioning principle MotoSuiveur® Friction
+===========================================
 
 The wheel is connected to the drum through a splined shaft or a torque transmission flange (connected with dowels). 
 The worm screw is rotated by a small motor (servo-motor), controlled by the duplicate of the command signals delivered to the motor brake of the winch. 

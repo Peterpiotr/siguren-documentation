@@ -7,7 +7,7 @@ Unblocking
 .. ==========================================================================================================
 
 .. note::
-    Extracted from :download:`Mounting procedure.pptx <../archives/Mounting-procedure.pptx>` .
+    Extracted from :download:`Mounting procedure.pptx <../../_archives/Mounting-procedure.pptx>` .
 
 .. What does it mean for the MotoSuiveur® Unit to be 'blocked'?
 

@@ -1,5 +1,5 @@
 ================================
-MotoSuiveur® Solutions features
+MotoSuiveur® Solutions Features
 ================================
 
 .. note::

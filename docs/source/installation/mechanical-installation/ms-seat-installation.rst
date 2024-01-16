@@ -3,13 +3,13 @@ Seat installation
 ==================
 
 .. note::
-    Extracted from :download:`Mounting procedure.pptx <../archives/mounting-procedure.pptx>` .
+    Extracted from :download:`Mounting procedure.pptx <../../_archives/mounting-procedure.pptx>` .
 
 Installing seat blocks
 =======================
 
 .. _Seat placing:
-.. figure:: ../../_img/mounting-procedure-06.jpg
+.. figure:: ../../_img/Peter/mounting-procedure-06.jpg
 	:width: 100 %
 	:align: center
 
@@ -17,7 +17,7 @@ Installing seat blocks
 
 
 .. _Seat welding:
-.. figure:: ../../_img/mounting-procedure-07.jpg
+.. figure:: ../../_img/Peter/mounting-procedure-07.jpg
 	:width: 100 %
 	:align: center
 

@@ -9,3 +9,4 @@ MotoSuiveur® Solution
    control-cabinet
    tl-addon
    rec-addons
+   ms-selection

@@ -24,63 +24,56 @@ Tools that are needed for this type of recovery load are as follows:
 - `Portable Recovery Tool (MS-PRT)  <https://www.siguren.com/product/ms-prt#menu>`_ - for MotoSuiveur® Systems size MS5 - MS7
 
 
-Instruction
-^^^^^^^^^^^
+Steps
+	1. Switch off power of the MotoSuiveur® System control cabinet.
+	2. Dismantle the worm cover of the MotoSuiveur® Unit .
 
-1. Switch off power of the MotoSuiveur® System control cabinet.
-2. Dismantle the worm cover of the MotoSuiveur® Unit .
+	.. figure:: ../../_img/Backup/remove-cover-bolts-removebg-preview.png
+		:figwidth: 600 px
+		:class: instructionimg
 
-.. _Dismantle the worm cover remove bolts: 
-.. figure:: ../../_img/Backup/remove-cover-bolts-removebg-preview.png
-	:figwidth: 600 px
-	:align: center
-
-	Remove cover bolts
+		Remove cover bolts
 
 
-.. _Dismantle the worm cover of the MS: 
-.. figure:: ../../_img/Backup/remove-cover-removebg-preview.png
-	:figwidth: 600 px
-	:align: center
+	.. figure:: ../../_img/Backup/remove-cover-removebg-preview.png
+		:figwidth: 600 px
+		:class: instructionimg
 
-	Dismantle the worm cover
+		Dismantle the worm cover
 
-3. Remove worm switch cam
+	3. Remove worm switch cam
 
-.. _Remove cam bolt: 
-.. figure:: ../../_img/Backup/bolt-removebg-preview.png
-	:figwidth: 600 px
-	:align: center
+	.. figure:: ../../_img/Backup/bolt-removebg-preview.png
+		:figwidth: 600 px
+		:class: instructionimg
 
-	Remove worm switc cam bolt
+		Remove worm switc cam bolt
 
-.. _Remove cam: 
-.. figure:: ../../_img/Backup/disassembly-switch-cam-removebg-preview.png
-	:figwidth: 600 px
-	:align: center
+	.. figure:: ../../_img/Backup/disassembly-switch-cam-removebg-preview.png
+		:figwidth: 600 px
+		:class: instructionimg
 
-	Remove worm switch cam
+		Remove worm switch cam
 
-4. Install the required tool for the corresponding size
+	4. Install the required tool for the corresponding size
 
-.. _Handheld Recovery Tool: 
-.. figure:: ../../_img/Recovery/MS-HRT.png
-	:figwidth: 600 px
-	:align: center
+	.. figure:: ../../_img/Recovery/MS-HRT.png
+		:figwidth: 600 px
+		:class: instructionimg
 
-	Installation of Handheld Recovery Tool (MS-HRT)
+		Installation of Handheld Recovery Tool (MS-HRT)
 
-.. _Portable Recovery Tool: 
-.. figure:: ../../_img/Recovery/MS-PRT.png
-	:figwidth: 600 px
-	:align: center
+	.. figure:: ../../_img/Recovery/MS-PRT.png
+		:figwidth: 600 px
+		:class: instructionimg
 
-	Installation of Portable Recovery Tool (MS-PRT)
+		Installation of Portable Recovery Tool (MS-PRT)
 
 
-5. Start lowering
-6. As soon as the load is safe (on the ground or an adapted structure), inspect the MotoSuiveur® (worm and wheel) and the hoist.
+	5. Start lowering
+	6. As soon as the load is safe (on the ground or an adapted structure), inspect the MotoSuiveur® (worm and wheel) and the hoist.
 
 
-.. warning::
-  Detailed inspection of the MotoSuiveur® Unit (worm and wheel) and the hoist is mandatory after lowering is complete!
+	.. warning::
+		Detailed inspection of the MotoSuiveur® Unit (worm and wheel) and 
+		the hoist is mandatory after lowering is complete!

@@ -6,15 +6,15 @@ h2, h3 {
     margin-top: 3em !important;
     border-bottom: 2px solid #2439bb !important;
 }
-/*
-.with-border img {
-    border:1px solid black !important;
-}
-*/
 
-/*
-section img {
-    border:1px solid black !important;
+img {
+    text-align:right;
+}
+
+
+img.instructionimg {
+    padding: 0.5rem;
+    border: 1px solid rgb(229, 229, 229);
 }
 */
 
@@ -43,26 +43,25 @@ section img {
     margin:auto 2px;
 }
 
-/*
-ol.blue-list {
-    list-style: none !important;
-    /*counter-reset: item !important;*/
-/*}
-/*
-ol.blue-list li {
-    counter-increment: item !important;
-    margin-bottom: 5px !important;
+.wy-table-responsive table td, 
+.wy-table-responsive table th {
+    white-space: normal;
 }
-  
-ol.blue-list li:before {
-    margin-right: 2em !important;
-    content: counter(item) !important;
-    background: #2439bb !important;
-    border-radius: 100% !important;
-    color: white !important;
-    position:absolute !important;
-    width: 1.2em !important;
-    height: 1.2em !important;
-    text-align: center !important;
-    display: inline-block !important;
+
+.wy-table-responsive {
+    overflow: hidden;
+    overflow-x: auto;
+}
+
+table.docutils {
+    width: 100%;
+    max-width: 100%;
+    display: table;
+}
+
+
+ol > li::marker {
+    color: #2439bb; 
+    font-weight: bold;
+    font-size: 1.2em;
 }
