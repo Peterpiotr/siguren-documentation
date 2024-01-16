@@ -1,6 +1,24 @@
-Template for the Read the Docs tutorial
-=======================================
+ReadMe - Siguren Documentation with Sphinx and ReadTheDocs
+===========================================================
 
-Read the tutorial here:
+================
+Version History
+================
 
-https://docs.readthedocs.io/en/stable/tutorial/
+-------
+0.1.1
+-------
+
+Първоначална версия с непроменено съдържание от:
+    - SIGUREN MS MANUAL (от края на 2022 г.)
+    - "използване на възможностите за възстановяване на ms.docx"
+    - "catalog_MS_2018_.._.docx"
+
+Много ограничено споделяне с хора извън Сигурен.
+
+Таблицата на съдържанието е предварителна и може да се промени в бъдещите версии.
+
+Само на английски език.
+
+Тема по подразбиране на Sphinx ReadTheDocs.
+

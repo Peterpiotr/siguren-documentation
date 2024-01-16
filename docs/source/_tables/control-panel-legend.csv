@@ -1,12 +1,12 @@
- ;Name;Type;Description
-1;:guilabel:`🟢 Hoist enabled lamp`;Lamp;MS authorizes hoist movements
-2;:guilabel:`🔴 Fault lamp`;Lamp;MS is in fault
-3;:guilabel:`🟢 Upward enabled lamp`;Lamp;MS authorizes hoist for upward movement
-4;:guilabel:`🔑 Backup/Recovery off/on key`;Key;"Off - normal movement / ON - Backup mode / ON + Reset - Recovery mode"
-5;:guilabel:`Backup/Recovery down/up key`;Turn key;Up/Down command for Recovery mode
-6;:guilabel:`🔑 Enable override key`;Key;Allow hoist movement when (1) is off
-7;:guilabel:`Reset button`;Button;MS reset
-8;:guilabel:`⚪ Healthy lamp`;Lamp;MS controller and MS motor healthy
-9;:guilabel:`🟢 Downward enable lamp`;Lamp;MS authorizes hoist for downward movement
-10;:guilabel:`🟢 Recovery mode lamp`;Lamp;Active Backup/Recovery mode
-11;:guilabel:`🟢 Recovery engaged lamp`;Lamp;Recovery is engaged
+" ";Name;Type;Description
+"1";:guilabel:`🟢 Hoist enabled lamp`;Indicator light;MS authorizes hoist movements
+"2";:guilabel:`🔴 Fault lamp`;Indicator light;MS is in fault
+"3";:guilabel:`🟢 Upward enabled lamp`;Indicator light;MS authorizes hoist for upward movement
+"4";:guilabel:`🔑 Backup/Recovery off/on key`;Key;Off - normal movement / ON - Backup mode / ON + Reset - Recovery mode
+"5";:guilabel:`Backup/Recovery down/up key`;Turn key;Up/Down command for Recovery mode
+"6";:guilabel:`🔑 Enable override key`;Key;Allow hoist movement when (1) is off
+"7";:guilabel:`Reset button`;Button;MS reset
+"8";:guilabel:`⚪ Healthy lamp`;Indicator light;MS controller and MS motor healthy
+"9";:guilabel:`🟢 Downward enable lamp`;Indicator light;MS authorizes hoist for downward movement
+"10";:guilabel:`🟠 Recovery mode lamp`;Indicator light;Active Backup/Recovery mode
+"11";:guilabel:`🟢 Recovery engaged lamp`;Indicator light;Recovery is engaged

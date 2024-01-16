@@ -2,17 +2,14 @@
 Reset
 ======
 
-.. note::
-	Source is :doc:`49104-15-001 Operation  Maintenance Manual Issue D (1).pdf`
+If the MotoSuiveur® system need to be reset, this is done by the :guilabel:`🔘 Reset` button. 
+RESET button must be pressed and held for >1 second for a MotoSuiveur® system reset to be performed.
+After reset MotoSuiveur® system starts as :doc:`MotoSuiveur® operating algorithm <../../operation/regular/operation-modes>`.
 
-Before any operations can commence a system reset is required. The :guilabel:`reset push button` is located
-on the main supply mode section of the panel.
 
-This will only be achieved if the following conditions are true:
+.. _Reset button:
+.. figure:: ../../_img/Regular-operations/reset-buton.png
+	:figwidth: 465 px
+	:align: center
 
-- Power supply is **ON** and **HEALTHY**
-- E-Stop Circuit is **HEALTHY**
-- No faults are present
-
-.. important::
-    This reset is required after the activation of any emergency stops, electrical faults, or any isolation of power.
+	MotoSuiveur® system reset

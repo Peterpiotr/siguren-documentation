@@ -1,0 +1,7 @@
+"No          ";"Description     "
+"1           ";"Selecting type of variable (VL or VR)"
+"2           ";"Entering desired value for selected variable. **Format of variable to be considered**"
+"3           ";"Current value of selected variable"
+"4           ";"Redirects to the screen to Menu screen"
+"5           ";"Buttons for variable select. Range is 0 - 63."
+"6           ";"Set current value becomes equal to desired"

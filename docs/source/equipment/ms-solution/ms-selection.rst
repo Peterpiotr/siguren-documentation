@@ -1,24 +1,22 @@
 =================================
-Selecting a MotoSuiveur Solution
+Selecting a MotoSuiveur® Solution
 =================================
 
 .. include:: ../../_text-substitutions.rst
 
-.. =========================================================================================================================
-
 .. _example-ref:
 
-MotoSuiveur Unit selection
+MotoSuiveur® Unit selection
 ======================================
 
 Arrest type selection
 -----------------------
 
-.. figure:: ../../_img/ms-selection-01.png
+.. figure:: ../../_img/Peter/ms-selection-01.png
 	:scale: 100 %
 	:align: center
 
-	MotoSuiveur type selection diagram
+	MotoSuiveur® type selection diagram
 
 Arrest torque calculation
 ---------------------------
@@ -27,24 +25,24 @@ The main criterion is the arrest torque at full speed |Vmax|.
 
 The starting point to define this torque is the full load static torque at the drum (or at the MS wheel) |Cs|, without taking into account the efficiency.
 
-.. figure:: ../../_img/ms-selection-02.png
+.. figure:: ../../_img/Peter/ms-selection-02.png
 	:scale: 100 %
 	:align: center
 
 	Hoist kinematic chain force analysis
 
-The Passive Friction MotoSuiveur Unit is directly selected to ensure sufficient torque to stop the full load. 
+The Passive Friction MotoSuiveur® Unit is directly selected to ensure sufficient torque to stop the full load. 
 
 .. math::
 
   C_{MS} ≥ 1.4C_S
 
-The speed at the MotoSuiveur Unit wheel |Vmax| can be up to 100 RPM.
+The speed at the MotoSuiveur® Unit wheel |Vmax| can be up to 100 RPM.
 
 
 
 
-Example : Selecting a Passive Friction MotoSuiveur Unit (MSF)
+Example : Selecting a Passive Friction MotoSuiveur® Unit (MSF)
 ----------------------------------------------------------------
 
 .. rubric:: Hoist input data
@@ -102,11 +100,11 @@ Example : Selecting a Passive Friction MotoSuiveur Unit (MSF)
 
 |Cms| = 1.4 x Cs = 1.4x 3 065 = 4 291 Nm
 
-According to :ref:`MotoSuiveur Unit arrest torque table`:
+According to :ref:`MotoSuiveur® Unit arrest torque table`:
 
 |Cms| = 4 291 Nm < 6 100 Nm 
 
-**MS1** is the correct size of MotoSuiveur unit for this application.
+**MS1** is the correct size of MotoSuiveur® unit for this application.
 
 
 

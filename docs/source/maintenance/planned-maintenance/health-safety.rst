@@ -2,26 +2,48 @@
 Health and safety
 ==================
 
-.. note::
-	Source is :doc:`../../_archives/49104-15-001 Operation  Maintenance Manual Issue D (1).pdf`
+.. warning::
+    Read the safety precautions before you start any operational or service work:
+
+The Motosuiveur® System is designed to resist the dynamic force of a defined application.
+
+Before Motosuiveur® System is put into operation, make sure that the installation complies entirely with the application which the Motosuiveur® has been designed for.
+
+Before any operation on the Motosuiveur® System, switch off the electrical supply and ensure that the load cannot move.
+
+Never place your hands inside the Motosuiveur® Unit, unless you are sure that it is impossible to rotate the shaft.
+
+Never rotate the Motosuiveur® Unit if the maintenance door is open or/and if the protection cover of the torque limiter is removed.
+
+Do not modify Motosuiveur® System! Any modification of the kinematic chain increasing the inertias, the limiter adjustments or the maximum speeds can be dangerous.
+
+All work must be carried out by competent staff with appropriate training.
+
+SIGUREN Technologies declines any responsibility if the safety instructions are not followed correctly!
+
+Motosuiveur® System is designed to work with lifting equipment and must only be used with the applications they have been ordered and designed for.
+
+Using the device beyond its technical capabilities will cause the device to fail or malfunction.
 
 .. warning::
-    Read health and safety precautions before you start any service
-    work. Servicing of the equipment must only be carried-out by
-    authorised persons fully trained and competent in the maintenance of
-    scx special projects equipment. They must fully understand and
-    adopt correct and safe working practices.
+    The following scenarios should be avoided as this may invalidate the warranty:
 
-If you are unable to carry out the work safely in the required manner then contact SCX Special Projects
-Ltd for advice. Only routine servicing procedures are detailed in this handbook. Do not attempt more
-complex work without reference to SCX Special Projects Ltd.
+-	See Warranties and Guarantees for further information.
+-	Incorrect use of the Motosuiveur® System.
+-	An unapproved modification of the Motosuiveur® System.
+-	Incorrect handling or work on the Motosuiveur® System.
 
 .. warning::
-    Please read the health and safety instructions in section 2 before carrying out any work on the hhs.
+    RISK OF DEATH OR INJURY MAY OCCUR IF THE EQUIPMENT IS IN CONTACT WITH HIGH VOLTAGE POWER LINES AND WIRED COMPONENTS. 
+    TO PREVENT PHYSICAL INJURY OR MATERIAL DAMAGE, ONLY TRAINED AND QUALIFIED STAFF ARE AUTHORIZED TO WORK ON THE EQUIPMENT.
 
-There is no single factor more important than minimising the possibility of personal injury to the Operator
-and/or those working in the area, or damage to property, equipment and/or materials.
+.. warning::
+    DAMAGE MAY OCCUR IF:
+    - THE MOTOSUIVEUR® IS NOT USED COMPLYING WITH THE APPLICATION IT HAS BEENDESIGNED FOR,
+    - IF THE MOTOSUIVEUR® HAS BEEN MODIFIED
+    - IF THE SAFETY STANDARDS AND THE INSTRUCTIONS ARE NOT OBSERVED.
 
-No Operator should be permitted to use the equipment unless they are familiar with its operations. They
-should be physically and mentally fit and trained in Safe Hoisting Practices. Hazards can only be
-minimised by, care, common sense and the operator being alert at all times.
+
+.. warning::
+    DO NOT UNPLUG ELECTRIC FUNCTIONS, DO NOT PERFORM MAINTENANCE, REPAIR OR ASSEMBLE ANYTHING ON THE EQUIPMENT WHEN IT IS SWITCHED ON.
+    THE LINKING CABLES MUST NOT BE SUBJECTED TO MECHANICAL EFFORTS.

@@ -1,49 +1,196 @@
-========================================================
-Back-up by manual action of the service brake procedure
-========================================================
+===========================================================
+Backup mode by manual action of the service brake procedure
+===========================================================
 
-.. include:: ../procedures/img/substitutions.rst
 
-.. ====================================================================================================================
+.. include:: ../../_img/_image-substitutions.rst
+
+.. role:: mechpart
+   :class: mechpart
+
+MotoSuiveur® Followed Gravity Lowering
+=======================================
+
+Step Lowering
+^^^^^^^^^^^^^^^^
 
 .. note::
-	Source: :download:`User Manual-7.4.doc`
+	This method can be used **only with Hydraulic Damping MotoSuiveur® Unit**.
 
-This procedure has to be followed in case of main motor fault. The following procedure allows the operator to switch in back-up up mode with manual opening of the service brake. 
+This lowering method is based on pulse opening the hoist brake (manually or electrically) to lower the load a few centimeters per single open. 
+The MotoSuiveur® Unit worm shaft will shift toward the damping chamber each time the brake is opened. 
+The electrical or brake lever pulse must be short enough to not allow the worm to reach the MotoSuiveur® Unit elastomer at the bottom of the damping chamber. 
+Then it is possible to return the worm shaft to its “centered” position by hand using Handheld recovery tool. 
+Repeat this until the load reaches the floor.
 
-Comments:
+This way, very low torque applied on the MotoSuiveur® Unit worm shaft will be needed (approximately 1/5000 of the barrel torque). 
+Using handwheel / crank handle or standard ratchet handle.
 
-- This procedure requires two operators (one for the manual service brake opening, the second one at the MS-1 cabinet).
-- Ensure power to the motor is removed. =
-- Each of the two operators can stop the operation: the first operator by closing the service brake, the other operator by stopping the rotation of MS.
+The MotoSuiveur® Unit can automatically follow if switched to Backup Mode. 
+This negates the need of manual operation at the worm shaft. 
+In case of power outage, the MotoSuiveur® can be UPS/battery operated.
+Furthermore, the MotoSuiveur® system can control the brake opening / closing, thus making the gravity load recovery automated.
 
-|manual-service-brake-backup-01|
-.. integrate this image to the procedure
+Instructions
+	1. Pulse the hoist brake to achieve less than 30 degrees barrel rotation by gravity.
+	2. Rotate the worm shaft by hand **in anticlockwise direction** few rotations to centralize it between limit switches.
+	3. Repeat steps 1 and 2 until load is safely lowered.
 
-.. list-table:: Back-up by manual action of the service brake procedure
-   :widths: 5 95
-   :header-rows: 1
-   :class: instruction-table
-  
-   * - Step
-     - Description
-   * - **1**
-     - On the main screen, press :guilabel:`Menu`.
-   * - **2**
-     - press :guilabel:`Back up mode` 
-   * - **3**
-     - Enter a level 2 (or 3) password
-   * - **4**
-     - On the activation screen of the back-up mode, press :guilabel:`activate back up mode` 
-   * - **5**
-     - | Operator n°1 : Allow the motion by pushing the button :guilabel:`UP` or :guilabel:`DOWN` on the touch screen
-       | Operator n°2 : Simultaneously with operator n°1, release the service brake little by little in order to allow 
-         the lowering of the load by gravity without reaching overspeed, otherwise the MotoSuiveur will block.
-
-When the limit speed is reached, the MS goes into action intrinsically by blocking the worm.
-
-Given the relatively slow speed, it is easy to stop the action on the brake before the end of the travel of the MotoSuiveur. The operation can then continue without any special intervention, since the screw goes back to its position automatically.
-In case of hard blocking, it should be possible to release the MotoSuiveur by using the handle 
+	.. figure:: ../../_img/Peter/stepLowering.png
+		:figwidth: 100 %
+		
+		Hydraulic Damping MS step lowering
 
 .. important::
-    To switch back to “normal mode”, it is necessary to power-off then power-on the electrical cabinet.
+	Indicative mean barrel speed: 0.5 rpm
+
+
+Backup Mode gravity lowering
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Backup mode gravity lowering is methos for semi-automated lowering. Manual opening of hoist motorbrake and automatically following of MotoSuiveur® system.
+Backup mode allows following with limited speed and no fault detection.
+
+Instructions
+	1. Switch on the MotoSuiveur® System to :doc:`Backup Mode <backup-procedure>`.
+
+	.. figure:: ../../_img/Backup/switch-on-backup.png
+		:figwidth: 100 %
+		
+		Switch on Backup Mode
+
+	1. Order lowering by switch :guilabel:`Backup mode Down/Up` to position **Down**. 
+
+	.. figure:: ../../_img/Backup/backup-down-up-control.png
+		:figwidth: 600 px
+		
+		Order lowering
+
+	1. Progressively release the motor brake using the provided :mechpart:`Brake Release Tool`, until the load starts to rotate the barrel.
+
+	.. figure:: ../../_img/Backup/manual-open-hoist-brake.png
+		:figwidth: 100 %
+		
+		Opening hoist main brake
+
+
+	1. Use the Brake Release Tool to regulate and maintain the speed below the specified safe speed. A :guilabel:`🔊 buzzer` will sound when the safe speed is close.
+
+	.. figure:: ../../_img/Backup/speed-limit-buzzer.png
+		:figwidth: 600 px
+		
+		Specified limit speed reached
+
+	.. figure:: ../../_img/Backup/backup-time-diagram.png
+		:figwidth: 600 px
+		
+		Backup gravity lowering diagram
+
+
+.. note::
+	The MotoSuiveur® system will arrest the barrel if:
+
+	-	lowering order is removed or,
+	-	overspeed is reached.
+
+.. note::
+	After such arrest, the worm shaft can be returned to its “centered” position by using a tool (handheld).
+
+
+.. important::
+	In case of power outage, the MS can be UPS/battery operated.
+
+
+.. important::
+	Indicative barrel speed: 2 - 5 rpm
+
+
+Assisted gravity lowering
+----------------------------
+
+In this type of lowering, only moderate torque is to be applied to the MS worm shaft (approximately 1/250 of the barrel torque).
+
+Using the following hardware:
+
+- Handheld Recovery Tool for MS sizes above MS4,
+- Handwheel / crank handle or standard ratchet handle for sizes MS0 – MS3
+
+Instructions
+  1. Apply moderate torque to the MS worm shaft, using the appropriate method.
+
+  ..
+
+  2. Progressively release the motor brake, using the provided Brake Release Tool, until the load starts to rotate the barrel (as long as moderate torque is applied to the MS shaft).
+
+  ..
+
+  3. Rotate the MS worm shaft to lower the load.
+
+  ..
+
+  4. Use the Brake Release Tool to maintain the torque to be applied to on the worm shaft inside the specified limits.
+
+
+.. figure:: ../../_img/Peter/MSassistedGravityLowering.png
+	:figwidth: 100%
+
+	Assisted gravity lowering
+
+.. csv-table:: Table of MS assisted gravity lowering max torques
+   :file: ../../_tables/MSassistedGravityLowering.csv
+   :header-rows: 1
+
+
+
+Automated backup gravity lowering with controlling hoist brake by MotoSuiveur® System
+--------------------------------------------------------------------------------------
+
+This type of gravity lowering is fully automated and controlled by MotoSuiveur® system.
+MotoSuiveur® system opens hoist main brake and follow load moving by gravitation.
+Following continues until speed reaches predefined speed and MotoSuiveur® system closes hoist brake.
+The starting and termination of the lowering is controlled by an operator.
+
+
+Instructions
+   1. Switch on the MotoSuiveur® System to :doc:`Backup Mode <backup-procedure>`.
+
+   .. figure:: ../../_img/Backup/switch-on-backup.png
+   	:figwidth: 600 px
+   	
+   	Switch on Backup Mode
+
+   2. Order lowering by switch and hold :guilabel:`Backup mode Down/Up` to position **Down**. 
+
+   .. figure:: ../../_img/Backup/backup-down-up-control.png
+   	:figwidth: 600 px
+   	
+   	Order lowering
+
+   3. MotoSuiveur® System starts automated gravity lowering by following algorithm
+
+   .. figure:: ../../_img/Backup/backup-mode-automatic-diagram.PNG
+   	:figwidth: 300 px
+   	
+   	Automated gravity lowering algorithm
+
+   4. Lowering continues until the load is safely positioned.
+
+   .. figure:: ../../_img/Backup/de-risk-icons.png
+   	:figwidth: 200 px
+
+   	Safely positioned load
+
+   5. Stop lowering by switch and hold :guilabel:`Backup mode Down/Up` to **neutral** position.
+
+   .. figure:: ../../_img/Backup/backup-down-up-control-off.png
+   	:figwidth: 300 px
+
+   	End of lowering
+
+   6. Load is ready to be unhooked
+   
+   ..
+
+   7. Deactivate Backup mode via *Deactivating of Backup Mode* in :doc:`Backup Mode <backup-procedure>`
+
+

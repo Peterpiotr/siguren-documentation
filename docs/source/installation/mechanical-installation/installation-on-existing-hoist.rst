@@ -6,7 +6,7 @@ Installation on existing hoist
 	Refers to electrical-interface and mechanical-interface. May be partially redundant with connect-ms-control-cabinet
 
 .. note::
-    Extracted from :download:`MS installation on existing hoist barrel.doc <../archives/MS-installation-on-existing-hoist-barrel.doc>` .
+    Extracted from :download:`MS installation on existing hoist barrel.doc <../../_archives/MS-installation-on-existing-hoist-barrel.doc>` .
 
 
 Benefits
@@ -27,8 +27,8 @@ Installation guidelines
 5. Assemble the flanged MS to the side flange of the barrel. The washers create a gap which allows the MS to be strictly aligned with the barrel (shaft) axis. The MS wheel and flange are fitted to the existing barrel shaft so the MS is strictly concentric to the barrel.
 
 .. _General view:
-.. figure:: ../../_img/installation-on-existing-hoist-01.jpg
-	:scale: 75 %
+.. figure:: ../../_img/Peter/installation-on-existing-hoist-01.jpg
+	:figwidth: 600 px
 	:align: center
 	:class: with-border
 
@@ -36,8 +36,8 @@ Installation guidelines
 
 
 .. _Flange assembly:
-.. figure:: ../../_img/installation-on-existing-hoist-02.jpg
-	:scale: 75 %
+.. figure:: ../../_img/Peter/installation-on-existing-hoist-02.jpg
+	:figwidth: 600 px
 	:align: center
 	:class: with-border
 
@@ -46,8 +46,8 @@ Installation guidelines
 
 
 .. _Seat assembly:
-.. figure:: ../../_img/installation-on-existing-hoist-03.jpg
-	:scale: 75 %
+.. figure:: ../../_img/Peter/installation-on-existing-hoist-03.jpg
+	:figwidth: 600 px
 	:align: center
 
 	Seat assembly
@@ -55,16 +55,16 @@ Installation guidelines
 
 
 .. _Side view:
-.. figure:: ../../_img/installation-on-existing-hoist-04.jpg
-	:scale: 75 %
+.. figure:: ../../_img/Peter/installation-on-existing-hoist-04.jpg
+	:figwidth: 600 px
 	:align: center
 
 	Side view
 
 
 .. _Cut view:
-.. figure:: ../../_img/installation-on-existing-hoist-05.jpg
-	:scale: 75 %
+.. figure:: ../../_img/Peter/installation-on-existing-hoist-05.jpg
+	:figwidth: 600 px
 	:align: center
 
 	Cut view

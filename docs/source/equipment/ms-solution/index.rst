@@ -1,5 +1,5 @@
 =====================
-MotoSuiveur Solution
+MotoSuiveur® Solution
 =====================
 
 .. toctree::
@@ -7,6 +7,6 @@ MotoSuiveur Solution
 
    ms-unit
    control-cabinet
-   ms-selection
    tl-addon
    rec-addons
+   ms-selection

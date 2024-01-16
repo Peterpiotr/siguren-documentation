@@ -1,0 +1,7 @@
+"Check";"Possible warning/fault"
+"*Recovery system healthy*\*\";"E64, E65"
+"Presence of Enable signal from hoist";"E05"
+"Check for active command for moving";"E04"
+"Check for active screwing command";"E02"
+"Check for active unscrewing command";"E03"
+"Temperature sensor check";"E57, E69"

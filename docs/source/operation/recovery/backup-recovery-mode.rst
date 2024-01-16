@@ -1,55 +1,64 @@
 ======================
-Back-up/Recovery mode
+Backup/Recovery mode
 ======================
 
-.. include:: ../substitutions.rst
+.. include:: /_img/_image-substitutions.rst
 
 .. ========================================================================================
 
-Backup/Recovery operation mode functions are intended for *unusual* situations during MS operation. 
+.. note::
+    Backup/Recovery mode is applicable only for MotoSuiveur® Systems equipped with **MSCD** MS Controller and equipped with **MS-IRD**!
+
+.. note::
+    Backup/Recovery operation mode functions are intended for *unusual* situations during MotoSuiveur® Systems operation. 
 
 .. "function" vs "mode" vs "operation mode"
 
-Controls and indicators of this function are located on the :doc:`control panel` – figure 3, items 4, 5, 10, 11.
+Controls and indicators of this function are located on the :doc:`control panel front door <../../equipment/control-interface/control-panel>`
+– figure 3, items 4, 5, 10, 11.
 
-:numref:`Principle of Backup/Recovery operation` shows the principle of Backup/Recovery operation mode. 
+Diagram below shows the principle of Backup/Recovery operation mode. 
 
 .. _Principle of Backup/Recovery operation :
-.. figure:: ../../_img/backup-mode-02.png
-	:align: center
+.. figure:: /_img/Peter/backup-mode-02.png
+    :align: center
+    :figwidth: 600 px
 
-	Principle of Backup/Recovery operation 
+    Principle of Backup/Recovery operation 
 
-Backup/Recovery decision figures located in figures 15 and 20 with dotted outline, 
+Backup/Recovery decision figures located in on principle diagram with dotted outline, 
 represent the places where request for these operation modes are checked. 
 
-Switching **ON** the Recovery/Backup mode is performed through :guilabel:`🔑 Backup/Recovery OFF/ON key` – figure 2, item 4. 
-After switching Backup/Recovery mode **ON**, Backup mode start operating. 
+Switching to Backup/Recovery mode is performed through :guilabel:`🔑 Backup/Recovery OFF/ON` key switch. 
+After switching :guilabel:`🔑 Backup/Recovery OFF/ON key` to position **ON**, Backup mode start operating. 
 
-|image058| :guilabel:`indication for backup mode` is displayed on 7–segment display and :guilabel:`🟢 Recovery mode lamp` is **ON**.
+|image058| :guilabel:`indication for backup mode` is displayed on 7–segment display and :guilabel:`🟠 Backup/Recovery Mode` indicator lamp is iluminated.
  
-Backup function ignore all settings related with following operation and allows movement of hoist with hoist limited speed.
+.. important::
+    Backup function ignore all settings and fault detection related with following operation and allows movement of hoist with hoist limited speed.
 
 
-Back-up operation mode
+Backup operation mode
 =========================
 
 In Backup operating mode, control is performed through commands for lifting and lowering of the hoist. 
-In cases where the hoist control chain is damaged, control can be performed manually directly on control terminals 
-located in MS :doc:`control cabinet` via a wire bridge. 
+In cases where the hoist control chain is damaged, control can be performed manually with :guilabel:`🔑 Backup/Recovery Down/Up` switch
+located :doc:`control panel front door <../../equipment/control-interface/control-panel>` or directly on control terminals via a wire bridge. 
 
-See also and merge : :doc:`backup-procedure`
-
-An example is shown on :numref:`Example for manual operation in backup mode`. 
-
-.. important::
-    In Back-up mode no **ON signal** is required to perform movement of MS. 
-
-.. _Example for manual operation in backup mode :
-.. figure:: ../../_img/backup-mode-01.png
+.. _Example for manual operation in backup mode:
+.. figure:: /_img/Peter/backup-mode-01.png
 	:align: center
 
 	Example for manual operation in backup mode 
+
+.. note::
+    See also and merge : :doc:`Backup procedure <../../operation/recovery/backup-procedure>`
+
+.. important::
+    In Backup mode no enable signal (On) **form** hoist to MotoSuiveur® is required to perform movement.
+    If enable signal **to** hoist is required, :guilabel:`🔑 Enable Override` should be used. 
+
+
 
 
 Recovery operation mode
@@ -57,36 +66,29 @@ Recovery operation mode
 
 Recovery mode is second part of Backup/Recovery operation. 
 
-.. undue opposition between "mode" and "operation" ?
+This mode starts operating the way shown on `Principle of Backup/Recovery operation`.
+.. do not use these references anymore?
 
-This mode starts operating the way shown on :numref:`Principle of Backup/Recovery operation`.
+After reset of MotoSuiveur® System, MS Controller checks for active Backup/Recovery mode request (:guilabel:`🔑 Backup/Recovery Off/On` is **ON**). 
+If request is active 7–segment display shows |image041| :guilabel:`🟠 Backup/Recovery Mode` and 
+:doc:`automatic recovery engagement <../../operation/recovery/automatic-recovery-engagement>` start. 
 
-After **MS RESET**, MS checks for active Backup/Recovery mode request (:guilabel:`🔑 Backup/Recovery operational key` is **ON**). 
-If request is active 7–segment display shows |image041| :guilabel:`indication for recovery mode` and **ENGAGEMENT** start. 
-Engagement function is used to engage recovery mechanism to the worm via recovery nut – figure 1, item 7.
+Completion of **ENGAGEMENT** is indicated by :guilabel:`🟢 Recovery Engaged` indication lamp. 
+If :guilabel:`🟢 Recovery Engaged` is not iluminated after first engagement, reset ot MotoSuiveur® system is required.
 
-Completion of **ENGAGEMENT** is indicated by :guilabel:`🟢 Recovery engaged indication lamp`. 
-If lamp is **OFF** after first engagement, **MS RESET** is needed. **MS RESET** will activate **ENGAGEMENT** again.
-
-Controlling of Recovery is with :guilabel:`🔑 Backup/Recovery Down/Up 3–position key` located on the control panel. 
-Also Recovery can be controlled remotely if that is provided by the :doc:`electrical circuit diagram`.
-
-After **ENGAGEMENT** is complete and :guilabel:`🟢 Recovery engagement lamp` is **ON**, brake of main hoist motor should be released. 
-Otherwise motor brake will prohibit movements. Brake should remain open until recovery operation done.
-
-For **DISENGAGEMENT**, load *should be on safe place*, main hoist motor brake should be closed. 
-Command for lowering should be *given to MS* until both lamps for :guilabel:`🟢 Upward enable` and :guilabel:`🟢 Downward enable` are **ON**.
+After succesfull engagement of MS-IRD follow steps for :doc:`recovery operation <../../operation/recovery/recovery-operation>`
 
 .. warning::
     Recovery function is mainly designed for safety lowering of the load. 
     Function allows very short lifting of the load only in cases where it is absolutely necessary!
 
 .. warning::
-    Before activating Backup/Recovery operation mode from local controls (figure 3, item 4), 
+    Before activating Backup/Recovery operation mode from local controls, 
     please make sure that this operation mode is not activated remotely. 
     
 The verification consists of the following steps:
+.. make into instructions
 
-- :guilabel:`🟢 Recovery mode lamp` and :guilabel:`🟢 Recovery engaged` lamp are **ON**,
-- :guilabel:`🔑 Backup/Recovery control key` is in position **0**=**OFF**,
-- On 7–segment display symbols |image058| or |image041| are *NOT* displayed.
+- :guilabel:`🟢 Backup/Recovery` and :guilabel:`🟢 Recovery engaged` lamp are **NOT ON**,
+- :guilabel:`🔑 Backup/Recovery Off/On` is in position **OFF**,
+- On MS Controller 7–segment display symbols |image058| or |image041| are **NOT** displayed.

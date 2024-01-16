@@ -1,5 +1,5 @@
 =======================
-MotoSuiveur technology 
+MotoSuiveur® technology 
 =======================
 
 .. note::
@@ -7,26 +7,26 @@ MotoSuiveur technology
     Explores how fail-safety is achieved by combining unfailing systems.
 
 .. note::
-	Source: :download:`User Manual-7.4.doc`
+	From **User Manual-7.4.doc**
 
-Why MotoSuiveur
+Why MotoSuiveur®
 =================
 
-The MotoSuiveur is designed to protect winches against risks of control loss on the handled load, and this in every case of electrical or mechanical failure.
+The MotoSuiveur® is designed to protect winches against risks of control loss on the handled load, and this in every case of electrical or mechanical failure.
 
 It also allows emergency operation of the hoist using the recovery facility, in case of electrical or mechanical failure.
 
 Moreover, it offers the possibility to check the parameters, to test the securities of the program by modifying some parameters.
 
-.. figure:: ../_img/ms-tech-01.png
+.. figure:: ../_img/Peter/ms-tech-01.png
     :figwidth: 600 px
-    :align: center  
+    :align: center
 
-    Example of MotoSuiveur Solution implementation
+    Example of MotoSuiveur® Solution implementation
 
 
-Functioning principle MotoSuiveurF
-=========================
+Functioning principle MotoSuiveur® Friction
+===========================================
 
 The wheel is connected to the drum through a splined shaft or a torque transmission flange (connected with dowels). 
 The worm screw is rotated by a small motor (servo-motor), controlled by the duplicate of the command signals delivered to the motor brake of the winch. 
@@ -36,24 +36,24 @@ At shutdown, the load is maintained by the service brake.
 
 Any accident will generate a rupture in the accompaniment of the movement of the wheel / drum set, 
 which results in a blocking of the last one (and thus the blocking of the load) by the worm screw. 
-In such a case, the MotoSuiveur stops the load in a distance depending on the hoist inertias and torque, 
-by friction of the internal disks of the friction absorber inside the MotoSuiveur wheel.
+In such a case, the MotoSuiveur® stops the load in a distance depending on the hoist inertias and torque, 
+by friction of the internal disks of the friction absorber inside the MotoSuiveur® wheel.
 
 As option, a torque limiter can be added between the main motor and the gear box in order to smooth the static and dynamic overloads.
 
-The MotoSuiveur interprets and executes the same commands as the main system, but independently of this one. 
+The MotoSuiveur® interprets and executes the same commands as the main system, but independently of this one. 
 Due to the irreversibility of the wheel/worm screw couple, it limits the immediate speed of the winch to a speed 
-slightly superior to the theoretical speed. This principle of «mechanical follow-up» is the "intrinsic" part of safety that the MotoSuiveur provides.
+slightly superior to the theoretical speed. This principle of «mechanical follow-up» is the "intrinsic" part of safety that the MotoSuiveur® provides.
 
 The system also works in accordance with the principle of the comparison between the planned speed and the real speed. 
 The real speed and the position, resulting from a direct measure, are constantly compared with the value of the order 
 ( slope included) coming from the control panel. Then they are analysed by the computer. When the limits are reached, 
-the MotoSuiveur activates the safety procedure.
+the MotoSuiveur® activates the safety procedure.
 
-Functioning principle of a Hydraulic MotoSuiveur
+Functioning principle of a Hydraulic MotoSuiveur®
 ==================================================
 
-A hydraulic MotoSuiveur absorbs fall energy inside a hydraulic chamber. 
+A hydraulic MotoSuiveur® absorbs fall energy inside a hydraulic chamber. 
 Its capacity to absorb energy is limited to the fall direction, this is why it is not reversible.
 
 Friction absorber
@@ -62,7 +62,7 @@ Friction absorber
 The friction absorber is a compact energy absorber fitted inside the wheel. 
 It is composed of disks alternatively linked to the wheel and to the shaft that are pressed together 
 at the desire pressure through a number of spring washers defined at the factory to meet the defined blocking torque. 
-The friction absorber equips mainly the Friction MotoSuiveur but it is not theoretically limited to it and could be installed on a Hydraulic MotoSuiveur.
+The friction absorber equips mainly the Friction MotoSuiveur® but it is not theoretically limited to it and could be installed on a Hydraulic MotoSuiveur®.
 
 Recovery principle (option)
 ============================

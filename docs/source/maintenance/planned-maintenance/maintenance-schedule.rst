@@ -6,111 +6,51 @@ Planned maintenance schedule
 
 .. ========================================================================================
 
-.. note::
-	Source: :doc:`49104-15-001 Operation  Maintenance Manual Issue D (1).pdf`
 
-MotoSuiveur Unit and electrical cabinet
+..	Source: :doc:`49104-15-001 Operation  Maintenance Manual Issue D (1).pdf`
+
+MotoSuiveur® Unit and Control Cabinet
 =========================================
 
-The reliability of the MotoSuiveur will depend if the maintenance procedure is strictly adhered to.
-Maintenance operations are to be done based either on the number of revolutions given by the servo-motor
-drive display or on a time basis wherever the smallest value applies.
+.. important::
+  FOR ALL MAINTENANCE ACTIVITIES, ENSURE POWER TO MACHINE IS ISOLATED
 
-.. list-table:: Planned maintenance schedule, Mechanical components
-    :widths: 15 15 15 15 40
-    :width: 100 %
-    :header-rows: 1
+.. important::
+  FOR ALL MAINTENANCE ACTIVITIES, MAINTENANCE STAFF MUST BE TRAINED AND COMPETENT TO MAINTAIN / SERVICE THE EQUIPMENT BEFORE WORK COMMENCES.
 
-    * - Component
-      - Maintenance interval
-      - Worm rotation count on servo motor
-      - Controller Display
-      - Operation
-    * - Torque limiter
-      - Annually
-      - -
-      - -
-      - | Visual inspection
-        | (no oxidation marks)
-        | Drawings
-        | 49104-02-003
-        | 49104-02-004
-    * - Reaction arm
-      - Annually
-      - -
-      - -
-      - | (fixation, welds, cracks, etc)
-        | Drawings
-        | MSL-06-10
-        | MSL-03-10
-        | Replace Part No 123
-    * - Servo motor worm transmission
-      - Annually
-      - 75E+6
-      - |image045|
-      - Grease - LGMT2
-    * - Belt (if applicable) 
-      - 5 Years
-      - 75E+6
-      - |image045|
-      - Check for wear
-    * - Worm shaft lip seal
-      - 5 Years
-      - 150E+6
-      - |image046|
-      - | Drawings
-        | MSL-06-10
-        | MSL-03-10
-        | Replace Part No 53
-    * - Wheel lip seal
-      - 10 Years
-      - 450E+6
-      - |image048|
-      - | Drawings
-        | MSL-06-10
-        | MSL-03-10
-        | Replace Part No 28
-        | Replace earlier if leaks are present and maintenance history is unknown.
-    * - O-rings
-      - Annually
-      - 900E+6
-      - |image048|
-      - | Drawings
-        | MSL-06-10
-        | MSL-03-10
-        | Replace Part No's
-        | 27,37,38,52,103-106,116
-    * - Electrical cabinet air filter (if applies) :
-      - Annually
-      - -
-      - -
-      - Replace or clean
+.. important::
+  FAILURE TO OBSERVE THE ABOVE MAY RESULT IN INJURY OR DEATH.
+
+.. warning::
+  There are no customer serviceable parts with in this unit. 
+
+Maintenance **MUST** be completed by **SIGUREN Technologies LTD or authorised service centres**, the units are sealed and **MUST not** be opened by unauthorised persons. 
+
+.. important::
+  Visual checks of the the unit MUST carried out at least annually.
+
+Maintenance Intervals: 
+
+.. csv-table:: Mechanical parts maintenance intervals
+   :file: ../../_tables/mechanical-maintenance.csv
+   :delim: ;
+   :header-rows: 1
+   :widths: auto
+   :class: tight-table
+   :align: center
 
 
-.. list-table:: Planned maintenance schedule, Electrical components
-    :widths: 15 15 15 15 40
-    :width: 100 %
-    :header-rows: 1
+Torque Limiter
+==============
 
-    * - Component
-      - Maintenance interval
-      - Worm rotation count on servo motor
-      - Controller Display
-      - Operation
-    * - Touchscreen display
-      - Annually
-      - -
-      - -
-      - Visual inspection
-    * - Touch screen display battery
-      - 10 years
-      - -
-      - -
-      - Replace
+.. csv-table:: Torque limiter maintenance intervals
+   :file: ../../_tables/torque-limiter-maintenance.csv
+   :delim: ;
+   :header-rows: 1
+   :widths: auto
+   :class: tight-table
+   :align: center
 
-
-Torque limiter
-===============
 
 RSC-100
 --------

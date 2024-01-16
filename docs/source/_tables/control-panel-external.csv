@@ -1,0 +1,12 @@
+" ";Name;Type;Description
+"1";MSHMI;HMI;Operator HMI panel
+"2";:guilabel:`⚪ Healthy lamp`;Indicator light;MS is electrically healthy
+"3";:guilabel:`🟢 Upwnward enabled`;Indicator light;MS authorizes hoist for upwnward movement
+"4";:guilabel:`🔴 Fault`;Indicator light;MS is in fault state. Movement is prohibited
+"5";:guilabel:`🟠 Recovery mode`;Indicator light;Recovery mode is activated
+"6";:guilabel:`🟢 Recovery engaged`;Indicator light;Recovery mechanism is engaged
+"7";:guilabel:`🟢 Hoist enabled`;Indicator light;Hoist is allowed to perform movements
+"8";:guilabel:`🟢 Downward enabled`;Indicator light;MS authorizes hoist for downward movement
+"9";:guilabel:`🔘 Reset button`;Button (push);MS system reset
+"10";:guilabel:`🔑 Backup/Recovery down/up`;Turn key;Active Backup/Recovery mode
+"11";:guilabel:`Backup/Recovery down/up`;Turn key;Recovery is engaged

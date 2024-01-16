@@ -1,0 +1,9 @@
+"Check";"Possible warning/fault";7-segment display
+"Moving the worm to inner piston with screwing movement";;
+"Checking for activated USCRE switch/proximity sensor";"E11";|image011|
+"Moving worm with knocks in screwing direction to activate USCRE switch/proximity sensor";;
+"Check for activated USCRE switch/proximity sensor";"E14";|image003|
+"Moving worm in unscrewing direction to outer piston";;
+"Checking for activated SCRE switch/proximity sensor";"E12";|image015|
+"Moving worm with knocks in unscrewing direction to activate SCRE switch/proximity sensor";;
+"Check for activated SCRE switch/proximity sensor";"E33";|image007|

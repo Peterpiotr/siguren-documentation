@@ -1,6 +1,6 @@
-====================
-Flange installation
-====================
+======================================
+Installing an MS Flange (Generic Case)
+======================================
 
 .. note::
     Extracted from :download:`Mounting procedure.pptx <../../_archives/mounting-procedure.pptx>` .
@@ -9,53 +9,58 @@ Flange installation
 Drum – MS assembly
 ===================
 
-If the flat sides are not parallel, the *easiest way* is to rotate the barrel.
+Instructions
+	1. If the flat sides are not parallel, rotate the barrel.
+	
+	.. note::
+		If you cannot rotate the barrel, do the following:
 
-If you cannot rotate the barrel, do the following:
+		1. Remove this plug.
+		
+		..
 
-.. rst-class:: blue-list
-1. Remove this plug.
-2. Put the allen key S12 in the hole. Minimum length of 150 mm
-3. Rotate the worm with the allen key in the ANTICLOCKWISE direction.
+		2. Put the allen key S12 in the hole. Minimum length of 150 mm
 
-.. 	.. _Drum to MS:
-.. 	.. figure:: ../_img/mounting-procedure-01.jpg
-.. 		:width: 75 %
-.. 		:align: center
-.. 	
-.. 		Drum to MS assembly
+		..
 
-.. warning::
-    If you rotate the worm in CLOCKWISE direction there is a possibility of blocking the MS. 
-    If this happens, please consult :doc:`Unblocking the MotoSuiveur Unit <../troubleshooting/unblocking-ms>`
+		3. Rotate the worm with the allen key in the ANTICLOCKWISE direction.
 
-.. rst-class:: blue-list
-4. Assemble the MS to the drum and secure it with the bolts M16. 
+		.. 	.. _Drum to MS:
+		.. 	.. figure:: ../_img/mounting-procedure-01.jpg
+		.. 		:width: 75 %
+		.. 		:align: center
+		.. 	
+		.. 		Drum to MS assembly
 
-.. _Securing with bolts:
-.. figure:: ../../_img/mounting-procedure-03.jpg
-	:width: 75 %
-	:align: center
 
-	Securing with bolts
+	.. warning::
+		If you rotate the worm in CLOCKWISE direction there is a possibility of blocking the MS. 
+		If this happens, please consult :doc:`Unblocking the MotoSuiveur® Unit <../../troubleshooting/troubleshooting-measures/unblocking-ms>`
 
-.. note::
-	At this point, the hoist gearbox may also be assembled to the opposite end of the drum (depending on Demag drum replacement procedure). 
 
-5. Insert the centering bush.
+	2. Assemble the MS to the drum and secure it with the bolts M16. 
 
-.. _Centering bush assembly:
-.. figure:: ../../_img/mounting-procedure-04.jpg
-	:width: 75 %
-	:align: center
+	.. figure:: ../../_img/Peter/mounting-procedure-03.jpg
+		:width: 100 %
+		:class: instructionimg
 
-	Centering bush assembly
+		Securing with bolts
 
-6. Mount the stop washer. 3xM12 hexagon head screws. Tightening torque – 79 Nm
+	.. note::
+		At this point, the hoist gearbox may also be assembled to the opposite end of the drum (depending on Demag drum replacement procedure). 
 
-.. _Stop washer assembly:
-.. figure:: ../../_img/mounting-procedure-05.jpg
-	:width: 75 %
-	:align: center
+	3. Insert the centering bush.
 
-	Stop washer assembly
+	.. figure:: ../../_img/Peter/mounting-procedure-04.jpg
+		:width: 100 %
+		:class: instructionimg
+
+		Centering bush assembly
+
+	4. Mount the stop washer. 3xM12 hexagon head screws. Tightening torque – 79 Nm
+
+	.. figure:: ../../_img/Peter/mounting-procedure-05.jpg
+		:width: 100 %
+		:class: instructionimg
+
+		Stop washer assembly
