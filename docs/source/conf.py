@@ -11,7 +11,7 @@ author = 'SIGUREN technologies Ltd.'
 
 #master_doc = 'index'
 master_doc = 'index_alt1'
-version = '0.1.1'               # gets overwritten by readthedocs when published online?
+version = '0.1.2'               # gets overwritten by readthedocs when published online?
 release = version 
 
 
