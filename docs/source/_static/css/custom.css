@@ -8,7 +8,7 @@
     border-collapse: collapse;
 }​
 
-h2, h3 {
+h1, h2, h3 {
     margin-top: 3em !important;
     border-bottom: 2px solid #2439bb !important;
 }
@@ -70,4 +70,65 @@ ol > li::marker {
     color: #2439bb; 
     font-weight: bold;
     font-size: 1.2em;
+}
+
+/* everything regarding toc-cards is copied from Blender Docs*/
+
+/* Start section cards. */
+.toc-cards {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(225px, 1fr));
+	grid-gap: 20px;
+	list-style-type: none;
+	margin-bottom: 24px;
+}
+
+.card {
+	border-radius: .3em;
+	user-select: none;
+}
+
+.card div.figure,
+.card figure {
+	margin-bottom: 0px;
+	display: block;
+}
+
+.card img {
+	border-top-left-radius: .3em;
+	border-top-right-radius: .3em;
+}
+
+.card dl {
+	margin-bottom: 10px
+}
+
+.card dl dt>a {
+	display: block;
+	width: 100%;
+	margin-bottom: 10px;
+}
+
+.card dl dt a em,
+.card dl dt a span {
+	font-weight: bold;
+	font-style: normal;
+	font-size: 1.3em;
+}
+
+.card dl dt {
+	padding: 18px 15px 0px !important
+}
+
+.card dl dd {
+	padding: 0px 15px 5px 15px;
+	font-style: normal;
+	margin: 0px;
+	color: #808080;
+	font-size: 90%;
+}
+
+.card {
+	box-shadow: rgba(0, 0, 0, 0.05) 0px 1px 4px 0px,
+		rgba(211, 216, 223, 0.33) 0px 15px 20px -1px;
 }

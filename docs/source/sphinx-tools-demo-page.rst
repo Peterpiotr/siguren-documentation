@@ -216,29 +216,10 @@ The following standard selection operations are supported:
 
     MotoSuiveour Unit
 
-Original size
--------------
-
-.. grid:: 3
-    :gutter: 4
-    
-    .. grid-item-card::
-        :img-top: _img/Index/Original/Control-cabinet-overview.png
-        :link: ../ms-solution/ms-unit
-
-        MotoSuiveur Unit
- 
-        
-
-    .. grid-item-card::
-        :img-top: _img/Index/Original/hydraulic-ms.PNG
-        :link: ../diagnostics/controller-errors.rst
-
-        MS Controller Faults and Warnings
 
 
-resized
--------
+grid-item-cards
+---------------
 
 .. grid:: 3
     :gutter: 4
@@ -258,3 +239,26 @@ resized
         :link: ../diagnostics/controller-errors.rst
 
         MS Controller Faults and Warnings
+
+Container instead of grid-item
+------------------------------
+
+Inspired by Blender Docs
+
+.. container:: toc-cards
+
+      .. container:: card
+
+         .. figure:: _img/Index/ms-unit.jpg
+            :target: ms-solution/ms-uni.html
+
+         :doc:`equipment/ms-solution/ms-unit`
+            An introduction to Blender's window system, widgets and tools.
+
+      .. container:: card
+
+         .. figure:: _img/Index/control-cabinet.jpg
+            :target: diagnostics/controller-errors.html
+
+         :doc:`troubleshooting/diagnostics/controller-errors`
+            Overview of the interface and functionality of all editors.

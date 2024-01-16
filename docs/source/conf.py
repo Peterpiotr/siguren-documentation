@@ -9,8 +9,7 @@ year = datetime.datetime.now().year
 copyright = f'{year}, SIGUREN technologies Ltd.'
 author = 'SIGUREN technologies Ltd.'
 
-#master_doc = 'index'
-master_doc = 'index_alt1'
+master_doc = 'index'
 version = '0.1.2'               # gets overwritten by readthedocs when published online?
 release = version 
 
