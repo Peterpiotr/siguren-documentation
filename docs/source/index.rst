@@ -195,22 +195,23 @@ How-Tos
 
 
 .. toctree::
-  :maxdepth: 2
-  :hidden:
-  :caption: How tos
+    :maxdepth: 2
+    :hidden:
+    :caption: How tos
 
-  /howto/remove-ms-worm
-  /howto/recovery-gravity-lowering
+    /howto/remove-ms-worm
+    /howto/recovery-gravity-lowering
 
 
 
 .. toctree::
-   :maxdepth: 4
-   :hidden:
-   :caption: Reference
+    :maxdepth: 4
+    :hidden:
+    :caption: Reference
 
-   faq
-   glossary
-   external-links
-   sitemap
-   sphinx-tools-demo-page
+    faq
+    glossary
+    external-links
+    sitemap
+    sphinx-tools-demo-page
+    /archives/index
