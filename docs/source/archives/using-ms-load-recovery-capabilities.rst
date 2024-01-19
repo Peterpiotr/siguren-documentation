@@ -2,6 +2,10 @@
 Using the MS load recovery capabilities 02_reviewed.docx
 =========================================================
 
+.. note::
+   | From docx:
+   | `Using the MS load recovery capabilities 02_reviewed.docx <https://siguren.sharepoint.com/:w:/s/Processdesign/Eep-13E9C_9Nt9Ftomm2D7QBYeRqKE168oA5JOZUCT9s2Q?e=OSP1Yh>`_
+
 The MS will never allow a load drop. It will arrest the hoist drum
 whenever the hoist brake is unable to do so. However, the MS can be used
 as a gearbox to lower and even raise the load. Notе that the MS is
@@ -168,7 +172,7 @@ Handheld Recovery Tool
 |A black and white drawing of a machine Description automatically
 generated|
 
-3) MS assisted gravity lowering
+1) MS assisted gravity lowering
 
 -  Apply moderate torque to the MS shaft, using the appropriate method,
 

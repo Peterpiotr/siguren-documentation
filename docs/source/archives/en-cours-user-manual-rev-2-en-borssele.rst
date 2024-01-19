@@ -2,6 +2,10 @@
 EN_COURS_User manual - REV_2_EN_Borssele_reviewed.docx
 =======================================================
 
+.. note::
+   | From docx:
+   | `EN_COURS_User manual - REV_2_EN_Borssele_reviewed.docx <https://siguren.sharepoint.com/:w:/s/Processdesign/EWkfuiAl5mhJv2O-SGVNGesB3YePgZb30PGO1dHCr3nJOw?e=wftPI3>`_
+
 +--------------------------+-----------------+------------------------+
 | **S**\ **iguren          |                 | |image1|               |
 | Ingéniérie**             |                 |                        |

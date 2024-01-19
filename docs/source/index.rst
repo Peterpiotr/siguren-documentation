@@ -43,7 +43,6 @@ Equipment Overview
     /about/risk-reduction
 
 
-
 Installation
 =============
 

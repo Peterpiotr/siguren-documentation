@@ -2,6 +2,10 @@
 User Manual-7.4_reviewed.docx
 ==============================
 
+.. note::
+   | From docx:
+   | `User Manual-7.4_reviewed.docx <https://siguren.sharepoint.com/:w:/s/Processdesign/EdVuzr_Djt9NotvVTExYs8cBLjC8dEFmFS5zpOR5xwwGGw?e=jkbn3u>`_
+
 +--------------------------+-----------------+------------------------+
 | **Siguren Ingénierie**   |                 | |image1|               |
 |                          |                 |                        |
