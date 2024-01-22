@@ -6,4 +6,5 @@ Load arrest
    :maxdepth: 2
 
    load-arrest
-   re-engaging
+   re-engaging-without-fault
+   re-engaging-with-fault
