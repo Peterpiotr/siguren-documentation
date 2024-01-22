@@ -1,9 +1,9 @@
-==============================
-Load Recovery Operation
-==============================
+========================
+Suspended Load Recovery
+========================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    recovery-operation
    recovery-overview

@@ -1,29 +1,13 @@
-=======================
-Maintenance Schedule
-=======================
-
-.. include:: ../../_img/_image-substitutions.rst
+=====================================
+Torque Limiter Maintenance Schedule
+=====================================
 
 
-..	Source: :doc:`49104-15-001 Operation  Maintenance Manual Issue D (1).pdf`
+MS-TL
+========
 
-MotoSuiveur® Unit and Control Cabinet
-=========================================
-
-Maintenance Intervals
----------------------- 
-
-.. csv-table:: Mechanical parts maintenance intervals
-   :file: ../../_tables/mechanical-maintenance.csv
-   :delim: ;
-   :header-rows: 1
-   :widths: auto
-   :class: tight-table
-   :align: center
-
-
-Torque Limiter
-==============
+.. note::
+  Valid for MS-Tl, RSC-100, RSC-125
 
 .. csv-table:: Torque limiter maintenance intervals
    :file: ../../_tables/torque-limiter-maintenance.csv
@@ -33,9 +17,11 @@ Torque Limiter
    :class: tight-table
    :align: center
 
+.. the table contains mini-procedures.
+    Make them into procedures and illustrate with photos.
 
 RSC-100
---------
+========
 
 .. list-table:: Planned maintenance schedule, Torque limiter RSC-100
     :widths: 20 20 60
@@ -67,7 +53,7 @@ RSC-100
 
 
 RSC-125
---------
+========
 
 .. list-table:: Planned maintenance schedule, Torque limiter RSC-125
     :widths: 20 20 60

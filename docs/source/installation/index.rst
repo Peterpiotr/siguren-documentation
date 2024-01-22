@@ -1,6 +1,15 @@
-=============
-Installation
-=============
+=======================
+Installing MotoSuiveur
+=======================
+
+
+.. toctree::
+  :maxdepth: 1
+  :caption: Logistics
+
+  mechanical-installation/installation-safety
+  mechanical-installation/ms-delivery
+  mechanical-installation/ms-handling
 
 .. toctree::
   :maxdepth: 1
@@ -12,14 +21,6 @@ Installation
   mechanical-installation/ms-seat-installation
   mechanical-installation/ms-positioning
   mechanical-installation/tl-assembly
-
-.. toctree::
-  :maxdepth: 1
-  :caption: Logistics
-
-  logistics/installation-safety
-  logistics/ms-delivery
-  logistics/ms-handling
 
 .. toctree::
   :maxdepth: 1

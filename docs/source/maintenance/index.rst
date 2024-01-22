@@ -1,24 +1,41 @@
-====================
-Planned Maintenance
-====================
+============
+Maintenance
+============
 
 .. toctree::
-  :maxdepth: 2
+  :maxdepth: 1
+  :caption: MotoSuiveur Unit
 
-  mandatory-warnings
-  electrical-maintenance
-  maintenance-schedule
-  lubrication
-  storage
-  predictive-maintenance
-  safety-datasheets
-  software-updates
-  spare-parts
+  mechanical/mandatory-warnings
+  mechanical/maintenance-schedule
+  mechanical/lubrication
+  mechanical/storage
+  mechanical/predictive-maintenance
+  mechanical/safety-datasheets
+  mechanical/spare-parts
   
+.. toctree::
+  :maxdepth: 1
+  :caption: Controls and HMI
 
-.. admonition:: Proposed Instructions
+  controls/electrical-maintenance
+  controls/password-entry
+  controls/software-updates
+  
+.. toctree::
+  :maxdepth: 2
+  :caption: Torque Limiter
+
+  torque-limiter/tl-maintenance-schedule
+  torque-limiter/tl-inspections-measures
+
+
+.. admonition:: Proposed Procedures
   :class: note
 
+  - Run MS Self-test and read results
+  - Consult warnings history
+  - Measure MS arrest torque on installed MS
   - Inspecting the oil level
   - Changing the oil
   - Inspecting the grease quality
@@ -33,7 +50,4 @@ Planned Maintenance
   - Testing MS IRD mechanical engagement
 
 .. inspecting, testing, replacing and such must be used precisely and consistently
-
-
-
 
