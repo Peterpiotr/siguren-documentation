@@ -99,14 +99,11 @@ Sections
     :caption: Sections
 
     /installation/index
+    /operation/regular/index
     /operation/load-arrest/index
     /operation/recovery/index
-    /operation/regular/index
-    /maintenance/planned-maintenance/index
-    /maintenance/spare-parts/index
-    /maintenance/updates/index
-    /troubleshooting/troubleshooting-measures/index
-    /troubleshooting/diagnostics/index
+    /maintenance/index
+    /advanced/index
 
 .. toctree::
     :maxdepth: 2

@@ -1,12 +1,11 @@
-=================
-Worm Removal
-=================
+=======================================
+Removing MS Worm to Bypass MS Safety
+=======================================
 
-Tools
-======
+.. warning::
+    Following the steps in this procedure will result in the loss of MotoSuiveur Safety.
 
-Preliminary precautions
-========================
-
-Warranty
-=========
+Steps
+    1. -
+    2. -
+    3. -

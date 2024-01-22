@@ -1,5 +1,5 @@
 ==============================
-Backup and Recovery Operation
+Load Recovery Operation
 ==============================
 
 .. toctree::

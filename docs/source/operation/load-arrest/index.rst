@@ -1,10 +1,10 @@
 ============
-Load arrest
+Load Arrest
 ============
 
 .. toctree::
    :maxdepth: 2
 
-   load-arrest
+   determining-cause-for-load-arrest
    re-engaging-without-fault
    re-engaging-with-fault
