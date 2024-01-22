@@ -9,8 +9,8 @@ and instantly default to a safe arrested state when hoisting is disrupted.
 
    This documentation is under active development.
 
-Equipment Overview
-===================
+MotoSuiveur Overview
+======================
 
 .. container:: toc-cards
 
@@ -20,7 +20,7 @@ Equipment Overview
             :target: ms-solution/ms-unit.html
 
         :doc:`equipment/ms-solution/index`
-            Lorem Ipsum.
+            -
 
     .. container:: card
 
@@ -28,13 +28,12 @@ Equipment Overview
             :target: diagnostics/controller-errors.html
 
         :doc:`equipment/control-interface/index`
-            Lorem Ipsum.
-
+            -
 
 .. toctree::
     :maxdepth: 2
     :hidden:
-    :caption: Equipment overview
+    :caption: MotoSuiveur Overview
 
     /equipment/ms-solution/index
     /equipment/control-interface/index
@@ -43,45 +42,18 @@ Equipment Overview
     /about/risk-reduction
 
 
-Installation
-=============
-
-Learn more about the process of integrating a MotoSuiveur® Solution into an existing or new hoist design.
+Sections
+===================
 
 .. container:: toc-cards
 
     .. container:: card
 
         .. figure:: _img/Index/control-cabinet-connection.jpg
-            :target: installation/controls-installation/index.html
+            :target: installation/index.html
 
-        :doc:`installation/controls-installation/index`
-            Lorem Ipsum.
-
-    .. container:: card
-
-        :doc:`installation/mechanical-installation/index`
-            Lorem Ipsum.
-
-    .. container:: card
-
-        :doc:`installation/logistics/index`
-            Lorem Ipsum.
-
-.. toctree::
-  :maxdepth: 4
-  :hidden:
-  :caption: Installation
-
-  /installation/logistics/index
-  /installation/mechanical-installation/index
-  /installation/controls-installation/index
-
-
-Operation
-===========
-
-.. container:: toc-cards
+        :doc:`installation/index`
+            -
 
     .. container:: card
 
@@ -89,7 +61,7 @@ Operation
             :target: operation/regular/index.html
 
         :doc:`operation/regular/index`
-            Lorem Ipsum.
+            -
 
     .. container:: card
 
@@ -97,7 +69,7 @@ Operation
             :target: operation/load-arrest/index.html
 
         :doc:`operation/load-arrest/index`
-            Lorem Ipsum.
+            -
 
     .. container:: card
 
@@ -105,62 +77,44 @@ Operation
             :target: operation/recovery/index.html
         
         :doc:`operation/recovery/index`
-            Lorem Ipsum.
+            -
+
+    .. container:: card
+
+        :doc:`maintenance/index`
+            -
+
+    .. container:: card
+
+        :doc:`troubleshooting/index`
+            -
 
 .. toctree::
-  :maxdepth: 4
-  :hidden:
-  :caption: Operation
+    :maxdepth: 2
+    :hidden:
+    :caption: Sections
 
-  /operation/load-arrest/index
-  /operation/recovery/index
-  /operation/regular/index
-
-
-Maintenance
-=============
-
-.. container:: toc-cards
-
-    .. container:: card
-
-        :doc:`maintenance/planned-maintenance/index`
-            Lorem Ipsum.
-
-    .. container:: card  
-
-        :doc:`maintenance/spare-parts/index`
-            Lorem Ipsum.
-
-    .. container:: card
-
-        :doc:`maintenance/updates/index`
-            Lorem Ipsum.
-
-    .. container:: card
-
-        :doc:`troubleshooting/troubleshooting-measures/index`
-            Lorem Ipsum.
- 
-    .. container:: card
-
-        :doc:`troubleshooting/diagnostics/index`
-            Lorem Ipsum.
-
+    /installation/index
+    /operation/load-arrest/index
+    /operation/recovery/index
+    /operation/regular/index
+    /maintenance/planned-maintenance/index
+    /maintenance/spare-parts/index
+    /maintenance/updates/index
+    /troubleshooting/troubleshooting-measures/index
+    /troubleshooting/diagnostics/index
 
 .. toctree::
-  :maxdepth: 4
-  :hidden:
-  :caption: Maintenance
+    :maxdepth: 2
+    :hidden:
+    :caption: Reference
 
-  /maintenance/planned-maintenance/index
-  /maintenance/spare-parts/index
-  /maintenance/updates/index
-  /troubleshooting/troubleshooting-measures/index
-  /troubleshooting/diagnostics/index
-
-.. regulatory-testing
-
+    faq
+    glossary
+    external-links
+    sitemap
+    sphinx-tools-demo-page
+    /archives/index
 
 How-Tos
 ===========
@@ -191,8 +145,6 @@ How-Tos
     * Perform visual check of MS
 
 
-
-
 .. toctree::
     :maxdepth: 2
     :hidden:
@@ -203,14 +155,4 @@ How-Tos
 
 
 
-.. toctree::
-    :maxdepth: 4
-    :hidden:
-    :caption: Reference
 
-    faq
-    glossary
-    external-links
-    sitemap
-    sphinx-tools-demo-page
-    /archives/index

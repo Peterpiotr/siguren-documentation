@@ -1,15 +1,12 @@
 =============
-Spare parts
+Spare Parts
 =============
 
 .. note::
-    "What spares parts do I need to plan to have for my MS?" 
-    "When do I need to replace the parts" 
-    "How do I replace them?" (probably need a maintenance-procedures subfolder in maintenance, as for installation)
+    | "What spares parts do I need to plan to have for my MS?" 
+    | "When do I need to replace the parts" 
+    | "How do I replace them?" (probably need a maintenance-procedures subfolder in maintenance, as for installation)
 
-
-.. note::
-    Based on :download:`Using the MS Recovery Capabilities <../../_archives/using-the-ms-recovery-capabilities-02.docx>`
 
 .. csv-table:: Mechanical Spares MS6
    :file: tables/mechanical-spares-ms6.csv

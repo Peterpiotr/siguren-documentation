@@ -4,7 +4,7 @@ Lubrication
 
 .. include:: ../../_img/_image-substitutions.rst
 
-.. ========================================================================================
+.. replace with 
 
 All units of Motosuiveur® System, are checked after assembly, set and tested on a bench at Siguren Technologies. 
 During these tests, the oil tank is filled, the level is adjusted and the hydraulic system is drained.

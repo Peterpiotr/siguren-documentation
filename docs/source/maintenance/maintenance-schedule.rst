@@ -1,10 +1,8 @@
-=============================
-Planned maintenance schedule
-=============================
+=======================
+Maintenance Schedule
+=======================
 
 .. include:: ../../_img/_image-substitutions.rst
-
-.. ========================================================================================
 
 
 ..	Source: :doc:`49104-15-001 Operation  Maintenance Manual Issue D (1).pdf`
@@ -12,24 +10,8 @@ Planned maintenance schedule
 MotoSuiveur® Unit and Control Cabinet
 =========================================
 
-.. important::
-  FOR ALL MAINTENANCE ACTIVITIES, ENSURE POWER TO MACHINE IS ISOLATED
-
-.. important::
-  FOR ALL MAINTENANCE ACTIVITIES, MAINTENANCE STAFF MUST BE TRAINED AND COMPETENT TO MAINTAIN / SERVICE THE EQUIPMENT BEFORE WORK COMMENCES.
-
-.. important::
-  FAILURE TO OBSERVE THE ABOVE MAY RESULT IN INJURY OR DEATH.
-
-.. warning::
-  There are no customer serviceable parts with in this unit. 
-
-Maintenance **MUST** be completed by **SIGUREN Technologies LTD or authorised service centres**, the units are sealed and **MUST not** be opened by unauthorised persons. 
-
-.. important::
-  Visual checks of the the unit MUST carried out at least annually.
-
-Maintenance Intervals: 
+Maintenance Intervals
+---------------------- 
 
 .. csv-table:: Mechanical parts maintenance intervals
    :file: ../../_tables/mechanical-maintenance.csv

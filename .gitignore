@@ -160,5 +160,3 @@ cython_debug/
 
 .vscode
 
-source/archives/tocs_archives.drawio
-source/archives/.$tocs_archives.drawio.dtmp

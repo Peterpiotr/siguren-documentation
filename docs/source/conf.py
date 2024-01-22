@@ -51,6 +51,7 @@ html_theme_options = {
     'logo_only': True,
     'display_version': True,
     'prev_next_buttons_location': 'bottom',
+    'navigation_depth': 3,
     'style_external_links': False,
     'vcs_pageview_mode': '',
     'style_nav_header_background': '#2439bb',
