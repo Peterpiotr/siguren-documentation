@@ -2,7 +2,7 @@
 Lubrication
 =============
 
-.. include:: ../../_img/_image-substitutions.rst
+.. include:: /_img/_image-substitutions.rst
 
 .. replace with 
 
@@ -30,7 +30,7 @@ Maintenance Intervals:
 
      
 
-.. figure:: ../_img/Maintenance/oil-change.PNG
+.. figure:: /_img/maintenance/oil-change.PNG
    :align: center
    :figwidth: 600 px
    

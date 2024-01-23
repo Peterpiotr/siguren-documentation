@@ -1366,7 +1366,7 @@ Selecting the Operating Modes
 -----------------------------
 
 The selection of the operating modes is the equivalent of the use of the
-Normal mode/Recovery mode/Backup mode selection hard button on the main
+Normal mode/Recovery mode/backup mode selection hard button on the main
 control panel.
 
 The access to that screen requires permission level 3 password and this
@@ -2033,189 +2033,189 @@ Appendix 5: Oil Data Sheets
 Appendix 6: Certificate of Conformity
 -------------------------------------
 
-.. |image1| image:: ../_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image1.jpeg
+.. |image1| image:: /_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image1.jpeg
    :width: 2.47431in
    :height: 0.60764in
-.. |assemblage_ms1-a1| image:: ../_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image2.png
+.. |assemblage_ms1-a1| image:: /_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image2.png
    :width: 5.52222in
    :height: 4.76111in
-.. |image2| image:: ../_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image3.png
+.. |image2| image:: /_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image3.png
    :width: 8.09514in
    :height: 5.69653in
-.. |image3| image:: ../_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image16.png
+.. |image3| image:: /_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image16.png
    :width: 4.17639in
    :height: 2.41667in
-.. |image4| image:: ../_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image17.png
+.. |image4| image:: /_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image17.png
    :width: 5.25972in
    :height: 3.14514in
-.. |image5| image:: ../_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image18.emf
+.. |image5| image:: /_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image18.emf
    :width: 1.96104in
    :height: 3.75325in
-.. |image6| image:: ../_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image19.png
+.. |image6| image:: /_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image19.png
    :width: 0.79861in
    :height: 0.72361in
-.. |image7| image:: ../_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image19.png
+.. |image7| image:: /_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image19.png
    :width: 0.79861in
    :height: 0.72361in
-.. |face8ms| image:: ../_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image20.png
+.. |face8ms| image:: /_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image20.png
    :width: 4.5625in
    :height: 2.0625in
-.. |image8| image:: ../_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image21.png
+.. |image8| image:: /_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image21.png
    :width: 2.0625in
    :height: 4.5625in
-.. |image9| image:: ../_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image22.png
+.. |image9| image:: /_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image22.png
    :width: 4.5625in
    :height: 2.0625in
-.. |cote-ms| image:: ../_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image23.png
+.. |cote-ms| image:: /_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image23.png
    :width: 4.33333in
    :height: 1.73958in
-.. |image10| image:: ../_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image24.png
+.. |image10| image:: /_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image24.png
    :width: 0.54653in
    :height: 0.49514in
-.. |image11| image:: ../_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image25.png
+.. |image11| image:: /_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image25.png
    :width: 0.50764in
    :height: 0.44792in
-.. |image12| image:: ../_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image19.png
+.. |image12| image:: /_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image19.png
    :width: 0.79861in
    :height: 0.72361in
-.. |image13| image:: ../_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image26.emf
+.. |image13| image:: /_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image26.emf
    :width: 4.14249in
    :height: 3.60465in
-.. |image14| image:: ../_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image19.png
+.. |image14| image:: /_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image19.png
    :width: 0.79861in
    :height: 0.72361in
-.. |image15| image:: ../_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image19.png
+.. |image15| image:: /_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image19.png
    :width: 0.79861in
    :height: 0.72361in
-.. |image16| image:: ../_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image27.jpeg
+.. |image16| image:: /_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image27.jpeg
    :width: 2.13403in
    :height: 2.13403in
-.. |image17| image:: ../_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image28.jpeg
+.. |image17| image:: /_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image28.jpeg
    :width: 4.4625in
    :height: 0.68681in
-.. |image18| image:: ../_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image19.png
+.. |image18| image:: /_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image19.png
    :width: 0.79861in
    :height: 0.72361in
-.. |image19| image:: ../_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image29.png
+.. |image19| image:: /_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image29.png
    :width: 6.3in
    :height: 3.24583in
-.. |image20| image:: ../_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image30.jpeg
+.. |image20| image:: /_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image30.jpeg
    :width: 2in
    :height: 1.41806in
-.. |image21| image:: ../_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image31.jpeg
+.. |image21| image:: /_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image31.jpeg
    :width: 2.17917in
    :height: 1.52222in
-.. |image22| image:: ../_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image32.png
+.. |image22| image:: /_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image32.png
    :width: 2.66458in
    :height: 1.99514in
-.. |image23| image:: ../_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image33.jpeg
+.. |image23| image:: /_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image33.jpeg
    :width: 3.76528in
    :height: 2.82431in
-.. |image24| image:: ../_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image34.png
+.. |image24| image:: /_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image34.png
    :width: 0.38819in
    :height: 0.35833in
-.. |image25| image:: ../_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image35.png
+.. |image25| image:: /_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image35.png
    :width: 0.38819in
    :height: 0.35833in
-.. |image26| image:: ../_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image36.png
+.. |image26| image:: /_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image36.png
    :width: 0.38819in
    :height: 0.35833in
-.. |image27| image:: ../_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image37.png
+.. |image27| image:: /_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image37.png
    :width: 0.38819in
    :height: 0.35833in
-.. |image28| image:: ../_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image34.png
+.. |image28| image:: /_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image34.png
    :width: 0.38819in
    :height: 0.35833in
-.. |image29| image:: ../_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image38.png
+.. |image29| image:: /_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image38.png
    :width: 0.38819in
    :height: 0.35833in
-.. |image30| image:: ../_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image39.jpeg
+.. |image30| image:: /_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image39.jpeg
    :width: 2.66458in
    :height: 1.99514in
-.. |image31| image:: ../_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image40.jpeg
+.. |image31| image:: /_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image40.jpeg
    :width: 2.66458in
    :height: 1.99514in
-.. |image32| image:: ../_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image41.emf
+.. |image32| image:: /_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image41.emf
    :width: 2.67153in
    :height: 2in
-.. |image33| image:: ../_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image54.png
+.. |image33| image:: /_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image54.png
    :width: 4.28333in
    :height: 4.47778in
-.. |image34| image:: ../_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image55.png
+.. |image34| image:: /_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image55.png
    :width: 6.29861in
    :height: 1.47778in
-.. |image35| image:: ../_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image56.png
+.. |image35| image:: /_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image56.png
    :width: 2.67153in
    :height: 2in
-.. |image36| image:: ../_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image57.png
+.. |image36| image:: /_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image57.png
    :width: 0.79583in
    :height: 0.72083in
-.. |image37| image:: ../_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image63.png
+.. |image37| image:: /_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image63.png
    :width: 2.28542in
    :height: 1.71528in
-.. |image38| image:: ../_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image64.png
+.. |image38| image:: /_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image64.png
    :width: 6.2875in
    :height: 3.16042in
-.. |image39| image:: ../_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image65.png
+.. |image39| image:: /_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image65.png
    :width: 2.66667in
    :height: 2in
-.. |image40| image:: ../_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image66.png
+.. |image40| image:: /_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image66.png
    :width: 2.66528in
    :height: 2in
-.. |image41| image:: ../_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image67.jpeg
+.. |image41| image:: /_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image67.jpeg
    :width: 2.35065in
    :height: 1.93994in
-.. |image42| image:: ../_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image68.png
+.. |image42| image:: /_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image68.png
    :width: 2.32468in
    :height: 2.02127in
-.. |image43| image:: ../_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image69.png
+.. |image43| image:: /_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image69.png
    :width: 5.22361in
    :height: 4.47222in
-.. |image44| image:: ../_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image70.png
+.. |image44| image:: /_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image70.png
    :width: 2.66667in
    :height: 2in
-.. |image45| image:: ../_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image71.png
+.. |image45| image:: /_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image71.png
    :width: 2.66667in
    :height: 2in
-.. |image46| image:: ../_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image57.png
+.. |image46| image:: /_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image57.png
    :width: 0.79583in
    :height: 0.72083in
-.. |image47| image:: ../_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image72.png
+.. |image47| image:: /_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image72.png
    :width: 0.17917in
    :height: 0.22361in
-.. |image48| image:: ../_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image73.png
+.. |image48| image:: /_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image73.png
    :width: 0.17917in
    :height: 0.22361in
-.. |image49| image:: ../_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image74.png
+.. |image49| image:: /_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image74.png
    :width: 0.17917in
    :height: 0.23889in
-.. |image50| image:: ../_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image75.png
+.. |image50| image:: /_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image75.png
    :width: 0.17917in
    :height: 0.22361in
-.. |image51| image:: ../_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image76.JPG
+.. |image51| image:: /_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image76.JPG
    :width: 6.3in
    :height: 3.17014in
-.. |image52| image:: ../_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image19.png
+.. |image52| image:: /_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image19.png
    :width: 0.79861in
    :height: 0.72361in
-.. |image53| image:: ../_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image77.png
+.. |image53| image:: /_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image77.png
    :width: 0.79861in
    :height: 0.72361in
-.. |image54| image:: ../_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image78.emf
+.. |image54| image:: /_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image78.emf
    :width: 5.96528in
    :height: 9.12083in
-.. |image55| image:: ../_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image79.emf
+.. |image55| image:: /_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image79.emf
    :width: 6.29861in
    :height: 9.55208in
-.. |image56| image:: ../_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image80.emf
+.. |image56| image:: /_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image80.emf
    :width: 6.29861in
    :height: 9.41806in
-.. |image57| image:: ../_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image81.emf
+.. |image57| image:: /_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image81.emf
    :width: 6.29861in
    :height: 9.59722in
-.. |image58| image:: ../_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image82.emf
+.. |image58| image:: /_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image82.emf
    :width: 6.29861in
    :height: 9.38819in
-.. |image59| image:: ../_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image83.emf
+.. |image59| image:: /_img/archives/otl-motorsuiveur-operation-and-maintenance-manual-rev-b-4_reviewed/media/image83.emf
    :width: 6.29861in
    :height: 9.50764in

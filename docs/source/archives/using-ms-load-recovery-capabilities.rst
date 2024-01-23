@@ -211,15 +211,15 @@ generated|
 |                 |     |     |        |      | pm |    |    |    |
 +-----------------+-----+-----+--------+------+----+----+----+----+
 
-.. |A drawing of a machine Description automatically generated| image:: ../_img/archives/using-ms-load-recovery-capabilities/media/image1.png
+.. |A drawing of a machine Description automatically generated| image:: /_img/archives/using-ms-load-recovery-capabilities/media/image1.png
    :width: 6.51528in
    :height: 5.58955in
-.. |A black and white drawing of a gas pump Description automatically generated| image:: ../_img/archives/using-ms-load-recovery-capabilities/media/image2.png
+.. |A black and white drawing of a gas pump Description automatically generated| image:: /_img/archives/using-ms-load-recovery-capabilities/media/image2.png
    :width: 0.79851in
    :height: 0.76849in
-.. |image1| image:: ../_img/archives/using-ms-load-recovery-capabilities/media/image3.png
+.. |image1| image:: /_img/archives/using-ms-load-recovery-capabilities/media/image3.png
    :width: 1.24652in
    :height: 0.7913in
-.. |A black and white drawing of a machine Description automatically generated| image:: ../_img/archives/using-ms-load-recovery-capabilities/media/image4.png
+.. |A black and white drawing of a machine Description automatically generated| image:: /_img/archives/using-ms-load-recovery-capabilities/media/image4.png
    :width: 1.53125in
    :height: 1.51042in

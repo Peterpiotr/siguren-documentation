@@ -18,7 +18,7 @@ It also allows emergency operation of the hoist using the recovery facility, in 
 
 Moreover, it offers the possibility to check the parameters, to test the securities of the program by modifying some parameters.
 
-.. figure:: ../_img/Peter/ms-tech-01.png
+.. figure:: /_img/archives/ms-tech-01.png
     :figwidth: 600 px
     :align: center
 

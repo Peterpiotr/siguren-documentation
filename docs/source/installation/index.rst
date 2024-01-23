@@ -15,6 +15,8 @@ Installing MotoSuiveur
   :maxdepth: 1
   :caption: Mechanical Installation
 
+  mechanical-installation/retrofit-feasibility
+  mechanical-installation/removing-existing-plummer-block
   mechanical-installation/installation-on-existing-hoist
   mechanical-installation/ms-drum-installation
   mechanical-installation/ms-flange-installation

@@ -33,7 +33,7 @@ Enabling Back-up Lowering
 
   3. Turn the :guilabel:`Recovery Mode Down/Up` switch to position **Down**.
   
-  .. figure:: ../../_img/Recovery/recovery-down.png
+  .. figure:: /_img/recovery/recovery-down.png
   	:figwidth: 250 px
 
 	Turning switch to position Down
@@ -48,7 +48,7 @@ Returning to Normal Operation
 
   6. Turn the :guilabel:`Recovery Mode Down/Up` switch to the neutral position. The hoist main (service) brake should **close**.
 
-  .. figure:: ../../_img/Recovery/recovery-neutral-position.png
+  .. figure:: /_img/recovery/recovery-neutral-position.png
   	:figwidth: 250 px
 
   	Turning switch to neutral position
@@ -61,14 +61,14 @@ Returning to Normal Operation
 
   8. With hoist main brake closed downward movement with Integrated Recovey System is required.
 
-  .. figure:: ../../_img/Recovery/recovery-down.png
+  .. figure:: /_img/recovery/recovery-down.png
   	:figwidth: 250 px
 
   	Turning switch to position Down for recentering.
 
   9. Movement continues until :guilabel:`🟢 Upward Enabled` and :guilabel:`🟢 Downward Enabled` indicator lights are both iluminated.
 
-  .. figure:: ../../_img/Recovery/upward-downward-enabled-on.png
+  .. figure:: /_img/recovery/upward-downward-enabled-on.png
   	:figwidth: 250 px
 
   	Recentering of worm shaft
@@ -87,7 +87,7 @@ Returning to Normal Operation
   12. Switch :guilabel:`Recovery Mode Down/Up` to position **UP** for 2 - 5 seconds. After that switch to **neutral position**.
 
 
-  .. figure:: ../../_img/Recovery/recovery-upward-short.PNG
+  .. figure:: /_img/recovery/recovery-upward-short.PNG
   	:figwidth: 250 px
 
   	Short upward movement
@@ -95,14 +95,14 @@ Returning to Normal Operation
 
   12. Turn :guilabel:`🔑 Recovery Mode Off | On` switch to the position **OFF** 
 
-  .. figure:: ../../_img/Recovery/recovery-switch-off.png
+  .. figure:: /_img/recovery/recovery-switch-off.png
   	:figwidth: 250 px
 
   	Switch off Recovery mode
 
   13.  Reset MotoSuiveur® System
 
-    .. figure:: ../../_img/Recovery/reset.png
+    .. figure:: /_img/recovery/reset.png
     	:figwidth: 250 px
 
   14.  MotoSuiveur® System is ready to follow.

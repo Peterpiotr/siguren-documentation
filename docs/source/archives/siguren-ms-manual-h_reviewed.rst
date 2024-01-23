@@ -973,7 +973,7 @@ Backup/Recovery decision figures located in figures 15 and 20 with
 dotted outline, represent the places where request for these operation
 modes are checked.
 
-Switching on Recovery/Backup mode is performed through Backup/Recovery
+Switching on Recovery/backup mode is performed through Backup/Recovery
 OFF/ON key – figure 2, item 4. After switching Backup/Recovery mode on,
 *Backup mode* start operating. On 7 – segment display indication for
 backup mode is displayed |image64| and *Recovery mode* lamp is on.
@@ -1827,339 +1827,339 @@ Appendix 1: Signal Lamps
 |             |                          | should be on.               |
 +-------------+--------------------------+-----------------------------+
 
-.. |image1| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image1.png
+.. |image1| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image1.png
    :width: 2.34328in
    :height: 0.50744in
-.. |image2| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image2.png
+.. |image2| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image2.png
    :width: 6.26806in
    :height: 5.59236in
-.. |image3| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image3.png
+.. |image3| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image3.png
    :width: 6.26646in
    :height: 5.63954in
-.. |image4| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image4.png
+.. |image4| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image4.png
    :width: 6.26806in
    :height: 4.81597in
-.. |image5| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image5.png
+.. |image5| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image5.png
    :width: 4.08012in
    :height: 9.31169in
-.. |image6| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image6.png
+.. |image6| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image6.png
    :width: 2.80233in
    :height: 4.43034in
-.. |image7| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image7.png
+.. |image7| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image7.png
    :width: 6.26806in
    :height: 4.81597in
-.. |image8| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image8.png
+.. |image8| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image8.png
    :width: 5.75452in
    :height: 1.96365in
-.. |image9| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image9.png
+.. |image9| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image9.png
    :width: 5.15652in
    :height: 1.57222in
-.. |image10| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image10.png
+.. |image10| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image10.png
    :width: 1.23913in
    :height: 1.20667in
-.. |image11| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image11.png
+.. |image11| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image11.png
    :width: 1.19277in
    :height: 1.17219in
-.. |A picture containing table, sitting, kitchen, man Description automatically generated| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image12.jpeg
+.. |A picture containing table, sitting, kitchen, man Description automatically generated| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image12.jpeg
    :width: 4.75652in
    :height: 2.49256in
-.. |A close up of a logo Description automatically generated| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image13.png
+.. |A close up of a logo Description automatically generated| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image13.png
    :width: 0.57431in
    :height: 0.51042in
-.. |A picture containing indoor, sitting, kitchen, person Description automatically generated| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image14.jpeg
+.. |A picture containing indoor, sitting, kitchen, person Description automatically generated| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image14.jpeg
    :width: 5.12778in
    :height: 3.02326in
-.. |Checkmark| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image16.svg
+.. |Checkmark| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image16.svg
    :width: 0.37313in
    :height: 0.37313in
-.. |Close| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image18.svg
+.. |Close| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image18.svg
    :width: 0.38806in
    :height: 0.38806in
-.. |image12| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image19.png
+.. |image12| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image19.png
    :width: 5.46269in
    :height: 3.21342in
-.. |image13| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image20.png
+.. |image13| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image20.png
    :width: 3.74444in
    :height: 1.8375in
-.. |image14| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image21.png
+.. |image14| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image21.png
    :width: 6.26806in
    :height: 4.86389in
-.. |image15| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image22.png
+.. |image15| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image22.png
    :width: 3.54545in
    :height: 3.78903in
-.. |A picture containing drawing Description automatically generated| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image23.png
+.. |A picture containing drawing Description automatically generated| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image23.png
    :width: 0.41791in
    :height: 0.41415in
-.. |image16| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image24.png
+.. |image16| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image24.png
    :width: 0.19652in
    :height: 0.29038in
-.. |image17| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image25.png
+.. |image17| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image25.png
    :width: 0.1617in
    :height: 0.24713in
-.. |image18| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image26.png
+.. |image18| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image26.png
    :width: 0.18154in
    :height: 0.27375in
-.. |image19| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image24.png
+.. |image19| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image24.png
    :width: 0.19652in
    :height: 0.29038in
-.. |image20| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image25.png
+.. |image20| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image25.png
    :width: 4.98958in
    :height: 0.62903in
-.. |image21| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image27.png
+.. |image21| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image27.png
    :width: 2.89928in
    :height: 0.64583in
-.. |image22| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image28.png
+.. |image22| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image28.png
    :width: 4.63596in
    :height: 3.69583in
-.. |image23| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image29.gif
+.. |image23| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image29.gif
    :width: 0.21354in
    :height: 0.375in
-.. |image24| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image30.gif
+.. |image24| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image30.gif
    :width: 0.20548in
    :height: 0.37153in
-.. |image25| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image31.gif
+.. |image25| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image31.gif
    :width: 0.21354in
    :height: 0.375in
-.. |image26| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image32.gif
+.. |image26| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image32.gif
    :width: 0.20313in
    :height: 0.36632in
-.. |image27| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image33.gif
+.. |image27| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image33.gif
    :width: 0.19965in
    :height: 0.3869in
-.. |image28| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image34.gif
+.. |image28| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image34.gif
    :width: 0.21181in
    :height: 0.36285in
-.. |image29| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image35.gif
+.. |image29| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image35.gif
    :width: 0.21354in
    :height: 0.375in
-.. |image30| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image36.gif
+.. |image30| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image36.gif
    :width: 0.21937in
    :height: 0.36632in
-.. |image31| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image37.gif
+.. |image31| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image37.gif
    :width: 0.21354in
    :height: 0.375in
-.. |image32| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image38.gif
+.. |image32| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image38.gif
    :width: 0.20976in
    :height: 0.37326in
-.. |image33| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image39.gif
+.. |image33| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image39.gif
    :width: 0.21354in
    :height: 0.375in
-.. |image34| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image40.gif
+.. |image34| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image40.gif
    :width: 0.21528in
    :height: 0.36111in
-.. |image35| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image41.gif
+.. |image35| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image41.gif
    :width: 0.21354in
    :height: 0.375in
-.. |image36| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image40.gif
+.. |image36| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image40.gif
    :width: 0.20895in
    :height: 0.375in
-.. |image37| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image42.gif
+.. |image37| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image42.gif
    :width: 0.21354in
    :height: 0.375in
-.. |image38| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image43.gif
+.. |image38| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image43.gif
    :width: 0.20895in
    :height: 0.36285in
-.. |image39| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image44.gif
+.. |image39| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image44.gif
    :width: 0.21354in
    :height: 0.375in
-.. |image40| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image45.gif
+.. |image40| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image45.gif
    :width: 0.21354in
    :height: 0.375in
-.. |image41| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image26.png
+.. |image41| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image26.png
    :width: 0.33579in
    :height: 0.50635in
-.. |image42| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image46.png
+.. |image42| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image46.png
    :width: 4.98148in
    :height: 8.57143in
-.. |image43| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image470.png
+.. |image43| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image470.png
    :width: 2.625in
    :height: 6.35813in
-.. |image44| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image48.png
+.. |image44| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image48.png
    :width: 5.60241in
    :height: 5.77993in
-.. |image45| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image49.png
+.. |image45| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image49.png
    :width: 5.84766in
    :height: 6.37758in
-.. |image46| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image50.png
+.. |image46| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image50.png
    :width: 4.85867in
    :height: 5.32468in
-.. |image47| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image51.png
+.. |image47| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image51.png
    :width: 4.24374in
    :height: 9.27273in
-.. |image48| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image52.png
+.. |image48| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image52.png
    :width: 0.23126in
    :height: 0.40365in
-.. |image49| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image53.png
+.. |image49| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image53.png
    :width: 0.23077in
    :height: 0.40171in
-.. |image50| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image54.png
+.. |image50| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image54.png
    :width: 0.22598in
    :height: 0.39713in
-.. |image51| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image55.png
+.. |image51| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image55.png
    :width: 0.22135in
    :height: 0.39259in
-.. |image52| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image56.png
+.. |image52| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image56.png
    :width: 0.21484in
    :height: 0.39598in
-.. |image53| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image57.png
+.. |image53| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image57.png
    :width: 0.23615in
    :height: 0.40692in
-.. |image54| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image58.png
+.. |image54| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image58.png
    :width: 0.22786in
    :height: 0.39984in
-.. |image55| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image59.png
+.. |image55| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image59.png
    :width: 0.23201in
    :height: 0.40273in
-.. |image56| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image60.png
+.. |image56| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image60.png
    :width: 0.24038in
    :height: 0.40889in
-.. |image57| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image61.png
+.. |image57| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image61.png
    :width: 0.22436in
    :height: 0.40913in
-.. |image58| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image62.png
+.. |image58| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image62.png
    :width: 0.2277in
    :height: 0.39556in
-.. |image59| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image63.png
+.. |image59| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image63.png
    :width: 0.20833in
    :height: 0.37173in
-.. |image60| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image64.png
+.. |image60| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image64.png
    :width: 0.23237in
    :height: 0.39589in
-.. |image61| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image65.png
+.. |image61| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image65.png
    :width: 0.21073in
    :height: 0.38354in
-.. |image62| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image66.png
+.. |image62| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image66.png
    :width: 0.22581in
    :height: 0.41619in
-.. |image63| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image67.png
+.. |image63| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image67.png
    :width: 0.22436in
    :height: 0.40126in
-.. |image64| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image68.png
+.. |image64| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image68.png
    :width: 0.2248in
    :height: 0.39408in
-.. |image65| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image69.emf
+.. |image65| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image69.emf
    :width: 2.88264in
    :height: 3.45694in
-.. |image66| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image70.png
+.. |image66| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image70.png
    :width: 4.9717in
    :height: 7.43878in
-.. |image67| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image71.png
+.. |image67| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image71.png
    :width: 0.2185in
    :height: 0.37718in
-.. |image68| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image68.png
+.. |image68| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image68.png
    :width: 0.15225in
    :height: 0.2669in
-.. |image69| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image71.png
+.. |image69| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image71.png
    :width: 0.15423in
    :height: 0.26623in
-.. |image70| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image72.png
+.. |image70| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image72.png
    :width: 4.03345in
    :height: 4.0625in
-.. |image71| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image73.png
+.. |image71| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image73.png
    :width: 0.11024in
    :height: 0.20079in
-.. |image72| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image74.png
+.. |image72| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image74.png
    :width: 0.11417in
    :height: 0.19685in
-.. |image73| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image75.png
+.. |image73| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image75.png
    :width: 0.11024in
    :height: 0.19685in
-.. |image74| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image76.png
+.. |image74| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image76.png
    :width: 0.11417in
    :height: 0.19685in
-.. |image75| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image73.png
-   :width: 0.11024in
-   :height: 0.20079in
-.. |image76| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image74.png
-   :width: 0.11417in
-   :height: 0.19685in
-.. |image77| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image75.png
-   :width: 0.11024in
-   :height: 0.19685in
-.. |image78| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image76.png
-   :width: 0.11417in
-   :height: 0.19685in
-.. |image79| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image73.png
+.. |image75| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image73.png
    :width: 0.11024in
    :height: 0.20079in
-.. |image80| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image74.png
+.. |image76| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image74.png
    :width: 0.11417in
    :height: 0.19685in
-.. |image81| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image75.png
+.. |image77| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image75.png
    :width: 0.11024in
    :height: 0.19685in
-.. |image82| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image76.png
+.. |image78| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image76.png
    :width: 0.11417in
    :height: 0.19685in
-.. |image83| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image74.png
-   :width: 0.11417in
-   :height: 0.19685in
-.. |image84| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image75.png
-   :width: 0.11024in
-   :height: 0.19685in
-.. |image85| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image76.png
-   :width: 0.11417in
-   :height: 0.19685in
-.. |image86| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image75.png
-   :width: 0.11024in
-   :height: 0.19685in
-.. |image87| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image76.png
-   :width: 0.11417in
-   :height: 0.19685in
-.. |image88| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image76.png
-   :width: 0.11417in
-   :height: 0.19685in
-.. |image89| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image73.png
+.. |image79| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image73.png
    :width: 0.11024in
    :height: 0.20079in
-.. |image90| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image74.png
+.. |image80| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image74.png
    :width: 0.11417in
    :height: 0.19685in
-.. |image91| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image75.png
+.. |image81| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image75.png
    :width: 0.11024in
    :height: 0.19685in
-.. |image92| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image76.png
+.. |image82| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image76.png
    :width: 0.11417in
    :height: 0.19685in
-.. |image93| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image73.png
+.. |image83| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image74.png
+   :width: 0.11417in
+   :height: 0.19685in
+.. |image84| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image75.png
+   :width: 0.11024in
+   :height: 0.19685in
+.. |image85| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image76.png
+   :width: 0.11417in
+   :height: 0.19685in
+.. |image86| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image75.png
+   :width: 0.11024in
+   :height: 0.19685in
+.. |image87| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image76.png
+   :width: 0.11417in
+   :height: 0.19685in
+.. |image88| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image76.png
+   :width: 0.11417in
+   :height: 0.19685in
+.. |image89| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image73.png
    :width: 0.11024in
    :height: 0.20079in
-.. |image94| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image74.png
+.. |image90| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image74.png
    :width: 0.11417in
    :height: 0.19685in
-.. |image95| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image75.png
+.. |image91| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image75.png
    :width: 0.11024in
    :height: 0.19685in
-.. |image96| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image76.png
+.. |image92| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image76.png
    :width: 0.11417in
    :height: 0.19685in
-.. |image97| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image77.jpeg
+.. |image93| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image73.png
+   :width: 0.11024in
+   :height: 0.20079in
+.. |image94| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image74.png
+   :width: 0.11417in
+   :height: 0.19685in
+.. |image95| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image75.png
+   :width: 0.11024in
+   :height: 0.19685in
+.. |image96| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image76.png
+   :width: 0.11417in
+   :height: 0.19685in
+.. |image97| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image77.jpeg
    :width: 2.15625in
    :height: 1.82292in
-.. |image98| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image78.jpeg
+.. |image98| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image78.jpeg
    :width: 2.23958in
    :height: 1.80208in
-.. |image99| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image79.jpeg
+.. |image99| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image79.jpeg
    :width: 1.20833in
    :height: 1.86458in
-.. |image100| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image80.jpeg
+.. |image100| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image80.jpeg
    :width: 2.21875in
    :height: 1.85417in
-.. |image101| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image81.jpeg
+.. |image101| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image81.jpeg
    :width: 1.0625in
    :height: 1.79167in
-.. |image102| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image82.jpeg
+.. |image102| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image82.jpeg
    :width: 2.22917in
    :height: 1.875in
-.. |image103| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image83.jpeg
+.. |image103| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image83.jpeg
    :width: 1.15625in
    :height: 1.83333in
-.. |image104| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image84.jpeg
+.. |image104| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image84.jpeg
    :width: 2.14583in
    :height: 2.04167in
-.. |image105| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image85.jpeg
+.. |image105| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image85.jpeg
    :width: 1.0625in
    :height: 1.75in
-.. |image106| image:: ../_img/archives/siguren-ms-manual-h_reviewed/media/image77.jpeg
+.. |image106| image:: /_img/archives/siguren-ms-manual-h_reviewed/media/image77.jpeg
    :width: 2.15625in
    :height: 1.82292in

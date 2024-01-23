@@ -66,7 +66,7 @@ Thus :
 -  The transmission flange creates a redundant load path, so the « shaft
    break » scenario becomes highly improbable
 
-.. |image1| image:: ../_img/archives/ms-installation-on-existing-hoist-barrel_reviewed/media/image1.png
-.. |image2| image:: ../_img/archives/ms-installation-on-existing-hoist-barrel_reviewed/media/image2.png
-.. |image3| image:: ../_img/archives/ms-installation-on-existing-hoist-barrel_reviewed/media/image4.png
-.. |image4| image:: ../_img/archives/ms-installation-on-existing-hoist-barrel_reviewed/media/image5.png
+.. |image1| image:: /_img/archives/ms-installation-on-existing-hoist-barrel_reviewed/media/image1.png
+.. |image2| image:: /_img/archives/ms-installation-on-existing-hoist-barrel_reviewed/media/image2.png
+.. |image3| image:: /_img/archives/ms-installation-on-existing-hoist-barrel_reviewed/media/image4.png
+.. |image4| image:: /_img/archives/ms-installation-on-existing-hoist-barrel_reviewed/media/image5.png

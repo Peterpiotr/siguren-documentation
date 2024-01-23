@@ -16,7 +16,7 @@ For lifting applications where access to the hoist is impractical or hazardous, 
 In such a case the Integrated Recovery Drive (MS-IRD) add-on for MS Solutions. 
 With MS-IRD, crane operators can remotely recover the load safely and rapidly even after a hoist failure, independently of the state of the hoists’ main drive.
 
-.. figure:: ../../_img/Recovery/Integrated-recovery.png
+.. figure:: /_img/recovery/Integrated-recovery.png
 	:align: center
 	:figwidth: 100 %
 
@@ -25,7 +25,7 @@ With MS-IRD, crane operators can remotely recover the load safely and rapidly ev
 MS-IRD consists of an independently powered and controlled AC motor, reductor, transmission and engagement mechanism. MS-IRD is integrated in MS unit.
 Exemplary general appearance of MS unit equipped with MS-IRD is shown on figure below.
 
-.. figure:: ../../_img/Recovery/Integrated-recovery-1.png
+.. figure:: /_img/recovery/Integrated-recovery-1.png
 	:align: center
 	:figwidth: 100 %
 
@@ -45,7 +45,7 @@ MS offers two independent load recovery systems – HRT and PRT.
 - *HRT is appropriate for MS0 and MS1.* 
 - *PRT is appropriate up to MS4 size.*
 
-.. figure:: ../../_img/Recovery/hrt.png
+.. figure:: /_img/recovery/hrt.png
 	:align: center
 	:figwidth: 456 px
 				 
@@ -54,7 +54,7 @@ MS offers two independent load recovery systems – HRT and PRT.
 Portable recovery tool (PRT)
 ==============================
 
-.. figure:: ../../_img/Recovery/prt.png
+.. figure:: /_img/recovery/prt.png
 	:align: center
 	:figwidth: 456 px
 
@@ -65,7 +65,7 @@ Brake release tool (BRT)
 
 BRT is used to set the motor brake to the slippage limit to facilitate worm rotation during recovery.
 
-.. figure:: ../../_img/Recovery/brt.png
+.. figure:: /_img/recovery/brt.png
 	:align: center
 	:figwidth: 456 px
 

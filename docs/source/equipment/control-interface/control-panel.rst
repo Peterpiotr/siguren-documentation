@@ -25,7 +25,7 @@ Mandatory are:
 The figure below shows an example overview of a control panel with and without MSHMI.
 
 .. _Control panel figure:
-.. figure:: /_img/Control-panel/control-panel-overview.png
+.. figure:: /_img/control-panel/control-panel-overview.png
 	:align: center
 	:figwidth: 600 px
 	:alt: Control cabinet
@@ -33,7 +33,7 @@ The figure below shows an example overview of a control panel with and without M
 	Control panel according documentation 
 
 .. _General view of control panel:
-.. figure:: /_img/Peter/control-panel-02.png
+.. figure:: /_img/archives/control-panel-02.png
 	:align: center
 	:figwidth: 600 px
 	:alt: Control cabinet
@@ -54,7 +54,7 @@ External control panel
 ======================
 
 .. _General view of external control panel:
-.. figure:: /_img/Peter/control-panel-external.png
+.. figure:: /_img/archives/control-panel-external.png
 	:align: center
 	:figwidth: 600 px
 	:alt: Control cabinet

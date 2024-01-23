@@ -4,7 +4,7 @@ Recovery Overview
 
 .. find better title, like Recovery options that users can resort to...
 
-.. include:: ../../_img/_image-substitutions.rst
+.. include:: /_img/_image-substitutions.rst
 
 .. role:: mechpart
    :class: mechpart
@@ -43,7 +43,7 @@ Steps
   2. Rotate the worm shaft **only in anticlockwise direction** with the **following torque** to lower the SWL. 
   3. Maximum values shown in `Forced MS Recovery method max torques`.
 
-   .. figure:: ../../_img/Recovery/forced-ms-recovery.jpg
+   .. figure:: /_img/recovery/forced-ms-recovery.jpg
       :figwidth: 600 px
       :class: instructionimg
       

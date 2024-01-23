@@ -2,7 +2,7 @@
 What is MotoSuiveur® Unit
 =========================
 
-.. include:: ../../_img/_image-substitutions.rst
+.. include:: /_img/_image-substitutions.rst
 
 .. role:: mechpart
    :class: mechpart
@@ -25,7 +25,7 @@ Description of components
 Hydraulic Damping MotoSuiveur®
 -------------------------------
 
-.. figure:: ../../_img/MS_Unit/hydraulic-ms.PNG
+.. figure:: /_img/ms-unit/hydraulic-ms.PNG
    :figwidth: 600 px
    :align: center  
     
@@ -42,7 +42,7 @@ Hydraulic Damping MotoSuiveur®
 Friction MotoSuiveur®
 ---------------------
 
-.. figure:: ../../_img/MS_Unit/Friction.jpg
+.. figure:: /_img/ms-unit/Friction.jpg
    :figwidth: 600 px
    :align: center  
     
@@ -98,7 +98,7 @@ The MotoSuiveur® wheel hub is interfaced mechanically to hoist drum via differe
 
 The MotoSuiveur® secured hoist system typically comprises of the following components shown below.
 
-.. figure:: ../../_img/MS_Unit/MS_secured_hoist.png
+.. figure:: /_img/ms-unit/MS_secured_hoist.png
 
 .. csv-table:: MotoSuiveur® secured hoist
    :file: ../../_tables/MS-Secured-Hoist.csv
@@ -126,7 +126,7 @@ MotoSuiveur® system is controlled by hoist commands. No external control is nee
    SIGUREN TECHNOLOGIES RECOMMENDS that the power supply to the MotoSuiveur® System should not be cut off by the E-stop button.
 
 
-.. figure:: ../../_img/MS_Unit/MS-Electrical-description.jpg
+.. figure:: /_img/ms-unit/MS-Electrical-description.jpg
 
 .. csv-table:: MotoSuiveur® secured hoist
    :file: ../../_tables/electrical-interface.csv

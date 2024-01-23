@@ -18,7 +18,7 @@ Any fluctuation of the pre-set torque is insignificant, and it is the number of 
 This makes MS Torque Limiters the most reliable and efficient means of protection against overloads in hoists.
 
 
-.. figure:: ../../_img/Peter/torque-limiter.png
+.. figure:: /_img/archives/torque-limiter.png
    :align: center
    :figwidth: 100 %
 

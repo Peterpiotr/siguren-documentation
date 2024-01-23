@@ -2,7 +2,7 @@
 Automatic Recovery Engagement 
 ==============================
 
-.. include:: ../../_img/_image-substitutions.rst
+.. include:: /_img/_image-substitutions.rst
 
 .. important::
    Automatic recovery engagement is applicable to MotoSuiveur® System equipped with Integrated Recovery Drive (MS-IRD).
@@ -25,7 +25,7 @@ Steps
 
 	2. Switch :guilabel:`🔑 Recovery Mode Off | On` to position **ON**.
 
-		.. figure:: ../../_img/Recovery/recovery-switch-on.png
+		.. figure:: /_img/recovery/recovery-switch-on.png
 			:figwidth: 600 px
 			:class: instructionimg
 
@@ -33,7 +33,7 @@ Steps
 
 			- The :guilabel:`🟠 Recovery Mode` indicator light comes on.
 
-		.. figure:: ../../_img/Recovery/recovery-indicator-on.png
+		.. figure:: /_img/recovery/recovery-indicator-on.png
 			:figwidth: 600 px
 			:class: instructionimg
 
@@ -43,7 +43,7 @@ Steps
 
 	3. Wait for :guilabel:`🟢Recovery engaged` light indicator to come on.
 
-		.. figure:: ../../_img/Recovery/recovery-engaged-on.png
+		.. figure:: /_img/recovery/recovery-engaged-on.png
 			:figwidth: 600 px
 			:class: instructionimg
 
@@ -78,14 +78,14 @@ Steps
 	The :guilabel:`🟠 Backup/Recovery Mode` indicator light illuminate.
 	MS Controller 7-segment display indicates **Backup mode** - |image058|.
 
-	.. figure:: ../../_img/Recovery/backup-recovery-on.PNG
+	.. figure:: /_img/recovery/backup-recovery-on.PNG
 		:figwidth: 200 px
 		:class: instructionimg
 
 		Activating Backlup/Recovery mode
 
 	
-	.. figure:: ../../_img/Recovery/backup-recovery-indicator-on.PNG
+	.. figure:: /_img/recovery/backup-recovery-indicator-on.PNG
 		:figwidth: 300 px
 		:class: instructionimg
 
@@ -93,7 +93,7 @@ Steps
 
 	3. Restart the MotoSuiveur® System.
 
-	.. figure:: ../../_img/Recovery/reset.png
+	.. figure:: /_img/recovery/reset.png
 		:figwidth: 200 px
 		:class: instructionimg
 
@@ -110,7 +110,7 @@ Steps
 	5. Engaging continues until :guilabel:`🟢Recovery engaged` light indicator is illuminated.
 
 
-	.. figure:: ../../_img/Recovery/recovery-engaged-on.png
+	.. figure:: /_img/recovery/recovery-engaged-on.png
 		:figwidth: 200 px
 		:class: instructionimg
 

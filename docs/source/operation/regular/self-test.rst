@@ -2,7 +2,7 @@
 Self-test
 ==========
 
-.. include:: ../../_img/_image-substitutions.rst
+.. include:: /_img/_image-substitutions.rst
 
 .. note::
      Description refers to software version 8.2.
@@ -68,14 +68,14 @@ MS faults are displayed with combination of |image036| and number. MS warnings a
 On pigures below ish shown example for MS Controller internal fault (E01) and MS warning (E10).
 
 .. _MS Controller internal fault:
-.. figure:: ../../_img/Regular-operations/E01-internal-error.png
+.. figure:: /_img/regular-operation/E01-internal-error.png
    :figwidth: 600 px
    :align: center
 
    MS Controller internal fault
 
 .. _MS warninig:
-.. figure:: ../../_img/Regular-operations/E10-MS-error.png
+.. figure:: /_img/regular-operation/E10-MS-error.png
    :figwidth: 600 px
    :align: center
 

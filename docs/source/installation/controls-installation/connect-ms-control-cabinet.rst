@@ -14,7 +14,7 @@ Electrical connection of the MotoSuiveur® control cabinet
 
 
 .. _Electrical connections of MotoSuiveur® panel:
-.. figure:: ../../_img/Peter/generalViewConnectionsMS-MSCC.png
+.. figure:: /_img/archives/generalViewConnectionsMS-MSCC.png
 	:figwidth: 465 px
 	:align: center
 
@@ -74,7 +74,7 @@ Electrical connection of the MotoSuiveur® unit
 Principle location of electrical components on MotoSuiveur® unit are shown on figure below.
 
 .. _Electrical connections of MotoSuiveur® unit:
-.. figure:: ../../_img/Controls-installation/MS-unit.PNG
+.. figure:: /_img/controls-installation/MS-unit.PNG
 	:figwidth: 465 px
 	:align: center
 
@@ -96,7 +96,7 @@ Connectors C6 and C7 should be made according following specification:
 -	For C6 connector should be used screened cable, 4 core, 1.5 mm². Ground the shield of the feedback should be connected to GND.
 
 .. _Connector C6:
-.. figure:: ../../_img/Controls-installation/C6.png
+.. figure:: /_img/controls-installation/C6.png
 	:figwidth: 465 px
 	:align: center
 
@@ -106,7 +106,7 @@ Connectors C6 and C7 should be made according following specification:
 - For C7 connector screened cable with 4 twisted pairs, 0.25 mm² should be used. Ground the shield of the feedback should be connected to GND.
 
 .. _Connector C7:
-.. figure:: ../../_img/Controls-installation/C7.png
+.. figure:: /_img/controls-installation/C7.png
 	:figwidth: 465 px
 	:align: center
 
@@ -115,14 +115,14 @@ Connectors C6 and C7 should be made according following specification:
 Signal arrangement of connector on motor side for motor type S1. 
 
 .. _Power connector type S1:
-.. figure:: ../../_img/Controls-installation/S1-power.PNG
+.. figure:: /_img/controls-installation/S1-power.PNG
 	:figwidth: 465 px
 	:align: center
 
 	Power connector type S1 (C6)
 
 .. _Resolver connector type S1:
-.. figure:: ../../_img/Controls-installation/S1-resolver.PNG
+.. figure:: /_img/controls-installation/S1-resolver.PNG
 	:figwidth: 465 px
 	:align: center
 
@@ -133,14 +133,14 @@ Signal arrangement of connector on motor side for motor type S1.
 Signal arrangement of connector on motor side for motor type S2. 
 
 .. _Power connector type S2:
-.. figure:: ../../_img/Controls-installation/S2-power.PNG
+.. figure:: /_img/controls-installation/S2-power.PNG
 	:figwidth: 465 px
 	:align: center
 
 	Power connector type S2 (C6)
 
 .. _Resolver connector type S2:
-.. figure:: ../../_img/Controls-installation/S2-resolver.PNG
+.. figure:: /_img/controls-installation/S2-resolver.PNG
 	:figwidth: 465 px
 	:align: center
 
@@ -155,7 +155,7 @@ Oil level sensor (S1) and Temperature sensor (S2) are standard 4 male pin M12 co
 Figure below shows M12 connector specification and present information which type should be used. 
 
 .. _M12 connector layout:
-.. figure:: ../../_img/Controls-installation/oil-and-temp.png
+.. figure:: /_img/controls-installation/oil-and-temp.png
 	:figwidth: 465 px
 	:align: center
 
@@ -163,7 +163,7 @@ Figure below shows M12 connector specification and present information which typ
 
 
 .. _Oil and temperature:
-.. figure:: ../../_img/Controls-installation/oil-sensors-connection.png
+.. figure:: /_img/controls-installation/oil-sensors-connection.png
 	:figwidth: 465 px
 	:align: center
 
@@ -176,7 +176,7 @@ How to connect proximity sensors / limit switches
 Position proximity sensors/switches are used for allowing or prohibits hoist movement. Position sensors/switches are using in active state output signal. 
 
 .. _Movement:
-.. figure:: ../../_img/Controls-installation/scr-uscr.PNG
+.. figure:: /_img/controls-installation/scr-uscr.PNG
 	:figwidth: 465 px
 	:align: center
 
@@ -186,7 +186,7 @@ The figure below shows an example of the installation of the limit switches.
 NC contacts are used for connection. Signal from switches is active when they are not pressed.
 
 .. _Limit switches:
-.. figure:: ../../_img/Controls-installation/limit-switches.png
+.. figure:: /_img/controls-installation/limit-switches.png
 	:figwidth: 465 px
 	:align: center
 
@@ -196,7 +196,7 @@ NC contacts are used for connection. Signal from switches is active when they ar
 In case of proxy position sensors are used, sensors are with NO output and are active when worm is in correct position. 
 
 .. _Proximity sensors:
-.. figure:: ../../_img/Controls-installation/position-sensors.png
+.. figure:: /_img/controls-installation/position-sensors.png
 	:figwidth: 465 px
 	:align: center
 
@@ -214,14 +214,14 @@ AC asynchronous motor is controlled by 230VAC or 400VAC variable speed drive.
 Windings of motor are connected in STAR (Y) configuration.
 
 .. _Star connection schematic:
-.. figure:: ../../_img/Controls-installation/motor-star-connection.png
+.. figure:: /_img/controls-installation/motor-star-connection.png
 	:figwidth: 465 px
 	:align: center
 
 	Star connection schematic
 
 .. _Star connection:
-.. figure:: ../../_img/Controls-installation/recovery-motor-connection-star.jpg
+.. figure:: /_img/controls-installation/recovery-motor-connection-star.jpg
 	:figwidth: 465 px
 	:align: center
 
@@ -230,7 +230,7 @@ Windings of motor are connected in STAR (Y) configuration.
 DC motor is controlled by MSRM4514 motor controller operating on 48VDC voltage.
 
 .. _DC motor:
-.. figure:: ../../_img/Controls-installation/recovery-motor-dc.jpg
+.. figure:: /_img/controls-installation/recovery-motor-dc.jpg
 	:figwidth: 465 px
 	:align: center
 

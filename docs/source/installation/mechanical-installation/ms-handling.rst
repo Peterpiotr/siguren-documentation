@@ -8,7 +8,7 @@ Handling
 
 
 .. _MS transportation:
-.. figure:: ../../_img/Installation/handling.png
+.. figure:: /_img/Installation/handling.png
 	:figwidth: 600 px
 	:align: center
 

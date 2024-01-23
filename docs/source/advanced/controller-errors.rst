@@ -2,7 +2,7 @@
 Reading Controller Fault Messages
 ==================================
 
-.. include:: ../../_img/_image-substitutions.rst
+.. include:: /_img/_image-substitutions.rst
 
 .. warning::
  	In case of repetitive faults, please contact SIGUREN technologies at support@siguren.com
@@ -27,7 +27,7 @@ Indication is a combination of letters and numbers.
 
 MS controller internal faults are indicated with blinked combination of |image035|, number and finish with symbol |image039|.
 
-.. figure:: ../../_img/Peter/MScontrollerInternalErrorE01.png
+.. figure:: /_img/archives/MScontrollerInternalErrorE01.png
 	:figwidth: 600 px
 	:align: center
 
@@ -35,7 +35,7 @@ MS controller internal faults are indicated with blinked combination of |image03
 
 MotoSuiveur® System faults are displayed with combination of |image036| and number. MS warnings are displayed with combination of |image035| and number. 
 
-.. figure:: ../../_img/Peter/MSwarningNumber10.png
+.. figure:: /_img/archives/MSwarningNumber10.png
 	:figwidth: 600 px
 	:align: center
 

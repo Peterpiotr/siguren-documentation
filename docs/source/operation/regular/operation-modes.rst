@@ -3,7 +3,7 @@ Operation modes
 ================
 
 .. _General view of the sequence of MS operation:
-.. figure:: ../../_img/Regular-operations/MS-block-diagram-color_1.PNG
+.. figure:: /_img/regular-operation/MS-block-diagram-color_1.PNG
    :figwidth: 600 px
    :align: center
 

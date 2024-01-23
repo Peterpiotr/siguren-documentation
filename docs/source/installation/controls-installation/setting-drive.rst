@@ -7,7 +7,7 @@ The servo motor is controlled by a MS Controller that embeds a software especial
 MS Controller is connected directly to the servo motor through a dedicated cable that controls the servo motor and sends position data back to the controller.
 
 .. _MS Controller:
-.. figure:: ../../_img/Controls-installation/ms-controller-230.PNG
+.. figure:: /_img/controls-installation/ms-controller-230.PNG
 	:figwidth: 465 px
 	:align: center
 

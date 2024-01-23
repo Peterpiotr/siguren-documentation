@@ -14,7 +14,7 @@ MSHMI support on screen guides for troubleshooting when MS Controller fault or M
 Steps
 	1. When a fault occurs, an information button |info-button| appears on the main screen next to the corresponding fault field.
 
-		.. figure:: ../_img/Troubleshooting/mshmi-main-screen.PNG
+		.. figure:: /_img/troubleshooting/mshmi-main-screen.PNG
 			:figwidth: 600 px
 			:class: instructionimg
 
@@ -26,7 +26,7 @@ Steps
 		
 		`Example` for MotoSuiveur® System E02 is shown on picture below.
 
-		.. figure:: ../_img/Troubleshooting/mshmi-e02.PNG
+		.. figure:: /_img/troubleshooting/mshmi-e02.PNG
 			:figwidth: 600 px
 			:class: instructionimg
 
@@ -35,4 +35,4 @@ Steps
 
 .. substitutions =========================================================
 
-.. |info-button|       image:: /_img/Troubleshooting/info-button.png
+.. |info-button|       image:: /_img/troubleshooting/info-button.png

@@ -2,7 +2,7 @@
 Load recovery operations
 ========================
 
-.. include:: ../../_img/_image-substitutions.rst
+.. include:: /_img/_image-substitutions.rst
 
 .. ====================================================================================================================
 
@@ -46,7 +46,7 @@ Steps
   2. Rotate the worm shaft **only in anticlockwise direction** with the **following torque** to lower the SWL. 
   3. Maximum values shown in `Forced MS Recovery method max torques`.
 
-  .. figure:: ../../_img/Recovery/forced-ms-recovery.jpg
+  .. figure:: /_img/recovery/forced-ms-recovery.jpg
   	:figwidth: 600 px
   	:class: instructionimg
 
@@ -97,7 +97,7 @@ Steps
 
   2.3 Lowering continues until the load has reached a safe location for detached from the hoist.
 
-  .. figure:: ../../_img/Recovery/recovery-down.png
+  .. figure:: /_img/recovery/recovery-down.png
   	:figwidth: 600 px
   	:class: instructionimg
 
@@ -108,7 +108,7 @@ Steps
   When safe location is reached and load is detouched, the :guilabel:`Recovery Mode Down/Up` switch should be turned to the neutral position.
   Hoist main (service) brake has to **close**.
 
-  .. figure:: ../../_img/Recovery/recovery-neutral-position.png
+  .. figure:: /_img/recovery/recovery-neutral-position.png
   	:figwidth: 600 px
   	:class: instructionimg
 
@@ -121,7 +121,7 @@ Steps
 
   4.1 With hoist main brake closed downward movement with Integrated Recovey System is required.
 
-  .. figure:: ../../_img/Recovery/recovery-down.png
+  .. figure:: /_img/recovery/recovery-down.png
   	:figwidth: 600 px
   	:class: instructionimg
 
@@ -129,7 +129,7 @@ Steps
 
   4.2 Movement continues until :guilabel:`🟢 Upward Enabled` and :guilabel:`🟢 Downward Enabled` indicator lights are both iluminated.
 
-  .. figure:: ../../_img/Recovery/upward-downward-enabled-on.png
+  .. figure:: /_img/recovery/upward-downward-enabled-on.png
   	:figwidth: 160 px
   	:class: instructionimg
 
@@ -144,7 +144,7 @@ Steps
 
   Switch :guilabel:`Recovery Mode Down/Up` to position **UP** for 2 - 5 seconds. After that switch to **neutral position**.
 
-  .. figure:: ../../_img/Recovery/recovery-upward-short.PNG
+  .. figure:: /_img/recovery/recovery-upward-short.PNG
   	:figwidth: 250 px
   	:class: instructionimg
 
@@ -153,7 +153,7 @@ Steps
 
   5.3 Turnin :guilabel:`🔑 Recovery Mode Off | On` switch to the position **OFF** 
 
-  .. figure:: ../../_img/Recovery/recovery-switch-off.png
+  .. figure:: /_img/recovery/recovery-switch-off.png
   	:figwidth: 200 px
   	:class: instructionimg
 
@@ -161,7 +161,7 @@ Steps
 
   5.4 Reset MotoSuiveur® System
 
-  .. figure:: ../../_img/Recovery/reset.png
+  .. figure:: /_img/recovery/reset.png
   	:figwidth: 200 px
   	:class: instructionimg
 

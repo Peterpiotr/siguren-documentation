@@ -20,7 +20,7 @@ Controls and indicators of this function are located on the :doc:`control panel 
 Diagram below shows the principle of Backup/Recovery operation mode. 
 
 .. _Principle of Backup/Recovery operation :
-.. figure:: /_img/Peter/backup-mode-02.png
+.. figure:: /_img/archives/backup-mode-02.png
     :align: center
     :figwidth: 600 px
 
@@ -46,7 +46,7 @@ In cases where the hoist control chain is damaged, control can be performed manu
 located :doc:`control panel front door <../../equipment/control-interface/control-panel>` or directly on control terminals via a wire bridge. 
 
 .. _Example for manual operation in backup mode:
-.. figure:: /_img/Peter/backup-mode-01.png
+.. figure:: /_img/archives/backup-mode-01.png
 	:align: center
 
 	Example for manual operation in backup mode 

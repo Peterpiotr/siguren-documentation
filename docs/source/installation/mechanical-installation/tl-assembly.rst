@@ -18,14 +18,14 @@ The torque limiter coupling is made of:
     - The duplex coupling chain
     - The driving hub
 
-.. figure:: ../../_img/Peter/tl-assembly-01.png
+.. figure:: /_img/archives/tl-assembly-01.png
     :figwidth: 600 px
     
     MS torque limiter
 
 The cylinder of the limiter part contains helical springs which create the pressure force applied to the friction linings.
 
-.. figure:: ../../_img/Peter/tl-assembly-02.png
+.. figure:: /_img/archives/tl-assembly-02.png
     :figwidth: 600 px
     
     MS torque limiter - Limiter part

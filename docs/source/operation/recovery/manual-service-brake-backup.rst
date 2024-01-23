@@ -3,7 +3,7 @@ Backup mode by manual action of the service brake procedure
 ===========================================================
 
 
-.. include:: ../../_img/_image-substitutions.rst
+.. include:: /_img/_image-substitutions.rst
 
 .. role:: mechpart
    :class: mechpart
@@ -36,7 +36,7 @@ Instructions
 	2. Rotate the worm shaft by hand **in anticlockwise direction** few rotations to centralize it between limit switches.
 	3. Repeat steps 1 and 2 until load is safely lowered.
 
-	.. figure:: ../../_img/Peter/stepLowering.png
+	.. figure:: /_img/archives/stepLowering.png
 		:figwidth: 100 %
 		
 		Hydraulic Damping MS step lowering
@@ -54,21 +54,21 @@ Backup mode allows following with limited speed and no fault detection.
 Instructions
 	1. Switch on the MotoSuiveur® System to :doc:`Backup Mode <backup-procedure>`.
 
-	.. figure:: ../../_img/Backup/switch-on-backup.png
+	.. figure:: /_img/backup/switch-on-backup.png
 		:figwidth: 100 %
 		
 		Switch on Backup Mode
 
 	1. Order lowering by switch :guilabel:`Backup mode Down/Up` to position **Down**. 
 
-	.. figure:: ../../_img/Backup/backup-down-up-control.png
+	.. figure:: /_img/backup/backup-down-up-control.png
 		:figwidth: 600 px
 		
 		Order lowering
 
 	1. Progressively release the motor brake using the provided :mechpart:`Brake Release Tool`, until the load starts to rotate the barrel.
 
-	.. figure:: ../../_img/Backup/manual-open-hoist-brake.png
+	.. figure:: /_img/backup/manual-open-hoist-brake.png
 		:figwidth: 100 %
 		
 		Opening hoist main brake
@@ -76,12 +76,12 @@ Instructions
 
 	1. Use the Brake Release Tool to regulate and maintain the speed below the specified safe speed. A :guilabel:`🔊 buzzer` will sound when the safe speed is close.
 
-	.. figure:: ../../_img/Backup/speed-limit-buzzer.png
+	.. figure:: /_img/backup/speed-limit-buzzer.png
 		:figwidth: 600 px
 		
 		Specified limit speed reached
 
-	.. figure:: ../../_img/Backup/backup-time-diagram.png
+	.. figure:: /_img/backup/backup-time-diagram.png
 		:figwidth: 600 px
 		
 		Backup gravity lowering diagram
@@ -131,7 +131,7 @@ Instructions
   4. Use the Brake Release Tool to maintain the torque to be applied to on the worm shaft inside the specified limits.
 
 
-.. figure:: ../../_img/Peter/MSassistedGravityLowering.png
+.. figure:: /_img/archives/MSassistedGravityLowering.png
 	:figwidth: 100%
 
 	Assisted gravity lowering
@@ -154,35 +154,35 @@ The starting and termination of the lowering is controlled by an operator.
 Instructions
    1. Switch on the MotoSuiveur® System to :doc:`Backup Mode <backup-procedure>`.
 
-   .. figure:: ../../_img/Backup/switch-on-backup.png
+   .. figure:: /_img/backup/switch-on-backup.png
    	:figwidth: 600 px
    	
    	Switch on Backup Mode
 
    2. Order lowering by switch and hold :guilabel:`Backup mode Down/Up` to position **Down**. 
 
-   .. figure:: ../../_img/Backup/backup-down-up-control.png
+   .. figure:: /_img/backup/backup-down-up-control.png
    	:figwidth: 600 px
    	
    	Order lowering
 
    3. MotoSuiveur® System starts automated gravity lowering by following algorithm
 
-   .. figure:: ../../_img/Backup/backup-mode-automatic-diagram.PNG
+   .. figure:: /_img/backup/backup-mode-automatic-diagram.PNG
    	:figwidth: 300 px
    	
    	Automated gravity lowering algorithm
 
    4. Lowering continues until the load is safely positioned.
 
-   .. figure:: ../../_img/Backup/de-risk-icons.png
+   .. figure:: /_img/backup/de-risk-icons.png
    	:figwidth: 200 px
 
    	Safely positioned load
 
    5. Stop lowering by switch and hold :guilabel:`Backup mode Down/Up` to **neutral** position.
 
-   .. figure:: ../../_img/Backup/backup-down-up-control-off.png
+   .. figure:: /_img/backup/backup-down-up-control-off.png
    	:figwidth: 300 px
 
    	End of lowering

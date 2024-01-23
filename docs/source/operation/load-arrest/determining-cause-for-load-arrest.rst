@@ -17,7 +17,7 @@ The reasons for MotoSuiveur® system load arrest can be various such as:
 .. give the steps that lead to load arrest in each case. make the distinction
 	betzeen locking the hoist and dissipating the energy
 
-.. figure:: ../../_img/Load-arrest/load-arrest.JPG
+.. figure:: /_img/load-arrest/load-arrest.JPG
 	:figwidth: 100 %
 	:class: instructionimg
 

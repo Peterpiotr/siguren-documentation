@@ -92,15 +92,15 @@ marche.
 |       |       | O-rings          | Replace                          |
 +-------+-------+------------------+----------------------------------+
 
-.. |image1| image:: ../_img/archives/maintenance-preventive-et-planifiee-ms_reviewed/media/image1.png
+.. |image1| image:: /_img/archives/maintenance-preventive-et-planifiee-ms_reviewed/media/image1.png
    :width: 0.17717in
    :height: 0.22441in
-.. |image2| image:: ../_img/archives/maintenance-preventive-et-planifiee-ms_reviewed/media/image2.png
+.. |image2| image:: /_img/archives/maintenance-preventive-et-planifiee-ms_reviewed/media/image2.png
    :width: 0.17717in
    :height: 0.22441in
-.. |image3| image:: ../_img/archives/maintenance-preventive-et-planifiee-ms_reviewed/media/image3.png
+.. |image3| image:: /_img/archives/maintenance-preventive-et-planifiee-ms_reviewed/media/image3.png
    :width: 0.17323in
    :height: 0.23228in
-.. |image4| image:: ../_img/archives/maintenance-preventive-et-planifiee-ms_reviewed/media/image4.png
+.. |image4| image:: /_img/archives/maintenance-preventive-et-planifiee-ms_reviewed/media/image4.png
    :width: 0.17717in
    :height: 0.22441in

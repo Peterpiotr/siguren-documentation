@@ -2674,219 +2674,219 @@ COSHH Data Sheets
 
 .. _section-3:
 
-.. |Alert| image:: ../_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image1.wmf
+.. |Alert| image:: /_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image1.wmf
    :width: 0.40625in
    :height: 0.36458in
-.. |ACHTUNG| image:: ../_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image2.wmf
+.. |ACHTUNG| image:: /_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image2.wmf
    :width: 0.39583in
    :height: 0.375in
-.. |HAAND| image:: ../_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image3.wmf
+.. |HAAND| image:: /_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image3.wmf
    :width: 0.45833in
    :height: 0.27083in
-.. |International Symbols Labels - Gear Entanglement \| Seton| image:: ../_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image4.jpeg
+.. |International Symbols Labels - Gear Entanglement \| Seton| image:: /_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image4.jpeg
    :width: 0.45513in
    :height: 0.45513in
-.. |A picture containing logo Description automatically generated| image:: ../_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image5.png
+.. |A picture containing logo Description automatically generated| image:: /_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image5.png
    :width: 0.53542in
    :height: 0.3875in
-.. |A picture containing LEGO, scale model, auto part, car Description automatically generated| image:: ../_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image6.png
+.. |A picture containing LEGO, scale model, auto part, car Description automatically generated| image:: /_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image6.png
    :width: 6.20922in
    :height: 3.61862in
-.. |A picture containing circle Description automatically generated| image:: ../_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image7.png
+.. |A picture containing circle Description automatically generated| image:: /_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image7.png
    :width: 4.97289in
    :height: 6.04185in
-.. |Diagram Description automatically generated| image:: ../_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image8.png
+.. |Diagram Description automatically generated| image:: /_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image8.png
    :width: 3.8168in
    :height: 3.30081in
-.. |A picture containing text, diagram, plan, parallel Description automatically generated| image:: ../_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image9.png
+.. |A picture containing text, diagram, plan, parallel Description automatically generated| image:: /_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image9.png
    :width: 6.5in
    :height: 3.85764in
-.. |A picture containing cylinder, red Description automatically generated| image:: ../_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image10.png
+.. |A picture containing cylinder, red Description automatically generated| image:: /_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image10.png
    :width: 5.47762in
    :height: 3.58094in
-.. |A close-up of a machine Description automatically generated with low confidence| image:: ../_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image11.png
+.. |A close-up of a machine Description automatically generated with low confidence| image:: /_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image11.png
    :width: 5.57891in
    :height: 3.43914in
-.. |A close-up of a mechanical device Description automatically generated with low confidence| image:: ../_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image12.png
+.. |A close-up of a mechanical device Description automatically generated with low confidence| image:: /_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image12.png
    :width: 3.06605in
    :height: 1.97063in
-.. |A picture containing text, screenshot, diagram, design Description automatically generated| image:: ../_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image13.png
+.. |A picture containing text, screenshot, diagram, design Description automatically generated| image:: /_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image13.png
    :width: 6.5in
    :height: 3.72986in
-.. |image1| image:: ../_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image14.gif
+.. |image1| image:: /_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image14.gif
    :width: 0.14505in
    :height: 0.25472in
-.. |image2| image:: ../_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image15.gif
+.. |image2| image:: /_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image15.gif
    :width: 0.14505in
    :height: 0.25472in
-.. |image3| image:: ../_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image16.gif
+.. |image3| image:: /_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image16.gif
    :width: 0.15042in
    :height: 0.26415in
-.. |image4| image:: ../_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image17.gif
+.. |image4| image:: /_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image17.gif
    :width: 0.1343in
    :height: 0.23585in
-.. |image5| image:: ../_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image18.gif
+.. |image5| image:: /_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image18.gif
    :width: 0.14486in
    :height: 0.25439in
-.. |image6| image:: ../_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image19.gif
+.. |image6| image:: /_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image19.gif
    :width: 0.14821in
    :height: 0.26027in
-.. |image7| image:: ../_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image20.gif
+.. |image7| image:: /_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image20.gif
    :width: 0.14665in
    :height: 0.25753in
-.. |image8| image:: ../_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image21.gif
+.. |image8| image:: /_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image21.gif
    :width: 0.14247in
    :height: 0.25018in
-.. |image9| image:: ../_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image22.gif
+.. |image9| image:: /_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image22.gif
    :width: 0.14155in
    :height: 0.24858in
-.. |image10| image:: ../_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image23.gif
+.. |image10| image:: /_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image23.gif
    :width: 0.1371in
    :height: 0.24075in
-.. |image11| image:: ../_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image24.gif
+.. |image11| image:: /_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image24.gif
    :width: 0.14675in
    :height: 0.26415in
-.. |image12| image:: ../_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image25.gif
+.. |image12| image:: /_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image25.gif
    :width: 0.15094in
    :height: 0.2717in
-.. |image13| image:: ../_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image26.gif
+.. |image13| image:: /_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image26.gif
    :width: 0.15094in
    :height: 0.2717in
-.. |image14| image:: ../_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image27.gif
+.. |image14| image:: /_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image27.gif
    :width: 0.16019in
    :height: 0.28834in
-.. |image15| image:: ../_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image28.gif
+.. |image15| image:: /_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image28.gif
    :width: 0.15723in
    :height: 0.28302in
-.. |image16| image:: ../_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image29.gif
+.. |image16| image:: /_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image29.gif
    :width: 0.16944in
    :height: 0.30556in
-.. |image17| image:: ../_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image30.gif
+.. |image17| image:: /_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image30.gif
    :width: 0.14653in
    :height: 0.26389in
-.. |image18| image:: ../_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image31.gif
+.. |image18| image:: /_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image31.gif
    :width: 0.16038in
    :height: 0.27493in
-.. |image19| image:: ../_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image32.gif
+.. |image19| image:: /_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image32.gif
    :width: 0.16771in
    :height: 0.30189in
-.. |image20| image:: ../_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image33.gif
+.. |image20| image:: /_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image33.gif
    :width: 0.15972in
    :height: 0.28819in
-.. |image21| image:: ../_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image34.gif
+.. |image21| image:: /_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image34.gif
    :width: 0.15139in
    :height: 0.27292in
-.. |image22| image:: ../_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image35.gif
+.. |image22| image:: /_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image35.gif
    :width: 0.15833in
    :height: 0.28542in
-.. |image23| image:: ../_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image36.gif
+.. |image23| image:: /_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image36.gif
    :width: 0.15972in
    :height: 0.2875in
-.. |image24| image:: ../_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image37.gif
+.. |image24| image:: /_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image37.gif
    :width: 0.15764in
    :height: 0.28472in
-.. |image25| image:: ../_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image38.gif
+.. |image25| image:: /_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image38.gif
    :width: 0.15972in
    :height: 0.28819in
-.. |image26| image:: ../_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image33.gif
+.. |image26| image:: /_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image33.gif
    :width: 0.15625in
    :height: 0.28194in
-.. |image27| image:: ../_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image23.gif
+.. |image27| image:: /_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image23.gif
    :width: 0.15069in
    :height: 0.26458in
-.. |A picture containing text, screenshot, diagram, line Description automatically generated| image:: ../_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image39.jpg
+.. |A picture containing text, screenshot, diagram, line Description automatically generated| image:: /_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image39.jpg
    :width: 4.01922in
    :height: 6.76in
-.. |A screenshot of a computer Description automatically generated with low confidence| image:: ../_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image40.png
+.. |A screenshot of a computer Description automatically generated with low confidence| image:: /_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image40.png
    :width: 5.40618in
    :height: 2.70078in
-.. |A screenshot of a video game Description automatically generated with medium confidence| image:: ../_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image41.png
+.. |A screenshot of a video game Description automatically generated with medium confidence| image:: /_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image41.png
    :width: 5.76358in
    :height: 2.89102in
-.. |A picture containing text, screenshot, font, diagram Description automatically generated| image:: ../_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image42.png
+.. |A picture containing text, screenshot, font, diagram Description automatically generated| image:: /_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image42.png
    :width: 5.84293in
    :height: 2.92833in
-.. |image28| image:: ../_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image43.png
+.. |image28| image:: /_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image43.png
    :width: 5.81321in
    :height: 2.89977in
-.. |A screenshot of a video game Description automatically generated with low confidence| image:: ../_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image44.png
+.. |A screenshot of a video game Description automatically generated with low confidence| image:: /_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image44.png
    :width: 5.67997in
    :height: 2.83331in
-.. |image29| image:: ../_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image45.png
+.. |image29| image:: /_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image45.png
    :width: 1.53823in
    :height: 0.84411in
-.. |image30| image:: ../_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image46.png
+.. |image30| image:: /_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image46.png
    :width: 1.46255in
    :height: 0.89559in
-.. |image31| image:: ../_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image47.png
+.. |image31| image:: /_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image47.png
    :width: 0.79305in
    :height: 1.39898in
-.. |image32| image:: ../_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image48.gif
+.. |image32| image:: /_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image48.gif
    :width: 0.21354in
    :height: 0.375in
-.. |image33| image:: ../_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image49.png
+.. |image33| image:: /_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image49.png
    :width: 1.55372in
    :height: 0.93664in
-.. |image34| image:: ../_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image50.png
+.. |image34| image:: /_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image50.png
    :width: 1.70228in
    :height: 0.93403in
-.. |image35| image:: ../_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image51.png
+.. |image35| image:: /_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image51.png
    :width: 1.65435in
    :height: 0.89051in
-.. |image36| image:: ../_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image52.png
+.. |image36| image:: /_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image52.png
    :width: 1.62438in
    :height: 0.98464in
-.. |image37| image:: ../_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image53.png
+.. |image37| image:: /_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image53.png
    :width: 1.71335in
    :height: 0.91632in
-.. |image38| image:: ../_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image54.png
+.. |image38| image:: /_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image54.png
    :width: 1.66949in
    :height: 0.97525in
-.. |image39| image:: ../_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image47.png
+.. |image39| image:: /_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image47.png
    :width: 0.73634in
    :height: 1.29893in
-.. |A red number on a white background Description automatically generated with medium confidence| image:: ../_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image55.png
+.. |A red number on a white background Description automatically generated with medium confidence| image:: /_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image55.png
    :width: 0.19652in
    :height: 0.29038in
-.. |A picture containing screenshot, graphics, font, graphic design Description automatically generated| image:: ../_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image56.png
+.. |A picture containing screenshot, graphics, font, graphic design Description automatically generated| image:: /_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image56.png
    :width: 0.1617in
    :height: 0.24713in
-.. |image40| image:: ../_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image57.png
+.. |image40| image:: /_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image57.png
    :width: 0.18154in
    :height: 0.27375in
-.. |image41| image:: ../_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image56.png
+.. |image41| image:: /_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image56.png
    :width: 3.592in
    :height: 0.45284in
-.. |A picture containing screenshot, text, font, graphics Description automatically generated| image:: ../_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image58.png
+.. |A picture containing screenshot, text, font, graphics Description automatically generated| image:: /_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image58.png
    :width: 2.016in
    :height: 0.44908in
-.. |image42| image:: ../_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image59.png
+.. |image42| image:: /_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image59.png
    :width: 0.17717in
    :height: 0.22441in
-.. |image43| image:: ../_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image59.png
+.. |image43| image:: /_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image59.png
    :width: 0.17717in
    :height: 0.22441in
-.. |image44| image:: ../_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image60.png
+.. |image44| image:: /_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image60.png
    :width: 0.17717in
    :height: 0.22441in
-.. |image45| image:: ../_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image61.png
+.. |image45| image:: /_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image61.png
    :width: 0.17717in
    :height: 0.22441in
-.. |image46| image:: ../_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image61.png
+.. |image46| image:: /_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image61.png
    :width: 0.17717in
    :height: 0.22441in
-.. |image47| image:: ../_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image62.png
+.. |image47| image:: /_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image62.png
    :width: 0.17323in
    :height: 0.23228in
-.. |image48| image:: ../_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image63.emf
+.. |image48| image:: /_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image63.emf
    :width: 0.3128in
    :height: 0.30287in
-.. |A picture containing auto part, red Description automatically generated| image:: ../_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image64.png
+.. |A picture containing auto part, red Description automatically generated| image:: /_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image64.png
    :width: 5.12583in
    :height: 2.36686in
-.. |A picture containing circle, drawing, sketch, illustration Description automatically generated| image:: ../_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image65.png
+.. |A picture containing circle, drawing, sketch, illustration Description automatically generated| image:: /_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image65.png
    :width: 0.49327in
    :height: 0.51665in
-.. |image49| image:: ../_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image63.emf
+.. |image49| image:: /_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image63.emf
    :width: 0.3125in
    :height: 0.30278in

@@ -4,7 +4,7 @@ Following mode
 
 .. tags:: following, overspeed
 
-.. include:: ../../_img/_image-substitutions.rst
+.. include:: /_img/_image-substitutions.rst
 
 Following operation mode is the main operating mode of the MotoSuiveur® system.
 Following operation mode starts after successful passed of self–test. 
@@ -30,7 +30,7 @@ In Rest, after a successful self-test and the presence of an enable signal from 
 the following indicators are active - :guilabel:`🟢 Hoist enabled`, :guilabel:`🟢 Upward Enable` and :guilabel:`🟢 Downward Enable`.
 
 .. _Active indicators in following state:
-.. figure:: ../../_img/Regular-operations/indicators-following-state.png
+.. figure:: /_img/regular-operation/indicators-following-state.png
    :align: center
    :figwidth: 600 px
 
@@ -41,7 +41,7 @@ If a limit switch prohibiting upward movement is activated during movement, the 
 In this state, no upward movement of the crane is allowed, and a short downward movement is required until the MS worm is cantered `Active indicators in following state`.
 
 .. _Upward movement prohibited:
-.. figure:: ../../_img/Regular-operations/indicators-following-state.png
+.. figure:: /_img/regular-operation/indicators-following-state.png
    :align: center
    :figwidth: 600 px
 
@@ -51,7 +51,7 @@ Accordingly, if the limit switch prohibiting downward movement is activated duri
 In this state, no downward movement of the crane is allowed, and a short upward movement is required until the MS worm is cantered – `Active indicators in following state`.
 
 .. _Downward movement prohibited:
-.. figure:: ../../_img/Regular-operations/downward-prohibited.png
+.. figure:: /_img/regular-operation/downward-prohibited.png
    :align: center
    :figwidth: 600 px
 
@@ -62,7 +62,7 @@ In this case MotoSuiveur® system does not follow the hoist on a motion request.
 Accordingly, MotoSuiveur® system does not provide an Enable signal to hoist.
 
 .. _No enable signal from hoist:
-.. figure:: ../../_img/Regular-operations/no-enable-signal.png
+.. figure:: /_img/regular-operation/no-enable-signal.png
    :align: center
    :figwidth: 600 px
 
@@ -78,7 +78,7 @@ Downward enable and Upward enable are ignored in fault state.
 Fault message is displayed on MS Controller 7-segmend display and MSHMI.
 
 .. _MS Fault state:
-.. figure:: ../../_img/Regular-operations/ms-fault.png
+.. figure:: /_img/regular-operation/ms-fault.png
    :align: center
    :figwidth: 600 px
    
@@ -95,7 +95,7 @@ When overspeed is detected, MotoSuiveur® system **trips** and mechanicaly locke
 to prevent load drop.
 
 .. _Main principle of following operation mode and overspeed detection:
-.. figure:: ../../_img/Peter/following-01.png
+.. figure:: /_img/archives/following-01.png
    :align: center
    :figwidth: 600 px
 
