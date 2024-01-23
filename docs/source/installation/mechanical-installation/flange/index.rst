@@ -1,13 +1,15 @@
-================================
-MS Coupling Flange Installation
-================================
-
-.. 
-    Extracted from Mounting procedure.pptx
+====================================
+MS Transmission Flange Installation
+====================================
 
 
-Coupling with drum
-===================
+.. toctree::
+  :maxdepth: 2
+  :caption: Types of Flanges
+
+  pin-flange-installation
+  flat-sided-flange-installation
+
 
 
 

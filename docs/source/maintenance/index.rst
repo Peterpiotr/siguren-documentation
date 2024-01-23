@@ -51,3 +51,10 @@ Maintenance
 
 .. inspecting, testing, replacing and such must be used precisely and consistently
 
+.. the /maintenance section should be subdivided first based on user actions/moments in the lifecycle and second according to MS System components
+    visual inspections
+    part replacements
+    testing 
+    consulting MS data
+    etc
+

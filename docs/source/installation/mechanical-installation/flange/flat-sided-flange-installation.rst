@@ -1,9 +1,9 @@
-========================================
-Installing a Flat-Sided Coupling Flange
-========================================
+============================================
+Installing a Flat-Sided Transmission Flange
+============================================
 
 .. note::
-	Coupling flanges are custom-made for each project according to the nature of the hoist's drum, available space, and more parameters specific to each case.
+	Transmission flanges are custom-made for each project according to the nature of the hoist's drum, available space, and more parameters specific to each case.
 	
 	If parts of the following steps do not seem to apply to your project, please consult your contact engineer at SIGUREN technologies.
 
@@ -14,7 +14,7 @@ Steps
 
                 1. Remove this plug.
                 
-                ..
+                .. which plug?
 
                 2. Put the allen key S12 in the hole. Minimum length of 150 mm
 
@@ -36,27 +36,27 @@ Steps
 
 	2. Assemble the MS to the drum and secure it with the bolts M16. 
 
-	.. figure:: /_img/archives/mounting-procedure-03.jpg
-		:width: 100 %
-		:class: instructionimg
+			.. figure:: /_img/archives/mounting-procedure-03.jpg
+				:width: 100 %
+				:class: instructionimg
 
-		Securing with bolts
+				Securing with bolts
 
-	.. note::
-		At this point, the hoist gearbox may also be assembled to the opposite end of the drum (depending on Demag drum replacement procedure). 
+			.. note::
+				At this point, the hoist gearbox may also be assembled to the opposite end of the drum (depending on Demag drum replacement procedure). 
 
 	3. Insert the centering bush.
 
-	.. figure:: /_img/archives/mounting-procedure-04.jpg
-		:width: 100 %
-		:class: instructionimg
+			.. figure:: /_img/archives/mounting-procedure-04.jpg
+				:width: 100 %
+				:class: instructionimg
 
-		Centering bush assembly
+				Centering bush assembly
 
 	4. Mount the stop washer. 3xM12 hexagon head screws. Tightening torque – 79 Nm
 
-	.. figure:: /_img/archives/mounting-procedure-05.jpg
-		:width: 100 %
-		:class: instructionimg
+			.. figure:: /_img/archives/mounting-procedure-05.jpg
+				:width: 100 %
+				:class: instructionimg
 
-		Stop washer assembly
+				Stop washer assembly

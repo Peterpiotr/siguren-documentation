@@ -2,14 +2,17 @@
 Installing MotoSuiveur® System
 ===============================
 
+.. toctree::
+  :maxdepth: 2
+  :caption: Feasibility
+
+  feasibility/index
 
 .. toctree::
-  :maxdepth: 1
-  :caption: Handling MS Equipment
+  :maxdepth: 2
+  :caption: Installation Planning
 
-  mechanical-installation/installation-safety
-  mechanical-installation/ms-delivery
-  mechanical-installation/ms-handling
+  planning/index
 
 .. toctree::
   :maxdepth: 2
@@ -19,8 +22,12 @@ Installing MotoSuiveur® System
   mechanical-installation/removing-existing-plummer-block
   mechanical-installation/installation-on-existing-hoist
   mechanical-installation/flange/index
-  mechanical-installation/ms-seat-installation
-  mechanical-installation/ms-positioning
+  mechanical-installation/seat/index
+  
+.. toctree::
+  :maxdepth: 2
+  :caption: MS Torque Limiter Installation
+
   mechanical-installation/tl-assembly
 
 .. toctree::
@@ -30,3 +37,5 @@ Installing MotoSuiveur® System
   controls-installation/connect-ms-control-cabinet
   controls-installation/setting-drive
   controls-installation/multiple-ms
+
+  .. include commissioning.

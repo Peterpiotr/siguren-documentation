@@ -46,15 +46,3 @@ In particular, the following conditions are required:
 - Make sure that no heat source is in direct contact with the MotoSuiveur®.
 - The MS Unit must be filled with the appropriate type of oil.
 
-Installation steps
-===================
-
-For a fine installation of the MotoSuiveur® System and to avoid ill-timed blockings during the setting of the command station and of the drives, 
-we advise users to start the winch assembly by following these steps:
-
-- Mounting of the MS Torque Limiter (OPTION).
-- Setting and testing of the lifting drive and the command cabinet.
-- Installation of the MotoSuiveur® on the drum and its reaction arm.
-- Positionning of the manual commands.
-- Oil level check.
-- Electric linking of the MotoSuiveur® Control Cabinet.
