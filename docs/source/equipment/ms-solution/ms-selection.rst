@@ -54,10 +54,10 @@ Example : Selecting a Passive Friction MS Unit (MSF)
 | Gearbox ratio = **60**
 | Motor speed = **3000 rpm**
 
-| Is it possible to put a torque limiter? 
+| Is it possible to put a MS Torque Limiter? 
 | **Yes**
 
-| Is there important inertia after the torque limiter? 
+| Is there important inertia after the MS Torque Limiter? 
 | **No**
 
 | Is the rotation speed at drum exceeding 35 rpm?	
@@ -116,5 +116,5 @@ MS control cabinet selection
 MS load recovery add-on selection
 =============================================
 
-MS torque limiter add-on  selection
+MS Torque Limiter add-on  selection
 ================================================

@@ -16,7 +16,7 @@ The MS Unit is a failsafe mechanical hoist arrester, designed and manufactured b
 The MS Unit protects against failures in hoist drive trains that would otherwise lead to dropped loads or overloads.
 
 MS Unit provides mechanical failsafe protection in the event of any electrica or mechanical failure of the hoist drive train. 
-In addition to the MS Unit, a torque limiter is put in the drive-train to limit any overload into the hoist lifting mechanism. 
+In addition to the MS Unit, a MS Torque Limiter is put in the drive-train to limit any overload into the hoist lifting mechanism. 
 
 
 Description of components
@@ -110,7 +110,7 @@ The MotoSuiveur® secured hoist system typically comprises of the following comp
 
 1 - The MS Unit can be fixed in different methods to the hoist. The following sections explain in more detail.
 
-2 - Torque limiter is mandatory for hydraulic MS type
+2 - MS Torque Limiter is mandatory for hydraulic MS type
 
 Electrical interface with hoist
 -------------------------------

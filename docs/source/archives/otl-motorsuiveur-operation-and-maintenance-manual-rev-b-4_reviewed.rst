@@ -97,7 +97,7 @@ Parts <#protection-of-the-manufactured-parts>`__
 `3.3 Assembly of the MS Unit <#assembly-of-the-ms-unit>`__
 `17 <#assembly-of-the-ms-unit>`__
 
-`3.4 Assembly of the Torque Limiter <#assembly-of-the-torque-limiter>`__
+`3.4 Assembly of the MS Torque Limiter <#assembly-of-the-torque-limiter>`__
 `18 <#assembly-of-the-torque-limiter>`__
 
 `3.5 Setting and Tests on the
@@ -253,7 +253,7 @@ Instructions <#maintenance-replacement-instructions>`__
 Instructions <#appendix-1-safety-instructions>`__
 `50 <#appendix-1-safety-instructions>`__
 
-`8.2 Appendix 2: Torque Limiter Technical
+`8.2 Appendix 2: MS Torque Limiter Technical
 Sheet <#appendix-2-torque-limiter-technical-sheet>`__
 `51 <#appendix-2-torque-limiter-technical-sheet>`__
 
@@ -281,7 +281,7 @@ Conformity <#appendix-6-certificate-of-conformity>`__
 
 `Figure 5: MS nameplate <#_Toc321909722>`__ `11 <#_Toc321909722>`__
 
-`Figure 4: Torque limiter <#_Toc321909723>`__ `18 <#_Toc321909723>`__
+`Figure 4: MS Torque Limiter <#_Toc321909723>`__ `18 <#_Toc321909723>`__
 
 `Figure 5: Breather cap <#_Toc321909724>`__ `20 <#_Toc321909724>`__
 
@@ -303,7 +303,7 @@ and wheel will cause the system to mechanically lock and the damping
 system safely arrests the load. This provides mechanical failsafe
 protection in the event of any electro-mechanical failure of the hoist
 drive train. The typical arrangement is shown in **Figure 1** below. In
-addition to the unit, a torque limiter is put in the drive-train to
+addition to the unit, a MS Torque Limiter is put in the drive-train to
 limit the maximum load into the MS Unit. The MS Units are available in
 multiple variants; hydraulic damping or friction plate arresting, shaft
 mounted or foot mounted each with various load capacities. The units are
@@ -333,7 +333,7 @@ Gearbox
 
 Drum
 
-Torque Limiter
+MS Torque Limiter
 
 Motor - Brake
 
@@ -468,7 +468,7 @@ amount of play in the system and for the presence of the oil.
 
 |image4|
 
-Figure 4: Image Showing Suggested Torque Limiter Placement
+Figure 4: Image Showing Suggested MS Torque Limiter Placement
 
 When the MS activates the worm moves out of normal operating position
 and the limit switches drop out a ‘hoist enable’ interlock to the main
@@ -486,9 +486,9 @@ The torque limiting device is set to slip at a nominal value equivalent
 to that of 10% above hoist proof load. This allows all hoisting
 functions to operate without interference while protecting the hoist
 mechanism from any overloads or shock loads. It is a long spring
-friction torque limiter that delivers constant torque limit while
+friction MS Torque Limiter that delivers constant torque limit while
 slipping with negligible change in slipping torque through life. The
-recommended position of the torque limiter is shown in Figure 4 (i.e.
+recommended position of the MS Torque Limiter is shown in Figure 4 (i.e.
 between motor and gearbox).
 
 The servo motor driving the worm has the ability to supply a constant
@@ -550,7 +550,7 @@ mounted and operational:
 
 -  The supply cables
 
--  The torque limiter
+-  The MS Torque Limiter
 
 On receipt, check for any in–transit damage.
 
@@ -558,7 +558,7 @@ On receipt, check for any in–transit damage.
 
 |image7|
 
-   The Motosuiveur® of the installation is attached to a torque limiter
+   The Motosuiveur® of the installation is attached to a MS Torque Limiter
    rated to a value specifically calculated for your application.
    Similarly, the control cabinet containing equipment which is pre-set
    to the specific values of your application must not be modified.
@@ -683,7 +683,7 @@ Safety Instructions
    that the rotation of the shafts is impossible.
 
 -  Never rotate the Motosuiveur® if the maintenance door is open or/and
-   if the protection cover of the torque limiter is removed.
+   if the protection cover of the MS Torque Limiter is removed.
 
 -  Do not modify the machine. Any modification of the kinematic chain
    increasing the inertias, the limiter adjustments or the maximum
@@ -740,7 +740,7 @@ For the correct installation of the Motosuiveur®, to avoid ill-timed
 blockings during the setting of the command station and of the drives,
 we advise you to start the winch assembly following these steps:
 
--  Mount the torque limiter
+-  Mount the MS Torque Limiter
 
 -  Set and test the lifting drive and the command cabinet
 
@@ -754,28 +754,28 @@ we advise you to start the winch assembly following these steps:
 
 |image12|
 
-   The Motosuiveur® should never be engaged without its torque limiter.
+   The Motosuiveur® should never be engaged without its MS Torque Limiter.
    This would cancel all guaranties.
 
-Assembly of the Torque Limiter
+Assembly of the MS Torque Limiter
 ------------------------------
 
-The installation is equipped with a RN-EL 40 torque limiter (VEKO).
+The installation is equipped with a RN-EL 40 MS Torque Limiter (VEKO).
 
 See Appendix 2 for technical sheet.
 
--  The torque limiter is mounted between the hoist motor and the High
+-  The MS Torque Limiter is mounted between the hoist motor and the High
    Speed shaft of the gear box
 
 -  Assembly must be done by qualified operators.
 
--  The torque limiter is delivered factory rated to the value necessary
+-  The MS Torque Limiter is delivered factory rated to the value necessary
    to the application. In case of doubt, check the application data on
    the assembly drawing.
 
 -  The limiter assembly direction is defined on the layout.
 
--  The torque limiter coupling is made of:
+-  The MS Torque Limiter coupling is made of:
 
 -  The permanent spring limiter
 
@@ -783,7 +783,7 @@ See Appendix 2 for technical sheet.
 
 |image13|
 
-Figure 4: Torque limiter
+Figure 4: MS Torque Limiter
 
 The response curve of the helical springs is maintained and the pressure
 force applied to the linings is constant regardless of the degree of
@@ -884,7 +884,7 @@ Procedure:
 -  Make sure the oil level is sufficient
 
 -  Make a movement down at slow speed until the movement stops (the
-   torque limiter is slipping)
+   MS Torque Limiter is slipping)
 
 -  Make a movement up at slow speed until the movement stops (the torque
    limiter is slipping)
@@ -1707,7 +1707,7 @@ Maintenance Sheet Shown Below:
 |                      |                     | rotation  | riodicity |
 |                      |                     | count     | in year   |
 +----------------------+---------------------+-----------+-----------+
-| Torque limiter       | Visual inspection   | -         | 1         |
+| MS Torque Limiter       | Visual inspection   | -         | 1         |
 |                      |                     |           |           |
 |                      | (no important       |           |           |
 |                      | oxidation marks)    |           |           |
@@ -1917,7 +1917,7 @@ if there is:
 
 -  Incorrect handling or work on the Motosuiveur
 
-Appendix 2: Torque Limiter Technical Sheet
+Appendix 2: MS Torque Limiter Technical Sheet
 ------------------------------------------
 
 |image54|

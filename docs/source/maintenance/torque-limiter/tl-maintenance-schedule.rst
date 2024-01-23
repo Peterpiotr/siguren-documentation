@@ -1,5 +1,5 @@
 =====================================
-Torque Limiter Maintenance Schedule
+MS Torque Limiter Maintenance Schedule
 =====================================
 
 
@@ -9,7 +9,7 @@ MS-TL
 .. note::
   Valid for MS-Tl, RSC-100, RSC-125
 
-.. csv-table:: Torque limiter maintenance intervals
+.. csv-table:: MS Torque Limiter maintenance intervals
    :file: /_tables/torque-limiter-maintenance.csv
    :delim: ;
    :header-rows: 1
@@ -23,7 +23,7 @@ MS-TL
 RSC-100
 ========
 
-.. list-table:: Planned maintenance schedule, Torque limiter RSC-100
+.. list-table:: Planned maintenance schedule, MS Torque Limiter RSC-100
     :widths: 20 20 60
     :width: 100 %
     :header-rows: 1
@@ -49,13 +49,13 @@ RSC-100
         the friction linings.
     * - Torque slip test
       - Annually
-      - To ensure torque limiter slips when specified torque setting is exceeded.
+      - To ensure MS Torque Limiter slips when specified torque setting is exceeded.
 
 
 RSC-125
 ========
 
-.. list-table:: Planned maintenance schedule, Torque limiter RSC-125
+.. list-table:: Planned maintenance schedule, MS Torque Limiter RSC-125
     :widths: 20 20 60
     :width: 100 %
     :header-rows: 1
@@ -81,4 +81,4 @@ RSC-125
         the friction linings.
     * - Torque slip test
       - Annually
-      - To ensure torque limiter slips when specified torque setting is exceeded.
+      - To ensure MS Torque Limiter slips when specified torque setting is exceeded.

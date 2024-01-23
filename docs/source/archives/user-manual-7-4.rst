@@ -191,7 +191,7 @@ winch
 
 `4.3 Steps 23 <#steps>`__
 
-`4.4 Assembly of the torque limiter (OPTION)
+`4.4 Assembly of the MS Torque Limiter (OPTION)
 24 <#assembly-of-the-torque-limiter-option>`__
 
 `4.5 Setting and tests on the drives
@@ -365,7 +365,7 @@ manual rotation of the Motosuiveur® (OPTION)
 
 `10.2 Appendix 2: Faults table 106 <#appendix-2-faults-table>`__
 
-`10.3 Appendix 3 : Torque limiter technical sheet (OPTION)
+`10.3 Appendix 3 : MS Torque Limiter technical sheet (OPTION)
 109 <#appendix-3-torque-limiter-technical-sheet-option>`__
 
 `10.4 Appendix 4: Electrical diagram
@@ -387,9 +387,9 @@ manual rotation of the Motosuiveur® (OPTION)
 
 `Figure 5: MS handling position 16 <#__RefHeading___Toc412478973>`__
 
-`Figure 6-1: Torque limiter 21 <#__RefHeading__4228_1797443522>`__
+`Figure 6-1: MS Torque Limiter 21 <#__RefHeading__4228_1797443522>`__
 
-`Figure 6-2: Torque limiter 21 <#__RefHeading___Toc412478975>`__
+`Figure 6-2: MS Torque Limiter 21 <#__RefHeading___Toc412478975>`__
 
 `Figure 7: Manual command handle 23 <#__RefHeading___Toc412478976>`__
 
@@ -669,7 +669,7 @@ a case, the Motosuiveur®\ :sup:`®` stops the load in a distance
 depending on the hoist inertias and torque, by friction of the internal
 disks of the friction absorber inside the MS wheel\ [STRIKEOUT:.]
 
-As option, a torque limiter can be added between the main motor and the
+As option, a MS Torque Limiter can be added between the main motor and the
 gear box in order to smooth the static and dynamic overloads.
 
 The Motosuiveur® interprets and executes the same commands as the main
@@ -760,7 +760,7 @@ mounted and operational:
 
 -  The supply cables
 
--  The torque limiter (OPTION)
+-  The MS Torque Limiter (OPTION)
 
 On delivery check that they didn’t get damaged during transportation. In
 particular, check the absence of bumps, knocks or scratches which may
@@ -902,7 +902,7 @@ Never place your hands inside the Motosuiveur®, without being sure that
 the rotation of the shafts is impossible.
 
 Never rotate the Motosuiveur® if the trap door is open or/and if the
-protection cover of the torque limiter is removed (OPTION)
+protection cover of the MS Torque Limiter is removed (OPTION)
 
 Do not modify the machine. Any modification of the kinematic chain
 increasing the inertias, the limiter adjustments (OPTION) or the maximum
@@ -965,7 +965,7 @@ For a fine installation of the Motosuiveur® and to avoid ill-timed
 blockings during the setting of the command station and of the drives,
 we advise you to start the winch assembly by following these steps:
 
--  [STRIKEOUT:Mounting of the torque limiter (OPTION)]
+-  [STRIKEOUT:Mounting of the MS Torque Limiter (OPTION)]
 
 -  Setting and testing of the lifting drive and the command cabinet
 
@@ -977,20 +977,20 @@ we advise you to start the winch assembly by following these steps:
 
 -  Electric linking of the Motosuiveur®
 
-Assembly of the torque limiter (OPTION)
+Assembly of the MS Torque Limiter (OPTION)
 ---------------------------------------
 
 See **appendix 3** for technical sheet.
 
 Assembly must be done by qualified operators.
 
-The torque limiter is delivered factory rated to the value necessary to
+The MS Torque Limiter is delivered factory rated to the value necessary to
 the application. In case of doubt, check the application data on the
 assembly drawing.
 
 The limiter assembly direction is defined on the layout.
 
-The torque limiter coupling is made of:
+The MS Torque Limiter coupling is made of:
 
 -  The permanent spring limiter
 
@@ -1000,14 +1000,14 @@ The torque limiter coupling is made of:
 
 |image10|
 
-Figure 6-1: Torque limiter
+Figure 6-1: MS Torque Limiter
 
 The cylinder of the limiter part contains helical springs which create
 the pressure force applied to the friction linings.
 
 |image11|
 
-Figure 6-2: Torque limiter
+Figure 6-2: MS Torque Limiter
 
 The response curve of the helical springs allows to keep, without much
 fluctuation, the pressure force applied to the linings. Thus, no matter
@@ -2453,7 +2453,7 @@ loaded and the Motosuiveur® is failed.
    order to push the screw in the damping chamber (lowering side).*
 
    *Be careful to stop the command while the hook stops in order to not
-   wear and/or overheat the torque limiter.*
+   wear and/or overheat the MS Torque Limiter.*
 
 3. In the recovery control box, switch from “Normal mode” to “Recovery
    mode”.\ |image79|
@@ -2672,21 +2672,21 @@ that the installation is equipped with a Motosuiveur® and a torque
 limiter, and to give them this user manual.
 
 | For the dynamic tests at 1.1 times the rated load, the preset value of
-  the torque limiter is normally calibrated to a value sufficient to
+  the MS Torque Limiter is normally calibrated to a value sufficient to
   allow movement
 | For static tests, two cases may occur depending on the preset value of
-  the torque limiter:
+  the MS Torque Limiter:
 
--  *If the torque limiter is calibrated to a value greater than the
+-  *If the MS Torque Limiter is calibrated to a value greater than the
    static load:*
 
 In this case the static load can be handled by the main motor at low
 speed, avoiding the jerks and high acceleration.
 
--  *If the torque limiter is calibrated to a value lower than the static
+-  *If the MS Torque Limiter is calibrated to a value lower than the static
    load:*
 
-In this case, either you change the setting of the torque limiter by
+In this case, either you change the setting of the MS Torque Limiter by
 adding springs, or you use additional loads. In the last case, it is
 necessary to:
 
@@ -2705,11 +2705,11 @@ necessary to:
 
 -  Remove the nominal load.
 
-In the case you change the setting of the torque limiter, you must:
+In the case you change the setting of the MS Torque Limiter, you must:
 
 -  Power off the installation.
 
--  Remove the nut of the torque limiter
+-  Remove the nut of the MS Torque Limiter
 
 -  Add the number of springs provided (See technical sheet of the torque
    limiter in **appendix 3**)
@@ -3282,7 +3282,7 @@ and the procedures to be applied.
 |   |            |                     | 2.4)]                         |
 +---+------------+---------------------+-------------------------------+
 
-Appendix 3 : Torque limiter technical sheet (OPTION)
+Appendix 3 : MS Torque Limiter technical sheet (OPTION)
 ----------------------------------------------------
 
 Intentionally left blank

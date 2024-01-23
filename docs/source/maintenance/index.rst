@@ -24,7 +24,7 @@ Maintenance
   
 .. toctree::
   :maxdepth: 2
-  :caption: Torque Limiter
+  :caption: MS Torque Limiter
 
   torque-limiter/tl-maintenance-schedule
   torque-limiter/tl-inspections-measures

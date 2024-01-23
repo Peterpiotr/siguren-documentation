@@ -63,7 +63,7 @@ Before any operation on the Motosuiveur® System, switch off the electrical supp
 
 Never place your hands inside the Motosuiveur® Unit, unless you are sure that it is impossible to rotate the shaft.
 
-Never rotate the Motosuiveur® Unit if the maintenance door is open or/and if the protection cover of the torque limiter is removed.
+Never rotate the Motosuiveur® Unit if the maintenance door is open or/and if the protection cover of the MS Torque Limiter is removed.
 
 Do not modify Motosuiveur® System! Any modification of the kinematic chain increasing the inertias, the limiter adjustments or the maximum speeds can be dangerous.
 

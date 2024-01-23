@@ -1,12 +1,12 @@
-================
-Delivery checks
-================
+==========================================
+Checking a MotoSuiveur® System at Delivery
+==========================================
 
 On delivery check that all the following parts are present or already mounted and operational:
 
 - The MS Unit; 
 - Electrical Control Cabinet;
-- Torque limiter (OPTION);
+- MS Torque Limiter (OPTION);
 - Supply cables;
 - All other components of the order that are not mentioned above.
 
@@ -19,6 +19,6 @@ On delivery check that all the following parts are present or already mounted an
     then confirm by registered mail to the carrier within 48 hours.
 
 .. important::
-    The MotoSuiveur® of the installation can be attached to a torque limiter (as option) rated to a value specifically calculated for your application. 
+    The MotoSuiveur® of the installation can be attached to a MS Torque Limiter (as option) rated to a value specifically calculated for your application. 
     Similarly, the electric boxed sets containing equipment’s which are pre-set to the specific values of your application must not be inverted.
 

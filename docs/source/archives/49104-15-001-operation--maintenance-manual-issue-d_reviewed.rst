@@ -1562,7 +1562,7 @@ Issue: D
 |   |   | _ |                                             |                  |
 |   |   | _ |                                             |                  |
 +---+---+---+---------------------------------------------+------------------+
-|   |   |   | `Torque Limiter Variations                  | `28 <#page29>`__ |
+|   |   |   | `MS Torque Limiter Variations                  | `28 <#page29>`__ |
 |   |   |   | ........................................    |                  |
 |   |   |   | ........................................... |                  |
 |   | ` |   | .............................. <#page29>`__ |                  |
@@ -1583,7 +1583,7 @@ Issue: D
 |   | _ |   |                                             |                  |
 |   | _ |   |                                             |                  |
 +---+---+---+---------------------------------------------+------------------+
-|   |   |   | `Torque Limiter RSC125 (MS6 set to 441Nm)   | `28 <#page29>`__ |
+|   |   |   | `MS Torque Limiter RSC125 (MS6 set to 441Nm)   | `28 <#page29>`__ |
 |   |   |   | ..                                          |                  |
 |   |   |   | ........................................... |                  |
 |   | ` |   | .............................. <#page29>`__ |                  |
@@ -1643,7 +1643,7 @@ Issue: D
    |image6|\ **OPERATION & MAINTENANCE MANUAL**
 
 +---+---+---+---+-------------------------------------------+------------------+
-|   |   |   |   | `Torque Limiter RSC100 (MS3 set to 134Nm) | `31 <#page32>`__ |
+|   |   |   |   | `MS Torque Limiter RSC100 (MS3 set to 134Nm) | `31 <#page32>`__ |
 |   |   |   |   | ......                                    |                  |
 |   |   |   |   | ......................................... |                  |
 |   | ` |   |   | ............................ <#page32>`__ |                  |
@@ -3916,7 +3916,7 @@ Issue: D
 
    |image7|\ **OPERATION & MAINTENANCE MANUAL**
 
-   `7.4 <#page64>`__ `Torque Limiter <#page64>`__ `63 <#page64>`__
+   `7.4 <#page64>`__ `MS Torque Limiter <#page64>`__ `63 <#page64>`__
 
    `7.4.1 <#page64>`__ `RSC-100 <#page64>`__ `63 <#page64>`__
 
@@ -4051,7 +4051,7 @@ parameters. Under fault conditions a differential speed between the worm
 and wheel will cause the system to mechanically lock and the damping
 system safely arrests the load. This provides mechanical failsafe
 protection in the event of any electro-mechanical failure of the hoist
-drive train. In addition to the unit, a torque limiter is put in the
+drive train. In addition to the unit, a MS Torque Limiter is put in the
 drive-train to limit the maximum load into the MS Unit. The MS Units are
 available in multiple variants; hydraulic damping or friction plate
 arresting, shaft mounted or foot mounted each with various load
@@ -4366,7 +4366,7 @@ Figure 1.5.2-1\ **–**\ Mechanical Description
 +------+-----------------+------+-------------------------------------+
 |      |                 |      |                                     |
 +------+-----------------+------+-------------------------------------+
-|    * |    Motor Brake  |    * |    Torque Limiter                   |
+|    * |    Motor Brake  |    * |    MS Torque Limiter                   |
 | *7** |                 | *8** |                                     |
 +------+-----------------+------+-------------------------------------+
 |      |                 |      |                                     |
@@ -4556,7 +4556,7 @@ Safety Instructions
    that it is impossible to rotate the shaft.
 
 -  Never rotate the Motosuiveur® if the maintenance door is open or/and
-   if the protection cover of the torque limiter is removed.
+   if the protection cover of the MS Torque Limiter is removed.
 
 -  Do not modify the machine. Any modification of the kinematic chain
    increasing the inertias, the limiter adjustments or the maximum
@@ -4983,21 +4983,21 @@ Issue: D
 INSTALATION OF THE TORQUE LIMITERS
 ==================================
 
-The installation is equipped with a RIMOSTAT®- RSC Torque Limiter
+The installation is equipped with a RIMOSTAT®- RSC MS Torque Limiter
 (Ringspan).
 
--  The torque limiter is mounted between the hoist motor and the High
+-  The MS Torque Limiter is mounted between the hoist motor and the High
    Speed shaft of the gear box
 
 -  Assembly must be done by qualified operators.
 
--  The torque limiter is delivered factory rated to the value necessary
+-  The MS Torque Limiter is delivered factory rated to the value necessary
    to the application. In case of doubt, check the application data on
    the assembly drawing.
 
 -  The limiter assembly direction is defined on the layout.
 
--  The torque limiter coupling is made of:
+-  The MS Torque Limiter coupling is made of:
 
 -  The permanent spring limiter
 
@@ -5005,7 +5005,7 @@ The installation is equipped with a RIMOSTAT®- RSC Torque Limiter
 
 |image44|
 
-Figure 5.1-1-Torque Limiter
+Figure 5.1-1-MS Torque Limiter
 
 The response curve of the helical springs is maintained and the pressure
 force applied to the linings is constant regardless of the degree of
@@ -5033,10 +5033,10 @@ Issue: D
 
    |image46|\ **OPERATION & MAINTENANCE MANUAL Installation**
 
-Torque Limiter Variations
+MS Torque Limiter Variations
 -------------------------
 
-Torque Limiter RSC125 (MS6 set to 441Nm)
+MS Torque Limiter RSC125 (MS6 set to 441Nm)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 |image47|
@@ -5199,11 +5199,11 @@ For the bush only no other lubrication is required.
 
 **3. Running In**
 
-Constant operating torque can be guaranteed if the torque limiter with
+Constant operating torque can be guaranteed if the MS Torque Limiter with
 blockaded machine part A has done slip rotations according to table
 below.
 
-**The “running in” is not necessary when the torque limiter was supplied
+**The “running in” is not necessary when the MS Torque Limiter was supplied
 with machine part A and** torque set by RINGSPANN.
 
 Issue Date\ *:* **07/08/2017** Document Ref: **49104-15-001**
@@ -5216,8 +5216,8 @@ Page 29 Issue: D
 
 |image53|
 
-After running let the torque limiter cool down. It is not necessary to
-dismount the parts. The torque limiters are always equipped by 30
+After running let the MS Torque Limiter cool down. It is not necessary to
+dismount the parts. The MS Torque Limiters are always equipped by 30
 springs 6, which are taken on hexagon head screws 7. The torque is
 determined by the number of thrust springs to be in function. Springs
 are to be stopped by tightening the nut 8 which is fitted at the screw
@@ -5229,13 +5229,13 @@ which weights can be hung.
 
    Figure 5.1.1-3
 
-With the torque limiter running slowly, the lever has to be brought into
+With the MS Torque Limiter running slowly, the lever has to be brought into
 balance by adjusting the weight and the calculating the transmissible
 torque.
 
 A more accurate setting of the torque is possible by using a lever (see
 fig. 5.1.1-4). This is connected with the machine part A, on which
-weights can be hung. With the torque limiter running slowly, the lever
+weights can be hung. With the MS Torque Limiter running slowly, the lever
 has to be brought into balance by adjusting the weight and the
 calculating the transmissible torque.
 
@@ -5266,7 +5266,7 @@ Issue: D
 
    |image55|\ **OPERATION & MAINTENANCE MANUAL Installation**
 
-Torque Limiter RSC100 (MS3 set to 134Nm)
+MS Torque Limiter RSC100 (MS3 set to 134Nm)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 |image56|
@@ -5373,7 +5373,7 @@ Page 31 Issue: D
 
    |image64|\ **OPERATION & MAINTENANCE MANUAL Installation**
 
-Torque limiter should be reassembled in opposite sequence. Pressure
+MS Torque Limiter should be reassembled in opposite sequence. Pressure
 Rings ( 2), lightly plate shaped, to be mounted as shown in picture. Hub
 nut (7) must be tightened hard, dependent on whether correcting part
 B\ :sub:`1` or B\ :sub:`2` is being used with sizes 40 - 63. you should
@@ -5388,18 +5388,18 @@ With the type using the bush no other lubrication is required.
 
 **3. Running In**
 
-Constant operating torque can be guaranteed if the torque limiter is run
+Constant operating torque can be guaranteed if the MS Torque Limiter is run
 in with a locked connecting part according to the table below.
 
 **The “running in” is not necessary** for the sizes 40-63 and also if
-the torque limiter was supplied with machine part A and torque set by
+the MS Torque Limiter was supplied with machine part A and torque set by
 RINGSPANN.
 
 |image65|
 
 **4. Setting of Torque**
 
-After running, let the torque limiter cool down and As described in
+After running, let the MS Torque Limiter cool down and As described in
 paragraph 1 remove the springs (6). The necessary number of springs
 requires to give a certain torque can be calculated approximately with
 the help of the diagram.
@@ -5414,7 +5414,7 @@ this for instance, a lever to which weights can be attached,(see fig
 
    Figure 5.1.2-4
 
-With the torque limiter running slowly, the lever has to be brought into
+With the MS Torque Limiter running slowly, the lever has to be brought into
 balance by adjusting the weight and the calculating the transmissible
 torque.
 
@@ -7945,7 +7945,7 @@ Issue: D
    |image161|\ **OPERATION & MAINTENANCE MANUAL Maintenance
    Information**
 
-Torque Limiter
+MS Torque Limiter
 --------------
 
 RSC-100
@@ -8033,7 +8033,7 @@ RSC-100
 |                                                    |   |   |   |   | * |   |
 |                                                    |   |   |   |   | * |   |
 +----------------------------------------------------+---+---+---+---+---+---+
-|    To ensure torque limiter slips when specified   |   |   |   |   |   |   |
+|    To ensure MS Torque Limiter slips when specified   |   |   |   |   |   |   |
 |    torque setting is exceeded.                     |   |   |   |   |   |   |
 +----------------------------------------------------+---+---+---+---+---+---+
 |                                                    |   |   |   |   |   |   |
@@ -8125,7 +8125,7 @@ RSC-100
 |                                                    |   |   |   |   | * |   |
 |                                                    |   |   |   |   | * |   |
 +----------------------------------------------------+---+---+---+---+---+---+
-|    To ensure torque limiter slips when specified   |   |   |   |   |   |   |
+|    To ensure MS Torque Limiter slips when specified   |   |   |   |   |   |   |
 |    torque setting is exceeded.                     |   |   |   |   |   |   |
 +----------------------------------------------------+---+---+---+---+---+---+
 |                                                    |   |   |   |   |   |   |
@@ -8376,7 +8376,7 @@ Drain of the Hydraulic System
 -  Make sure the oil level is sufficient
 
 -  Make a movement down at slow speed until the movement stops (the
-   torque limiter is slipping)
+   MS Torque Limiter is slipping)
 
 -  Make a movement up at slow speed until the movement stops (the torque
    limiter is slipping)
@@ -11309,7 +11309,7 @@ Issue: D
 
 |image214|
 
-   **RIMOSTAT®-Torque Limiters RS …**
+   **RIMOSTAT®-MS Torque Limiters RS …**
 
 |image215|
 
@@ -11336,7 +11336,7 @@ Issue: D
 **The RIMOSTAT® Principle**
 
 The contact pressure on the friction surfaces is produced by long coil
-springs. Because of the RIMOSTAT® Torque Limiter’s linear, flat-angle
+springs. Because of the RIMOSTAT® MS Torque Limiter’s linear, flat-angle
 characteristic of the pressure force, practically no reduction of the
 slipping torque occurs even when friction linings are subjected to wear.
 As the diagram 64-3 shows, compared with Belleville spring torque
@@ -11400,7 +11400,7 @@ Preload travel of spring f
 
 |image220|
 
-   **RIMOSTAT®-Torque Limiters RS**
+   **RIMOSTAT®-MS Torque Limiters RS**
 
 |image221|\ |image222|
 
@@ -11707,7 +11707,7 @@ Preload travel of spring f
 
 |image223|
 
-1) The max. speed relates to the design straight of the Torque Limiter;
+1) The max. speed relates to the design straight of the MS Torque Limiter;
    the max. permissable speed differential Δn should be checked
    according to the heat calculation on page 73.
 
@@ -11741,7 +11741,7 @@ possible when the order includes a finish bore.
 
 **Please specify when ordering**
 
--  Type of Torque Limiter
+-  Type of MS Torque Limiter
 
 -  Diameter d, if finish bore is requested
 
@@ -11753,7 +11753,7 @@ possible when the order includes a finish bore.
 
 |image224|
 
-   **RIMOSTAT®-Torque Limiters RSK**
+   **RIMOSTAT®-MS Torque Limiters RSK**
 
    **with chain wheel**
 
@@ -12440,7 +12440,7 @@ possible when the order includes a finish bore.
 
 |image226|
 
-   **RIMOSTAT®-Torque Limiters RSC**
+   **RIMOSTAT®-MS Torque Limiters RSC**
 
    **with flexible chain coupling**
 
@@ -12731,7 +12731,7 @@ As slipping shaft coupling to compensate for minor misalignements.
 
 **Supply**
 
-Unless specified otherwise, the Torque Limiters are supplied with a
+Unless specified otherwise, the MS Torque Limiters are supplied with a
 pilot bore, a full comple-ment of springs and without slipping torque
 setting. Factory slipping torque setting is only possible when the order
 includes a finish bore.
@@ -22441,7 +22441,7 @@ F
 
 RUFLEX\ :sup:`®`
 
-Torque limiters
+MS Torque Limiters
 
    With torsionally flexible ROTEX\ :sup:`®`
 
@@ -22698,7 +22698,7 @@ at www.ktr.com
 
    RUFLEX\ :sup:`®`
 
-   Torque limiters
+   MS Torque Limiters
 
    Structure and operation
 
@@ -23289,7 +23289,7 @@ www.ktr.com
 
 |image302|
 
-   The **RUFLEX\ ® torque limiter** is an overload system which operates
+   The **RUFLEX\ ® MS Torque Limiter** is an overload system which operates
    as frictionally engaged connection.
 
    It protects the following components in the drive lane against
@@ -23298,11 +23298,11 @@ www.ktr.com
    **General Hints**
 
    Please read through these mounting instructions carefully before you
-   set the torque limiter into operation. Please pay special attention
+   set the MS Torque Limiter into operation. Please pay special attention
    to the safety instructions!
 
    The mounting instructions are part of your product. Please keep them
-   carefully and close to the torque limiter.
+   carefully and close to the MS Torque Limiter.
 
    The copyright for these mounting instructions remains with **KTR**
    Kupplungstechnik GmbH.
@@ -23352,7 +23352,7 @@ www.ktr.com
 
 ..
 
-   All operations on and with the torque limiter have to be performed
+   All operations on and with the MS Torque Limiter have to be performed
    taking into account "safety first".
 
    Please make sure to disengage the drive unit and the power packs in
@@ -23362,24 +23362,24 @@ www.ktr.com
    providing hints at the place of engagement or removing the fuse for
    current supply.
 
-   Do not touch the operation area of the torque limiter as long as it
+   Do not touch the operation area of the MS Torque Limiter as long as it
    is in operation.
 
-   Please secure the torque limiter against unintentional touch. Please
+   Please secure the MS Torque Limiter against unintentional touch. Please
    arrange for the corresponding protection devices and caps.
 
    **Proper Use**
 
-   You may only assemble, operate and maintain the torque limiter if you
+   You may only assemble, operate and maintain the MS Torque Limiter if you
 
    carefully read through the mounting instructions and understood them
    had technical training
 
    are authorized to do so by your company
 
-   The torque limiter may only be used in accordance with the technical
+   The MS Torque Limiter may only be used in accordance with the technical
    data (see **RUFLEX\ ®-** catalogue). Unauthorized modifications on
-   the torque limiter design are not admissible. We do not take any
+   the MS Torque Limiter design are not admissible. We do not take any
    warranty for resulting damages. To further develop the product we
    reserve the right for technical modifications.
 
@@ -23416,9 +23416,9 @@ www.ktr.com
 
 |image306|
 
-   The **RUFLEX\ ® torque limiter** is delivered in assembled condition.
+   The **RUFLEX\ ® MS Torque Limiter** is delivered in assembled condition.
 
-   **Components RUFLEX\ ® Torque Limiter Size 00 - 5**
+   **Components RUFLEX\ ® MS Torque Limiter Size 00 - 5**
 
 +-------+-------+----------------+---+-------+------+--------------------+
 | **C   | **    |    *           |   |       | **Qu |    **Designation** |
@@ -23450,7 +23450,7 @@ www.ktr.com
 
    picture 1: RUFLEX\ :sup:`®` size 00 - 5
 
-   **Components RUFLEX\ ® Torque Limiter Size 6 - 8**
+   **Components RUFLEX\ ® MS Torque Limiter Size 6 - 8**
 
 +-------+-------+----------------+---+-------+-------+-------------------+---+
 | **C   | **    |    *           |   |       | **    |                   |   |
@@ -23688,14 +23688,14 @@ www.ktr.com
 
    **General Hints of Assembly**
 
-   Please make sure that the **RUFLEX\ ® torque limiter** is in a
+   Please make sure that the **RUFLEX\ ® MS Torque Limiter** is in a
    technically excellent condition.
 
    Clean the sliding surfaces of the hub, the driving component, the
    pressure disk and the friction linings concerning dirt, oil and
    grease.
 
-   Protect the torque limiter against any axial displacement on the
+   Protect the MS Torque Limiter against any axial displacement on the
    shaft by a grub screw DIN EN ISO 4029 with toothed cup point or end
    disk.
 
@@ -23722,7 +23722,7 @@ www.ktr.com
 
    **Example:**
 
-   RUFLEX\ :sup:`®` torque limiter size 1
+   RUFLEX\ :sup:`®` MS Torque Limiter size 1
 
    Width of driving component e. g. b\ :sub:`1` = 8 mm
 
@@ -23751,7 +23751,7 @@ picture 3: centering slide bush
 
 ..
 
-   **of the torque limiter is not guaranteed.**
+   **of the MS Torque Limiter is not guaranteed.**
 
 +---+----+------+----+----+----+----+----+----+----+----+----+----+----+
 |   | *  |      |    |    |    |    |    |    |    |    |    |    |    |

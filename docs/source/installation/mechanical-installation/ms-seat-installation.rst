@@ -1,6 +1,6 @@
-==================
-Seat installation
-==================
+=====================
+MS Seat Installation
+=====================
 
 .. note::
     Extracted from :download:`Mounting procedure.pptx </_archives/mounting-procedure.pptx>` .

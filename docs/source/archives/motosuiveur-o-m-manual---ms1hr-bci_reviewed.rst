@@ -191,9 +191,9 @@ Storage <#packing-transport-delivery-and-storage>`__
 
 `3.3 Handling <#handling>`__ `26 <#handling>`__
 
-`3.4 Torque Limiter <#torque-limiter>`__ `27 <#torque-limiter>`__
+`3.4 MS Torque Limiter <#torque-limiter>`__ `27 <#torque-limiter>`__
 
-`3.5 Torque Limiter Position <#torque-limiter-position>`__
+`3.5 MS Torque Limiter Position <#torque-limiter-position>`__
 `28 <#torque-limiter-position>`__
 
 `4 COMMISSIONING <#commissioning>`__ `30 <#commissioning>`__
@@ -234,7 +234,7 @@ Codes <#ms-controller-7-segment-display-codes>`__
 
 `9 MAINTENANCE <#maintenance>`__ `46 <#maintenance>`__
 
-`9.1 Torque Limiter <#torque-limiter-1>`__ `47 <#torque-limiter-1>`__
+`9.1 MS Torque Limiter <#torque-limiter-1>`__ `47 <#torque-limiter-1>`__
 
 `9.2 Lubrication <#lubrication>`__ `47 <#lubrication>`__
 
@@ -607,7 +607,7 @@ proprietary equipment OEM parts.
 | tangl | **NEVER** place your hands inside the Motosuiveur®.          |
 | ement |                                                              |
 | \|    | **NEVER** rotate the Motosuiveur® if the maintenance door is |
-| S     | open and/or if the protection cover of the torque limiter is |
+| S     | open and/or if the protection cover of the MS Torque Limiter is |
 | eton| | removed.                                                     |
 |       |                                                              |
 |       | **DO NOT** modify the machine. Modifications to the          |
@@ -728,7 +728,7 @@ c) Where the machinery is installed outside the EU, the Machinery or
 | Max Braking Torque     | 9500 Nm                                     |
 | (Hydraulic):           |                                             |
 +------------------------+---------------------------------------------+
-| Torque Limiter Setting | 30 Nm (Transmissible Torque)                |
+| MS Torque Limiter Setting | 30 Nm (Transmissible Torque)                |
 | Value:                 |                                             |
 +------------------------+---------------------------------------------+
 | Max Stopping Distance: | 29 mm                                       |
@@ -785,7 +785,7 @@ system safely arrests the load.
 
 MS Unit provides mechanical failsafe protection in the event of any
 electro-mechanical failure of the hoist drive train. In addition to the
-unit, a torque limiter is put in the drive-train to limit overload into
+unit, a MS Torque Limiter is put in the drive-train to limit overload into
 the hoist lifting mechanism.
 
 The MS Units are available in multiple variants: hydraulic damping or
@@ -830,7 +830,7 @@ automatically generated|
 +---+----------------+--------------+---------------------------------+
 | 3 | Hoist motor    | -            | -                               |
 +---+----------------+--------------+---------------------------------+
-| 4 | Torque limiter | Add-on       | TL63                            |
+| 4 | MS Torque Limiter | Add-on       | TL63                            |
 +---+----------------+--------------+---------------------------------+
 | 5 | Hoist brake    | -            | -                               |
 +---+----------------+--------------+---------------------------------+
@@ -923,7 +923,7 @@ on Figure 3.
 +--------+--------------------------+--------+------------------------+
 | 5      | Hoist Control Cabinet    | 6      | MS Control Cabinet     |
 +--------+--------------------------+--------+------------------------+
-| 7      | Torque limiter           |        |                        |
+| 7      | MS Torque Limiter           |        |                        |
 +--------+--------------------------+--------+------------------------+
 
 **Figure 3** MS Electrical control
@@ -1247,7 +1247,7 @@ Handling
 
 **Figure 5** Correct handling of MS
 
-Torque Limiter 
+MS Torque Limiter 
 ---------------
 
 Static and dynamic overloads damage components of the kinematic chain
@@ -1266,9 +1266,9 @@ a back-up, so it cannot be uncoupled safely.
 
 On a MS-Secured hoist, the hoist’s kinematic chain plays no role in
 holding the load during and after emergency arrests. Integrating a
-torque limiter between the hoist motor and gearbox is now risk-free.
+MS Torque Limiter between the hoist motor and gearbox is now risk-free.
 
-**Table 4** Torque Limiter Features
+**Table 4** MS Torque Limiter Features
 
 +-----------------------------------+-----------------------------------+
 | **Unfailing protection.**         | MS Torque Limiters are set to     |
@@ -1292,7 +1292,7 @@ torque limiter between the hoist motor and gearbox is now risk-free.
 |                                   | load tests of the hoist (now easy |
 |                                   | and safe thanks to MS             |
 |                                   | fail-safety) without changes to   |
-|                                   | torque limiter’s pre-set torque.  |
+|                                   | MS Torque Limiter’s pre-set torque.  |
 +-----------------------------------+-----------------------------------+
 | **Plug-and-play retrofit.**       | MS Torque Limiter is delivered    |
 |                                   | bored and keyed to customer       |
@@ -1301,7 +1301,7 @@ torque limiter between the hoist motor and gearbox is now risk-free.
 |                                   | elasticity.                       |
 +-----------------------------------+-----------------------------------+
 | **Factory tested to operational   | As with the MS Unit, the MS       |
-| conditions.**                     | Torque Limiter undergoes rigorous |
+| conditions.**                     | MS Torque Limiter undergoes rigorous |
 |                                   | factory testing to hoist          |
 |                                   | operational conditions. The test  |
 |                                   | report is included at delivery.   |
@@ -1329,11 +1329,11 @@ torque limiter between the hoist motor and gearbox is now risk-free.
 +=======+==============================================================+
 +-------+--------------------------------------------------------------+
 
-Torque Limiter Position 
+MS Torque Limiter Position 
 ------------------------
 
 The hoist motor and gearbox interfaces have been modified to accommodate
-the torque limiter. Torque Limiter (Figure 6 – 2)is placed between the
+the MS Torque Limiter. MS Torque Limiter (Figure 6 – 2)is placed between the
 hoist motor (Figure 6 – 1) and gearbox (Figure 6 – 3), preferably within
 a sealed.
 
@@ -1345,26 +1345,26 @@ confidence|
 +================+=====================================================+
 | 1              | Hoist main motor                                    |
 +----------------+-----------------------------------------------------+
-| 2              | Torque limiter                                      |
+| 2              | MS Torque Limiter                                      |
 +----------------+-----------------------------------------------------+
 | 3              | Hoist gearbox                                       |
 +----------------+-----------------------------------------------------+
 
-**Figure 6** Torque limiter position
+**Figure 6** MS Torque Limiter position
 
-The torque limiter is mounted between the hoist motor and the High Speed
+The MS Torque Limiter is mounted between the hoist motor and the High Speed
 shaft of the gear box
 
 - Assembly must be done by qualified operators.
 
-- The torque limiter is delivered factory rated to the value necessary
+- The MS Torque Limiter is delivered factory rated to the value necessary
 to the application. In case of
 
 doubt, check the application data on the assembly drawing.
 
 - The limiter assembly direction is defined on the layout.
 
-The torque limiter coupling is made of:
+The MS Torque Limiter coupling is made of:
 
 - The driving hub (Figure 7 1)
 
@@ -1373,7 +1373,7 @@ The torque limiter coupling is made of:
 |A close-up of a mechanical device Description automatically generated
 with low confidence|
 
-**Figure 7** Torque limiter
+**Figure 7** MS Torque Limiter
 
 +-------+--------------------------------------------------------------+
 | |ACH  | THE RESPONSE CURVE OF THE HELICAL SPRINGS IS MAINTAINED, AND |
@@ -2335,7 +2335,7 @@ Years, G=5 Years, H=10 Years
 
 .. _torque-limiter-1:
 
-Torque Limiter
+MS Torque Limiter
 --------------
 
 +----------------------------------------------------+---+---+---+---+---+---+
@@ -2358,7 +2358,7 @@ Torque Limiter
 +----------------------------------------------------+---+---+---+---+---+---+
 | **FRICTION LININGS:**                              |   |   |   | * |   |   |
 |                                                    |   |   |   | * |   |   |
-| | The torque limiter friction linings have a       |   |   |   | • |   |   |
+| | The MS Torque Limiter friction linings have a       |   |   |   | • |   |   |
 |   minimum thickness of 2mm.                        |   |   |   | * |   |   |
 | | Replace if this limit is reached.                |   |   |   | * |   |   |
 +----------------------------------------------------+---+---+---+---+---+---+
@@ -2368,10 +2368,10 @@ Torque Limiter
 |                                                    | * |   |   |   |   |   |
 | The operating area should be examined for          | • |   |   |   |   |   |
 | contamination such as dust and fibres which may    | * |   |   |   |   |   |
-| indicate the torque limiter has been subject to    | * |   |   |   |   |   |
-| forces which are causing the torque limiter to     |   |   |   |   |   |   |
+| indicate the MS Torque Limiter has been subject to    | * |   |   |   |   |   |
+| forces which are causing the MS Torque Limiter to     |   |   |   |   |   |   |
 | slip and slipping will lead to the wear of the     |   |   |   |   |   |   |
-| linings. The torque limiter should be examined to  |   |   |   |   |   |   |
+| linings. The MS Torque Limiter should be examined to  |   |   |   |   |   |   |
 | assess if the unit is clean, dry and without signs |   |   |   |   |   |   |
 | of any possible contamination which may alter the  |   |   |   |   |   |   |
 | performance through the contamination of the       |   |   |   |   |   |   |
@@ -2381,7 +2381,7 @@ Torque Limiter
 +----------------------------------------------------+---+---+---+---+---+---+
 | **TORQUE SLIP TEST:**                              |   |   |   |   | * |   |
 |                                                    |   |   |   |   | * |   |
-| To ensure torque limiter slips when specified      |   |   |   |   | • |   |
+| To ensure MS Torque Limiter slips when specified      |   |   |   |   | • |   |
 | torque setting is exceeded.                        |   |   |   |   | * |   |
 |                                                    |   |   |   |   | * |   |
 +----------------------------------------------------+---+---+---+---+---+---+
@@ -2501,7 +2501,7 @@ Procedure:
 - Ensure the oil level is sufficient
 
 - Make a movement down at slow speed until the movement stops (the
-torque limiter is slipping)
+MS Torque Limiter is slipping)
 
 - Make a movement up at slow speed until the movement stops (the torque
 limiter is slipping)

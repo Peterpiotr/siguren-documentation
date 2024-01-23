@@ -5,7 +5,7 @@ Installing MotoSuiveur®
 
 .. toctree::
   :maxdepth: 1
-  :caption: Logistics
+  :caption: Handling MS Equipment
 
   mechanical-installation/installation-safety
   mechanical-installation/ms-delivery
@@ -13,7 +13,7 @@ Installing MotoSuiveur®
 
 .. toctree::
   :maxdepth: 2
-  :caption: Mechanical Installation
+  :caption: MS Unit Installation
 
   mechanical-installation/retrofit-feasibility
   mechanical-installation/removing-existing-plummer-block
@@ -24,8 +24,8 @@ Installing MotoSuiveur®
   mechanical-installation/tl-assembly
 
 .. toctree::
-  :maxdepth: 1
-  :caption: Controls
+  :maxdepth: 2
+  :caption: MS Control Cabinet Installation
 
   controls-installation/connect-ms-control-cabinet
   controls-installation/setting-drive

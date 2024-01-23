@@ -1,5 +1,5 @@
 ==========================================
-Installation safety of MotoSuiveur® System
+Installation Safety of MotoSuiveur® System
 ==========================================
 
 Compliance
@@ -16,7 +16,7 @@ In particular, check if the MS Unit serial N° given on the specification namepl
 	Never place your hands inside the MS Unit, without being sure that the rotation of the shafts is impossible!
 
 .. important::
-	Never rotate the MS Unit if any of covers is open or/and if the protection cover of the Torque Limiter is removed (OPTION)!
+	Never rotate the MS Unit if any of covers is open or/and if the protection cover of the MS Torque Limiter is removed (OPTION)!
 
 .. important::
 	Do not modify the machine.  Any modification of the kinematic chain increasing the inertias, 
@@ -52,7 +52,7 @@ Installation steps
 For a fine installation of the MotoSuiveur® System and to avoid ill-timed blockings during the setting of the command station and of the drives, 
 we advise users to start the winch assembly by following these steps:
 
-- Mounting of the torque limiter (OPTION).
+- Mounting of the MS Torque Limiter (OPTION).
 - Setting and testing of the lifting drive and the command cabinet.
 - Installation of the MotoSuiveur® on the drum and its reaction arm.
 - Positionning of the manual commands.

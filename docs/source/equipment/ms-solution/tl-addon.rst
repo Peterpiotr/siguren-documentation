@@ -1,12 +1,12 @@
 ======================
-Torque Limiter Add-On
+MS Torque Limiter Add-On
 ======================
 .. note::
- The torque limiter is mounted between the hoist main electric motor and the high-speed reducer shaft of the hoist. 
+ The MS Torque Limiter is mounted between the hoist main electric motor and the high-speed reducer shaft of the hoist. 
  
- The torque limiter is delivered factory rated to the value necessary to the application.
+ The MS Torque Limiter is delivered factory rated to the value necessary to the application.
 
-The torque limiter coupling is made of friction linings (2) and springs (1) set to drive the coupling which is attached to the motor shaft. 
+The MS Torque Limiter coupling is made of friction linings (2) and springs (1) set to drive the coupling which is attached to the motor shaft. 
 
 Slip Torque
 ===========

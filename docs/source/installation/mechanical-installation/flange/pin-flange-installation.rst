@@ -1,6 +1,11 @@
-=======================
-Pin Flange Installation
-=======================
+=================================
+Installing a Pin Coupling Flange
+=================================
+
+.. note::
+	Coupling flanges are custom-made for each project according to the nature of the hoist's drum, available space, and more parameters specific to each case.
+	
+	If parts of the following steps do not seem to apply to your project, please consult your contact engineer at SIGUREN technologies.
 
 Steps
 	1. Make one rotation and find by comparator the 2 points on the drum side flange that are on the same axial plane on the diameter of the future pin and bolts diameter. 

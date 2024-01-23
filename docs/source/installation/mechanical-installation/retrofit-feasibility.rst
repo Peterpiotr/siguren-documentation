@@ -1,6 +1,6 @@
-==================================================
-Verifying the Feasibility of MotoSuiveur® Retrofit
-==================================================
+============================================================
+Verifying the Feasibility of a MotoSuiveur® System Retrofit
+============================================================
 
 .. 
     What data is needed, what needs to be measured

@@ -165,7 +165,7 @@ a) MS Package b) Content of package
 
 2 – MS Unit;
 
-3 – Box with connectors, torque limiter, HMI.
+3 – Box with connectors, MS Torque Limiter, HMI.
 
 **Figure 2** MS Package
 

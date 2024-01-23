@@ -92,7 +92,7 @@ installation <#mechanical-characteristics-of-the-installation>`__
 `1.4.2 Speed conversion <#speed-conversion>`__
 `11 <#speed-conversion>`__
 
-`1.4.3 Torque limiter specifications <#torque-limiter-specifications>`__
+`1.4.3 MS Torque Limiter specifications <#torque-limiter-specifications>`__
 `12 <#torque-limiter-specifications>`__
 
 `2 Reception, handling, storage <#reception-handling-storage>`__
@@ -138,7 +138,7 @@ parts <#protection-of-the-manufactured-parts>`__
 
 `3.3 Steps <#steps>`__ `19 <#steps>`__
 
-`3.4 Assembly of the torque limiter <#assembly-of-the-torque-limiter>`__
+`3.4 Assembly of the MS Torque Limiter <#assembly-of-the-torque-limiter>`__
 `19 <#assembly-of-the-torque-limiter>`__
 
 `3.5 Setting and tests on the
@@ -326,7 +326,7 @@ modification <#procedure-n9-parameter-modification>`__
 structure <#appendix-3-motosuiveur-user-interface-tree-structure>`__
 `65 <#appendix-3-motosuiveur-user-interface-tree-structure>`__
 
-`Appendix 4: Torque limiter technical
+`Appendix 4: MS Torque Limiter technical
 sheet <#appendix-4-torque-limiter-technical-sheet>`__
 `66 <#appendix-4-torque-limiter-technical-sheet>`__
 
@@ -389,7 +389,7 @@ last one (and thus the blocking of the load) by the worm screw. In such
 a case, the Motosuiveur\ :sup:`®` stops the load almost immediately,
 with damping effect and without overspeed (hydraulic chamber).
 
-The torque limiter, which is situated between the main motor and the
+The MS Torque Limiter, which is situated between the main motor and the
 gear box smooth the static and dynamic overloads.
 
 The Motosuiveur® interprets and executes the same commands as the main
@@ -420,10 +420,10 @@ Speed conversion
 
 |image18|
 
-Torque limiter specifications
+MS Torque Limiter specifications
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-The torque limiter model is 160.1 from SIAM RINGSPAM (see instruction
+The MS Torque Limiter model is 160.1 from SIAM RINGSPAM (see instruction
 manual in appendix 4.
 
 The torque adjustments are the following :
@@ -471,7 +471,7 @@ On delivery ensure that all the following parts are present:
 
 -  The supply cables
 
--  The torque limiter
+-  The MS Torque Limiter
 
 -  The manual command handle
 
@@ -619,7 +619,7 @@ Never place your hands inside the Motosuiveur®, without being sure that
 the rotation of the shafts is impossible.
 
 Never rotate the Motosuiveur® if the trap door is open or/and if the
-protection cover of the torque limiter is removed.
+protection cover of the MS Torque Limiter is removed.
 
 Do not modify the machine. Any modification of the kinematic chain
 increasing the inertias, the limiter adjustments or the maximum speeds
@@ -681,7 +681,7 @@ For a fine installation of the Motosuiveur® and to avoid ill-timed
 blockings during the setting of the command station and of the drives,
 we advise you to start the winch assembly by following these steps:
 
--  Assembly of the torque limiter
+-  Assembly of the MS Torque Limiter
 
 -  Setting and testing of the lifting drive and the command cabinet
 
@@ -697,26 +697,26 @@ we advise you to start the winch assembly by following these steps:
 
 |image23|
 
-   *The Motosuiveur® should never be engaged without its torque limiter.
+   *The Motosuiveur® should never be engaged without its MS Torque Limiter.
    This would cancel all garantee.*
 
-Assembly of the torque limiter
+Assembly of the MS Torque Limiter
 ------------------------------
 
-The installation is equipped with a **RS 160.1** torque limiter (Siam
+The installation is equipped with a **RS 160.1** MS Torque Limiter (Siam
 Ringspann).
 
 *See appendix 4 for technical sheet*
 
 Assembly must be done by qualified operators.
 
-The torque limiter is delivered factory rated to the value necessary to
+The MS Torque Limiter is delivered factory rated to the value necessary to
 the application. In case of doubt, check the application data on the
 assembly drawing.
 
 The limiter assembly direction is defined on the layout.
 
-The torque limiter coupling is made of:
+The MS Torque Limiter coupling is made of:
 
 -  The permanent spring limiter
 
@@ -737,14 +737,14 @@ insignificant.
 It is the number of springs which defines the rating torque; the slotted
 nut must always be screwed very tightly against the cylinder.
 
-The lubrication of the torque limiter chain is not necessary, except in
+The lubrication of the MS Torque Limiter chain is not necessary, except in
 case of corrosion risk (aggressive environment).
 
    |image26|\ *The lubrication of the chain should be done with a
    standard grease for bearings, not by oil. Use a very small quantity
    (in order to cover only the chain). Take care not to grease the
-   friction lining. Greasing the friction parts of the torque limiter
-   will misadjust the torque limiter.*
+   friction lining. Greasing the friction parts of the MS Torque Limiter
+   will misadjust the MS Torque Limiter.*
 
    |image27|\ *The limiter being delivered rated for the application,
    the limiter part should never be dismantled. Never add nor withdraw a
@@ -1320,7 +1320,7 @@ following points :
 
 **Every year :**
 
--  Visual inspection of the torque limiter (no important oxydation
+-  Visual inspection of the MS Torque Limiter (no important oxydation
    marks)
 
 -  Checking of the oil level through the breather cap.
@@ -1560,7 +1560,7 @@ solutions to back-up the load :
 |       | load  |           |           |           |                |
 +-------+-------+-----------+-----------+-----------+----------------+
 |       | T     | Highly    |           |           | Change the     |
-|       | orque | i         |           |           | torque limiter |
+|       | orque | i         |           |           | MS Torque Limiter |
 |       | li    | mprobable |           |           | (the           |
 |       | miter | case.     |           |           | Motosuiveur®   |
 |       | slips |           |           |           | holds the drum |
@@ -2233,7 +2233,7 @@ Appendix 3 : Motosuiveur® user interface tree structure
 |image105|\ |image106|\ |image107|\ |image108|\ |image109|\ |image110|\ |image111|\ |image112|\ |image113|\ |image114|\ |image115|\ |image116|\ |image117|\ |image118|\ |image119|\ |image120|\ |image121|\ |image122|\ |image123|\ |image124|\ |image125|\ |image126|\ |image127|\ |image128|\ |image129|\ |image130|\ |image131|\ |image132|\ |image133|\ |image134|
 ======================================================================================================================================================================================================================================================================================================================================================================
 
-Appendix 4: Torque limiter technical sheet
+Appendix 4: MS Torque Limiter technical sheet
 ==========================================
 
 | |image135|

@@ -1,6 +1,6 @@
-===============================
-Installation on Existing Hoist
-===============================
+==============================================
+Installating an MS Unit on an Existing Hoist
+==============================================
 
 .. note::
 	Refers to electrical-interface and mechanical-interface. May be partially redundant with connect-ms-control-cabinet

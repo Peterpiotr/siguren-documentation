@@ -39,6 +39,6 @@ Steps
 
         .. how?
 
-    2. Ensure torque limiter slips when specified torque setting is exceeded.
+    2. Ensure MS Torque Limiter slips when specified torque setting is exceeded.
 
         .. What if it does not
