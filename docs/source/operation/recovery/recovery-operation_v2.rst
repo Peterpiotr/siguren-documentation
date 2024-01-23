@@ -21,7 +21,7 @@ This alternative hoisting method is activated via physical switches located in t
 
 Enabling Back-up Lowering
 -------------------------
-  **1. Activate Recovery mode.** Activate Recovery mode by following the steps in :doc:`Automatic recovery engagement procedure <../../operation/recovery/automatic-recovery-engagement>`
+  **1. Activate Recovery mode.** Activate Recovery mode by following the steps in :doc:`Automatic recovery engagement procedure </operation/recovery/automatic-recovery-engagement>`
 
   1. Allow recovery lowering and check for succesful engagement.
 

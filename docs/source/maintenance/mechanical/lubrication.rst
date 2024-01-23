@@ -21,7 +21,7 @@ During these tests, the oil tank is filled, the level is adjusted and the hydrau
 Maintenance Intervals: 
 
 .. csv-table:: Lubrication maintenance
-   :file: ../_tables/lubrication.csv
+   :file: /_tables/lubrication.csv
    :delim: ;
    :header-rows: 1
    :widths: auto

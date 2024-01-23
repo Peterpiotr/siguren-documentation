@@ -5,8 +5,8 @@
 "4           ";"Recovery Off/On";"Selector";Switch on/off  MS recovery mode
 "5           ";"Recovery Mode Down/Up";"Selector";MS recovery mechanysm control
 "6           ";"Enable override";"Selector ";"Forced hoist enable "
-"7           ";"Low Oil Level";"Indicator light";Indicator for low oil level in MS unit
+"7           ";"Low Oil Level";"Indicator light";Indicator for low oil level in MS Unit
 "8           ";"Downward enabled ";"Indicator light";Allows lowering direction movement
 "9           ";"Recovery Mode";"Indicator light";Indicator for active MS recovery mode
 "10          ";"Recovery Engaged";"Indicator light";Indicator for engaged recovery mechanism
-"11          ";"Reset";"Button";MS system reset
+"11          ";"Reset";"Button";MotoSuiveur® System reset

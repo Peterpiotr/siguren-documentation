@@ -1,5 +1,5 @@
 ==================================================
-Verifying the Feasibility of MotoSuiveur Retrofit
+Verifying the Feasibility of MotoSuiveur® Retrofit
 ==================================================
 
 .. 

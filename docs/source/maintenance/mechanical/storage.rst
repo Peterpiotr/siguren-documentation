@@ -3,7 +3,7 @@ Storage
 ========
 
 .. note::
-    Source: :doc:`../archives/using-ms-load-recovery-capabilities`
+    Source: :doc:`/archives/using-ms-load-recovery-capabilities`
 
 In order to ensure good preservation conditions the following storage recommendations should be
 observed:

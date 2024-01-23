@@ -10,7 +10,7 @@ MS-TL
   Valid for MS-Tl, RSC-100, RSC-125
 
 .. csv-table:: Torque limiter maintenance intervals
-   :file: ../../_tables/torque-limiter-maintenance.csv
+   :file: /_tables/torque-limiter-maintenance.csv
    :delim: ;
    :header-rows: 1
    :widths: auto

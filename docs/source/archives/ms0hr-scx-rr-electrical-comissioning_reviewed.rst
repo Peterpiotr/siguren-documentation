@@ -163,7 +163,7 @@ a) MS Package b) Content of package
 
 1 – Control cabinet;
 
-2 – MS unit;
+2 – MS Unit;
 
 3 – Box with connectors, torque limiter, HMI.
 
@@ -267,7 +267,7 @@ Connect MS to control cabinet
 
 After mechanical assembly of MS to hoist is done, electrical connection
 must be made between MS and control cabinet. Figure 7 shows general view
-of typical MS unit electrical components that should be connected
+of typical MS Unit electrical components that should be connected
 according specific for the project electrical circuit diagram.
 
 |image15|
@@ -289,7 +289,7 @@ according specific for the project electrical circuit diagram.
 \* Heater is not shown on figure. Heater is additional component in case
 of low temperature applications.
 
-**Figure 7** Electrical connections of MS unit
+**Figure 7** Electrical connections of MS Unit
 
 S1 and S2 (figure 7, points 1 and 2) are standard 4 male pin M12
 connector type PNP or NPN type. Figure 8 shows M12 connector

@@ -8,8 +8,8 @@ Self-test
      Description refers to software version 8.2.
 
 
-A self-test is a procedure in which the MotoSuiveur® unit tests its health through a sequence of tests. 
-The self-test is performed after the initial power-up of the MotoSuiveur® system or after a restart from the Reset button on the electrical panel.
+A self-test is a procedure in which the MS Unit tests its health through a sequence of tests. 
+The self-test is performed after the initial power-up of the MotoSuiveur® System or after a restart from the Reset button on the electrical panel.
 Sequence of Self-test operations are displayed on MS controller 7 – segment display.
 
 In table below self-test sequence is shown.
@@ -33,15 +33,15 @@ In table below self-test sequence is shown.
   |            | Healthy           |Indication on MS Controller 7-segment display  |                          |
   |            |                   |for electrical healthy and unblocked worm      |                          |
   +------------+-------------------+-----------------------------------------------+--------------------------+
-  | |image021| | Switch test       |Functional testing of MS unit limit switches   | E11, E12, E13, E14       |
+  | |image021| | Switch test       |Functional testing of MS Unit limit switches   | E11, E12, E13, E14       |
   |            |                   |for operability and correct positioning        |                          |
   +------------+-------------------+-----------------------------------------------+--------------------------+
-  | |image025| | Damping test*     |Hydraulic chamber hardness test of MS unit.    | F22, F23                 |
+  | |image025| | Damping test*     |Hydraulic chamber hardness test of MS Unit.    | F22, F23                 |
   |            |                   |Checking for change in hydraulic cartridge     |                          |
   |            |                   |setting and sufficient oil in the hydraulic    |                          |
   |            |                   |chamber.                                       |                          |
   +------------+-------------------+-----------------------------------------------+--------------------------+
-  | |image029| | Air test*         |Hydraulic chamber hardness test of MS unit.    | F20                      |
+  | |image029| | Air test*         |Hydraulic chamber hardness test of MS Unit.    | F20                      |
   |            |                   |Checking for change in hydraulic cartridge     |                          |
   |            |                   |setting and sufficient oil in the hydraulic    |                          |
   |            |                   |chamber.                                       |                          |
@@ -54,13 +54,13 @@ In table below self-test sequence is shown.
   +------------+-------------------+-----------------------------------------------+--------------------------+
 
 
-\*\ This tests are performed only for **hydraulic MotoSuiveur® system**
+\*\ This tests are performed only for **hydraulic MotoSuiveur® System**
 
-Any warnings and faults that occur during MotoSuiveur® system operation are displayed on the HMI screen (if installed) and on the 7-segment display of the MS controller. 
+Any warnings and faults that occur during MotoSuiveur® System operation are displayed on the HMI screen (if installed) and on the 7-segment display of the MS controller. 
 Each fault is characterized by a number and a description. Faults are divided into two groups - system faults (in result of MS controller internal check) 
-and MotoSuiveur® system faults. 
+and MotoSuiveur® System faults. 
 System faults are those that are related to the electrical performance of the MS controller or mechanical. 
-MotoSuiveur® system faults are related to the working process of the MS unit.
+MotoSuiveur® System faults are related to the working process of the MS Unit.
 Indication of warning or fault on MS Controller 7-segment display is a combination of letter and numbers. 
 MS controller internal faults are indicated with blinked combination of |image035| , number and finish with symbol |image039|.
 MS faults are displayed with combination of |image036| and number. MS warnings are displayed with combination of |image035| and number. 
@@ -97,7 +97,7 @@ Electrical test performs sequence of checks listed in table below.
 if some of the checks do not pass, a warning occurs.
 
 .. csv-table:: Electrical test sequence
-   :file: ../../_tables/self-test.csv
+   :file: /_tables/self-test.csv
    :delim: ;
    :header-rows: 1
    :class: tight-table
@@ -105,7 +105,7 @@ if some of the checks do not pass, a warning occurs.
    :widths: auto
 
 
-\*\ *If MotoSuiveur® unit is equipped with Recovery system*
+\*\ *If MS Unit is equipped with Recovery system*
 
 
 Positioning
@@ -122,7 +122,7 @@ Switch test checks correct positioning of position limit switches/proximity sens
 Sequence of switch test is listed in table below.
 
 .. csv-table:: Switch test sequence
-   :file: ../../_tables/switch-test.csv
+   :file: /_tables/switch-test.csv
    :delim: ;
    :header-rows: 1
    :class: tight-table
@@ -133,12 +133,12 @@ Sequence of switch test is listed in table below.
 Damping test
 ------------
 
-Damping test is performed only for hydraulic type MS units.
+Damping test is performed only for hydraulic type MS Units.
 It is used to check the hardness of the damping chamber.
 Sequence of checks is listed in table below.
 
 .. csv-table:: Damping test sequence
-   :file: ../../_tables/damping-test.csv
+   :file: /_tables/damping-test.csv
    :delim: ;
    :header-rows: 1
    :class: tight-table
@@ -154,7 +154,7 @@ The test is performed with three short movements (knocks) in sequence.
 Test sequence is listed in table below.
 
 .. csv-table:: Air test sequence
-   :file: ../../_tables/air-test.csv
+   :file: /_tables/air-test.csv
    :delim: ;
    :header-rows: 1
    :class: tight-table
@@ -169,7 +169,7 @@ Check for nominal backlash (worm free play) between between pistons () with low 
 Test sequense is listed below.
 
 .. csv-table:: Play test sequence
-   :file: ../../_tables/play-test.csv
+   :file: /_tables/play-test.csv
    :delim: ;
    :header-rows: 1
    :class: tight-table

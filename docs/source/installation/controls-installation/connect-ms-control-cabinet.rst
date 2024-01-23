@@ -1,8 +1,8 @@
 =====================================================================
-Connection between MotoSuiveur® control cabinet and MotoSuiveur® Unit
+Connection between MotoSuiveur® control cabinet and MS Unit
 =====================================================================
 
-After mechanical assembly of MotoSuiveur® system to hoist is done, electrical connection must be made between MS and control cabinet. 
+After mechanical assembly of MotoSuiveur® System to hoist is done, electrical connection must be made between MS and control cabinet. 
 Figure below shows general view of typical MotoSuiveur®  electrical components that should 
 be connected according specific for the project electrical circuit diagram.
 
@@ -21,7 +21,7 @@ Electrical connection of the MotoSuiveur® control cabinet
 	Electrical connection of MotoSuiveur® panel
 
 .. csv-table:: MotoSuiveur® System electrical components
-   :file: ../../_tables/electrical-connection.csv
+   :file: /_tables/electrical-connection.csv
    :delim: ;
    :header-rows: 1
    :class: tight-table
@@ -36,7 +36,7 @@ The set of inputs and outputs is defined in advance for each project based on pr
 
 
 .. csv-table:: Detailed description of terminals
-   :file: ../../_tables/terminasl-description.csv
+   :file: /_tables/terminasl-description.csv
    :delim: ;
    :header-rows: 1
    :class: tight-table
@@ -68,20 +68,20 @@ CV – Control Voltage
 
 
 
-Electrical connection of the MotoSuiveur® unit
+Electrical connection of the MS Unit
 ===============================================
 
-Principle location of electrical components on MotoSuiveur® unit are shown on figure below.
+Principle location of electrical components on MS Unit are shown on figure below.
 
-.. _Electrical connections of MotoSuiveur® unit:
+.. _Electrical connections of MS Unit:
 .. figure:: /_img/controls-installation/MS-unit.PNG
 	:figwidth: 465 px
 	:align: center
 
-	Electrical connection of MotoSuiveur® unit
+	Electrical connection of MS Unit
 
-.. csv-table:: MotoSuiveur® unit electrical components
-   :file: ../../_tables/ms-unit-electrical-connection.csv
+.. csv-table:: MS Unit electrical components
+   :file: /_tables/ms-unit-electrical-connection.csv
    :delim: ;
    :header-rows: 1
    :class: tight-table

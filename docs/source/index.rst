@@ -9,23 +9,23 @@ and instantly default to a safe arrested state when hoisting is disrupted.
 
    This documentation is under active development.
 
-MotoSuiveur Overview
+MotoSuiveur® Overview
 ======================
 
 .. grid:: 2
     :gutter: 4
     :padding: 0
 
-    .. grid-item-card:: MotoSuiveur Unit
-        :img-top: _img/cards/ms-unit-card_16-9.png
+    .. grid-item-card:: MS Unit
+        :img-top: /_img/cards/ms-unit-card_16-9.png
         :link: equipment/ms-solution/index
         :link-type: doc
         :class-title: card-title
 
-        Overview of key safety and operation functions of MotoSuiveur.
+        Overview of key safety and operation functions of MotoSuiveur®.
  
-    .. grid-item-card:: MotoSuiveur Controls
-        :img-top: _img/cards/controls-card_16-9.jpg
+    .. grid-item-card:: MotoSuiveur® Controls
+        :img-top: /_img/cards/controls-card_16-9.jpg
         :link: equipment/control-interface/index
         :link-type: doc
         :class-title: card-title
@@ -36,7 +36,7 @@ MotoSuiveur Overview
 .. toctree::
     :maxdepth: 2
     :hidden:
-    :caption: MotoSuiveur Overview
+    :caption: MotoSuiveur® Overview
 
     /equipment/ms-solution/index
     /equipment/control-interface/index
@@ -52,8 +52,8 @@ Sections
     :gutter: 4
     :padding: 0
 
-    .. grid-item-card:: Installing MotoSuiveur
-        :img-top: _img/cards/installation-card-flange-med_16-9.png
+    .. grid-item-card:: Installing MotoSuiveur®
+        :img-top: /_img/cards/installation-card-flange-med_16-9.png
         :link: installation/index
         :link-type: doc
         :class-title: card-title
@@ -61,7 +61,7 @@ Sections
         Integrating MS into the hoist's kinematic chain and controls.
  
     .. grid-item-card:: Regular Lifting Operation
-        :img-top: _img/cards/regular-op-card-med_16-9.png
+        :img-top: /_img/cards/regular-op-card-med_16-9.png
         :link: operation/regular/index
         :link-type: doc
         :class-title: card-title
@@ -69,7 +69,7 @@ Sections
         Enabling and following hoist motion. Preventing overloads.
 
     .. grid-item-card:: Load Arrest
-        :img-top: _img/cards/arrest-card-med_16-9.png
+        :img-top: /_img/cards/arrest-card-med_16-9.png
         :link: operation/load-arrest/index
         :link-type: doc
         :class-title: card-title
@@ -77,7 +77,7 @@ Sections
         Managing load arrest situations. Resuming normal operation after load arrest.
  
     .. grid-item-card:: Suspended Load Recovery
-        :img-top: _img/cards/recovery-card-ladle_16-9.png
+        :img-top: /_img/cards/recovery-card-ladle_16-9.png
         :link: operation/recovery/index
         :link-type: doc
         :class-title: card-title
@@ -85,7 +85,7 @@ Sections
         Procedures to safely recover suspended loads according to the hoist's status.
 
     .. grid-item-card:: Maintenance
-        :img-top: _img/cards/ms-unit-card_16-9.jpg
+        :img-top: /_img/cards/ms-unit-card_16-9.jpg
         :link: maintenance/index
         :link-type: doc
         :class-title: card-title
@@ -93,12 +93,12 @@ Sections
         Routine checks and maintenance procedures. Parts replacements. Firmware updates.
  
     .. grid-item-card:: Advanced Procedures
-        :img-top: _img/cards/advanced-card_16-9.jpg
+        :img-top: /_img/cards/advanced-card_16-9.jpg
         :link: advanced/index
         :link-type: doc
         :class-title: card-title
 
-        Accessing firmware settings. Bypassing MotoSuiveur safety if required.
+        Accessing firmware settings. Bypassing MotoSuiveur® safety if required.
 
 
 .. toctree::

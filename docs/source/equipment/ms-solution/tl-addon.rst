@@ -26,7 +26,7 @@ This makes MS Torque Limiters the most reliable and efficient means of protectio
 
 
 .. csv-table:: MS Torque Limiter Components
-   :file: ../../_tables/torque-limiter.csv
+   :file: /_tables/torque-limiter.csv
    :delim: ;
    :header-rows: 1
    :class: tight-table

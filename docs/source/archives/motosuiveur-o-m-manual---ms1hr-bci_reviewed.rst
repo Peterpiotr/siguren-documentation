@@ -1,12 +1,12 @@
 ==================================================
-MotoSuiveur O-M manual - MS1HR BCI_reviewed.docx
+MotoSuiveur® O-M manual - MS1HR BCI_reviewed.docx
 ==================================================
 
 .. note::
    | From docx:
-   | `MotoSuiveur O-M manual - MS1HR BCI_reviewed.docx <https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra>`_
+   | `MotoSuiveur® O-M manual - MS1HR BCI_reviewed.docx <https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra>`_
 
-MotoSuiveur\ :sup:`®` System
+MotoSuiveur®\ :sup:`®` System
 
 MS1, Hydraulic, Shaft mounted, Integrated recovery system
 
@@ -287,7 +287,7 @@ INFORMATION <#appendices-supplementary-information>`__
 ----------------
 
 This manual is a specific compilation of design and engineering data for
-the supply of one MotoSuiveur, size 1, required for the disassembly of
+the supply of one MotoSuiveur®, size 1, required for the disassembly of
 slightly radioactive waste stock application.
 
 This manual is intended for the Operator, Installation, Electrical,
@@ -336,15 +336,15 @@ guidelines of this document.
 **Foreword**
 ------------
 
-The MotoSuiveur® unit is a proprietary system for the protection of the
+The MS Unit is a proprietary system for the protection of the
 main hoist load from over-speed and load path failures, and for the
 recovery of the load in the event of a failure. The unit is supplied
 with a proprietary control panel from the equipment manufacturers. The
 crane’s hardwired controls are interfaced to this panel to control the
 MotoSuiveur® in normal operation.
 
-The MS unit is a failsafe mechanical hoist arrester, designed and
-manufactured by Siguren Technologies LTD. The MS unit protects against
+The MS Unit is a failsafe mechanical hoist arrester, designed and
+manufactured by Siguren Technologies LTD. The MS Unit protects against
 failures in hoist drive trains that would otherwise lead to dropped
 loads or overloads.
 
@@ -364,7 +364,7 @@ failure of the hoist drive train. In addition to the unit, a torque
 limiter is put in the drive-train to limit the maximum load into the MS
 unit.
 
-The MS units are available in multiple variants:
+The MS Units are available in multiple variants:
 
 -  elastomer or hydraulic damping or friction plate arresting,
 
@@ -496,9 +496,9 @@ systems.
 This section describes the procedures involved in system start-up,
 normal operation, shut down and emergency protocols.
 
-**Section 6 – MS system operation**
+**Section 6 – MotoSuiveur® System operation**
 
-This section describes MS system operating mode. MS system operating
+This section describes MotoSuiveur® System operating mode. MotoSuiveur® System operating
 algorithm, self-test, switching between operating modes.
 
 **Section 7 – Faults**
@@ -776,19 +776,19 @@ c) Where the machinery is installed outside the EU, the Machinery or
 Product Description 
 --------------------
 
-The MS unit consists of an irreversible worm and wheel gearbox mounted
+The MS Unit consists of an irreversible worm and wheel gearbox mounted
 directly to the hoist drum. It is a permissive system which allows the
 drum to rotate at any speed within the hoist’s normal operating
 parameters. Under fault conditions a differential speed between the worm
 and wheel will cause the system to mechanically lock and the damping
 system safely arrests the load.
 
-MS unit provides mechanical failsafe protection in the event of any
+MS Unit provides mechanical failsafe protection in the event of any
 electro-mechanical failure of the hoist drive train. In addition to the
 unit, a torque limiter is put in the drive-train to limit overload into
 the hoist lifting mechanism.
 
-The MS units are available in multiple variants: hydraulic damping or
+The MS Units are available in multiple variants: hydraulic damping or
 friction plate arresting, shaft mounted or foot mounted each with
 various load capacities. The units are available in sizes 0 to 8 which
 equate to increasing equivalent drum loads. The subject of this document
@@ -902,13 +902,13 @@ allows the worm (14) to convey the torque onto the wheel (2), but this
 torque is insufficient to allow the crane drive to actuate, instead
 allowing the wheel to rotate with the drum shaft through the normal
 crane drive. Finally, to complete the moment couple between the drum
-shaft and the MS unit, a dowel pins mounts between the unit and the
+shaft and the MS Unit, a dowel pins mounts between the unit and the
 crane body.
 
 Electrical Description
 ----------------------
 
-The MS unit is electrically controlled using typical components as shown
+The MS Unit is electrically controlled using typical components as shown
 on Figure 3.
 
 |Diagram Description automatically generated|
@@ -929,7 +929,7 @@ on Figure 3.
 **Figure 3** MS Electrical control
 
 The block diagram of the electrical control system shown on figure 4
-represents the input/output signals between the hoist and the MS system.
+represents the input/output signals between the hoist and the MotoSuiveur® System.
 The presented block diagram shows all possible inputs and outputs of the
 MS. For each project, the specific set of inputs and outputs used is
 predefined.
@@ -1221,16 +1221,16 @@ placed on an insulated paper covered wooden base.
 Handling
 --------
 
-1) All MS units are controlled after assembly, set and tested on bench.
+1) All MS Units are controlled after assembly, set and tested on bench.
    During those tests, the oil fill is adjusted.
 
 2) The damping chamber is bled and sealed. However, a certain quantity
    of air remains in the rest of the system. To prevent this air to
    penetrate inside the damping chamber during transportation, which can
-   cause malfunction, the MS units must be carried with the damping
-   chamber in specific position for hydraulic MS units.
+   cause malfunction, the MS Units must be carried with the damping
+   chamber in specific position for hydraulic MS Units.
 
-3) During transportation MS unit must be carried via transport rings
+3) During transportation MS Unit must be carried via transport rings
    (1), oil sensor (2) is oriented up and oil drain hole (3) down.
 
 |A picture containing cylinder, red Description automatically generated|
@@ -1505,7 +1505,7 @@ automatically generated|
 |   | ector |                         |                               |
 +---+-------+-------------------------+-------------------------------+
 | 7 | Light | Low Oil Level           | Indicator for low oil level   |
-|   |       |                         | in MS unit                    |
+|   |       |                         | in MS Unit                    |
 +---+-------+-------------------------+-------------------------------+
 | 8 | Light | Downward enabled        | Allows lowering direction     |
 |   |       |                         | movement                      |
@@ -1516,7 +1516,7 @@ automatically generated|
 | 1 | Light | Recovery Engaged        | Indicator for engaged         |
 | 0 |       |                         | recovery mechanism            |
 +---+-------+-------------------------+-------------------------------+
-| 1 | B     | Reset                   | MS system reset               |
+| 1 | B     | Reset                   | MotoSuiveur® System reset               |
 | 1 | utton |                         |                               |
 +---+-------+-------------------------+-------------------------------+
 
@@ -1639,7 +1639,7 @@ Errors may occur while following operation. These can be related to MS
 operation (Table 5) - such as overspeed. They can also be system related
 – for an example loss of power supply (Table 6). After a fault occurs,
 regardless of its cause, it is necessary to troubleshoot it and restart
-MS system. Troubleshooting is described in sections 7 and 8.
+MotoSuiveur® System. Troubleshooting is described in sections 7 and 8.
 
 If necessary during following, Recovery mode can be activated - section
 6.3.
@@ -1647,9 +1647,9 @@ If necessary during following, Recovery mode can be activated - section
 SELF-TEST
 ---------
 
-A self-test is a procedure in which the MS unit tests its health through
+A self-test is a procedure in which the MS Unit tests its health through
 a sequence of tests (table 4). The self-test is performed after the
-initial power-up of the MS system or after a restart from the Reset
+initial power-up of the MotoSuiveur® System or after a restart from the Reset
 button (Section 6.3). on the electrical panel.
 
 **Table 5** Self-test sequence
@@ -1677,7 +1677,7 @@ button (Section 6.3). on the electrical panel.
 |      |                    | the worm in the nominal position and    |
 |      |                    | electrical health of MS controller      |
 +------+--------------------+-----------------------------------------+
-| 3    | Switch test        | Functional testing of MS unit limit     |
+| 3    | Switch test        | Functional testing of MS Unit limit     |
 |      |                    | switches for operability and correct    |
 |      |                    | positioning                             |
 +------+--------------------+-----------------------------------------+
@@ -1758,8 +1758,8 @@ low confidence|
 
 After MS enters a fault state, an operator response is required to
 identify the reason for the fault. Once the cause of the failure has
-been identified and resolved, a restart of the MS system is required.
-After a successful self-test following a reset of MS system, it enters
+been identified and resolved, a restart of the MotoSuiveur® System is required.
+After a successful self-test following a reset of MotoSuiveur® System, it enters
 in following mode.
 
 In addition to the maximum permissible crane speed, the MS also monitors
@@ -1768,8 +1768,8 @@ without a movement request. When such movement is detected, the MC
 triggers, enters in fault state and prevents hoist movements. After
 entering in fault state, an operator response is required to identify
 the cause of the fault. Once the cause of the failure has been
-identified and resolved, a restart of the MS system is required (Section
-6.3). After a successful self-test of the MS system after a reset, it
+identified and resolved, a restart of the MotoSuiveur® System is required (Section
+6.3). After a successful self-test of the MotoSuiveur® System after a reset, it
 enters following mode.
 
 All operation (Section 5.2) and fault states (Section 7) are displayed
@@ -1778,9 +1778,9 @@ on MS Controller 7 – segment display.
 RESET
 -----
 
-If the MS system does not need to be reset, this is done by the RESET
+If the MotoSuiveur® System does not need to be reset, this is done by the RESET
 button (Figure 8, 11). The RESET button must be pressed and held for >1
-second for a MS system reset to be performed.
+second for a MotoSuiveur® System reset to be performed.
 
 RECOVERY MODE
 -------------
@@ -1797,7 +1797,7 @@ ACTIVATING RECOVERY MODE
 |   |                                        |                          |
 |   | The Recovery mode indicator is on.     |                          |
 +---+----------------------------------------+--------------------------+
-| 2 | Reset MS system (Section 6.3).to enter | |image31|                |
+| 2 | Reset MotoSuiveur® System (Section 6.3).to enter | |image31|                |
 |   | in Recovery mode.                      |                          |
 +---+----------------------------------------+--------------------------+
 | 3 | The MS enters Recovery mode and starts | |image33|                |
@@ -1857,10 +1857,10 @@ EXIT RECOVERY MODE
 |   | turns off.                      |                                |
 +---+---------------------------------+--------------------------------+
 | 2 | Recovery mode remains active    | |image39|                      |
-|   | until MS system reset (Section  |                                |
+|   | until MotoSuiveur® System reset (Section  |                                |
 |   | 6.3).                           |                                |
 +---+---------------------------------+--------------------------------+
-| 3 | After reset MS system exits     |                                |
+| 3 | After reset MotoSuiveur® System exits     |                                |
 |   | from Recovery mode.             |                                |
 +---+---------------------------------+--------------------------------+
 
@@ -1973,7 +1973,7 @@ b) MS warning number 10 (wrn_num = 10)
 *
 *
 
-**Table 7** MS unit faults
+**Table 7** MS Unit faults
 
 +-------+----+---------------+--------------------+-------------------+
 | Mode  | No | HMI Fault     | Cause              | Remedy            |
@@ -2072,7 +2072,7 @@ b) MS warning number 10 (wrn_num = 10)
 |       |    |               |                    |                   |
 |       |    |               |                    | Wait 15 sec.      |
 |       |    |               |                    |                   |
-|       |    |               |                    | Reset MS system   |
+|       |    |               |                    | Reset MotoSuiveur® System   |
 |       |    |               |                    | (Section 6.3).    |
 +-------+----+---------------+--------------------+-------------------+
 |       | F  | Play too      | Worm backlash too  | Center the worm   |
@@ -2084,7 +2084,7 @@ b) MS warning number 10 (wrn_num = 10)
 |       |    |               |                    |                   |
 |       |    |               |                    | Wait 15 sec.      |
 |       |    |               |                    |                   |
-|       |    |               |                    | Reset MS system   |
+|       |    |               |                    | Reset MotoSuiveur® System   |
 +-------+----+---------------+--------------------+-------------------+
 |       | F  | Air detected  | Presence of air in | Air bleeding is   |
 |       | 20 |               | the damping        | necessary.        |
@@ -2102,7 +2102,7 @@ b) MS warning number 10 (wrn_num = 10)
 |       |    |               |                    |                   |
 |       |    |               |                    | Wait 15 sec.      |
 |       |    |               |                    |                   |
-|       |    |               |                    | Reset MS system   |
+|       |    |               |                    | Reset MotoSuiveur® System   |
 +-------+----+---------------+--------------------+-------------------+
 |       | F  | Damping too   |                    | Center the worm   |
 |       | 23 | hard          |                    | in position with  |
@@ -2113,19 +2113,19 @@ b) MS warning number 10 (wrn_num = 10)
 |       |    |               |                    |                   |
 |       |    |               |                    | Wait 15 sec.      |
 |       |    |               |                    |                   |
-|       |    |               |                    | Reset MS system   |
+|       |    |               |                    | Reset MotoSuiveur® System   |
 +-------+----+---------------+--------------------+-------------------+
-| Foll  | F  | Unscrewing    | Overspeed (speed   | Reset MS system   |
+| Foll  | F  | Unscrewing    | Overspeed (speed   | Reset MotoSuiveur® System   |
 | owing | 33 | overspeed     | greater nominal)   |                   |
 |       |    |               | is detected during |                   |
 |       |    |               | lowering           |                   |
 +-------+----+---------------+--------------------+-------------------+
-|       | F  | Screwing      | Overspeed (speed   | Reset MS system   |
+|       | F  | Screwing      | Overspeed (speed   | Reset MotoSuiveur® System   |
 |       | 34 | overspeed     | greater nominal)   |                   |
 |       |    |               | is detected during |                   |
 |       |    |               | lifting            |                   |
 +-------+----+---------------+--------------------+-------------------+
-|       | E  | Oil           | Low oil level      | Check MS unit oil |
+|       | E  | Oil           | Low oil level      | Check MS Unit oil |
 |       | 55 |               |                    | level.            |
 |       |    |               |                    |                   |
 |       |    |               |                    | Check healthy of  |

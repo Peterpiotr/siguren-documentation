@@ -1,5 +1,5 @@
 =======================
-Installing MotoSuiveur
+Installing MotoSuiveur®
 =======================
 
 
@@ -12,14 +12,13 @@ Installing MotoSuiveur
   mechanical-installation/ms-handling
 
 .. toctree::
-  :maxdepth: 1
+  :maxdepth: 2
   :caption: Mechanical Installation
 
   mechanical-installation/retrofit-feasibility
   mechanical-installation/removing-existing-plummer-block
   mechanical-installation/installation-on-existing-hoist
-  mechanical-installation/ms-drum-installation
-  mechanical-installation/ms-flange-installation
+  mechanical-installation/flange/index
   mechanical-installation/ms-seat-installation
   mechanical-installation/ms-positioning
   mechanical-installation/tl-assembly

@@ -9,19 +9,19 @@ Spare Parts
 
 
 .. csv-table:: Mechanical Spares MS6
-   :file: ../../_tables/mechanical-spares-ms6.csv
+   :file: /_tables/mechanical-spares-ms6.csv
    :delim: ;
    :header-rows: 1
    :class: tight-table
 
 .. csv-table:: Mechanical Spares MS3
-   :file: ../../_tables/mechanical-spares-ms3.csv
+   :file: /_tables/mechanical-spares-ms3.csv
    :delim: ;
    :header-rows: 1
    :class: tight-table
 
 .. csv-table:: MS6-MS3 Electrical spares
-   :file: ../../_tables/electrical-spares.csv
+   :file: /_tables/electrical-spares.csv
    :delim: ; 
    :header-rows: 1
    :class: tight-table

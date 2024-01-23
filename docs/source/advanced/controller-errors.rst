@@ -17,7 +17,7 @@ Each fault is characterized by a number and a description.
 Faults are divided into two groups: 
 
     - **System faults** are related to the electrical performance of the MS Controller.
-    - **MotoSuiveur® System faults** are related to operating of the MotoSuiveur® unit.
+    - **MotoSuiveur® System faults** are related to operating of the MS Unit.
 
 .. the names of the two fault groups are not different nor explicit enough
 
@@ -45,7 +45,7 @@ MotoSuiveur® System faults are displayed with combination of |image036| and num
 In table below MS Controller internal errors are described.
 
 .. csv-table:: MS Controller internal errors
-    :file: ../../_tables/ms-controller-internal-errors.csv
+    :file: /_tables/ms-controller-internal-errors.csv
     :header-rows: 1
     :class: tight-table
     :delim: ;
@@ -55,7 +55,7 @@ In table below MS Controller internal errors are described.
 In table below MotoSuiveur® System warnings and faults are described.
 
 .. csv-table:: MotoSuiveur® System warnings and faults
-    :file: ../../_tables/ms-faults-and-warnings.csv
+    :file: /_tables/ms-faults-and-warnings.csv
     :header-rows: 1
     :class: tight-table
     :delim: ;

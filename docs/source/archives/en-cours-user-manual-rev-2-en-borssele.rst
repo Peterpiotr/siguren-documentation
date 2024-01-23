@@ -24,8 +24,8 @@ EN_COURS_User manual - REV_2_EN_Borssele_reviewed.docx
 | contact@siguren.com      |                 |                        |
 +--------------------------+-----------------+------------------------+
 |                          |                 | `www.siguren.          |
-|                          |                 | com <file:///Users/../ |
-|                          |                 | ../../../../public/pet |
+|                          |                 | com <file:///Users// |
+|                          |                 | //public/pet |
 |                          |                 | er/www.siguren.com>`__ |
 +--------------------------+-----------------+------------------------+
 
@@ -2117,7 +2117,7 @@ fault and the solutions to apply in order to solve them.
 +---+---------------+-------------------+------------------------------+
 | 1 | Estop         | The ES button is  | Release the Estop button     |
 | 2 |               | activated during  | andlaunch an autodiagnostic  |
-|   | during        | autodiagnostic    | by switching the MotoSuiveur |
+|   | during        | autodiagnostic    | by switching the MotoSuiveur® |
 |   | a             |                   | off.                         |
 |   | utodiagnostic |                   |                              |
 +---+---------------+-------------------+------------------------------+

@@ -4039,8 +4039,8 @@ Foreword
 Introduction
 ~~~~~~~~~~~~
 
-The MS unit is a failsafe mechanical hoist arrester, designed by Siguren
-and manufactured under license by SCX Special Projects. The MS unit
+The MS Unit is a failsafe mechanical hoist arrester, designed by Siguren
+and manufactured under license by SCX Special Projects. The MS Unit
 protects against failures in hoist drive trains that would otherwise
 lead to dropped loads or overloads.
 
@@ -4052,7 +4052,7 @@ and wheel will cause the system to mechanically lock and the damping
 system safely arrests the load. This provides mechanical failsafe
 protection in the event of any electro-mechanical failure of the hoist
 drive train. In addition to the unit, a torque limiter is put in the
-drive-train to limit the maximum load into the MS unit. The MS units are
+drive-train to limit the maximum load into the MS Unit. The MS Units are
 available in multiple variants; hydraulic damping or friction plate
 arresting, shaft mounted or foot mounted each with various load
 capacities. The units are available in sizes 0 to 8 which equate to
@@ -4234,7 +4234,7 @@ Issue Date\ *:* **07/08/2017** Document Ref: **49104-15-001**
 System Description
 ------------------
 
-   The MS unit comprises of the following components.
+   The MS Unit comprises of the following components.
 
 |image17|
 
@@ -4286,7 +4286,7 @@ Issue: D
 Functioning Principle
 ~~~~~~~~~~~~~~~~~~~~~
 
-Typically, the MS unit attaches to the drum via a stub shaft beyond the
+Typically, the MS Unit attaches to the drum via a stub shaft beyond the
 bearing and torque is restrained via a torque arm. This arrangement is
 shown in Figure 1.5.1-1.
 
@@ -4317,7 +4317,7 @@ actuates it allows the worm to convey the torque onto the wheel but this
 torque is insufficient to allow the crane drive to actuate, instead
 allowing the wheel to rotate with the drum shaft through the normal
 crane drive. Finally, to complete the moment couple between the drum
-shaft and the MS unit, a steel torque arm mounts between the unit and
+shaft and the MS Unit, a steel torque arm mounts between the unit and
 the crane body.
 
 |image20|
@@ -4387,7 +4387,7 @@ Issue: D
 Electrical Description
 ~~~~~~~~~~~~~~~~~~~~~~
 
-The MS unit is electrically controlled using typical components as shown
+The MS Unit is electrically controlled using typical components as shown
 in the diagram below.
 
 |image24|
@@ -7070,16 +7070,16 @@ Issue: D
 Recovery Procedure
 ------------------
 
-The MotoSuiveur unit is a proprietary system for protection of the main
+The MS Unit is a proprietary system for protection of the main
 hoist load from over-speed and load path failures, and for recovery of
-the load in the event of a failure. The MotoSuiveur unit is supplied
+the load in the event of a failure. The MS Unit is supplied
 with a proprietary control panel from the equipment manufacturers. The
 crane hardwired controls are interfaced to this panel to control the
-MotoSuiveur in normal operation.
+MotoSuiveur® in normal operation.
 
 A separate operator panel, the MS remote panel, is provided, located
-adjacent the crane operator panel, which houses the MotoSuiveur recovery
-controls and MotoSuiveur HMI. In the event of a protection system trip,
+adjacent the crane operator panel, which houses the MotoSuiveur® recovery
+controls and MotoSuiveur® HMI. In the event of a protection system trip,
 caused by main hoist over-height or main hoist over-load, the crane
 operator will require the use of the recovery procedure.
 
@@ -7087,7 +7087,7 @@ Prior to any recovery operations commencing, the cause of the fault
 should be identified. The following procedure below explains the
 recovery procedure process.
 
-1. Isolate the MotoSuiveur Panel using the isolator.
+1. Isolate the MotoSuiveur® Panel using the isolator.
 
 2. Plug the 230v recovery plug into the front of the left hand door.
 
@@ -7191,13 +7191,13 @@ Issue: D
 Backup Procedure
 ----------------
 
-This switch allows the user to lower or raise the load with the MS unit
-ensuring no braking occurs. It does this via the MotoSuiveur servo motor
+This switch allows the user to lower or raise the load with the MS Unit
+ensuring no braking occurs. It does this via the MotoSuiveur® servo motor
 following the hoist movement whilst maintaining the normal position for
 the worm.
 
 **Raise signal**- This replicates the raise signal from the main hoist
-unit control panel without movement. This is to prime the MotoSuiveur
+unit control panel without movement. This is to prime the MotoSuiveur®
 following motor in the raise direction. The raise movement is via the
 hoist motor so in this case is not be isolated. Therefore any hoist
 movement will be required to be initiated by some means but prior to the
@@ -7207,21 +7207,21 @@ initiation the backup mode should enabled.
 unit control panel without movement.
 
 In the event of a fault on the hoist the hoist drive mechanism can be
-isolated, the MotoSuiveur backup mode enabled, lower direction switch
+isolated, the MotoSuiveur® backup mode enabled, lower direction switch
 applied and through the release of the se\ **rvice brake by ‘fethering
-the brake’ the** MotoSuiveur will follow the rotation of the hoist
+the brake’ the** MotoSuiveur® will follow the rotation of the hoist
 without arresting. However if the hoist achieves an over speed condition
-then the MotoSuiveur will arrest the load.
+then the MotoSuiveur® will arrest the load.
 
 The following conditions apply to the control system when the backup
 procedure is initiated.
 
--  The MotoSuiveur motor speed is physically limited to 110% during
+-  The MotoSuiveur® motor speed is physically limited to 110% during
    normal operation
 
 -  Hoist enable signals are ignored
 
--  MotoSuiveur switches are inhibited
+-  MotoSuiveur® switches are inhibited
 
 Issue Date\ *:* **07/08/2017**
 
@@ -14423,8 +14423,8 @@ includes a finish bore.
 +-------+---+---+---+---+------+---+----+----+----+----+----+----+---+
 |       | * | * | * | * | **I\ | * |    | ** | ** | *  |    | *  |   |
 |  **DT | * | * | * | * |  N** | * |    | η5 | η7 | *η |  * | *M |   |
-| ../DR | P | M | n | I |      | c | ** | 0% | 5% | 10 | *I | \  |   |
-| ../** | \ | \ | \ | \ |      | o | IE | ** | ** | 0% | \  | A/ |   |
+| /DR | P | M | n | I |      | c | ** | 0% | 5% | 10 | *I | \  |   |
+| /** | \ | \ | \ | \ |      | o | IE | ** | ** | 0% | \  | A/ |   |
 |       |   |   |   |   |      | s | ** |    |    | ** | A/ | M\ |   |
 |       | N | N | N | N |      | φ |    |    |    |    | I\ |  N |   |
 |       | * | * | * | * |      | * |    |    |    |    |  N | ** |   |
@@ -14602,8 +14602,8 @@ includes a finish bore.
 +-------+----+----+----+----+------+----+------+----+----+--------+---+
 |       | ** | ** | ** |    | **JM |    | **Z\ | ** |    | **JMo  |   |
 |  **DT | P\ | M\ | n\ |  * | ot** |    |  0** | M\ |    | t_BE** |   |
-| ../DR |  N |  N |  N | *m |      | ** |      |  B | ** |        |   |
-| ../** | ** | ** | ** | ** |      | BE |      | ** | m\ |        |   |
+| /DR |  N |  N |  N | *m |      | ** |      |  B | ** |        |   |
+| /** | ** | ** | ** | ** |      | BE |      | ** | m\ |        |   |
 |       |    |    |    |    |      | .. |      |    |  B |        |   |
 |       |    |    |    |    |      | ** |      |    | ** |        |   |
 +=======+====+====+====+====+======+====+======+====+====+========+===+

@@ -94,7 +94,7 @@ Parts <#protection-of-the-manufactured-parts>`__
 
 `3.2 Environment <#environment>`__ `16 <#environment>`__
 
-`3.3 Assembly of the MS unit <#assembly-of-the-ms-unit>`__
+`3.3 Assembly of the MS Unit <#assembly-of-the-ms-unit>`__
 `17 <#assembly-of-the-ms-unit>`__
 
 `3.4 Assembly of the Torque Limiter <#assembly-of-the-torque-limiter>`__
@@ -291,8 +291,8 @@ Presentation of the Motosuiveur® System
 Application of the Motosuiveur System
 -------------------------------------
 
-The MS unit is a failsafe mechanical hoist arrester, designed and
-manufactured by Siguren. The MS unit protects against failures in hoist
+The MS Unit is a failsafe mechanical hoist arrester, designed and
+manufactured by Siguren. The MS Unit protects against failures in hoist
 drive trains that would otherwise lead to dropped loads or overloads.
 
 The MS consists of an irreversible worm and wheel gearbox mounted
@@ -304,7 +304,7 @@ system safely arrests the load. This provides mechanical failsafe
 protection in the event of any electro-mechanical failure of the hoist
 drive train. The typical arrangement is shown in **Figure 1** below. In
 addition to the unit, a torque limiter is put in the drive-train to
-limit the maximum load into the MS unit. The MS units are available in
+limit the maximum load into the MS Unit. The MS Units are available in
 multiple variants; hydraulic damping or friction plate arresting, shaft
 mounted or foot mounted each with various load capacities. The units are
 available in sizes 0 to 8 which equate to increasing equivalent drum
@@ -358,13 +358,13 @@ Control
 
 Contactor
 
-MotoSuiveur\ :sup:`®` Controller Box
+MotoSuiveur®\ :sup:`®` Controller Box
 
 Brake & Motor
 
 Main Power Supply
 
-MotoSuiveur\ :sup:`®`
+MotoSuiveur®\ :sup:`®`
 
 Drive Speed Controller
 
@@ -373,7 +373,7 @@ Figure 2: MS General configuration
 Design and Functioning Principle
 --------------------------------
 
-Typically, the MS unit attaches to the drum via a stub shaft beyond the
+Typically, the MS Unit attaches to the drum via a stub shaft beyond the
 bearing and torque is restrained via a torque arm. This arrangement is
 shown in Figure 3.
 
@@ -404,7 +404,7 @@ actuates it allows the worm to impart torque onto the wheel but this
 torque is insufficient to allow the crane drive to actuate, instead
 allowing the wheel to rotate with the drum shaft through the normal
 crane drive. Finally, to complete the moment couple between the drum
-shaft and the MS unit, a steel torque arm mounts between the unit and
+shaft and the MS Unit, a steel torque arm mounts between the unit and
 the crane body.
 
 |image3|
@@ -474,7 +474,7 @@ When the MS activates the worm moves out of normal operating position
 and the limit switches drop out a ‘hoist enable’ interlock to the main
 hoist drive motor circuit thereby stopping all hoisting functions.
 Depending on the hoisting drive train characteristics, it is possible
-that the MS unit will arrest the load before the drive torque has been
+that the MS Unit will arrest the load before the drive torque has been
 fully removed. In this case, or in the case of a hoist control system
 failure to prevent application of an over torque the MS is also paired
 with a torque limiting device, located between the hoist motor and the
@@ -733,7 +733,7 @@ In particular, the following conditions should be observed:
 
 -  The Motosuiveur® must be filled with oil (SW15 see Appendix 5)
 
-Assembly of the MS unit
+Assembly of the MS Unit
 -----------------------
 
 For the correct installation of the Motosuiveur®, to avoid ill-timed
@@ -1120,7 +1120,7 @@ Green:
 
 -  MS 1 and MS2 drive are OK
 
--  UP worm sensors of the two MS units are OK
+-  UP worm sensors of the two MS Units are OK
 
 Red:
 
@@ -1139,7 +1139,7 @@ Green:
 
 -  MS 1 and MS2 drive are OK
 
--  DOWN worm sensors of the two MS units are OK
+-  DOWN worm sensors of the two MS Units are OK
 
 Red:
 
@@ -1496,7 +1496,7 @@ recovery
 |image36|
 
 -  Following a maximum of 100m of recovery travel in both the upwards
-   and downwards directions it is recommended that the MS units undergo
+   and downwards directions it is recommended that the MS Units undergo
    maintenance by the manufacturer.
 
 -  After each use of the recovery mode, the hoist should run with no
@@ -1518,7 +1518,7 @@ with a gear, and a significant distance hoisting distance it may be
 possible that an action on the recovery motors may not hoist up or down
 synchronously on both recovery motors which could lead to the loss of
 level on the unit being recovered. The maximum positional difference
-between the two MS units can be set in units measured and managed by the
+between the two MS Units can be set in units measured and managed by the
 Motosuiveur®. This maximum difference is set at factory at commissioning
 and can be adjusted during site commissioning to suit the application.
 
@@ -1535,7 +1535,7 @@ The steps to be undertaken to perform this activity are as follows:-
    the access to the engagement procedure screen.
 
 2. Initiate the engagement cycle by depressing the yellow push button
-   located on the front of the MS unit panel. (Ref.15 004-100E – Button
+   located on the front of the MS Unit panel. (Ref.15 004-100E – Button
    S1).
 
 Note - For completing the engagement process, the controllers of the
@@ -1581,7 +1581,7 @@ duration of the engagement process is variable and failure of the cycle
 may be due to several variable factors however it is more probably due
 to the engagement cycle timeout. If this situation occurs the repeat of
 the clutch engagement cycle should be initiated again by the depressing
-the yellow push button located on the front of the MS unit panel (Ref.15
+the yellow push button located on the front of the MS Unit panel (Ref.15
 004-100E – Button S1). If after many several failed attempts the
 engagement process does not complete guidance should be sought from
 Siguren.
@@ -1590,9 +1590,9 @@ Operating Recovery from the Touch Screen
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Once the engagement process is completed the hoist motor service brake
-can be opened as the load is taken by the MS unit. The recovery
-operations can be completed from the touch screen located on the MS unit
-control panel. This allows the MS unit to be able to perform up and down
+can be opened as the load is taken by the MS Unit. The recovery
+operations can be completed from the touch screen located on the MS Unit
+control panel. This allows the MS Unit to be able to perform up and down
 operations using the recovery motors. These movements are initiated by
 firstly accessing the hoisting operations screen on the HMI, this screen
 is accessed by pressing the ‘To Recovery Operations’ button shown once
@@ -1617,8 +1617,8 @@ motions independently should be restricted to especial scenarios and
 caution observed as the centre of gravity may shift therefore increasing
 the load on individual chains.
 
-Within the MS unit control system the controller logic verifies that the
-position of each Motosuiveur and compares the position of each MS unit.
+Within the MS Unit control system the controller logic verifies that the
+position of each Motosuiveur and compares the position of each MS Unit.
 The position difference cannot exceed the maximum defined in the
 “Recovery settings” or in the “Operating mode” screen when selected on
 “Recovery” and it is protected by the logics.
@@ -1666,7 +1666,7 @@ recovery operation and prior to returning to normal service the hoist
 should be run at a reduced load in the upwards and downwards direction
 and at full speed to allow the oil to be cleaned by the in-built
 magnets. It is also recommended that following recovery in the upwards
-and downwards directions totalling 100mtrs that the MS units undergo
+and downwards directions totalling 100mtrs that the MS Units undergo
 maintenance by the manufacturer.
 
    |image46|\ After each use of the recovery mode, the hoist should run
@@ -1675,7 +1675,7 @@ maintenance by the manufacturer.
    particles.
 
    Following a maximum of 100m of recovery travel in both the upwards
-   and downwards directions it is recommended that the MS units undergo
+   and downwards directions it is recommended that the MS Units undergo
    maintenance by the manufacturer.
 
 Planned Maintenance

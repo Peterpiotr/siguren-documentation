@@ -1,5 +1,5 @@
 ==================================
-Resetting the MotoSuiveur System
+Resetting the MotoSuiveur® System
 ==================================
 
 .. when should you reset the motosuiveur system? why?
@@ -18,4 +18,4 @@ Steps
 
 		.. what are the signs that the reset is ongoing and then correctly done?
 
-	3. After reset MotoSuiveur® System starts as in :doc:`MotoSuiveur® operating algorithm <../../operation/regular/operation-modes>`.
+	3. After reset MotoSuiveur® System starts as in :doc:`MotoSuiveur® operating algorithm </operation/regular/operation-modes>`.

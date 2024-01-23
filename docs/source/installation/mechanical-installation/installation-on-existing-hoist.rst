@@ -6,7 +6,7 @@ Installation on Existing Hoist
 	Refers to electrical-interface and mechanical-interface. May be partially redundant with connect-ms-control-cabinet
 
 .. note::
-    Extracted from :download:`MS installation on existing hoist barrel.doc <../../_archives/MS-installation-on-existing-hoist-barrel.doc>` .
+    Extracted from :download:`MS installation on existing hoist barrel.doc </_archives/MS-installation-on-existing-hoist-barrel.doc>` .
 
 
 .. 

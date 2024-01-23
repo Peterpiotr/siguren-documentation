@@ -178,7 +178,7 @@ Glossary (to be replaced for Hydraulic)
 | 0 |                               |                                  |
 +---+-------------------------------+----------------------------------+
 
-**Figure 2** MS unit components
+**Figure 2** MS Unit components
 
 |image4|
 
@@ -236,7 +236,7 @@ Connect MS to control cabinet
 
 After mechanical assembly of MS to hoist is done, electrical connection
 must be made between MS and control cabinet. Figure 7 shows general view
-of typical MS unit electrical components that should be connected
+of typical MS Unit electrical components that should be connected
 according specific for the project electrical circuit diagram.
 
 |image7|
@@ -250,7 +250,7 @@ according specific for the project electrical circuit diagram.
 |   | terminal                      |   |                               |
 +---+-------------------------------+---+-------------------------------+
 
-**Figure 6** Electrical connections of MS unit
+**Figure 6** Electrical connections of MS Unit
 
 Connectors C6 and C7 (figure 6 points 3 and 4) should be made according
 following specification:
@@ -1347,7 +1347,7 @@ Monthly E= Annually, F= 2 Years, G=5 Years, H=10 Years
 **Table 2** MS maintenance intervals
 
 +---------------------------+---+---+---+---+---+---+---+---+---------+--------+
-| **MotoSuiveur® Unit**     | A | B | C | D | E | F | G | H | Worm    | Cont   |
+| **MS Unit**     | A | B | C | D | E | F | G | H | Worm    | Cont   |
 |                           |   |   |   |   |   |   |   |   | R       | roller |
 |                           |   |   |   |   |   |   |   |   | otation | 7-S    |
 |                           |   |   |   |   |   |   |   |   | Count   | egment |

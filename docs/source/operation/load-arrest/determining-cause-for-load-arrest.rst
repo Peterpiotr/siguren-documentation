@@ -2,11 +2,11 @@
 Determining Cause for Load Arrest
 ==================================
 
-.. The MotoSuiveur® Unit is a failsafe **mechanical** hoist arrester.
+.. The MS Unit is a failsafe **mechanical** hoist arrester.
 
-MotoSuiveur® Unit protects against failures in hoist drive trains that would otherwise lead to dropped loads or overloads.
+MS Unit protects against failures in hoist drive trains that would otherwise lead to dropped loads or overloads.
 
-The reasons for MotoSuiveur® system load arrest can be various such as:
+The reasons for MotoSuiveur® System load arrest can be various such as:
 	- electrical or mechanical failure of the hoist motor brake;
 	- electrical or mechanical failure of the hoist motor;
 	- mechanical failure of the hoist reducer;
@@ -21,7 +21,7 @@ The reasons for MotoSuiveur® system load arrest can be various such as:
 	:figwidth: 100 %
 	:class: instructionimg
 
-	Load Arrest by a Hydraulic Damping MotoSuiveur® Unit
+	Load Arrest by a Hydraulic Damping MS Unit
 
 
 ..    In case of load arrest action is required. Operator (authorized personnel) should identify reason for load arrest. Possible the presence of an Fault.

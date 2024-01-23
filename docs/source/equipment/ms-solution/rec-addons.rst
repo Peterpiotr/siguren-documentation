@@ -20,16 +20,16 @@ With MS-IRD, crane operators can remotely recover the load safely and rapidly ev
 	:align: center
 	:figwidth: 100 %
 
-	MS system equipped with MS-IRD
+	MotoSuiveur® System equipped with MS-IRD
 
-MS-IRD consists of an independently powered and controlled AC motor, reductor, transmission and engagement mechanism. MS-IRD is integrated in MS unit.
-Exemplary general appearance of MS unit equipped with MS-IRD is shown on figure below.
+MS-IRD consists of an independently powered and controlled AC motor, reductor, transmission and engagement mechanism. MS-IRD is integrated in MS Unit.
+Exemplary general appearance of MS Unit equipped with MS-IRD is shown on figure below.
 
 .. figure:: /_img/recovery/Integrated-recovery-1.png
 	:align: center
 	:figwidth: 100 %
 
-	MS unit equipped with MS-IRD
+	MS Unit equipped with MS-IRD
 
 Independent Load Recovery 
 =========================

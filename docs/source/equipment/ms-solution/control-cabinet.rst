@@ -14,7 +14,7 @@ Control cabinet have nameplate_ located on front side of the door indicating inp
     
 
 .. csv-table:: MotoSuiveur® control cabinet overview
-   :file: ../../_tables/control-cabinet-overview.csv
+   :file: /_tables/control-cabinet-overview.csv
    :delim: ;
    :header-rows: 1
    :class: tight-table
@@ -78,4 +78,4 @@ All electrical parameters and iterfaces are specified by the pre-configuration d
 	Integration of the MotoSuiveur® in hoist control system
 
 
-**For more details:** :doc:`../../equipment/control-interface/control-panel`
+**For more details:** :doc:`/equipment/control-interface/control-panel`

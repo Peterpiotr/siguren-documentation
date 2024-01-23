@@ -7,7 +7,7 @@ Control Panel
 Layout of the control panel is defined according to pre-selected functionality relative to the MS Block Diagram. 
 The control panel can be located on the control cabinet front door, can be external or a combination of both.
 The operator has the facility to use the controls via switches or MSHMI.
-The switches and HMI can be used to switch the operating modes of the MotoSuiveur® system.
+The switches and HMI can be used to switch the operating modes of the MotoSuiveur® System.
 Combination of active (ON) and inactive (OFF) signal lams gives current status of MotoSuiveur®. 
 
 
@@ -42,7 +42,7 @@ The figure below shows an example overview of a control panel with and without M
 
 
 .. csv-table:: Control panel layout without MSHMI
-   :file: ../../_tables/control-panel-legend.csv
+   :file: /_tables/control-panel-legend.csv
    :delim: ;
    :header-rows: 1
    :widths: auto
@@ -62,7 +62,7 @@ External control panel
 	External control panel overview
 
 .. csv-table:: External control panel
-   :file: ../../_tables/control-panel-external.csv
+   :file: /_tables/control-panel-external.csv
    :delim: ;
    :header-rows: 1
    :widths: auto
@@ -117,9 +117,9 @@ MotoSuiveur® warnings are displayed with combination of |image035| and number.
 Reset 
 ^^^^^^
 
-:guilabel:`🔘 Reset button` reset MotoSuiveur® system electrically and mechanically. After reset, MotoSuiveur® system is performing self-test. 
+:guilabel:`🔘 Reset button` reset MotoSuiveur® System electrically and mechanically. After reset, MotoSuiveur® System is performing self-test. 
 
 
 **References:**
 
-:doc:`../../equipment/ms-solution/control-cabinet`
+:doc:`/equipment/ms-solution/control-cabinet`

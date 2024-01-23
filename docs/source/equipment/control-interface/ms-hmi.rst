@@ -2,16 +2,16 @@
 MSHMI
 =====
 
-.. include:: ../equipment/_img/substitutions.rst
+.. include:: /equipment/_img/substitutions.rst
 
 
 The MotoSuiveur® HMI (MSHMI) is a Schneider Magelis/Harmony HMI STU 655/855 color graphic touchscreen terminal 
 programmed with the MotoSuiveur®HMI firmware by Siguren technologies. 
 MotoSuiveur® HMI communicates with the MotoSuiveur® controller via MODBUS RTU 485 protocol.
 
-MSHMI significantly expands the capabilities of MotoSuiveur® system by allowing:
+MSHMI significantly expands the capabilities of MotoSuiveur® System by allowing:
 
-- Monitoring of actual MotoSuiveur® system status
+- Monitoring of actual MotoSuiveur® System status
 - Displayng value of oddometer 
 - Displayng value of  brake counter
 - Displayng warning and fault messages and guidance on how to solve them
@@ -62,7 +62,7 @@ Main Screen
 ------------
 
 Main screen appears after a successful connection between MSHMI and the controller.
-Main screen provides actual status for MS system. 
+Main screen provides actual status for MotoSuiveur® System. 
 
 .. _Main Screen Components:
 .. figure:: /_img/hmi/main-screen.PNG
@@ -71,7 +71,7 @@ Main screen provides actual status for MS system.
 	Main screen components
 
 .. csv-table:: Main screen
-   :file: ../../_tables/hmi/main.csv
+   :file: /_tables/hmi/main.csv
    :delim: ;
    :header-rows: 1
    :widths: auto
@@ -82,7 +82,7 @@ Main screen provides actual status for MS system.
 Menu Screen
 ------------
 
-Menu screen contains all submenus for setup, status and information of MS system.
+Menu screen contains all submenus for setup, status and information of MotoSuiveur® System.
 
 .. Important::
    Access to some screens is password protected!
@@ -93,7 +93,7 @@ Menu screen contains all submenus for setup, status and information of MS system
 	Menu screen components
 
 .. csv-table:: Menu screen
-   :file: ../../_tables/hmi/menu.csv
+   :file: /_tables/hmi/menu.csv
    :delim: ;
    :header-rows: 1
    :widths: auto
@@ -113,7 +113,7 @@ range 0 - 63.
 	MS variables screen components
 
 .. csv-table:: MS variables screen
-   :file: ../../_tables/hmi/variables.csv
+   :file: /_tables/hmi/variables.csv
    :delim: ;
    :header-rows: 1
    :widths: auto
@@ -144,8 +144,8 @@ Navigation to MS variables screen and change value of variable
 Maintenance Screen
 -------------------
 
-Screen Maintenance displays maintenance information of MS system. This screen
-provides information about maintenance parameters status of MS system – Total brakes, working time of MS, odometer, workmeter.
+Screen Maintenance displays maintenance information of MotoSuiveur® System. This screen
+provides information about maintenance parameters status of MotoSuiveur® System – Total brakes, working time of MS, odometer, workmeter.
 Based on current values of parameters is displayed what type of maintenance is needed. 
 Maintenance type is displayed with letters A, B, C and D. Information regarding
 different types can be taken by pressing *Maintenance Info* button.
@@ -156,7 +156,7 @@ different types can be taken by pressing *Maintenance Info* button.
 	Maintenance screen components
 
 .. csv-table:: Maintenance screen
-   :file: ../../_tables/hmi/maintenance.csv
+   :file: /_tables/hmi/maintenance.csv
    :delim: ;
    :header-rows: 1
    :widths: auto
@@ -174,7 +174,7 @@ different types can be taken by pressing *Maintenance Info* button.
 Self-test Screen
 -----------------
 
-Screen Self-Test displays values from last MS system self-test. 
+Screen Self-Test displays values from last MotoSuiveur® System self-test. 
 
 .. figure:: /_img/hmi/self-test.PNG
 	:figwidth: 500 px
@@ -182,7 +182,7 @@ Screen Self-Test displays values from last MS system self-test.
 	Self-test screen components
 
 .. csv-table:: Self-test screen
-   :file: ../../_tables/hmi/self-test.csv
+   :file: /_tables/hmi/self-test.csv
    :delim: ;
    :header-rows: 1
    :widths: auto
@@ -194,7 +194,7 @@ Event record Screen
 -------------------
 
 Screen Event Records gives option to choose between 3 logging groups. Opening
-presents specific events of MS system. Every logging group stores last 10 events
+presents specific events of MotoSuiveur® System. Every logging group stores last 10 events
 after restart or power loss of MSHMI.
 
 .. figure:: /_img/hmi/logging-groups.PNG
@@ -203,7 +203,7 @@ after restart or power loss of MSHMI.
 	Event record screen components
 
 .. csv-table:: Event record screen
-   :file: ../../_tables/hmi/event-record.csv
+   :file: /_tables/hmi/event-record.csv
    :delim: ;
    :header-rows: 1
    :widths: auto
@@ -216,7 +216,7 @@ after restart or power loss of MSHMI.
 
 	MS status log screen components
 
-MS Status log group contains all events appears during MS system operation.
+MS Status log group contains all events appears during MotoSuiveur® System operation.
 
 .. _MS warning log Screen:
 .. figure:: /_img/hmi/warning-log.PNG
@@ -224,7 +224,7 @@ MS Status log group contains all events appears during MS system operation.
 
 	MS warning log screen components
 
-MS Warning log group contains all warning events appears during MS system operation.
+MS Warning log group contains all warning events appears during MotoSuiveur® System operation.
 
 .. _MS fault log Screen:
 .. figure:: /_img/hmi/fault-log.PNG
@@ -232,10 +232,10 @@ MS Warning log group contains all warning events appears during MS system operat
 
 	MS fault log screen components
 
-MS Warning log group contains all fault events appears during MS system operation.
+MS Warning log group contains all fault events appears during MotoSuiveur® System operation.
 
 .. csv-table:: Log screens 
-   :file: ../../_tables/hmi/log-components.csv
+   :file: /_tables/hmi/log-components.csv
    :delim: ;
    :header-rows: 1
    :widths: auto
@@ -254,7 +254,7 @@ version and MS Controller firmware version.
 	Version screen components
 
 .. csv-table:: Version screen 
-   :file: ../../_tables/hmi/system-information.csv
+   :file: /_tables/hmi/system-information.csv
    :delim: ;
    :header-rows: 1
    :widths: auto
@@ -273,7 +273,7 @@ Screen Language allows change of screen language.
 	Language screen components
 
 .. csv-table:: Language screen 
-   :file: ../../_tables/hmi/language.csv
+   :file: /_tables/hmi/language.csv
    :delim: ;
    :header-rows: 1
    :align: left

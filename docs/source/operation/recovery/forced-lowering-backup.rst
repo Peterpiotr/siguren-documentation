@@ -2,7 +2,7 @@
 Recovery by forced lowering procedure
 =====================================
 
-.. include:: ../img/substitutions.rst
+.. include:: /img/substitutions.rst
 
 .. =====================================================================================================================
 
@@ -26,7 +26,7 @@ Tools that are needed for this type of recovery load are as follows:
 
 Steps
 	1. Switch off power of the MotoSuiveur® System control cabinet.
-	2. Dismantle the worm cover of the MotoSuiveur® Unit .
+	2. Dismantle the worm cover of the MS Unit .
 
 	.. figure:: /_img/backup/remove-cover-bolts-removebg-preview.png
 		:figwidth: 600 px
@@ -75,5 +75,5 @@ Steps
 
 
 	.. warning::
-		Detailed inspection of the MotoSuiveur® Unit (worm and wheel) and 
+		Detailed inspection of the MS Unit (worm and wheel) and 
 		the hoist is mandatory after lowering is complete!

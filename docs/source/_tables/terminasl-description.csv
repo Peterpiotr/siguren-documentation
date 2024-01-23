@@ -6,7 +6,7 @@
 ;"DI";On;Enable MS to operate. Signal for hoist healthy
 ;"DI";Up;Command for moving hoist direction UP
 ;"DI";Down;Command for moving hoist direction DOWN
-;"DI";Reset;Reset MS system***
+;"DI";Reset;Reset MotoSuiveur® System***
 ;"CV";+24VDC;MS Control voltage**
 ;"DI";Backup mode;Start MS Backup mode****
 ;"CV";+24VDC;MS Control voltage**
@@ -16,7 +16,7 @@
 "T3";"DI";MS Switches/Proximity Sensors;Status of MS position switches/Oil Level Sensor
 "T4";"CV";Input (MAX 250VAC/VDC);Control voltage from hoist
 ;"DO";Hoist Enabled;Enable signal for Hoist to operate. MS Healthy
-;"DO";Fault;MS system in fault
+;"DO";Fault;MotoSuiveur® System in fault
 ;"DO";Upward Enabled;Upward (lifting) hoist movement is allowed
 ;"DO";Downward Enabled;Downward (lowering) hoist movement is allowed
 ;"DO";Fault Buzzer/Warning Beaco;Output for buzzer   or beacon
@@ -28,4 +28,4 @@
 "T6";"PS";MS servo motor power supply;MS servo motor power supply
 "T7";"RES";MS servo motor resolver;MS servo motor resolver converter
 "T8";"PS";Recovery motor power supply;Recovery motor power supply
-"T9";"PS";MS unit heater;Heater for MS unit
+"T9";"PS";MS Unit heater;Heater for MS Unit

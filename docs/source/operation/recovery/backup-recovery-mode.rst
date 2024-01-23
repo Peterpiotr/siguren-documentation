@@ -14,7 +14,7 @@ Backup/Recovery mode
 
 .. "function" vs "mode" vs "operation mode"
 
-Controls and indicators of this function are located on the :doc:`control panel front door <../../equipment/control-interface/control-panel>`
+Controls and indicators of this function are located on the :doc:`control panel front door </equipment/control-interface/control-panel>`
 – figure 3, items 4, 5, 10, 11.
 
 Diagram below shows the principle of Backup/Recovery operation mode. 
@@ -43,7 +43,7 @@ Backup operation mode
 
 In Backup operating mode, control is performed through commands for lifting and lowering of the hoist. 
 In cases where the hoist control chain is damaged, control can be performed manually with :guilabel:`🔑 Backup/Recovery Down/Up` switch
-located :doc:`control panel front door <../../equipment/control-interface/control-panel>` or directly on control terminals via a wire bridge. 
+located :doc:`control panel front door </equipment/control-interface/control-panel>` or directly on control terminals via a wire bridge. 
 
 .. _Example for manual operation in backup mode:
 .. figure:: /_img/archives/backup-mode-01.png
@@ -52,7 +52,7 @@ located :doc:`control panel front door <../../equipment/control-interface/contro
 	Example for manual operation in backup mode 
 
 .. note::
-    See also and merge : :doc:`Backup procedure <../../operation/recovery/backup-procedure>`
+    See also and merge : :doc:`Backup procedure </operation/recovery/backup-procedure>`
 
 .. important::
     In Backup mode no enable signal (On) **form** hoist to MotoSuiveur® is required to perform movement.
@@ -71,12 +71,12 @@ This mode starts operating the way shown on `Principle of Backup/Recovery operat
 
 After reset of MotoSuiveur® System, MS Controller checks for active Backup/Recovery mode request (:guilabel:`🔑 Backup/Recovery Off/On` is **ON**). 
 If request is active 7–segment display shows |image041| :guilabel:`🟠 Backup/Recovery Mode` and 
-:doc:`automatic recovery engagement <../../operation/recovery/automatic-recovery-engagement>` start. 
+:doc:`automatic recovery engagement </operation/recovery/automatic-recovery-engagement>` start. 
 
 Completion of **ENGAGEMENT** is indicated by :guilabel:`🟢 Recovery Engaged` indication lamp. 
-If :guilabel:`🟢 Recovery Engaged` is not iluminated after first engagement, reset ot MotoSuiveur® system is required.
+If :guilabel:`🟢 Recovery Engaged` is not iluminated after first engagement, reset ot MotoSuiveur® System is required.
 
-After succesfull engagement of MS-IRD follow steps for :doc:`recovery operation <../../operation/recovery/recovery-operation>`
+After succesfull engagement of MS-IRD follow steps for :doc:`recovery operation </operation/recovery/recovery-operation>`
 
 .. warning::
     Recovery function is mainly designed for safety lowering of the load. 

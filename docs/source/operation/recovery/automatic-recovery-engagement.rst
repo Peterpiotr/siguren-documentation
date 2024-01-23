@@ -58,8 +58,8 @@ Steps
 		Upon engagement, you will hear a light knocking sound.
 
 	.. important::
-		If :guilabel:`🟢Recovery engaged` indicator does not illuminate after **30 seconds** a Reset of the MotoSuiveur® system is required.
-		After Reset, MotoSuiveur® system repeats steps **3 and 4 automatically**. 
+		If :guilabel:`🟢Recovery engaged` indicator does not illuminate after **30 seconds** a Reset of the MotoSuiveur® System is required.
+		After Reset, MotoSuiveur® System repeats steps **3 and 4 automatically**. 
 
 
 
@@ -121,8 +121,8 @@ Steps
 	.. what is the signal that confirms it
 
 	.. important::
-		If :guilabel:`🟢Recovery engaged` indicator does not illuminate after **30 seconds** a Reset of the MotoSuiveur® system is required.
-		After Reset, MotoSuiveur® system repeats steps **3 and 4 automatically**. 
+		If :guilabel:`🟢Recovery engaged` indicator does not illuminate after **30 seconds** a Reset of the MotoSuiveur® System is required.
+		After Reset, MotoSuiveur® System repeats steps **3 and 4 automatically**. 
 
 	.. this "important" should be in the steps
 

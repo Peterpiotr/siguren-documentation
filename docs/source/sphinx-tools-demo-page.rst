@@ -149,7 +149,7 @@ Some other thext.
     End of lowering
 
 
-:doc:`../../operation/regular/index`
+:doc:`/operation/regular/index`
   An introduction to Blender's window system, widgets and tools.
 
 
@@ -227,16 +227,16 @@ grid-item-cards
     .. grid-item-card::
         :width: auto
         :img-top: _img/index/control-cabinet.jpg
-        :link: ../ms-solution/ms-unit
+        :link: /ms-solution/ms-unit
 
-        MotoSuiveur Unit
+        MS Unit
  
         
 
     .. grid-item-card::
         :width: auto
         :img-top: _img/index/ms-unit.jpg
-        :link: ../diagnostics/controller-errors.rst
+        :link: /diagnostics/controller-errors.rst
 
         MS Controller Faults and Warnings
 

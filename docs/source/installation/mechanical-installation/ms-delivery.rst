@@ -4,7 +4,7 @@ Delivery checks
 
 On delivery check that all the following parts are present or already mounted and operational:
 
-- The MotoSuiveur® Unit; 
+- The MS Unit; 
 - Electrical Control Cabinet;
 - Torque limiter (OPTION);
 - Supply cables;
@@ -15,7 +15,7 @@ On delivery check that all the following parts are present or already mounted an
     knocks or scratches which may have occurred.
 
 .. note::
-    For any noticed problem, write down all reserves on delivery on the carrier delivery sheet and MotoSuiveur System supplier, 
+    For any noticed problem, write down all reserves on delivery on the carrier delivery sheet and MotoSuiveur® System supplier, 
     then confirm by registered mail to the carrier within 48 hours.
 
 .. important::

@@ -419,19 +419,19 @@ The wheel that is fitted to the hoisting shaft.
 
 A shaft shaped with a screw at one side and spline of the other side.
 With the wheel, the screw is one of the main components of the
-MotoSuiveur.
+MotoSuiveur®.
 
 **Screwing or screwing rotation**
 
 Clockwise rotation of the screw viewed from spline part of the screw
-shaft (right handside on the drawing). On an irreversible MotoSuiveur
+shaft (right handside on the drawing). On an irreversible MotoSuiveur®
 such as the hydraulic version, the screwing rotation corresponds to the
 hoisting up rotation of the hoisting shaft and the wheel.
 
 **Unscrewing or unscrewing rotation**
 
 Anticlockwise rotation of the screw viewed from spline part of the screw
-shaft (right handside on the drawing). On an irreversible MotoSuiveur
+shaft (right handside on the drawing). On an irreversible MotoSuiveur®
 such as the hydraulic version , the unscrewing rotation corresponds to
 the hoisting down rotation of the hoisting shaft and the wheel.
 

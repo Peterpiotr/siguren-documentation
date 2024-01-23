@@ -2,7 +2,7 @@
 MS Controller settings
 ======================
 
-Each MotoSuiveur® system is fitted with a servo motor that adapts the rotation of the worm screw to the orders given to the hoist motor. 
+Each MotoSuiveur® System is fitted with a servo motor that adapts the rotation of the worm screw to the orders given to the hoist motor. 
 The servo motor is controlled by a MS Controller that embeds a software especially developed Siguren Technologies.
 MS Controller is connected directly to the servo motor through a dedicated cable that controls the servo motor and sends position data back to the controller.
 
@@ -14,7 +14,7 @@ MS Controller is connected directly to the servo motor through a dedicated cable
 	MS Controller
 
 
-The MS controller is pre-programmed, set up and tested in conjunction with the entire MS system 
+The MS controller is pre-programmed, set up and tested in conjunction with the entire MotoSuiveur® System 
 The settings and tests are made according to the predefined:
 
 - the acceleration ramps

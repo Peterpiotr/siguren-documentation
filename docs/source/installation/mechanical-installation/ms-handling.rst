@@ -1,20 +1,53 @@
-==========
-Handling
-==========
+==============================
+Handling the MS Unit
+==============================
 
-1.	All MS units are controlled after assembly, set and tested on bench. During those tests, the oil fill is adjusted.
-2.	For hydraulic MS units, the damping chamber is bled and sealed. However, a certain quantity of air remains in the rest of the system. To prevent this air to penetrate inside the damping chamber during transportation, which can cause malfunction, the MS units must be carried with the damping chamber in specific position for hydraulic MS units.
-3.	During transportation MS unit must be carried via transport rings (1), oil sensor (2) or breather cap (3) are oriented up and oil drain hole (4) down.
+Orientation
+============
 
+.. note::
+	From **User Manual-7.4.doc**
 
-.. _MS transportation:
+ The MS Unit must be transported in the authorized positions shown above in *figure 4*.
+
+.. important::
+    Before setting it up, check the way the MotoSuiveur® is positioned the right way according to the supplied mounting drawing.
+
+.. keep the above?
+
+All MS Units are controlled after assembly, set and tested on bench. During those tests, the oil fill is adjusted.
+
+For Hydraulic MS Units, the damping chamber is bled and sealed. 
+However, a certain quantity of air remains in the rest of the system. 
+To prevent the air from penetrating inside the damping chamber during transportation, the Hydraulic Damping MS Units (MSH) must be carried with the damping chamber in specific position.
+
+.. how about Friction MS Units and their grease
+
+Oil sensor (2) or breather cap (3) are oriented up and oil drain hole (4) down.
+
 .. figure:: /_img/Installation/handling.png
 	:figwidth: 600 px
-	:align: center
+	:class: instructionimg
 
-	Transportation of MotoSuiveur® Unit
+	Transportation of MS Unit
 
 .. warning::
-    Never lift a MotoSuiveur® hanged by the motor.
+	If the orientation precautions were not respected, **a drain of the MS Unit is necessary** before putting it in service.
+
+Connections 
+============
+
+During transportation MS Unit must be carried via the provided eye bolts (1). 
+
+.. warning::
+	Never lift an MS Unit by the motor.
+
+.. figure:: /_img/Installation/handling.png
+	:figwidth: 600 px
+	:class: instructionimg
+
+	Connections of MS Unit
+
+
 
 

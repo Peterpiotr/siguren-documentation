@@ -4,7 +4,7 @@ Maintenance
 
 .. toctree::
   :maxdepth: 1
-  :caption: MotoSuiveur Unit
+  :caption: MS Unit
 
   mechanical/mandatory-warnings
   mechanical/maintenance-schedule
