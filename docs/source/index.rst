@@ -52,7 +52,7 @@ Sections
     :gutter: 4
     :padding: 0
 
-    .. grid-item-card:: Installing MotoSuiveur®
+    .. grid-item-card:: Installing MotoSuiveur® System
         :img-top: /_img/cards/installation-card-flange-med_16-9.png
         :link: installation/index
         :link-type: doc

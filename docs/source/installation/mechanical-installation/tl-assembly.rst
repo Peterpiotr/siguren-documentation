@@ -18,6 +18,8 @@ The MS Torque Limiter coupling is made of:
     - a duplex coupling chain
     - a driving hub
 
+.. should use numbers to refer to illustration
+
 .. figure:: /_img/archives/tl-assembly-01.png
     :figwidth: 66 % 
     :class: instructionimg
@@ -25,6 +27,8 @@ The MS Torque Limiter coupling is made of:
     MS Torque Limiter
 
 The cylinder of the limiter part contains helical springs which create the pressure force applied to the friction linings.
+
+.. should use numbers to refer to illustration
 
 .. figure:: /_img/archives/tl-assembly-02.png
     :figwidth: 66 %

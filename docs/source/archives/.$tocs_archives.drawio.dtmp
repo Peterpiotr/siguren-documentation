@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2024-01-19T16:09:42.918Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.18 Chrome/120.0.6099.199 Electron/28.1.2 Safari/537.36" etag="xvED7QQHzJk-Xe8qwaS4" version="22.1.18" type="device">
+<mxfile host="Electron" modified="2024-01-23T14:27:44.494Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.18 Chrome/120.0.6099.199 Electron/28.1.2 Safari/537.36" etag="wqRf_-UD_AbmtCZe6p59" version="22.1.18" type="device">
   <diagram name="Page-1" id="WJtq2YAFpSBEmDAirLlr">
-    <mxGraphModel dx="2655" dy="1461" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3880" dy="2135" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -220,7 +220,7 @@
           </mxCell>
         </UserObject>
         <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="44" level="Heading2" name="6.1 Safety instructions" parent="43" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EdVuzr_Djt9NotvVTExYs8cBLjC8dEFmFS5zpOR5xwwGGw?e=jkbn3u" doc="User Manual-7.4_reviewed.docx" color="#d8eddf" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-22827">
-          <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=#ffffff;align=left;spacingLeft=10;fillColor=#60a917;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=#333333;align=left;spacingLeft=10;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
             <mxGeometry x="955" y="2440" width="150" height="30" as="geometry" />
           </mxCell>
         </UserObject>
@@ -234,7 +234,7 @@
             <mxGeometry x="990" y="2540" width="80" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="47" level="Heading2" name="6.4 Assembly of the MS Torque Limiter (OPTION)" parent="43" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EdVuzr_Djt9NotvVTExYs8cBLjC8dEFmFS5zpOR5xwwGGw?e=jkbn3u" doc="User Manual-7.4_reviewed.docx" color="#d8eddf" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-22830">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="47" level="Heading2" name="6.4 Assembly of the torque limiter (OPTION)" parent="43" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EdVuzr_Djt9NotvVTExYs8cBLjC8dEFmFS5zpOR5xwwGGw?e=jkbn3u" doc="User Manual-7.4_reviewed.docx" color="#d8eddf" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-22830">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;align=left;spacingLeft=10;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
             <mxGeometry x="900" y="2590" width="260" height="30" as="geometry" />
           </mxCell>
@@ -589,7 +589,7 @@
             <mxGeometry x="940" y="4240" width="180" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="118" level="Heading2" name="12.3 Appendix 3 : MS Torque Limiter technical sheet (OPTION)" parent="115" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EdVuzr_Djt9NotvVTExYs8cBLjC8dEFmFS5zpOR5xwwGGw?e=jkbn3u" doc="User Manual-7.4_reviewed.docx" color="#f3d0c9" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-22901">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="118" level="Heading2" name="12.3 Appendix 3 : Torque limiter technical sheet (OPTION)" parent="115" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EdVuzr_Djt9NotvVTExYs8cBLjC8dEFmFS5zpOR5xwwGGw?e=jkbn3u" doc="User Manual-7.4_reviewed.docx" color="#f3d0c9" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-22901">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#f3d0c9;" vertex="1" parent="1">
             <mxGeometry x="865" y="4290" width="330" height="30" as="geometry" />
           </mxCell>
@@ -844,12 +844,12 @@
             <mxGeometry x="1140" y="5870" width="120" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="169" level="Heading2" name="3.3 Assembly of the MS Unit" parent="166" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EVpP3OQ7wMVFkYVKZJB_KqYB0PsbiaYNR8KkFaGDNGQxyg?e=Badyc4" doc="OTL Motorsuiveur Operation and Maintenance Manual Rev B-4_reviewed.docx" color="#d5fad8" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-22952">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="169" level="Heading2" name="3.3 Assembly of the MS unit" parent="166" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EVpP3OQ7wMVFkYVKZJB_KqYB0PsbiaYNR8KkFaGDNGQxyg?e=Badyc4" doc="OTL Motorsuiveur Operation and Maintenance Manual Rev B-4_reviewed.docx" color="#d5fad8" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-22952">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#d5fad8;" vertex="1" parent="1">
             <mxGeometry x="1110" y="5920" width="180" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="170" level="Heading2" name="3.4 Assembly of the MS Torque Limiter" parent="166" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EVpP3OQ7wMVFkYVKZJB_KqYB0PsbiaYNR8KkFaGDNGQxyg?e=Badyc4" doc="OTL Motorsuiveur Operation and Maintenance Manual Rev B-4_reviewed.docx" color="#d5fad8" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-22953">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="170" level="Heading2" name="3.4 Assembly of the Torque Limiter" parent="166" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EVpP3OQ7wMVFkYVKZJB_KqYB0PsbiaYNR8KkFaGDNGQxyg?e=Badyc4" doc="OTL Motorsuiveur Operation and Maintenance Manual Rev B-4_reviewed.docx" color="#d5fad8" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-22953">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#d5fad8;" vertex="1" parent="1">
             <mxGeometry x="1095" y="5970" width="210" height="30" as="geometry" />
           </mxCell>
@@ -1124,7 +1124,7 @@
             <mxGeometry x="1095" y="7120" width="210" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="225" level="Heading2" name="8.2 Appendix 2: MS Torque Limiter Technical Sheet" parent="223" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EVpP3OQ7wMVFkYVKZJB_KqYB0PsbiaYNR8KkFaGDNGQxyg?e=Badyc4" doc="OTL Motorsuiveur Operation and Maintenance Manual Rev B-4_reviewed.docx" color="#f8d9fd" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23008">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="225" level="Heading2" name="8.2 Appendix 2: Torque Limiter Technical Sheet" parent="223" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EVpP3OQ7wMVFkYVKZJB_KqYB0PsbiaYNR8KkFaGDNGQxyg?e=Badyc4" doc="OTL Motorsuiveur Operation and Maintenance Manual Rev B-4_reviewed.docx" color="#f8d9fd" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23008">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#f8d9fd;" vertex="1" parent="1">
             <mxGeometry x="1060" y="7170" width="280" height="30" as="geometry" />
           </mxCell>
@@ -1279,17 +1279,17 @@
             <mxGeometry x="625" y="8285" width="260" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="256" level="Heading2" name="5.1 MS Torque Limiter Variations" parent="255" link="https://siguren.sharepoint.com/:b:/s/Processdesign/ERbeGvPZ2D9KiKegjHQSYJIBTkTmwHdZ3DeSuzXeSu0KbA?e=I41tMp" doc="49104-15-001 Operation  Maintenance Manual Issue D_reviewed.docx" color="#dadcf5" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23039">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="256" level="Heading2" name="5.1 Torque Limiter Variations" parent="255" link="https://siguren.sharepoint.com/:b:/s/Processdesign/ERbeGvPZ2D9KiKegjHQSYJIBTkTmwHdZ3DeSuzXeSu0KbA?e=I41tMp" doc="49104-15-001 Operation  Maintenance Manual Issue D_reviewed.docx" color="#dadcf5" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23039">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#dadcf5;" vertex="1" parent="1">
             <mxGeometry x="1085" y="8185" width="180" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="257" level="Heading3" name="5.1.1 MS Torque Limiter RSC125 (MS6 set to 441Nm)" parent="256" link="https://siguren.sharepoint.com/:b:/s/Processdesign/ERbeGvPZ2D9KiKegjHQSYJIBTkTmwHdZ3DeSuzXeSu0KbA?e=I41tMp" doc="49104-15-001 Operation  Maintenance Manual Issue D_reviewed.docx" color="#dadcf5" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23040">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="257" level="Heading3" name="5.1.1 Torque Limiter RSC125 (MS6 set to 441Nm)" parent="256" link="https://siguren.sharepoint.com/:b:/s/Processdesign/ERbeGvPZ2D9KiKegjHQSYJIBTkTmwHdZ3DeSuzXeSu0KbA?e=I41tMp" doc="49104-15-001 Operation  Maintenance Manual Issue D_reviewed.docx" color="#dadcf5" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23040">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#dadcf5;" vertex="1" parent="1">
             <mxGeometry x="1445" y="7760" width="280" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="258" level="Heading3" name="5.1.2 MS Torque Limiter RSC100 (MS3 set to 134Nm)" parent="256" link="https://siguren.sharepoint.com/:b:/s/Processdesign/ERbeGvPZ2D9KiKegjHQSYJIBTkTmwHdZ3DeSuzXeSu0KbA?e=I41tMp" doc="49104-15-001 Operation  Maintenance Manual Issue D_reviewed.docx" color="#dadcf5" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23041">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="258" level="Heading3" name="5.1.2 Torque Limiter RSC100 (MS3 set to 134Nm)" parent="256" link="https://siguren.sharepoint.com/:b:/s/Processdesign/ERbeGvPZ2D9KiKegjHQSYJIBTkTmwHdZ3DeSuzXeSu0KbA?e=I41tMp" doc="49104-15-001 Operation  Maintenance Manual Issue D_reviewed.docx" color="#dadcf5" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23041">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#dadcf5;" vertex="1" parent="1">
             <mxGeometry x="1445" y="7810" width="280" height="30" as="geometry" />
           </mxCell>
@@ -1301,7 +1301,7 @@
         </UserObject>
         <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="260" level="Heading1" name="6 OPERATING INSTRUCTIONS" parent="230" link="https://siguren.sharepoint.com/:b:/s/Processdesign/ERbeGvPZ2D9KiKegjHQSYJIBTkTmwHdZ3DeSuzXeSu0KbA?e=I41tMp" doc="49104-15-001 Operation  Maintenance Manual Issue D_reviewed.docx" color="#fcf4e6" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23043">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#fcf4e6;" vertex="1" parent="1">
-            <mxGeometry x="660" y="8335" width="190" height="30" as="geometry" />
+            <mxGeometry x="670" y="8335" width="190" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="261" level="Heading2" name="6.1 Front Panel Layout" parent="260" link="https://siguren.sharepoint.com/:b:/s/Processdesign/ERbeGvPZ2D9KiKegjHQSYJIBTkTmwHdZ3DeSuzXeSu0KbA?e=I41tMp" doc="49104-15-001 Operation  Maintenance Manual Issue D_reviewed.docx" color="#fcf4e6" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23044">
@@ -1454,7 +1454,7 @@
             <mxGeometry x="1070" y="8685" width="210" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="291" level="Heading2" name="7.4 MS Torque Limiter" parent="287" link="https://siguren.sharepoint.com/:b:/s/Processdesign/ERbeGvPZ2D9KiKegjHQSYJIBTkTmwHdZ3DeSuzXeSu0KbA?e=I41tMp" doc="49104-15-001 Operation  Maintenance Manual Issue D_reviewed.docx" color="#edd9e2" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23074">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="291" level="Heading2" name="7.4 Torque Limiter" parent="287" link="https://siguren.sharepoint.com/:b:/s/Processdesign/ERbeGvPZ2D9KiKegjHQSYJIBTkTmwHdZ3DeSuzXeSu0KbA?e=I41tMp" doc="49104-15-001 Operation  Maintenance Manual Issue D_reviewed.docx" color="#edd9e2" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23074">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#edd9e2;" vertex="1" parent="1">
             <mxGeometry x="1110" y="8735" width="130" height="30" as="geometry" />
           </mxCell>
@@ -1584,304 +1584,304 @@
             <mxGeometry x="500" y="9390" width="160" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="317" level="Title" name="MotoSuiveur® O&amp;M manual - MS1HR BCI_reviewed" parent="0" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="" color="#FFFFFF" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23100">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="317" level="Title" name="MotoSuiveur O&amp;M manual - MS1HR BCI_reviewed" parent="0" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="" color="#FFFFFF" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23100">
           <mxCell style="note;html=1;treeMoving=1;fontFamily=Helvetica;fontSize=15;fontColor=default;align=left;spacingLeft=10;" vertex="1" parent="1">
             <mxGeometry x="20" y="10405" width="390" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="318" level="Heading1" name="1 GENERAL INFORMATION" parent="317" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur® O&amp;M manual - MS1HR BCI_reviewed.docx" color="#ead0f0" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23101">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="318" level="Heading1" name="1 GENERAL INFORMATION" parent="317" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur O&amp;M manual - MS1HR BCI_reviewed.docx" color="#ead0f0" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23101">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#ead0f0;" vertex="1" parent="1">
             <mxGeometry x="575" y="9768.636363636364" width="170" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="319" level="Heading2" name="1.1 Introduction" parent="318" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur® O&amp;M manual - MS1HR BCI_reviewed.docx" color="#ead0f0" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23102">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="319" level="Heading2" name="1.1 Introduction" parent="318" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur O&amp;M manual - MS1HR BCI_reviewed.docx" color="#ead0f0" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23102">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#ead0f0;" vertex="1" parent="1">
-            <mxGeometry x="985" y="9480" width="110" height="30" as="geometry" />
+            <mxGeometry x="1020" y="9480" width="110" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="320" level="Heading2" name="1.2 Foreword" parent="318" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur® O&amp;M manual - MS1HR BCI_reviewed.docx" color="#ead0f0" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23103">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="320" level="Heading2" name="1.2 Foreword" parent="318" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur O&amp;M manual - MS1HR BCI_reviewed.docx" color="#ead0f0" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23103">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#ead0f0;" vertex="1" parent="1">
-            <mxGeometry x="990" y="9530" width="100" height="30" as="geometry" />
+            <mxGeometry x="1025" y="9530" width="100" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="321" level="Heading2" name="1.3 Short description" parent="318" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur® O&amp;M manual - MS1HR BCI_reviewed.docx" color="#ead0f0" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23104">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="321" level="Heading2" name="1.3 Short description" parent="318" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur O&amp;M manual - MS1HR BCI_reviewed.docx" color="#ead0f0" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23104">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#ead0f0;" vertex="1" parent="1">
-            <mxGeometry x="970" y="9580" width="140" height="30" as="geometry" />
+            <mxGeometry x="1005" y="9580" width="140" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="322" level="Heading2" name="1.4 Glossary" parent="318" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur® O&amp;M manual - MS1HR BCI_reviewed.docx" color="#ead0f0" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23105">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="322" level="Heading2" name="1.4 Glossary" parent="318" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur O&amp;M manual - MS1HR BCI_reviewed.docx" color="#ead0f0" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23105">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#ead0f0;" vertex="1" parent="1">
-            <mxGeometry x="990" y="9630" width="100" height="30" as="geometry" />
+            <mxGeometry x="1025" y="9630" width="100" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="323" level="Heading2" name="1.5 Warnings Cautions &amp; Notes" parent="318" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur® O&amp;M manual - MS1HR BCI_reviewed.docx" color="#ead0f0" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23106">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="323" level="Heading2" name="1.5 Warnings Cautions &amp; Notes" parent="318" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur O&amp;M manual - MS1HR BCI_reviewed.docx" color="#ead0f0" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23106">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#ead0f0;" vertex="1" parent="1">
-            <mxGeometry x="945" y="9680" width="190" height="30" as="geometry" />
+            <mxGeometry x="980" y="9680" width="190" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="324" level="Heading2" name="1.6 Use of this Manual" parent="318" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur® O&amp;M manual - MS1HR BCI_reviewed.docx" color="#ead0f0" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23107">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="324" level="Heading2" name="1.6 Use of this Manual" parent="318" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur O&amp;M manual - MS1HR BCI_reviewed.docx" color="#ead0f0" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23107">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#ead0f0;" vertex="1" parent="1">
-            <mxGeometry x="965" y="9730" width="150" height="30" as="geometry" />
+            <mxGeometry x="1000" y="9730" width="150" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="325" level="Heading2" name="1.7 Safety Information" parent="318" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur® O&amp;M manual - MS1HR BCI_reviewed.docx" color="#ead0f0" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23108">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="325" level="Heading2" name="1.7 Safety Information" parent="318" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur O&amp;M manual - MS1HR BCI_reviewed.docx" color="#ead0f0" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23108">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#ead0f0;" vertex="1" parent="1">
-            <mxGeometry x="965" y="9780" width="150" height="30" as="geometry" />
+            <mxGeometry x="1000" y="9780" width="150" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="326" level="Heading2" name="1.8 (empty heading)" parent="318" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur® O&amp;M manual - MS1HR BCI_reviewed.docx" color="#ead0f0" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23109">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="326" level="Heading2" name="1.8 (empty heading)" parent="318" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur O&amp;M manual - MS1HR BCI_reviewed.docx" color="#ead0f0" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23109">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#ead0f0;" vertex="1" parent="1">
-            <mxGeometry x="975" y="9830" width="130" height="30" as="geometry" />
+            <mxGeometry x="1010" y="9830" width="130" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="327" level="Heading2" name="1.9 Technical Information" parent="318" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur® O&amp;M manual - MS1HR BCI_reviewed.docx" color="#ead0f0" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23110">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="327" level="Heading2" name="1.9 Technical Information" parent="318" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur O&amp;M manual - MS1HR BCI_reviewed.docx" color="#ead0f0" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23110">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#ead0f0;" vertex="1" parent="1">
-            <mxGeometry x="960" y="9880" width="160" height="30" as="geometry" />
+            <mxGeometry x="995" y="9880" width="160" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="328" level="Heading3" name="1.9.1 Safety Health Environment &amp; Quality" parent="327" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur® O&amp;M manual - MS1HR BCI_reviewed.docx" color="#ead0f0" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23111">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="328" level="Heading3" name="1.9.1 Safety Health Environment &amp; Quality" parent="327" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur O&amp;M manual - MS1HR BCI_reviewed.docx" color="#ead0f0" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23111">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#ead0f0;" vertex="1" parent="1">
-            <mxGeometry x="1270" y="9880" width="250" height="30" as="geometry" />
+            <mxGeometry x="1305" y="9880" width="250" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="329" level="Heading3" name="1.9.2 Design Criteria and Standards" parent="327" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur® O&amp;M manual - MS1HR BCI_reviewed.docx" color="#ead0f0" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23112">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="329" level="Heading3" name="1.9.2 Design Criteria and Standards" parent="327" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur O&amp;M manual - MS1HR BCI_reviewed.docx" color="#ead0f0" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23112">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#ead0f0;" vertex="1" parent="1">
-            <mxGeometry x="1285" y="9930" width="220" height="30" as="geometry" />
+            <mxGeometry x="1320" y="9930" width="220" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="330" level="Heading2" name="1.10 Warranties and Guarantees" parent="318" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur® O&amp;M manual - MS1HR BCI_reviewed.docx" color="#ead0f0" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23113">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="330" level="Heading2" name="1.10 Warranties and Guarantees" parent="318" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur O&amp;M manual - MS1HR BCI_reviewed.docx" color="#ead0f0" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23113">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#ead0f0;" vertex="1" parent="1">
-            <mxGeometry x="940" y="9930" width="200" height="30" as="geometry" />
+            <mxGeometry x="975" y="9930" width="200" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="331" level="Heading1" name="2 PRODUCT SPECIFICATION" parent="317" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur® O&amp;M manual - MS1HR BCI_reviewed.docx" color="#f7cdca" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23114">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="331" level="Heading1" name="2 PRODUCT SPECIFICATION" parent="317" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur O&amp;M manual - MS1HR BCI_reviewed.docx" color="#f7cdca" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23114">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#f7cdca;" vertex="1" parent="1">
             <mxGeometry x="570" y="10123.75" width="180" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="332" level="Heading2" name="2.1 Product Description" parent="331" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur® O&amp;M manual - MS1HR BCI_reviewed.docx" color="#f7cdca" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23115">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="332" level="Heading2" name="2.1 Product Description" parent="331" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur O&amp;M manual - MS1HR BCI_reviewed.docx" color="#f7cdca" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23115">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#f7cdca;" vertex="1" parent="1">
-            <mxGeometry x="965" y="9980" width="150" height="30" as="geometry" />
+            <mxGeometry x="1000" y="9980" width="150" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="333" level="Heading2" name="2.2 MS Unit description" parent="331" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur® O&amp;M manual - MS1HR BCI_reviewed.docx" color="#f7cdca" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23116">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="333" level="Heading2" name="2.2 MS Unit description" parent="331" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur O&amp;M manual - MS1HR BCI_reviewed.docx" color="#f7cdca" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23116">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#f7cdca;" vertex="1" parent="1">
-            <mxGeometry x="965" y="10030" width="150" height="30" as="geometry" />
+            <mxGeometry x="1000" y="10030" width="150" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="334" level="Heading2" name="2.3 Electrical Description" parent="331" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur® O&amp;M manual - MS1HR BCI_reviewed.docx" color="#f7cdca" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23117">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="334" level="Heading2" name="2.3 Electrical Description" parent="331" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur O&amp;M manual - MS1HR BCI_reviewed.docx" color="#f7cdca" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23117">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#f7cdca;" vertex="1" parent="1">
-            <mxGeometry x="960" y="10080" width="160" height="30" as="geometry" />
+            <mxGeometry x="995" y="10080" width="160" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="335" level="Heading1" name="3 INSTALLATION" parent="317" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur® O&amp;M manual - MS1HR BCI_reviewed.docx" color="#d6f0e1" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23118">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="335" level="Heading1" name="3 INSTALLATION" parent="317" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur O&amp;M manual - MS1HR BCI_reviewed.docx" color="#d6f0e1" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23118">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#d6f0e1;" vertex="1" parent="1">
             <mxGeometry x="600" y="10180" width="120" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="336" level="Heading2" name="3.1 Packing Transport Delivery and Storage" parent="335" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur® O&amp;M manual - MS1HR BCI_reviewed.docx" color="#d6f0e1" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23119">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="336" level="Heading2" name="3.1 Packing Transport Delivery and Storage" parent="335" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur O&amp;M manual - MS1HR BCI_reviewed.docx" color="#d6f0e1" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23119">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#d6f0e1;" vertex="1" parent="1">
-            <mxGeometry x="910" y="10130" width="260" height="30" as="geometry" />
+            <mxGeometry x="945" y="10130" width="260" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="337" level="Heading3" name="3.1.1 Transport" parent="336" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur® O&amp;M manual - MS1HR BCI_reviewed.docx" color="#d6f0e1" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23120">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="337" level="Heading3" name="3.1.1 Transport" parent="336" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur O&amp;M manual - MS1HR BCI_reviewed.docx" color="#d6f0e1" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23120">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#d6f0e1;" vertex="1" parent="1">
-            <mxGeometry x="1340" y="10130" width="110" height="30" as="geometry" />
+            <mxGeometry x="1375" y="10130" width="110" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="338" level="Heading2" name="3.2 Storage" parent="335" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur® O&amp;M manual - MS1HR BCI_reviewed.docx" color="#d6f0e1" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23121">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="338" level="Heading2" name="3.2 Storage" parent="335" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur O&amp;M manual - MS1HR BCI_reviewed.docx" color="#d6f0e1" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23121">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#d6f0e1;" vertex="1" parent="1">
-            <mxGeometry x="995" y="10180" width="90" height="30" as="geometry" />
+            <mxGeometry x="1030" y="10180" width="90" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="339" level="Heading2" name="3.3 Handling" parent="335" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur® O&amp;M manual - MS1HR BCI_reviewed.docx" color="#d6f0e1" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23122">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="339" level="Heading2" name="3.3 Handling" parent="335" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur O&amp;M manual - MS1HR BCI_reviewed.docx" color="#d6f0e1" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23122">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#d6f0e1;" vertex="1" parent="1">
-            <mxGeometry x="990" y="10230" width="100" height="30" as="geometry" />
+            <mxGeometry x="1025" y="10230" width="100" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="340" level="Heading2" name="3.4 MS Torque Limiter" parent="335" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur® O&amp;M manual - MS1HR BCI_reviewed.docx" color="#d6f0e1" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23123">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="340" level="Heading2" name="3.4 Torque Limiter" parent="335" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur O&amp;M manual - MS1HR BCI_reviewed.docx" color="#d6f0e1" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23123">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#d6f0e1;" vertex="1" parent="1">
-            <mxGeometry x="975" y="10280" width="130" height="30" as="geometry" />
+            <mxGeometry x="1010" y="10280" width="130" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="341" level="Heading2" name="3.5 MS Torque Limiter Position" parent="335" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur® O&amp;M manual - MS1HR BCI_reviewed.docx" color="#d6f0e1" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23124">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="341" level="Heading2" name="3.5 Torque Limiter Position" parent="335" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur O&amp;M manual - MS1HR BCI_reviewed.docx" color="#d6f0e1" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23124">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#d6f0e1;" vertex="1" parent="1">
-            <mxGeometry x="955" y="10330" width="170" height="30" as="geometry" />
+            <mxGeometry x="990" y="10330" width="170" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="342" level="Heading1" name="4 COMMISSIONING" parent="317" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur® O&amp;M manual - MS1HR BCI_reviewed.docx" color="#fae3cb" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23125">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="342" level="Heading1" name="4 COMMISSIONING" parent="317" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur O&amp;M manual - MS1HR BCI_reviewed.docx" color="#fae3cb" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23125">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#fae3cb;" vertex="1" parent="1">
             <mxGeometry x="595" y="10230" width="130" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="343" level="Heading2" name="4.1 Commissioning Checks" parent="342" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur® O&amp;M manual - MS1HR BCI_reviewed.docx" color="#fae3cb" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23126">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="343" level="Heading2" name="4.1 Commissioning Checks" parent="342" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur O&amp;M manual - MS1HR BCI_reviewed.docx" color="#fae3cb" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23126">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#fae3cb;" vertex="1" parent="1">
-            <mxGeometry x="955" y="10380" width="170" height="30" as="geometry" />
+            <mxGeometry x="990" y="10380" width="170" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="344" level="Heading1" name="5 OPERATION" parent="317" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur® O&amp;M manual - MS1HR BCI_reviewed.docx" color="#e8e9f2" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23127">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="344" level="Heading1" name="5 OPERATION" parent="317" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur O&amp;M manual - MS1HR BCI_reviewed.docx" color="#e8e9f2" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23127">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#e8e9f2;" vertex="1" parent="1">
             <mxGeometry x="605" y="10280" width="110" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="345" level="Heading2" name="5.1 Control panel overview" parent="344" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur® O&amp;M manual - MS1HR BCI_reviewed.docx" color="#e8e9f2" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23128">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="345" level="Heading2" name="5.1 Control panel overview" parent="344" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur O&amp;M manual - MS1HR BCI_reviewed.docx" color="#e8e9f2" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23128">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#e8e9f2;" vertex="1" parent="1">
-            <mxGeometry x="955" y="10430" width="170" height="30" as="geometry" />
+            <mxGeometry x="990" y="10430" width="170" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="346" level="Heading2" name="5.2 MS Controller 7-segment Display Codes" parent="344" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur® O&amp;M manual - MS1HR BCI_reviewed.docx" color="#e8e9f2" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23129">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="346" level="Heading2" name="5.2 MS Controller 7-segment Display Codes" parent="344" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur O&amp;M manual - MS1HR BCI_reviewed.docx" color="#e8e9f2" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23129">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#e8e9f2;" vertex="1" parent="1">
-            <mxGeometry x="910" y="10480" width="260" height="30" as="geometry" />
+            <mxGeometry x="945" y="10480" width="260" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="347" level="Heading1" name="6 MS SYSTEM OPEARTION" parent="317" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur® O&amp;M manual - MS1HR BCI_reviewed.docx" color="#f4f9d1" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23130">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="347" level="Heading1" name="6 MS SYSTEM OPEARTION" parent="317" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur O&amp;M manual - MS1HR BCI_reviewed.docx" color="#f4f9d1" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23130">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#f4f9d1;" vertex="1" parent="1">
             <mxGeometry x="575" y="10330" width="170" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="348" level="Heading2" name="6.1 SELF-TEST" parent="347" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur® O&amp;M manual - MS1HR BCI_reviewed.docx" color="#f4f9d1" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23131">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="348" level="Heading2" name="6.1 SELF-TEST" parent="347" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur O&amp;M manual - MS1HR BCI_reviewed.docx" color="#f4f9d1" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23131">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#f4f9d1;" vertex="1" parent="1">
-            <mxGeometry x="985" y="10530" width="110" height="30" as="geometry" />
+            <mxGeometry x="1020" y="10530" width="110" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="349" level="Heading2" name="6.2 FOLLOWING" parent="347" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur® O&amp;M manual - MS1HR BCI_reviewed.docx" color="#f4f9d1" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23132">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="349" level="Heading2" name="6.2 FOLLOWING" parent="347" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur O&amp;M manual - MS1HR BCI_reviewed.docx" color="#f4f9d1" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23132">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#f4f9d1;" vertex="1" parent="1">
-            <mxGeometry x="980" y="10580" width="120" height="30" as="geometry" />
+            <mxGeometry x="1015" y="10580" width="120" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="350" level="Heading2" name="6.3 RESET" parent="347" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur® O&amp;M manual - MS1HR BCI_reviewed.docx" color="#f4f9d1" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23133">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="350" level="Heading2" name="6.3 RESET" parent="347" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur O&amp;M manual - MS1HR BCI_reviewed.docx" color="#f4f9d1" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23133">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#f4f9d1;" vertex="1" parent="1">
-            <mxGeometry x="995" y="10630" width="90" height="30" as="geometry" />
+            <mxGeometry x="1030" y="10630" width="90" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="351" level="Heading2" name="6.4 RECOVERY MODE" parent="347" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur® O&amp;M manual - MS1HR BCI_reviewed.docx" color="#f4f9d1" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23134">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="351" level="Heading2" name="6.4 RECOVERY MODE" parent="347" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur O&amp;M manual - MS1HR BCI_reviewed.docx" color="#f4f9d1" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23134">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#f4f9d1;" vertex="1" parent="1">
-            <mxGeometry x="965" y="10680" width="150" height="30" as="geometry" />
+            <mxGeometry x="1000" y="10680" width="150" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="352" level="Heading3" name="6.4.1 ACTIVATING RECOVERY MODE" parent="351" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur® O&amp;M manual - MS1HR BCI_reviewed.docx" color="#f4f9d1" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23135">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="352" level="Heading3" name="6.4.1 ACTIVATING RECOVERY MODE" parent="351" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur O&amp;M manual - MS1HR BCI_reviewed.docx" color="#f4f9d1" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23135">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#f4f9d1;" vertex="1" parent="1">
-            <mxGeometry x="1285" y="10405" width="220" height="30" as="geometry" />
+            <mxGeometry x="1320" y="10405" width="220" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="353" level="Heading3" name="6.4.2 RECOVERY MODE OPERATING" parent="351" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur® O&amp;M manual - MS1HR BCI_reviewed.docx" color="#f4f9d1" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23136">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="353" level="Heading3" name="6.4.2 RECOVERY MODE OPERATING" parent="351" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur O&amp;M manual - MS1HR BCI_reviewed.docx" color="#f4f9d1" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23136">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#f4f9d1;" vertex="1" parent="1">
-            <mxGeometry x="1285" y="10455" width="220" height="30" as="geometry" />
+            <mxGeometry x="1320" y="10455" width="220" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="354" level="Heading3" name="6.4.3 EXIT RECOVERY MODE" parent="351" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur® O&amp;M manual - MS1HR BCI_reviewed.docx" color="#f4f9d1" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23137">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="354" level="Heading3" name="6.4.3 EXIT RECOVERY MODE" parent="351" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur O&amp;M manual - MS1HR BCI_reviewed.docx" color="#f4f9d1" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23137">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#f4f9d1;" vertex="1" parent="1">
-            <mxGeometry x="1305" y="10505" width="180" height="30" as="geometry" />
+            <mxGeometry x="1340" y="10505" width="180" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="355" level="Heading1" name="7 FAULTS" parent="317" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur® O&amp;M manual - MS1HR BCI_reviewed.docx" color="#f2fdc8" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23138">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="355" level="Heading1" name="7 FAULTS" parent="317" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur O&amp;M manual - MS1HR BCI_reviewed.docx" color="#f2fdc8" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23138">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#f2fdc8;" vertex="1" parent="1">
             <mxGeometry x="620" y="10380" width="80" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="356" level="Heading3" name="7.1 (empty heading)" parent="355" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur® O&amp;M manual - MS1HR BCI_reviewed.docx" color="#f2fdc8" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23139">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="356" level="Heading3" name="7.1 (empty heading)" parent="355" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur O&amp;M manual - MS1HR BCI_reviewed.docx" color="#f2fdc8" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23139">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#f2fdc8;" vertex="1" parent="1">
-            <mxGeometry x="975" y="10730" width="130" height="30" as="geometry" />
+            <mxGeometry x="1010" y="10730" width="130" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="357" level="Heading1" name="8 FAULT FINDING" parent="317" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur® O&amp;M manual - MS1HR BCI_reviewed.docx" color="#fee9f9" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23140">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="357" level="Heading1" name="8 FAULT FINDING" parent="317" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur O&amp;M manual - MS1HR BCI_reviewed.docx" color="#fee9f9" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23140">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#fee9f9;" vertex="1" parent="1">
             <mxGeometry x="600" y="10430" width="120" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="358" level="Heading1" name="9 MAINTENANCE" parent="317" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur® O&amp;M manual - MS1HR BCI_reviewed.docx" color="#dbf6fc" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23141">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="358" level="Heading1" name="9 MAINTENANCE" parent="317" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur O&amp;M manual - MS1HR BCI_reviewed.docx" color="#dbf6fc" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23141">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#dbf6fc;" vertex="1" parent="1">
             <mxGeometry x="600" y="10480" width="120" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="359" level="Heading2" name="9.1 MS Torque Limiter" parent="358" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur® O&amp;M manual - MS1HR BCI_reviewed.docx" color="#dbf6fc" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23142">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="359" level="Heading2" name="9.1 Torque Limiter" parent="358" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur O&amp;M manual - MS1HR BCI_reviewed.docx" color="#dbf6fc" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23142">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#dbf6fc;" vertex="1" parent="1">
-            <mxGeometry x="975" y="10780" width="130" height="30" as="geometry" />
+            <mxGeometry x="1010" y="10780" width="130" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="360" level="Heading2" name="9.2 Lubrication" parent="358" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur® O&amp;M manual - MS1HR BCI_reviewed.docx" color="#dbf6fc" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23143">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="360" level="Heading2" name="9.2 Lubrication" parent="358" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur O&amp;M manual - MS1HR BCI_reviewed.docx" color="#dbf6fc" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23143">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#dbf6fc;" vertex="1" parent="1">
-            <mxGeometry x="985" y="10830" width="110" height="30" as="geometry" />
+            <mxGeometry x="1020" y="10830" width="110" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="361" level="Heading2" name="9.3 Oil Change" parent="358" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur® O&amp;M manual - MS1HR BCI_reviewed.docx" color="#dbf6fc" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23144">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="361" level="Heading2" name="9.3 Oil Change" parent="358" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur O&amp;M manual - MS1HR BCI_reviewed.docx" color="#dbf6fc" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23144">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#dbf6fc;" vertex="1" parent="1">
-            <mxGeometry x="985" y="10880" width="110" height="30" as="geometry" />
+            <mxGeometry x="1020" y="10880" width="110" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="362" level="Heading2" name="9.4 Draining the Hydraulic System" parent="358" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur® O&amp;M manual - MS1HR BCI_reviewed.docx" color="#dbf6fc" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23145">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="362" level="Heading2" name="9.4 Draining the Hydraulic System" parent="358" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur O&amp;M manual - MS1HR BCI_reviewed.docx" color="#dbf6fc" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23145">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#dbf6fc;" vertex="1" parent="1">
-            <mxGeometry x="935" y="10930" width="210" height="30" as="geometry" />
+            <mxGeometry x="970" y="10930" width="210" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="363" level="Heading1" name="10 DECOMMISSION AND DISPOSAL" parent="317" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur® O&amp;M manual - MS1HR BCI_reviewed.docx" color="#e8f2d5" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23146">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="363" level="Heading1" name="10 DECOMMISSION AND DISPOSAL" parent="317" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur O&amp;M manual - MS1HR BCI_reviewed.docx" color="#e8f2d5" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23146">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#e8f2d5;" vertex="1" parent="1">
             <mxGeometry x="550" y="10530" width="220" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="364" level="Heading2" name="10.1 Sequence of De-commissioning." parent="363" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur® O&amp;M manual - MS1HR BCI_reviewed.docx" color="#e8f2d5" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23147">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="364" level="Heading2" name="10.1 Sequence of De-commissioning." parent="363" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur O&amp;M manual - MS1HR BCI_reviewed.docx" color="#e8f2d5" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23147">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#e8f2d5;" vertex="1" parent="1">
-            <mxGeometry x="925" y="10980" width="230" height="30" as="geometry" />
+            <mxGeometry x="960" y="10980" width="230" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="365" level="Heading2" name="10.2 Handling of Retained Units." parent="363" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur® O&amp;M manual - MS1HR BCI_reviewed.docx" color="#e8f2d5" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23148">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="365" level="Heading2" name="10.2 Handling of Retained Units." parent="363" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur O&amp;M manual - MS1HR BCI_reviewed.docx" color="#e8f2d5" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23148">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#e8f2d5;" vertex="1" parent="1">
-            <mxGeometry x="940" y="11030" width="200" height="30" as="geometry" />
+            <mxGeometry x="975" y="11030" width="200" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="366" level="Heading2" name="10.3 Sequence of decommissioning" parent="363" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur® O&amp;M manual - MS1HR BCI_reviewed.docx" color="#e8f2d5" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23149">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="366" level="Heading2" name="10.3 Sequence of decommissioning" parent="363" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur O&amp;M manual - MS1HR BCI_reviewed.docx" color="#e8f2d5" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23149">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#e8f2d5;" vertex="1" parent="1">
-            <mxGeometry x="930" y="11080" width="220" height="30" as="geometry" />
+            <mxGeometry x="965" y="11080" width="220" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="367" level="Heading2" name="10.4 Surface Treatment" parent="363" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur® O&amp;M manual - MS1HR BCI_reviewed.docx" color="#e8f2d5" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23150">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="367" level="Heading2" name="10.4 Surface Treatment" parent="363" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur O&amp;M manual - MS1HR BCI_reviewed.docx" color="#e8f2d5" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23150">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#e8f2d5;" vertex="1" parent="1">
-            <mxGeometry x="965" y="11130" width="150" height="30" as="geometry" />
+            <mxGeometry x="1000" y="11130" width="150" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="368" level="Heading2" name="10.5 Disposal of Components." parent="363" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur® O&amp;M manual - MS1HR BCI_reviewed.docx" color="#e8f2d5" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23151">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="368" level="Heading2" name="10.5 Disposal of Components." parent="363" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur O&amp;M manual - MS1HR BCI_reviewed.docx" color="#e8f2d5" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23151">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#e8f2d5;" vertex="1" parent="1">
-            <mxGeometry x="945" y="11180" width="190" height="30" as="geometry" />
+            <mxGeometry x="980" y="11180" width="190" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="369" level="Heading1" name="11 SPARE PARTS AND AFTERMARKET SUPPORT" parent="317" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur® O&amp;M manual - MS1HR BCI_reviewed.docx" color="#dde3d7" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23152">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="369" level="Heading1" name="11 SPARE PARTS AND AFTERMARKET SUPPORT" parent="317" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur O&amp;M manual - MS1HR BCI_reviewed.docx" color="#dde3d7" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23152">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#dde3d7;" vertex="1" parent="1">
             <mxGeometry x="515" y="10580" width="290" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="370" level="Heading1" name="12 SPARE PARTS CONTACT DETAILS" parent="317" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur® O&amp;M manual - MS1HR BCI_reviewed.docx" color="#ffecc8" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23153">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="370" level="Heading1" name="12 SPARE PARTS CONTACT DETAILS" parent="317" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur O&amp;M manual - MS1HR BCI_reviewed.docx" color="#ffecc8" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23153">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#ffecc8;" vertex="1" parent="1">
             <mxGeometry x="545" y="10630" width="230" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="371" level="Heading1" name="13 DRAWINGS" parent="317" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur® O&amp;M manual - MS1HR BCI_reviewed.docx" color="#f5cfef" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23154">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="371" level="Heading1" name="13 DRAWINGS" parent="317" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur O&amp;M manual - MS1HR BCI_reviewed.docx" color="#f5cfef" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23154">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#f5cfef;" vertex="1" parent="1">
             <mxGeometry x="605" y="10680" width="110" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="372" level="Heading2" name="13.1 Mechanical Drawings" parent="371" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur® O&amp;M manual - MS1HR BCI_reviewed.docx" color="#f5cfef" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23155">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="372" level="Heading2" name="13.1 Mechanical Drawings" parent="371" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur O&amp;M manual - MS1HR BCI_reviewed.docx" color="#f5cfef" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23155">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#f5cfef;" vertex="1" parent="1">
-            <mxGeometry x="955" y="11230" width="170" height="30" as="geometry" />
+            <mxGeometry x="990" y="11230" width="170" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="373" level="Heading2" name="13.2 Electrical Drawings" parent="371" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur® O&amp;M manual - MS1HR BCI_reviewed.docx" color="#f5cfef" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23156">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="373" level="Heading2" name="13.2 Electrical Drawings" parent="371" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur O&amp;M manual - MS1HR BCI_reviewed.docx" color="#f5cfef" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23156">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#f5cfef;" vertex="1" parent="1">
-            <mxGeometry x="960" y="11280" width="160" height="30" as="geometry" />
+            <mxGeometry x="995" y="11280" width="160" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="374" level="Heading1" name="14 APPENDICES: SUPPLEMENTARY INFORMATION" parent="317" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur® O&amp;M manual - MS1HR BCI_reviewed.docx" color="#d3ddee" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23157">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="374" level="Heading1" name="14 APPENDICES: SUPPLEMENTARY INFORMATION" parent="317" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur O&amp;M manual - MS1HR BCI_reviewed.docx" color="#d3ddee" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23157">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#d3ddee;" vertex="1" parent="1">
             <mxGeometry x="510" y="10867.5" width="300" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="375" level="Heading2" name="14.1 COSHH Data Sheets" parent="374" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur® O&amp;M manual - MS1HR BCI_reviewed.docx" color="#d3ddee" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23158">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="375" level="Heading2" name="14.1 COSHH Data Sheets" parent="374" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur O&amp;M manual - MS1HR BCI_reviewed.docx" color="#d3ddee" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23158">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#d3ddee;" vertex="1" parent="1">
-            <mxGeometry x="960" y="11330" width="160" height="30" as="geometry" />
+            <mxGeometry x="995" y="11330" width="160" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="376" level="Heading3" name="14.1.1 (empty heading)" parent="375" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur® O&amp;M manual - MS1HR BCI_reviewed.docx" color="#d3ddee" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23159">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="376" level="Heading3" name="14.1.1 (empty heading)" parent="375" link="https://siguren.sharepoint.com/:w:/s/Processdesign/Eeb_kq1yggBLncM6fT3e9rYBPvQNewTqurltLEuzIcFtkQ?e=Dv11Ra" doc="MotoSuiveur O&amp;M manual - MS1HR BCI_reviewed.docx" color="#d3ddee" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23159">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#d3ddee;" vertex="1" parent="1">
-            <mxGeometry x="1320" y="11330" width="150" height="30" as="geometry" />
+            <mxGeometry x="1355" y="11330" width="150" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="377" level="Title" name="MS installation on existing hoist barrel_reviewed" parent="0" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EScy4eY2pklGtYC7FtudTNwBwBluokQxOQtKFUmFnGuyYA?e=TGVidi" doc="" color="#FFFFFF" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23160">
@@ -1964,7 +1964,7 @@
             <mxGeometry x="1705" y="11810" width="150" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="393" level="Heading3" name="1.4.3 MS Torque Limiter specifications" parent="390" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EWkfuiAl5mhJv2O-SGVNGesB3YePgZb30PGO1dHCr3nJOw?e=wftPI3" doc="EN_COURS_User manual - REV_2_EN_Borssele_reviewed.docx" color="#f2f5d3" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23176">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="393" level="Heading3" name="1.4.3 Torque limiter specifications" parent="390" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EWkfuiAl5mhJv2O-SGVNGesB3YePgZb30PGO1dHCr3nJOw?e=wftPI3" doc="EN_COURS_User manual - REV_2_EN_Borssele_reviewed.docx" color="#f2f5d3" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23176">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#f2f5d3;" vertex="1" parent="1">
             <mxGeometry x="1675" y="11860" width="210" height="30" as="geometry" />
           </mxCell>
@@ -2039,7 +2039,7 @@
             <mxGeometry x="1195" y="12110" width="80" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="408" level="Heading2" name="3.4 Assembly of the MS Torque Limiter" parent="404" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EWkfuiAl5mhJv2O-SGVNGesB3YePgZb30PGO1dHCr3nJOw?e=wftPI3" doc="EN_COURS_User manual - REV_2_EN_Borssele_reviewed.docx" color="#d9e1e1" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23191">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="408" level="Heading2" name="3.4 Assembly of the torque limiter" parent="404" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EWkfuiAl5mhJv2O-SGVNGesB3YePgZb30PGO1dHCr3nJOw?e=wftPI3" doc="EN_COURS_User manual - REV_2_EN_Borssele_reviewed.docx" color="#d9e1e1" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23191">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#d9e1e1;" vertex="1" parent="1">
             <mxGeometry x="1130" y="12160" width="210" height="30" as="geometry" />
           </mxCell>
@@ -2085,177 +2085,177 @@
           </mxCell>
         </UserObject>
         <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="417" level="Heading1" name="4 Motosuiveur® use" parent="383" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EWkfuiAl5mhJv2O-SGVNGesB3YePgZb30PGO1dHCr3nJOw?e=wftPI3" doc="EN_COURS_User manual - REV_2_EN_Borssele_reviewed.docx" color="#fdfdfd" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23200">
-          <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#fdfdfd;" vertex="1" parent="1">
+          <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;align=left;spacingLeft=10;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
             <mxGeometry x="635" y="12735" width="140" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="418" level="Heading2" name="4.1 Display" parent="417" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EWkfuiAl5mhJv2O-SGVNGesB3YePgZb30PGO1dHCr3nJOw?e=wftPI3" doc="EN_COURS_User manual - REV_2_EN_Borssele_reviewed.docx" color="#fdfdfd" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23201">
-          <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#fdfdfd;" vertex="1" parent="1">
+          <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;align=left;spacingLeft=10;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
             <mxGeometry x="1190" y="12510" width="90" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="419" level="Heading3" name="4.1.1 Data displaying" parent="418" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EWkfuiAl5mhJv2O-SGVNGesB3YePgZb30PGO1dHCr3nJOw?e=wftPI3" doc="EN_COURS_User manual - REV_2_EN_Borssele_reviewed.docx" color="#fdfdfd" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23202">
-          <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#fdfdfd;" vertex="1" parent="1">
+          <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;align=left;spacingLeft=10;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
             <mxGeometry x="1710" y="12510" width="140" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="420" level="Heading3" name="4.1.2 Buzzer" parent="418" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EWkfuiAl5mhJv2O-SGVNGesB3YePgZb30PGO1dHCr3nJOw?e=wftPI3" doc="EN_COURS_User manual - REV_2_EN_Borssele_reviewed.docx" color="#fdfdfd" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23203">
-          <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#fdfdfd;" vertex="1" parent="1">
+          <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;align=left;spacingLeft=10;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
             <mxGeometry x="1730" y="12560" width="100" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="421" level="Heading3" name="4.1.3 Flashing lights" parent="418" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EWkfuiAl5mhJv2O-SGVNGesB3YePgZb30PGO1dHCr3nJOw?e=wftPI3" doc="EN_COURS_User manual - REV_2_EN_Borssele_reviewed.docx" color="#fdfdfd" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23204">
-          <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#fdfdfd;" vertex="1" parent="1">
+          <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;align=left;spacingLeft=10;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
             <mxGeometry x="1710" y="12610" width="140" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="422" level="Heading3" name="4.1.4 Display settings" parent="418" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EWkfuiAl5mhJv2O-SGVNGesB3YePgZb30PGO1dHCr3nJOw?e=wftPI3" doc="EN_COURS_User manual - REV_2_EN_Borssele_reviewed.docx" color="#fdfdfd" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23205">
-          <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#fdfdfd;" vertex="1" parent="1">
+          <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;align=left;spacingLeft=10;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
             <mxGeometry x="1710" y="12663.754234313965" width="140" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="423" level="Heading4" name="4.1.4.1 First menu" parent="422" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EWkfuiAl5mhJv2O-SGVNGesB3YePgZb30PGO1dHCr3nJOw?e=wftPI3" doc="EN_COURS_User manual - REV_2_EN_Borssele_reviewed.docx" color="#fdfdfd" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23206">
-          <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#fdfdfd;" vertex="1" parent="1">
+          <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;align=left;spacingLeft=10;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
             <mxGeometry x="2065" y="12663.754234313965" width="120" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="424" level="Heading4" name="4.1.4.2 « Setup » menu" parent="422" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EWkfuiAl5mhJv2O-SGVNGesB3YePgZb30PGO1dHCr3nJOw?e=wftPI3" doc="EN_COURS_User manual - REV_2_EN_Borssele_reviewed.docx" color="#fdfdfd" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23207">
-          <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#fdfdfd;" vertex="1" parent="1">
+          <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;align=left;spacingLeft=10;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
             <mxGeometry x="2050" y="12713.754234313965" width="150" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="425" level="Heading4" name="4.1.4.3 Choice of the language" parent="422" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EWkfuiAl5mhJv2O-SGVNGesB3YePgZb30PGO1dHCr3nJOw?e=wftPI3" doc="EN_COURS_User manual - REV_2_EN_Borssele_reviewed.docx" color="#fdfdfd" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23208">
-          <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#fdfdfd;" vertex="1" parent="1">
+          <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;align=left;spacingLeft=10;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
             <mxGeometry x="2030" y="12763.754234313965" width="190" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="426" level="Heading2" name="4.2 Important remarks" parent="417" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EWkfuiAl5mhJv2O-SGVNGesB3YePgZb30PGO1dHCr3nJOw?e=wftPI3" doc="EN_COURS_User manual - REV_2_EN_Borssele_reviewed.docx" color="#fdfdfd" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23209">
-          <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#fdfdfd;" vertex="1" parent="1">
+          <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;align=left;spacingLeft=10;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
             <mxGeometry x="1160" y="12560" width="150" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="427" level="Heading2" name="4.3 Fault recording" parent="417" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EWkfuiAl5mhJv2O-SGVNGesB3YePgZb30PGO1dHCr3nJOw?e=wftPI3" doc="EN_COURS_User manual - REV_2_EN_Borssele_reviewed.docx" color="#fdfdfd" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23210">
-          <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#fdfdfd;" vertex="1" parent="1">
+          <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;align=left;spacingLeft=10;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
             <mxGeometry x="1170" y="12610" width="130" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="428" level="Heading2" name="4.4 Battery life" parent="417" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EWkfuiAl5mhJv2O-SGVNGesB3YePgZb30PGO1dHCr3nJOw?e=wftPI3" doc="EN_COURS_User manual - REV_2_EN_Borssele_reviewed.docx" color="#fdfdfd" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23211">
-          <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#fdfdfd;" vertex="1" parent="1">
+          <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;align=left;spacingLeft=10;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
             <mxGeometry x="1180" y="12660" width="110" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="429" level="Heading2" name="4.5 Putting in operation" parent="417" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EWkfuiAl5mhJv2O-SGVNGesB3YePgZb30PGO1dHCr3nJOw?e=wftPI3" doc="EN_COURS_User manual - REV_2_EN_Borssele_reviewed.docx" color="#fdfdfd" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23212">
-          <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#fdfdfd;" vertex="1" parent="1">
+          <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;align=left;spacingLeft=10;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
             <mxGeometry x="1160" y="12710" width="150" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="430" level="Heading2" name="4.6 Autodiagnostic tests" parent="417" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EWkfuiAl5mhJv2O-SGVNGesB3YePgZb30PGO1dHCr3nJOw?e=wftPI3" doc="EN_COURS_User manual - REV_2_EN_Borssele_reviewed.docx" color="#fdfdfd" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23213">
-          <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#fdfdfd;" vertex="1" parent="1">
+          <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;align=left;spacingLeft=10;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
             <mxGeometry x="1155" y="12760" width="160" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="431" level="Heading3" name="4.6.1 Electric test" parent="430" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EWkfuiAl5mhJv2O-SGVNGesB3YePgZb30PGO1dHCr3nJOw?e=wftPI3" doc="EN_COURS_User manual - REV_2_EN_Borssele_reviewed.docx" color="#fdfdfd" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23214">
-          <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#fdfdfd;" vertex="1" parent="1">
+          <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;align=left;spacingLeft=10;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
             <mxGeometry x="1720" y="12760" width="120" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="432" level="Heading3" name="4.6.2 Mechanical test" parent="430" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EWkfuiAl5mhJv2O-SGVNGesB3YePgZb30PGO1dHCr3nJOw?e=wftPI3" doc="EN_COURS_User manual - REV_2_EN_Borssele_reviewed.docx" color="#fdfdfd" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23215">
-          <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#fdfdfd;" vertex="1" parent="1">
+          <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;align=left;spacingLeft=10;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
             <mxGeometry x="1710" y="12810" width="140" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="433" level="Heading3" name="4.6.3 Autodiagnostic results" parent="430" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EWkfuiAl5mhJv2O-SGVNGesB3YePgZb30PGO1dHCr3nJOw?e=wftPI3" doc="EN_COURS_User manual - REV_2_EN_Borssele_reviewed.docx" color="#fdfdfd" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23216">
-          <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#fdfdfd;" vertex="1" parent="1">
+          <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;align=left;spacingLeft=10;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
             <mxGeometry x="1690" y="12860" width="180" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="434" level="Heading3" name="4.6.4 Autodiagnostic fault" parent="430" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EWkfuiAl5mhJv2O-SGVNGesB3YePgZb30PGO1dHCr3nJOw?e=wftPI3" doc="EN_COURS_User manual - REV_2_EN_Borssele_reviewed.docx" color="#fdfdfd" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23217">
-          <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#fdfdfd;" vertex="1" parent="1">
+          <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;align=left;spacingLeft=10;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
             <mxGeometry x="1700" y="12910" width="160" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="435" level="Heading2" name="4.7 Working time" parent="417" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EWkfuiAl5mhJv2O-SGVNGesB3YePgZb30PGO1dHCr3nJOw?e=wftPI3" doc="EN_COURS_User manual - REV_2_EN_Borssele_reviewed.docx" color="#fdfdfd" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23218">
-          <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#fdfdfd;" vertex="1" parent="1">
+          <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;align=left;spacingLeft=10;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
             <mxGeometry x="1175" y="12810" width="120" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="436" level="Heading2" name="4.8 Software versions" parent="417" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EWkfuiAl5mhJv2O-SGVNGesB3YePgZb30PGO1dHCr3nJOw?e=wftPI3" doc="EN_COURS_User manual - REV_2_EN_Borssele_reviewed.docx" color="#fdfdfd" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23219">
-          <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#fdfdfd;" vertex="1" parent="1">
+          <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;align=left;spacingLeft=10;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
             <mxGeometry x="1165" y="12860" width="140" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="437" level="Heading2" name="4.9 Password and user rights" parent="417" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EWkfuiAl5mhJv2O-SGVNGesB3YePgZb30PGO1dHCr3nJOw?e=wftPI3" doc="EN_COURS_User manual - REV_2_EN_Borssele_reviewed.docx" color="#fdfdfd" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23220">
-          <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#fdfdfd;" vertex="1" parent="1">
+          <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;align=left;spacingLeft=10;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
             <mxGeometry x="1145" y="12910" width="180" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="438" level="Heading2" name="4.10 Running modes and functions" parent="417" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EWkfuiAl5mhJv2O-SGVNGesB3YePgZb30PGO1dHCr3nJOw?e=wftPI3" doc="EN_COURS_User manual - REV_2_EN_Borssele_reviewed.docx" color="#fdfdfd" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23221">
-          <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#fdfdfd;" vertex="1" parent="1">
+          <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;align=left;spacingLeft=10;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
             <mxGeometry x="1130" y="12960" width="210" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="439" level="Heading3" name="4.10.1 Normal mode" parent="438" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EWkfuiAl5mhJv2O-SGVNGesB3YePgZb30PGO1dHCr3nJOw?e=wftPI3" doc="EN_COURS_User manual - REV_2_EN_Borssele_reviewed.docx" color="#fdfdfd" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23222">
-          <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#fdfdfd;" vertex="1" parent="1">
+          <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;align=left;spacingLeft=10;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
             <mxGeometry x="1710" y="12960" width="140" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="440" level="Heading3" name="4.10.2 Release function" parent="438" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EWkfuiAl5mhJv2O-SGVNGesB3YePgZb30PGO1dHCr3nJOw?e=wftPI3" doc="EN_COURS_User manual - REV_2_EN_Borssele_reviewed.docx" color="#fdfdfd" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23223">
-          <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#fdfdfd;" vertex="1" parent="1">
+          <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;align=left;spacingLeft=10;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
             <mxGeometry x="1705" y="13010" width="150" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="441" level="Heading3" name="4.10.3 Back-up mode" parent="438" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EWkfuiAl5mhJv2O-SGVNGesB3YePgZb30PGO1dHCr3nJOw?e=wftPI3" doc="EN_COURS_User manual - REV_2_EN_Borssele_reviewed.docx" color="#fdfdfd" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23224">
-          <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#fdfdfd;" vertex="1" parent="1">
+          <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;align=left;spacingLeft=10;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
             <mxGeometry x="1710" y="13060" width="140" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="442" level="Heading3" name="4.10.4 Modification of parameters" parent="438" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EWkfuiAl5mhJv2O-SGVNGesB3YePgZb30PGO1dHCr3nJOw?e=wftPI3" doc="EN_COURS_User manual - REV_2_EN_Borssele_reviewed.docx" color="#fdfdfd" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23225">
-          <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#fdfdfd;" vertex="1" parent="1">
+          <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;align=left;spacingLeft=10;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
             <mxGeometry x="1675" y="13110" width="210" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="443" level="Heading2" name="4.11 Preventive maintenance" parent="417" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EWkfuiAl5mhJv2O-SGVNGesB3YePgZb30PGO1dHCr3nJOw?e=wftPI3" doc="EN_COURS_User manual - REV_2_EN_Borssele_reviewed.docx" color="#fdfdfd" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23226">
-          <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#fdfdfd;" vertex="1" parent="1">
+          <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;align=left;spacingLeft=10;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
             <mxGeometry x="1145" y="13010" width="180" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="444" level="Heading2" name="4.12 Advises for maintenance operations" parent="417" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EWkfuiAl5mhJv2O-SGVNGesB3YePgZb30PGO1dHCr3nJOw?e=wftPI3" doc="EN_COURS_User manual - REV_2_EN_Borssele_reviewed.docx" color="#fdfdfd" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23227">
-          <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#fdfdfd;" vertex="1" parent="1">
+          <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;align=left;spacingLeft=10;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
             <mxGeometry x="1110" y="13060" width="250" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="445" level="Heading3" name="4.12.1 Oil change" parent="444" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EWkfuiAl5mhJv2O-SGVNGesB3YePgZb30PGO1dHCr3nJOw?e=wftPI3" doc="EN_COURS_User manual - REV_2_EN_Borssele_reviewed.docx" color="#fdfdfd" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23228">
-          <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#fdfdfd;" vertex="1" parent="1">
+          <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;align=left;spacingLeft=10;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
             <mxGeometry x="1720" y="13160" width="120" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="446" level="Heading3" name="4.12.2 (empty heading)" parent="444" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EWkfuiAl5mhJv2O-SGVNGesB3YePgZb30PGO1dHCr3nJOw?e=wftPI3" doc="EN_COURS_User manual - REV_2_EN_Borssele_reviewed.docx" color="#fdfdfd" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23229">
-          <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#fdfdfd;" vertex="1" parent="1">
+          <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;align=left;spacingLeft=10;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
             <mxGeometry x="1705" y="13210" width="150" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="447" level="Heading3" name="4.12.3 Belt changing" parent="444" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EWkfuiAl5mhJv2O-SGVNGesB3YePgZb30PGO1dHCr3nJOw?e=wftPI3" doc="EN_COURS_User manual - REV_2_EN_Borssele_reviewed.docx" color="#fdfdfd" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23230">
-          <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#fdfdfd;" vertex="1" parent="1">
+          <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;align=left;spacingLeft=10;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
             <mxGeometry x="1710" y="13260" width="140" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="448" level="Heading3" name="4.12.4 Replacement of seals and elastomer washers" parent="444" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EWkfuiAl5mhJv2O-SGVNGesB3YePgZb30PGO1dHCr3nJOw?e=wftPI3" doc="EN_COURS_User manual - REV_2_EN_Borssele_reviewed.docx" color="#fdfdfd" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23231">
-          <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#fdfdfd;" vertex="1" parent="1">
+          <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;align=left;spacingLeft=10;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
             <mxGeometry x="1630" y="13310" width="300" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="449" level="Heading2" name="4.13 Spare parts ordering" parent="417" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EWkfuiAl5mhJv2O-SGVNGesB3YePgZb30PGO1dHCr3nJOw?e=wftPI3" doc="EN_COURS_User manual - REV_2_EN_Borssele_reviewed.docx" color="#fdfdfd" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23232">
-          <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#fdfdfd;" vertex="1" parent="1">
+          <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;align=left;spacingLeft=10;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
             <mxGeometry x="1155" y="13110" width="160" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="450" level="Heading2" name="4.14 Advise for the safety inspections" parent="417" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EWkfuiAl5mhJv2O-SGVNGesB3YePgZb30PGO1dHCr3nJOw?e=wftPI3" doc="EN_COURS_User manual - REV_2_EN_Borssele_reviewed.docx" color="#fdfdfd" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23233">
-          <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#fdfdfd;" vertex="1" parent="1">
+          <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;align=left;spacingLeft=10;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
             <mxGeometry x="1120" y="13160" width="230" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="451" level="Heading2" name="4.15 Warranty" parent="417" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EWkfuiAl5mhJv2O-SGVNGesB3YePgZb30PGO1dHCr3nJOw?e=wftPI3" doc="EN_COURS_User manual - REV_2_EN_Borssele_reviewed.docx" color="#fdfdfd" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-23234">
-          <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#fdfdfd;" vertex="1" parent="1">
+          <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;align=left;spacingLeft=10;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
             <mxGeometry x="1185" y="13210" width="100" height="30" as="geometry" />
           </mxCell>
         </UserObject>
@@ -4914,16 +4914,16 @@
         <mxCell id="1MOQqGbTGBEFzUqIC71g-23574" value="" style="curved=1;edgeStyle=entityRelationEdgeStyle;" edge="1" parent="1" source="1MOQqGbTGBEFzUqIC71g-23110" target="1MOQqGbTGBEFzUqIC71g-23111">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1182" y="9890" />
-              <mxPoint x="1258" y="9895" />
+              <mxPoint x="1217" y="9890" />
+              <mxPoint x="1293" y="9895" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="1MOQqGbTGBEFzUqIC71g-23575" value="" style="curved=1;edgeStyle=entityRelationEdgeStyle;" edge="1" parent="1" source="1MOQqGbTGBEFzUqIC71g-23110" target="1MOQqGbTGBEFzUqIC71g-23112">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1182" y="9900" />
-              <mxPoint x="1258" y="9945" />
+              <mxPoint x="1217" y="9900" />
+              <mxPoint x="1293" y="9945" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -4986,8 +4986,8 @@
         <mxCell id="1MOQqGbTGBEFzUqIC71g-23583" value="" style="curved=1;edgeStyle=entityRelationEdgeStyle;" edge="1" parent="1" source="1MOQqGbTGBEFzUqIC71g-23119" target="1MOQqGbTGBEFzUqIC71g-23120">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1182" y="10145" />
-              <mxPoint x="1258" y="10145" />
+              <mxPoint x="1217" y="10145" />
+              <mxPoint x="1293" y="10145" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -5106,24 +5106,24 @@
         <mxCell id="1MOQqGbTGBEFzUqIC71g-23598" value="" style="curved=1;edgeStyle=entityRelationEdgeStyle;" edge="1" parent="1" source="1MOQqGbTGBEFzUqIC71g-23134" target="1MOQqGbTGBEFzUqIC71g-23135">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1182" y="10685" />
-              <mxPoint x="1258" y="10420" />
+              <mxPoint x="1217" y="10685" />
+              <mxPoint x="1293" y="10420" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="1MOQqGbTGBEFzUqIC71g-23599" value="" style="curved=1;edgeStyle=entityRelationEdgeStyle;" edge="1" parent="1" source="1MOQqGbTGBEFzUqIC71g-23134" target="1MOQqGbTGBEFzUqIC71g-23136">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1184" y="10695" />
-              <mxPoint x="1258" y="10470" />
+              <mxPoint x="1219" y="10695" />
+              <mxPoint x="1293" y="10470" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="1MOQqGbTGBEFzUqIC71g-23600" value="" style="curved=1;edgeStyle=entityRelationEdgeStyle;" edge="1" parent="1" source="1MOQqGbTGBEFzUqIC71g-23134" target="1MOQqGbTGBEFzUqIC71g-23137">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1182" y="10705" />
-              <mxPoint x="1258" y="10520" />
+              <mxPoint x="1217" y="10705" />
+              <mxPoint x="1293" y="10520" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -5298,8 +5298,8 @@
         <mxCell id="1MOQqGbTGBEFzUqIC71g-23622" value="" style="curved=1;edgeStyle=entityRelationEdgeStyle;" edge="1" parent="1" source="1MOQqGbTGBEFzUqIC71g-23158" target="1MOQqGbTGBEFzUqIC71g-23159">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1182" y="11345" />
-              <mxPoint x="1258" y="11345" />
+              <mxPoint x="1217" y="11345" />
+              <mxPoint x="1293" y="11345" />
             </Array>
           </mxGeometry>
         </mxCell>
