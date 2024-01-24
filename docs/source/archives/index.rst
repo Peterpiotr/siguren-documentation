@@ -3,7 +3,7 @@ Archives
 =======================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 4
 
    49104-15-001-operation--maintenance-manual-issue-d_reviewed
    en-cours-user-manual-rev-2-en-borssele

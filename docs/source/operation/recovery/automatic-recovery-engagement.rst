@@ -34,12 +34,17 @@ Steps
 	1. Switch :guilabel:`🔑 RECOVERY MODE OFF/ON` to position **ON**.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 		.. figure:: /_img/recovery/recovery-switch-on.png
 			:figwidth: 100 %
 =======
 		.. figure:: ../../_img/Recovery/recovery-switch-on.png
 			:figwidth: 300 px
 >>>>>>> 828ef92 (save)
+=======
+		.. figure:: /_img/recovery/recovery-switch-on.png
+			:figwidth: 100 %
+>>>>>>> e29019e (Commit with peter)
 			:class: instructionimg
 
 			Activating recovery mode
