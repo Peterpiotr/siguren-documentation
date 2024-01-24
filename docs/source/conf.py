@@ -10,7 +10,7 @@ copyright = f'{year}, SIGUREN technologies Ltd.'
 author = 'SIGUREN technologies Ltd.'
 
 master_doc = 'index'
-version = '0.1.2'               # gets overwritten by readthedocs when published online?
+version = '0.1.2_dimitar'               # gets overwritten by readthedocs when published online?
 release = version 
 
 
