@@ -2,7 +2,7 @@
 Electrical/automatic Backup procedure
 =========================================
 
-.. include:: ../img/substitutions.rst
+.. include:: /img/substitutions.rst
 
 .. =====================================================================================================================
 
@@ -16,10 +16,10 @@ It allows moving the load at a certain position at slow speed.
 Instruction
 ^^^^^^^^^^^
 
-1. Activate :doc:`Backup Mode <../../operation/recovery/backup-procedure>`.
+1. Activate :doc:`Backup Mode </operation/recovery/backup-procedure>`.
 2. Move at low speed (up or down) by operating on the hoist control.
 3. Once the move is complete, it is necessary to identify and resolve the causes that have caused need to use Backup Mode.
-4. Deactivate :doc:`Backup Mode <../../operation/recovery/backup-procedure>`.
+4. Deactivate :doc:`Backup Mode </operation/recovery/backup-procedure>`.
        
 .. note::       
   If limit speed is reached, MotoSuiveur® System goes into action intrinsically by blocking the worm **without fault occurrence**.

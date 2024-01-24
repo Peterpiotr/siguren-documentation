@@ -6,7 +6,7 @@ MotoSuiveur® Control Cabinet (MSCC) is built according to the configuration of 
 Control cabinet have nameplate_ located on front side of the door indicating input power (voltage, frequency, current), serial number, date.
 
 
-.. figure:: ../../_img/Control-Cabinet/Control-cabinet-overview.png
+.. figure:: /_img/control-cabinet/Control-cabinet-overview.png
    :figwidth: 100 %
    :class: instructionimg
 
@@ -14,10 +14,10 @@ Control cabinet have nameplate_ located on front side of the door indicating inp
     
 
 .. csv-table:: MotoSuiveur® control cabinet overview
-   :file: ../../_tables/control-cabinet-overview.csv
+   :file: /_tables/control-cabinet-overview.csv
    :delim: ;
    :header-rows: 1
-   :class: tight-table
+   
    :align: left
    :widths: auto
 
@@ -28,8 +28,8 @@ Nameplate
 The nameplate of the MS Control Cabinet indicates model, serial number, date of production, voltage / power requirements.
 Exemplary general appearance of control cabinet nameplate shown on figure below.
 
-.. figure:: ../../_img/Control-Cabinet/control-cabinet-nameplate.png
-	:figwidth: 600 px
+.. figure:: /_img/control-cabinet/control-cabinet-nameplate.png
+	:figwidth: 100 %
 	:class: instructionimg
 
 	MS Control Cabinet Nameplate
@@ -39,8 +39,8 @@ Exemplary general appearance of control cabinet nameplate shown on figure below.
 Architecture of a MotoSuiveur® System
 ======================================================
 
-.. figure:: ../../_img/Peter/controlSignals.png
-	:figwidth: 600 px
+.. figure:: /_img/archives/controlSignals.png
+	:figwidth: 100 %
 	:class: instructionimg
 
 	Hoist-MS Control Signals
@@ -57,8 +57,8 @@ On figure below is presented the architecture of the standalone MotoSuiveur® So
 
 \*\ *T5 is not shown on figure below*
 
-.. figure:: ../../_img/Peter/generalViewConnectionsMS-MSCC.png
-	:figwidth: 600 px
+.. figure:: /_img/archives/generalViewConnectionsMS-MSCC.png
+	:figwidth: 100 %
 	:class: instructionimg
 
 	MS Control Cabinet Connections
@@ -71,11 +71,11 @@ The integration of the MS into the control system of a new or existing crane is 
 All electrical parameters and iterfaces are specified by the pre-configuration diagram.
 
 .. _diagram:
-.. figure:: ../../_img/Control-Cabinet/control-cabinet-configuration.png
+.. figure:: /_img/control-cabinet/control-cabinet-configuration.png
 	:figwidth: 100 %
 	:class: instructionimg
 
 	Integration of the MotoSuiveur® in hoist control system
 
 
-**For more details:** :doc:`../../equipment/control-interface/control-panel`
+**For more details:** :doc:`/equipment/control-interface/control-panel`

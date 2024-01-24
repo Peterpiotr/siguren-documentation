@@ -5,7 +5,7 @@ Memory Card
 .. include:: /_img/_image-substitutions.rst
 
 .. note::
-  From :download:`49104-15-001-Operation-Maintenance-Manual-Issue-D.pdf <../../_archives/49104-15-001-Operation-Maintenance-Manual-Issue-D.pdf>`
+  From :download:`49104-15-001-Operation-Maintenance-Manual-Issue-D.pdf </_archives/49104-15-001-Operation-Maintenance-Manual-Issue-D.pdf>`
 
 IMD Drive PC Loading / Saving procedure
 ========================================

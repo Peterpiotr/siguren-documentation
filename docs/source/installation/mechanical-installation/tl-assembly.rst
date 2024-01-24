@@ -1,6 +1,6 @@
-=================================
-Assembly of the torque limiter 
-=================================
+==================================
+Installing an MS Torque Limiter 
+==================================
 
 .. note::
 	From **User Manual-7.4.doc**
@@ -8,33 +8,39 @@ Assembly of the torque limiter
 .. important::
     Assembly must be done by qualified operators.
 
-The torque limiter is delivered factory rated to the value necessary to the application. 
+The MS Torque Limiter is delivered factory rated to the value necessary for the application. 
 In case of doubt, check the application data on the assembly drawing.
-The limiter assembly direction is defined on the layout.
+The MS Torque Limiter assembly direction is defined on the layout.
 
-The torque limiter coupling is made of:
+The MS Torque Limiter coupling is made of:
 
-    - The permanent spring limiter
-    - The duplex coupling chain
-    - The driving hub
+    - a permanent spring limiter
+    - a duplex coupling chain
+    - a driving hub
 
-.. figure:: ../../_img/Peter/tl-assembly-01.png
-    :figwidth: 600 px
+.. should use numbers to refer to illustration
+
+.. figure:: /_img/archives/tl-assembly-01.png
+    :figwidth: 66 % 
+    :class: instructionimg
     
-    MS torque limiter
+    MS Torque Limiter
 
 The cylinder of the limiter part contains helical springs which create the pressure force applied to the friction linings.
 
-.. figure:: ../../_img/Peter/tl-assembly-02.png
-    :figwidth: 600 px
+.. should use numbers to refer to illustration
+
+.. figure:: /_img/archives/tl-assembly-02.png
+    :figwidth: 66 %
+    :class: instructionimg
     
-    MS torque limiter - Limiter part
+    MS Torque Limiter - Limiter part
 
 The response curve of the helical springs allows to keep, without much fluctuation, the pressure force applied to the linings. 
 Thus, **no matter their degree of wear**, the fluctuation of the pre-set torque is insignificant.
 It is the number of springs which defines the rating torque.
 
 .. warning::
-    | The limiter being delivered rated for the application; the limiter part should never be dismantled. 
+    | The MS Torque Limiter being delivered is rated for the application; the limiter part should never be dismantled. 
     | Never add nor withdraw a spring during normal functioning of the winch. 
-    | Any maintenance operation should be done by SIGUREN or an authorized representative
+    | Any maintenance operation should be done by SIGUREN technologies or an authorized representative

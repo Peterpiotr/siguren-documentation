@@ -13,9 +13,17 @@ h1, h2, h3 {
     border-bottom: 2px solid #2439bb !important;
 }
 
+/*
 img {
     text-align:right;
 }
+*/
+
+.card-title {
+    font-size: 20px;
+    color: #2436bb;
+}
+
 
 
 img.instructionimg {
@@ -71,63 +79,79 @@ ol > li::marker {
     font-size: 1.2em;
 }
 
-/* everything regarding toc-cards is copied from Blender Docs*/
+/* custom toc-tree from Blender Docs*/
 
-/* Start section cards. */
-.toc-cards {
-	display: grid;
-	grid-template-columns: repeat(auto-fit, minmax(225px, 1fr));
-	grid-gap: 20px;
+
+/* Start custom toctree. */
+.toctree-wrapper .toctree-l1>a {
+	margin-bottom: 0.15em
+}
+
+/* Indent all lines following the first. */
+.toctree-wrapper * a {
+	display: block;
+	width: 90%;
+	text-indent: -1em;
+	margin-left: 1em;
+	/*invert indent*/
+	padding-top: 0.25em;
+	line-height: 1.25em;
+}
+
+/* Underline provided by nested ul (not li). */
+.toctree-wrapper * ul {
+	padding-left: 2em;
+	border-top: solid #ececec 1px;
+}
+
+.toctree-wrapper>ul {
+	margin-left: 1em
+}
+
+.rst-content .toctree-wrapper ul li ul {
+	margin-bottom: 0.75em;
+	padding-top: 0.5em;
+}
+
+.rst-content .toctree-wrapper ul li a:hover {
+	color: #25afef
+}
+
+.rst-content .toctree-wrapper ul li a:visited:hover {
+	color: #C961DA
+}
+
+.toctree-wrapper .toctree-l1>a {
+	font-size: 104%
+}
+
+.toctree-wrapper .toctree-l2>a {
+	font-size: 102%
+}
+
+.toctree-wrapper .toctree-l3>a {
+	font-size: 100%
+}
+
+.toctree-wrapper .toctree-l1>ul {
+	border-color: #bfbfbf
+}
+
+.toctree-wrapper .toctree-l2>ul {
+	border-color: #e1e0e0
+}
+
+.toctree-wrapper .toctree-l3>ul {
+	border-color: #ececec
+}
+
+/* Remove list styling, css rule hierarchy. */
+.rst-content .toctree-wrapper ul li,
+.rst-content .toctree-wrapper ul li li,
+.rst-content .toctree-wrapper ul li li li {
 	list-style-type: none;
-	margin-bottom: 24px;
+	margin-left: 0px;
 }
 
-.card {
-	border-radius: .3em;
-	user-select: none;
-}
+/* End custom toctree. */
 
-.card div.figure,
-.card figure {
-	margin-bottom: 0px;
-	display: block;
-}
-
-.card img {
-	border-top-left-radius: .3em;
-	border-top-right-radius: .3em;
-}
-
-.card dl {
-	margin-bottom: 10px
-}
-
-.card dl dt>a {
-	display: block;
-	width: 100%;
-	margin-bottom: 10px;
-}
-
-.card dl dt a em,
-.card dl dt a span {
-	font-weight: bold;
-	font-style: normal;
-	font-size: 1.3em;
-}
-
-.card dl dt {
-	padding: 18px 15px 0px !important
-}
-
-.card dl dd {
-	padding: 0px 15px 5px 15px;
-	font-style: normal;
-	margin: 0px;
-	color: #808080;
-	font-size: 90%;
-}
-
-.card {
-	box-shadow: rgba(0, 0, 0, 0.05) 0px 1px 4px 0px,
-		rgba(211, 216, 223, 0.33) 0px 15px 20px -1px;
-}

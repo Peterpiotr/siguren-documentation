@@ -4,35 +4,35 @@ Following mode
 
 .. tags:: following, overspeed
 
-.. include:: ../../_img/_image-substitutions.rst
+.. include:: /_img/_image-substitutions.rst
 
-Following operation mode is the main operating mode of the MotoSuiveur® system.
+Following operation mode is the main operating mode of the MotoSuiveur® System.
 Following operation mode starts after successful passed of self–test. 
 The function of Following mode is intended for follow movements of the hoist/crane and to monitor 
 for exceeding the :term:`rated speed` with defined positive tolerance. 
 The speed, which is considered high is called :term:`overspeed`. 
 
 It is separated into Rest and Follow states. 
-At Rest, MotoSuiveur® system is waiting for a movement request.  
-When a movement request is received, MotoSuiveur® system starts following.
-Rest and Following states are displayed on `MS Controller 7-segment display`_ and :doc:`MSHMI <../../equipment/control-interface/ms-hmi>` "Main Screen" field "MS system status:".
+At Rest, MotoSuiveur® System is waiting for a movement request.  
+When a movement request is received, MotoSuiveur® System starts following.
+Rest and Following states are displayed on `MS Controller 7-segment display`_ and :doc:`MSHMI </equipment/control-interface/ms-hmi>` "Main Screen" field "MotoSuiveur® System status:".
 
 
 
 .. important::             
-    By design MotoSuiveur® system **will not allow** overspeed. 
+    By design MotoSuiveur® System **will not allow** overspeed. 
 
 Following operation mode principle
 ====================================
 
-After successful passed of self–test MotoSuiveur® system is in Rest.
+After successful passed of self–test MotoSuiveur® System is in Rest.
 In Rest, after a successful self-test and the presence of an enable signal from the crane, 
 the following indicators are active - :guilabel:`🟢 Hoist enabled`, :guilabel:`🟢 Upward Enable` and :guilabel:`🟢 Downward Enable`.
 
 .. _Active indicators in following state:
-.. figure:: ../../_img/Regular-operations/indicators-following-state.png
-   :align: center
-   :figwidth: 600 px
+.. figure:: /_img/regular-operation/indicators-following-state.png
+   :class: instructionimg
+   :figwidth: 100 %
 
    Active indicators in following state
 
@@ -41,9 +41,9 @@ If a limit switch prohibiting upward movement is activated during movement, the 
 In this state, no upward movement of the crane is allowed, and a short downward movement is required until the MS worm is cantered `Active indicators in following state`.
 
 .. _Upward movement prohibited:
-.. figure:: ../../_img/Regular-operations/indicators-following-state.png
-   :align: center
-   :figwidth: 600 px
+.. figure:: /_img/regular-operation/indicators-following-state.png
+   :class: instructionimg
+   :figwidth: 100 %
 
    Upward movement prohibited
 
@@ -51,64 +51,64 @@ Accordingly, if the limit switch prohibiting downward movement is activated duri
 In this state, no downward movement of the crane is allowed, and a short upward movement is required until the MS worm is cantered – `Active indicators in following state`.
 
 .. _Downward movement prohibited:
-.. figure:: ../../_img/Regular-operations/downward-prohibited.png
-   :align: center
-   :figwidth: 600 px
+.. figure:: /_img/regular-operation/downward-prohibited.png
+   :class: instructionimg
+   :figwidth: 100 %
 
    Downward movement prohibited
 
-If the enable signal from the hoist to MotoSuiveur® system loss, the :guilabel:`🟢 Hoist enabled` indicator becomes inactive. 
-In this case MotoSuiveur® system does not follow the hoist on a motion request. 
-Accordingly, MotoSuiveur® system does not provide an Enable signal to hoist.
+If the enable signal from the hoist to MotoSuiveur® System loss, the :guilabel:`🟢 Hoist enabled` indicator becomes inactive. 
+In this case MotoSuiveur® System does not follow the hoist on a motion request. 
+Accordingly, MotoSuiveur® System does not provide an Enable signal to hoist.
 
 .. _No enable signal from hoist:
-.. figure:: ../../_img/Regular-operations/no-enable-signal.png
-   :align: center
-   :figwidth: 600 px
+.. figure:: /_img/regular-operation/no-enable-signal.png
+   :class: instructionimg
+   :figwidth: 100 %
 
    No enable signal from hoist
 
-The states described above do not put the MotoSuiveur® system in a fault state. 
+The states described above do not put the MotoSuiveur® System in a fault state. 
 Fault states can occur for a variety of reasons (overspeed detection, unwanted movement detection, loss of power supply etc.). 
 When the hoist is requested to move, the MC starts to follow in the direction it is required. 
 During following, the MC checks for exceeding the maximum permissible hoist speed. 
-When the MotoSuiveur® system detects that the defined speed is exceeded, it trips, :guilabel:`🔴 Fault indicator` became active, 
+When the MotoSuiveur® System detects that the defined speed is exceeded, it trips, :guilabel:`🔴 Fault indicator` became active, 
 Hoist enabled indicator became inactive and prevents the hoist from moving. 
 Downward enable and Upward enable are ignored in fault state.
 Fault message is displayed on MS Controller 7-segmend display and MSHMI.
 
 .. _MS Fault state:
-.. figure:: ../../_img/Regular-operations/ms-fault.png
-   :align: center
-   :figwidth: 600 px
+.. figure:: /_img/regular-operation/ms-fault.png
+   :class: instructionimg
+   :figwidth: 100 %
    
-   MotoSuiveur® system fault state
+   MotoSuiveur® System fault state
    
-After MotoSuiveur® system enters a fault state, an operator (authorized personnel) response is required to identify the reason for the fault. 
-Once the cause of the failure has been identified and resolved, a :doc:`Reset <../../operation/regular/system-reset>` of the MotoSuiveur® system is required. 
-After a successful self-test following a reset of MS system, it enters in following mode.
+After MotoSuiveur® System enters a fault state, an operator (authorized personnel) response is required to identify the reason for the fault. 
+Once the cause of the failure has been identified and resolved, a :doc:`Reset </operation/regular/system-reset>` of the MotoSuiveur® System is required. 
+After a successful self-test following a reset of MotoSuiveur® System, it enters in following mode.
 
 Figure `Main principle of following operation mode and overspeed detection` 
 present the main principle of Following operation mode (upper part) and Overspeed detection (lower part). 
-MotoSuiveur® system follows hoist/crane movement until overspeed is detected.
-When overspeed is detected, MotoSuiveur® system **trips** and mechanicaly lockes hoist/crane
+MotoSuiveur® System follows hoist/crane movement until overspeed is detected.
+When overspeed is detected, MotoSuiveur® System **trips** and mechanicaly lockes hoist/crane
 to prevent load drop.
 
 .. _Main principle of following operation mode and overspeed detection:
-.. figure:: ../../_img/Peter/following-01.png
-   :align: center
-   :figwidth: 600 px
+.. figure:: /_img/archives/following-01.png
+   :class: instructionimg
+   :figwidth: 100 %
 
    Main principle of following operation mode and overspeed detection
 
 
 .. _Following mode stages:
 .. csv-table:: Following mode stages
-   :file: ../../_tables/following-mode-stages.csv
+   :file: /_tables/following-mode-stages.csv
    :delim: ;
    :header-rows: 0
    :widths: auto
-   :class: tight-table
+   
    :align: left
 
 
@@ -125,41 +125,41 @@ They are active only during Rest.
 
 .. _Symbols displayed on 7-segment display on MS controller:
 .. csv-table:: Rest
-   :file: ../../_tables/following-mode-digits-rest.csv
+   :file: /_tables/following-mode-digits-rest.csv
    :delim: ;
    :header-rows: 1
    :widths: auto
-   :class: tight-table
-   :align: center
+   
+   :class: instructionimg
 
 `Symbols displayed on 7-segment display on MS controller during movement` shows the 
 symbols displayed on 7–segment display during following operation mode during movement.
 
 .. _Symbols displayed on 7-segment display on MS controller during movement:
 .. csv-table:: Movement
-   :file: ../../_tables/following-mode-digits-movement.csv
+   :file: /_tables/following-mode-digits-movement.csv
    :header-rows: 1
    :delim: ;
    :widths: auto
-   :class: tight-table
-   :align: center
+   
+   :class: instructionimg
 
 
 MSHMI status messages
 =====================
 
-On MSHMI "Main Screen" status of MotoSuiveur® system is displayed.
+On MSHMI "Main Screen" status of MotoSuiveur® System is displayed.
 In table below status messages are listed.
 
 .. _Status messages:
 .. csv-table:: Status messages
-   :file: ../../_tables/mshmi-status-messages.csv
+   :file: /_tables/mshmi-status-messages.csv
    :header-rows: 1
    :delim: ;
    :widths: auto
-   :class: tight-table
-   :align: center
+   
+   :class: instructionimg
 
-\*\ :doc:`MotoSuiveur® system planned maintenance <../../maintenance/planned-maintenance/maintenance-schedule>`
+\*\ :doc:`MotoSuiveur® System planned maintenance </maintenance/planned-maintenance/maintenance-schedule>`
 
 \**\ `Upward movement prohibited`_, `Downward movement prohibited`_

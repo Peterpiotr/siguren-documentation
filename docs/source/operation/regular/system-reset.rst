@@ -1,15 +1,21 @@
-======
-Reset
-======
+==================================
+Resetting the MotoSuiveur® System
+==================================
 
-If the MotoSuiveur® system need to be reset, this is done by the :guilabel:`🔘 Reset` button. 
-RESET button must be pressed and held for >1 second for a MotoSuiveur® system reset to be performed.
-After reset MotoSuiveur® system starts as :doc:`MotoSuiveur® operating algorithm <../../operation/regular/operation-modes>`.
+.. when should you reset the motosuiveur system? why?
 
+Steps
+	1. Locate the :guilabel:`🔘 Reset` button on the MS Control Cabinet. 
+	2. Press and hold :guilabel:`🔘 Reset` for >1 second.
+	
+		.. figure:: /_img/regular-operation/reset-buton.png
+			:figwidth: 50 %
+			:class: instructionimg
 
-.. _Reset button:
-.. figure:: ../../_img/Regular-operations/reset-buton.png
-	:figwidth: 465 px
-	:align: center
+			MotoSuiveur® System Reset
 
-	MotoSuiveur® system reset
+		-  A MotoSuiveur® System reset is performed.
+
+		.. what are the signs that the reset is ongoing and then correctly done?
+
+	3. After reset MotoSuiveur® System starts as in :doc:`MotoSuiveur® operating algorithm </operation/regular/operation-modes>`.

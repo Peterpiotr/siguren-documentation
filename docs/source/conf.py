@@ -6,8 +6,8 @@ import datetime
 
 project = 'MotoSuiveur® Solutions documentation'
 year = datetime.datetime.now().year
-copyright = f'{year}, SIGUREN technologies Ltd.'
-author = 'SIGUREN technologies Ltd.'
+copyright = f'{year}, SIGUREN technologies technologies Ltd.'
+author = 'SIGUREN technologies technologies Ltd.'
 
 master_doc = 'index'
 version = '0.1.2_dimitar'               # gets overwritten by readthedocs when published online?
@@ -51,6 +51,7 @@ html_theme_options = {
     'logo_only': True,
     'display_version': True,
     'prev_next_buttons_location': 'bottom',
+    'navigation_depth': 3,
     'style_external_links': False,
     'vcs_pageview_mode': '',
     'style_nav_header_background': '#2439bb',
@@ -65,7 +66,7 @@ html_theme_options = {
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
 
-html_logo = '_img/Peter/siguren_logo_white.png'
+html_logo = '_img/MS_by_sig_logo.png'
 
 # The name of an image file (within the static path) to use as favicon of the docs.
 # This file should be a Windows icon file (.ico) being 16x16 or 32x32 pixels large.

@@ -2,19 +2,19 @@
 Selecting a MotoSuiveur® Solution
 =================================
 
-.. include:: ../../_text-substitutions.rst
+.. include:: /_text-substitutions.rst
 
 .. _example-ref:
 
-MotoSuiveur® Unit selection
+MS Unit selection
 ======================================
 
 Arrest type selection
 -----------------------
 
-.. figure:: ../../_img/Peter/ms-selection-01.png
+.. figure:: /_img/archives/ms-selection-01.png
 	:scale: 100 %
-	:align: center
+	:class: instructionimg
 
 	MotoSuiveur® type selection diagram
 
@@ -25,24 +25,24 @@ The main criterion is the arrest torque at full speed |Vmax|.
 
 The starting point to define this torque is the full load static torque at the drum (or at the MS wheel) |Cs|, without taking into account the efficiency.
 
-.. figure:: ../../_img/Peter/ms-selection-02.png
+.. figure:: /_img/archives/ms-selection-02.png
 	:scale: 100 %
-	:align: center
+	:class: instructionimg
 
 	Hoist kinematic chain force analysis
 
-The Passive Friction MotoSuiveur® Unit is directly selected to ensure sufficient torque to stop the full load. 
+The Passive Friction MS Unit is directly selected to ensure sufficient torque to stop the full load. 
 
 .. math::
 
   C_{MS} ≥ 1.4C_S
 
-The speed at the MotoSuiveur® Unit wheel |Vmax| can be up to 100 RPM.
+The speed at the MS Unit wheel |Vmax| can be up to 100 RPM.
 
 
 
 
-Example : Selecting a Passive Friction MotoSuiveur® Unit (MSF)
+Example : Selecting a Passive Friction MS Unit (MSF)
 ----------------------------------------------------------------
 
 .. rubric:: Hoist input data
@@ -54,10 +54,10 @@ Example : Selecting a Passive Friction MotoSuiveur® Unit (MSF)
 | Gearbox ratio = **60**
 | Motor speed = **3000 rpm**
 
-| Is it possible to put a torque limiter? 
+| Is it possible to put a MS Torque Limiter? 
 | **Yes**
 
-| Is there important inertia after the torque limiter? 
+| Is there important inertia after the MS Torque Limiter? 
 | **No**
 
 | Is the rotation speed at drum exceeding 35 rpm?	
@@ -100,11 +100,11 @@ Example : Selecting a Passive Friction MotoSuiveur® Unit (MSF)
 
 |Cms| = 1.4 x Cs = 1.4x 3 065 = 4 291 Nm
 
-According to :ref:`MotoSuiveur® Unit arrest torque table`:
+According to :ref:`MS Unit arrest torque table`:
 
 |Cms| = 4 291 Nm < 6 100 Nm 
 
-**MS1** is the correct size of MotoSuiveur® unit for this application.
+**MS1** is the correct size of MS Unit for this application.
 
 
 
@@ -116,5 +116,5 @@ MS control cabinet selection
 MS load recovery add-on selection
 =============================================
 
-MS torque limiter add-on  selection
+MS Torque Limiter add-on  selection
 ================================================

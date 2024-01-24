@@ -1,6 +1,6 @@
 "No          ";"Name                                       ";"Description     "
-"1           ";"MSHMI";"Shows actual MS system status and information. 
+"1           ";"MSHMI";"Shows actual MotoSuiveur® System status and information. 
 Displays warning and error messages"
-"2           ";"Controls and indicator lights";"Change MotoSuiveur® operating mode. Actual status of MotoSuiveur® system."
+"2           ";"Controls and indicator lights";"Change MotoSuiveur® operating mode. Actual status of MotoSuiveur® System."
 "3           ";"Nameplate";"Control cabinet information – SN, model, date of production, power supply"
 "4           ";"Cable glands";"Control panel cables I/O"

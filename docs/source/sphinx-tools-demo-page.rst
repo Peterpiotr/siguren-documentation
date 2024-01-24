@@ -23,8 +23,8 @@ Heading 2
 
 :hoverxref:`example-ref` 
 
-.. figure:: /_img/Backup/backup-down-up-control-off.png
-	:figwidth: 600 px
+.. figure:: /_img/backup/backup-down-up-control-off.png
+	:figwidth: 100 %
 	:class: instructionimg
 
 	General view
@@ -136,20 +136,20 @@ Some other thext.
 
 
 
-.. figure:: /_img/Backup/backup-mode-off-on.PNG
+.. figure:: /_img/backup/backup-mode-off-on.PNG
     :target: https://siguren-documentation.readthedocs.io/en/0.1.1/99-test.html
 
     figure comment
 
 
-.. figure:: /_img/Backup/backup-down-up-control-off.png
+.. figure:: /_img/backup/backup-down-up-control-off.png
     :figwidth: 300 px
-    :align: center
+    :class: instructionimg
 
     End of lowering
 
 
-:doc:`../../operation/regular/index`
+:doc:`/operation/regular/index`
   An introduction to Blender's window system, widgets and tools.
 
 
@@ -165,27 +165,27 @@ Curve Preset
 
       .. list-table:: Custom Preset types.
 
-         * - .. figure:: _img/Regular-operations/MS-block-diagram-color_1.PNG
+         * - .. figure:: _img/regular-operation/MS-block-diagram-color_1.PNG
 
                 Smooth.
 
-           - .. figure:: _img/Regular-operations/MS-block-diagram-color_1.PNG
+           - .. figure:: _img/regular-operation/MS-block-diagram-color_1.PNG
 
                 Sphere.
 
-           - .. figure:: _img/Regular-operations/MS-block-diagram-color_1.PNG
+           - .. figure:: _img/regular-operation/MS-block-diagram-color_1.PNG
 
                 Root.
 
-         * - .. figure:: _img/Regular-operations/MS-block-diagram-color_1.PNG
+         * - .. figure:: _img/regular-operation/MS-block-diagram-color_1.PNG
 
                 Sharp.
 
-           - .. figure:: _img/Regular-operations/MS-block-diagram-color_1.PNG
+           - .. figure:: _img/regular-operation/MS-block-diagram-color_1.PNG
 
                 Linear.
 
-           - .. figure:: _img/Regular-operations/MS-block-diagram-color_1.PNG
+           - .. figure:: _img/regular-operation/MS-block-diagram-color_1.PNG
 
                 Constant.
 
@@ -202,7 +202,7 @@ The following standard selection operations are supported:
 - :kbd:`Ctrl-NumpadPlus` -- Extend Selection
 - :kbd:`Ctrl-NumpadMinus` -- Shrink Selection
 
-.. figure:: _img/Regular-operations/MS-block-diagram-color_1.PNG
+.. figure:: _img/regular-operation/MS-block-diagram-color_1.PNG
 
    Vertex Selection masking.
 
@@ -211,7 +211,7 @@ The following standard selection operations are supported:
 
 .. card:: 
     :width: auto
-    :img-top: _img/Peter/MSwarningNumber10.png
+    :img-top: _img/archives/MSwarningNumber10.png
     :link: https://siguren-documentation.readthedocs.io/en/0.1.1/equipment/ms-solution/ms-unit.html
 
     MotoSuiveour Unit
@@ -226,17 +226,17 @@ grid-item-cards
     
     .. grid-item-card::
         :width: auto
-        :img-top: _img/Index/control-cabinet.jpg
-        :link: ../ms-solution/ms-unit
+        :img-top: _img/index/control-cabinet.jpg
+        :link: /ms-solution/ms-unit
 
-        MotoSuiveur Unit
+        MS Unit
  
         
 
     .. grid-item-card::
         :width: auto
-        :img-top: _img/Index/ms-unit.jpg
-        :link: ../diagnostics/controller-errors.rst
+        :img-top: _img/index/ms-unit.jpg
+        :link: /diagnostics/controller-errors.rst
 
         MS Controller Faults and Warnings
 
@@ -249,7 +249,7 @@ Inspired by Blender Docs
 
       .. container:: card
 
-         .. figure:: _img/Index/ms-unit.jpg
+         .. figure:: _img/index/ms-unit.jpg
             :target: ms-solution/ms-uni.html
 
          :doc:`equipment/ms-solution/ms-unit`
@@ -257,7 +257,7 @@ Inspired by Blender Docs
 
       .. container:: card
 
-         .. figure:: _img/Index/control-cabinet.jpg
+         .. figure:: _img/index/control-cabinet.jpg
             :target: diagnostics/controller-errors.html
 
          :doc:`troubleshooting/diagnostics/controller-errors`

@@ -42,14 +42,14 @@
 .. =========================================================================
 .. |password-entry-01| image:: /_img/password-entry-01.png
 .. |password-entry-02| image:: /_img/password-entry-02.png
-.. |manual-service-brake-backup-01|  image:: /_img/Peter/manual-service-brake-backup-01.png
-.. |manual-service-brake-MotoSuiveur®-backup-01|  image:: /_img/Peter/manual-service-brake-motosuiveur-backup-01.png
-.. |manual-service-brake-MotoSuiveur®-backup-02|  image:: /_img/Peter/manual-service-brake-motosuiveur-backup-02.png
+.. |manual-service-brake-backup-01|  image:: /_img/archives/manual-service-brake-backup-01.png
+.. |manual-service-brake-MotoSuiveur®-backup-01|  image:: /_img/archives/manual-service-brake-motosuiveur-backup-01.png
+.. |manual-service-brake-MotoSuiveur®-backup-02|  image:: /_img/archives/manual-service-brake-motosuiveur-backup-02.png
 
-.. |mounting-procedure-02|  image:: /_img/Peter/mounting-procedure-02.jpg
+.. |mounting-procedure-02|  image:: /_img/archives/mounting-procedure-02.jpg
 .. MS Units================================================================    
-.. |hydraulic_ms|  image:: /_img/MS_Unit/Hydraulic.jpg    
-.. |friction_ms|   image:: /_img/MS_Unit/Friction.jpg 
+.. |hydraulic_ms|  image:: /_img/ms-unit/Hydraulic.jpg    
+.. |friction_ms|   image:: /_img/ms-unit/Friction.jpg 
 
 .. Initialization==========================================================
 .. |start|          image:: /_img/7-segment/MS-Controller-internal-check/start.PNG
@@ -65,5 +65,4 @@
 .. |4|          image:: /_img/7-segment/OS-version/4.PNG
 .. |none|       image:: /_img/7-segment/OS-version/none.PNG
 
-.. Troubleshooting=========================================================
-.. |info-button|       image:: /_img/Troubleshooting/info-button.png
+

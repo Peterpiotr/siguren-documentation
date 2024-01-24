@@ -9,32 +9,34 @@ and instantly default to a safe arrested state when hoisting is disrupted.
 
    This documentation is under active development.
 
-Equipment Overview
-===================
+MotoSuiveur® Overview
+======================
 
-.. container:: toc-cards
+.. grid:: 2
+    :gutter: 4
+    :padding: 0
 
-    .. container:: card
+    .. grid-item-card:: MS Unit
+        :img-top: /_img/cards/ms-unit-card_16-9.png
+        :link: equipment/ms-solution/index
+        :link-type: doc
+        :class-title: card-title
 
-        .. figure:: _img/Index/ms-unit.jpg
-            :target: ms-solution/ms-unit.html
+        Overview of key safety and operation functions of MotoSuiveur®.
+ 
+    .. grid-item-card:: MotoSuiveur® Controls
+        :img-top: /_img/cards/controls-card_16-9.jpg
+        :link: equipment/control-interface/index
+        :link-type: doc
+        :class-title: card-title
 
-        :doc:`equipment/ms-solution/index`
-            Lorem Ipsum.
-
-    .. container:: card
-
-        .. figure:: _img/Index/control-cabinet-1.jpg
-            :target: diagnostics/controller-errors.html
-
-        :doc:`equipment/control-interface/index`
-            Lorem Ipsum.
+        Overview of hoist-MS controls interface, MS controller, MS HMI menus.
 
 
 .. toctree::
     :maxdepth: 2
     :hidden:
-    :caption: Equipment overview
+    :caption: MotoSuiveur® Overview
 
     /equipment/ms-solution/index
     /equipment/control-interface/index
@@ -43,174 +45,94 @@ Equipment Overview
     /about/risk-reduction
 
 
+Sections
+===================
 
-Installation
-=============
+.. grid:: 2
+    :gutter: 4
+    :padding: 0
 
-Learn more about the process of integrating a MotoSuiveur® Solution into an existing or new hoist design.
+    .. grid-item-card:: Installing MotoSuiveur® System
+        :img-top: /_img/cards/installation-card-flange-med_16-9.png
+        :link: installation/index
+        :link-type: doc
+        :class-title: card-title
 
-.. container:: toc-cards
-
-    .. container:: card
-
-        .. figure:: _img/Index/control-cabinet-connection.jpg
-            :target: installation/controls-installation/index.html
-
-        :doc:`installation/controls-installation/index`
-            Lorem Ipsum.
-
-    .. container:: card
-
-        :doc:`installation/mechanical-installation/index`
-            Lorem Ipsum.
-
-    .. container:: card
-
-        :doc:`installation/logistics/index`
-            Lorem Ipsum.
-
-.. toctree::
-  :maxdepth: 4
-  :hidden:
-  :caption: Installation
-
-  /installation/logistics/index
-  /installation/mechanical-installation/index
-  /installation/controls-installation/index
-
-
-Operation
-===========
-
-.. container:: toc-cards
-
-    .. container:: card
-
-        .. figure:: _img/Index/operation-modes.jpg
-            :target: operation/regular/index.html
-
-        :doc:`operation/regular/index`
-            Lorem Ipsum.
-
-    .. container:: card
-
-        .. figure:: _img/Index/load-arrest.jpg
-            :target: operation/load-arrest/index.html
-
-        :doc:`operation/load-arrest/index`
-            Lorem Ipsum.
-
-    .. container:: card
-
-        .. figure:: _img/Index/recovery-forced.jpg
-            :target: operation/recovery/index.html
-        
-        :doc:`operation/recovery/index`
-            Lorem Ipsum.
-
-.. toctree::
-  :maxdepth: 4
-  :hidden:
-  :caption: Operation
-
-  /operation/load-arrest/index
-  /operation/recovery/index
-  /operation/regular/index
-
-
-Maintenance
-=============
-
-.. container:: toc-cards
-
-    .. container:: card
-
-        :doc:`maintenance/planned-maintenance/index`
-            Lorem Ipsum.
-
-    .. container:: card  
-
-        :doc:`maintenance/spare-parts/index`
-            Lorem Ipsum.
-
-    .. container:: card
-
-        :doc:`maintenance/updates/index`
-            Lorem Ipsum.
-
-    .. container:: card
-
-        :doc:`troubleshooting/troubleshooting-measures/index`
-            Lorem Ipsum.
+        Integrating MS into the hoist's kinematic chain and controls.
  
-    .. container:: card
+    .. grid-item-card:: Regular Lifting Operation
+        :img-top: /_img/cards/regular-op-card-med_16-9.png
+        :link: operation/regular/index
+        :link-type: doc
+        :class-title: card-title
 
-        :doc:`troubleshooting/diagnostics/index`
-            Lorem Ipsum.
+        Enabling and following hoist motion. Preventing overloads.
 
+    .. grid-item-card:: Load Arrest
+        :img-top: /_img/cards/arrest-card-med_16-9.png
+        :link: operation/load-arrest/index
+        :link-type: doc
+        :class-title: card-title
 
-.. toctree::
-  :maxdepth: 4
-  :hidden:
-  :caption: Maintenance
+        Managing load arrest situations. Resuming normal operation after load arrest.
+ 
+    .. grid-item-card:: Suspended Load Recovery
+        :img-top: /_img/cards/recovery-card-ladle_16-9.png
+        :link: operation/recovery/index
+        :link-type: doc
+        :class-title: card-title
 
-  /maintenance/planned-maintenance/index
-  /maintenance/spare-parts/index
-  /maintenance/updates/index
-  /troubleshooting/troubleshooting-measures/index
-  /troubleshooting/diagnostics/index
+        Procedures to safely recover suspended loads according to the hoist's status.
 
-.. regulatory-testing
+    .. grid-item-card:: Maintenance
+        :img-top: /_img/cards/ms-unit-card_16-9.jpg
+        :link: maintenance/index
+        :link-type: doc
+        :class-title: card-title
 
+        Routine checks and maintenance procedures. Parts replacements. Firmware updates.
+ 
+    .. grid-item-card:: Advanced Procedures
+        :img-top: /_img/cards/advanced-card_16-9.jpg
+        :link: advanced/index
+        :link-type: doc
+        :class-title: card-title
 
-How-Tos
-===========
-
-.. important::
-    How-Tos are linear procedures aiming to take the user from a given situation he might encounter and recognize to a desired outcome. This desired outcome may (but not necessarily) be "MS ready 
-    to follow".
-    
-    The titles of these procedures must clearly reflect their intended outcome (the issue they are solving for the user). 
-
-    "Activate Back-up Mode" for example does not take the user to a clear desired outcome, "Using the MS load recovery capabilities" does not either. However "Recover suspended load with MS-Backed Gravity Lowering"
-    is clearly identifiable by the user as a procedure to follow to get a desired outcome.
-    
-
-.. note::
-    List of expected How-Tos, The titles are not defintive:
-
-    * Unlock hoist motion on installed MS by disassembling worm
-    * Assemble Worm on installed MS
-    * Run MS Self-test and read results
-    * Consult warnings history
-    * Measure MS arrest torque on installed MS
-    * Recover suspended load with MS Integrated Load Recovery
-    * Recover suspended load with MS-Backed Gravity Lowering
-    * Recover suspended load with MS Portable Recovery Tool
-    * Replace MS Oil
-    * Replace xx part
-    * Perform visual check of MS
-
-
+        Accessing firmware settings. Bypassing MotoSuiveur® safety if required.
 
 
 .. toctree::
-  :maxdepth: 2
-  :hidden:
-  :caption: How tos
+    :maxdepth: 2
+    :hidden:
+    :caption: Sections
 
-  /howto/remove-ms-worm
-  /howto/recovery-gravity-lowering
-
-
+    /installation/index
+    /operation/regular/index
+    /operation/load-arrest/index
+    /operation/recovery/index
+    /maintenance/index
+    /advanced/index
 
 .. toctree::
-   :maxdepth: 4
-   :hidden:
-   :caption: Reference
+    :maxdepth: 2
+    :hidden:
+    :caption: Reference
 
-   faq
-   glossary
-   external-links
-   sitemap
-   sphinx-tools-demo-page
+    faq
+    glossary
+    external-links
+    sitemap
+    sphinx-tools-demo-page
+    /archives/index
+
+.. toctree::
+    :maxdepth: 2
+    :hidden:
+    :caption: How tos
+
+    /howto/remove-ms-worm
+    /howto/recovery-gravity-lowering
+
+
+
+

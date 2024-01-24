@@ -2,7 +2,7 @@
 MS Controller internal check
 ============================
 
-.. include:: ../../_img/_image-substitutions.rst
+.. include:: /_img/_image-substitutions.rst
 
 After initial power up or after reset is performed, MS Controller start internal check.
 All steps and actions from initialization are displayed on integrated 7 segment display.
@@ -55,6 +55,6 @@ On sequence below ish shown example for nodID address 01:
 
 Video with presented example is shown bwlow:
 
-.. image:: ../../_img/7-segment/MS-Controller-internal-check/internal-check.gif
+.. image:: /_img/7-segment/MS-Controller-internal-check/internal-check.gif
     :width: 150 px
     :class: instructionimg

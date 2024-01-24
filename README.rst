@@ -10,7 +10,7 @@ Version History
 -------
 
 Първоначална версия с непроменено съдържание от:
-    - SIGUREN MS MANUAL (от края на 2022 г.)
+    - SIGUREN technologies MS MANUAL (от края на 2022 г.)
     - "използване на възможностите за възстановяване на ms.docx"
     - "catalog_MS_2018_.._.docx"
 

@@ -16,4 +16,4 @@ Message;	Title/Description;	                    Possible cases;	Remedy
 **F23**;	Damping too hard;	                                Damping nozzles too closed;	Center the worm in position with upward and downward enable indicators are on. Wait 15 sec. Reset MotoSuiveur® System
 **F33**;	Unscrewing Overspeed / Overspeed during lowering;	Hoist speed exceeds maximum defined speed during lowering;	Reset MotoSuiveur® System
 **F34**;	Screwing Overspeed / Overspeed during lifting;	    Hoist speed exceeds maximum defined speed during lifting;	Reset MotoSuiveur® System
-**E55**;	Oil;	                                            Low oil level in MotoSuiveur® Unit;	Check MS unit oil level. Check healthy of MS oil level sensor. Check healthy of connection between MotoSuiveur® oil level sensor and MotoSuiveur® control cabinet
+**E55**;	Oil;	                                            Low oil level in MS Unit;	Check MS Unit oil level. Check healthy of MS oil level sensor. Check healthy of connection between MotoSuiveur® oil level sensor and MotoSuiveur® control cabinet

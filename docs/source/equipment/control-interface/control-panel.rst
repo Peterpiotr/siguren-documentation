@@ -7,7 +7,7 @@ Control Panel
 Layout of the control panel is defined according to pre-selected functionality relative to the MS Block Diagram. 
 The control panel can be located on the control cabinet front door, can be external or a combination of both.
 The operator has the facility to use the controls via switches or MSHMI.
-The switches and HMI can be used to switch the operating modes of the MotoSuiveur® system.
+The switches and HMI can be used to switch the operating modes of the MotoSuiveur® System.
 Combination of active (ON) and inactive (OFF) signal lams gives current status of MotoSuiveur®. 
 
 
@@ -25,49 +25,49 @@ Mandatory are:
 The figure below shows an example overview of a control panel with and without MSHMI.
 
 .. _Control panel figure:
-.. figure:: /_img/Control-panel/control-panel-overview.png
-	:align: center
-	:figwidth: 600 px
+.. figure:: /_img/control-panel/control-panel-overview.png
+	:class: instructionimg
+	:figwidth: 100 %
 	:alt: Control cabinet
 
 	Control panel according documentation 
 
 .. _General view of control panel:
-.. figure:: /_img/Peter/control-panel-02.png
-	:align: center
-	:figwidth: 600 px
+.. figure:: /_img/archives/control-panel-02.png
+	:class: instructionimg
+	:figwidth: 100 %
 	:alt: Control cabinet
 
 	Control panel as built
 
 
 .. csv-table:: Control panel layout without MSHMI
-   :file: ../../_tables/control-panel-legend.csv
+   :file: /_tables/control-panel-legend.csv
    :delim: ;
    :header-rows: 1
    :widths: auto
-   :class: tight-table
-   :align: center
+   
+   :class: instructionimg
 
 
 External control panel
 ======================
 
 .. _General view of external control panel:
-.. figure:: /_img/Peter/control-panel-external.png
-	:align: center
-	:figwidth: 600 px
+.. figure:: /_img/archives/control-panel-external.png
+	:class: instructionimg
+	:figwidth: 100 %
 	:alt: Control cabinet
 
 	External control panel overview
 
 .. csv-table:: External control panel
-   :file: ../../_tables/control-panel-external.csv
+   :file: /_tables/control-panel-external.csv
    :delim: ;
    :header-rows: 1
    :widths: auto
-   :class: tight-table
-   :align: center
+   
+   :class: instructionimg
 
 
 Mandatory signals and controls
@@ -117,9 +117,9 @@ MotoSuiveur® warnings are displayed with combination of |image035| and number.
 Reset 
 ^^^^^^
 
-:guilabel:`🔘 Reset button` reset MotoSuiveur® system electrically and mechanically. After reset, MotoSuiveur® system is performing self-test. 
+:guilabel:`🔘 Reset button` reset MotoSuiveur® System electrically and mechanically. After reset, MotoSuiveur® System is performing self-test. 
 
 
 **References:**
 
-:doc:`../../equipment/ms-solution/control-cabinet`
+:doc:`/equipment/ms-solution/control-cabinet`

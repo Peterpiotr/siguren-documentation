@@ -2,7 +2,7 @@
 Automatic Recovery Engagement 
 ==============================
 
-.. include:: ../../_img/_image-substitutions.rst
+.. include:: /_img/_image-substitutions.rst
 
 
 Automatic recovery engagement is used when emergency load lowering is required in case 
@@ -33,16 +33,26 @@ Steps
 
 	1. Switch :guilabel:`🔑 RECOVERY MODE OFF/ON` to position **ON**.
 
+<<<<<<< HEAD
 		.. figure:: ../../_img/Recovery/recovery-switch-on.png
 			:figwidth: 300 px
+=======
+		.. figure:: /_img/recovery/recovery-switch-on.png
+			:figwidth: 100 %
+>>>>>>> 0.1.2_peter
 			:class: instructionimg
 
 			Activating recovery mode
 
 			- The :guilabel:`🟠 RECOVERY MODE` indicator light comes on.
 
+<<<<<<< HEAD
 		.. figure:: ../../_img/Recovery/recovery-indicator-on.png
 			:figwidth: 300 px
+=======
+		.. figure:: /_img/recovery/recovery-indicator-on.png
+			:figwidth: 100 %
+>>>>>>> 0.1.2_peter
 			:class: instructionimg
 
 			Recovery mode light indicator
@@ -51,8 +61,13 @@ Steps
 
 	2. Wait for :guilabel:`🟢 RECOVERY ENGAGED` light indicator to come on.
 
+<<<<<<< HEAD
 		.. figure:: ../../_img/Recovery/recovery-engaged-on.png
 			:figwidth: 300 px
+=======
+		.. figure:: /_img/recovery/recovery-engaged-on.png
+			:figwidth: 100 %
+>>>>>>> 0.1.2_peter
 			:class: instructionimg
 
 			Recovery engaged
@@ -62,8 +77,18 @@ Steps
 	.. what confirm this? - Recovery engaged` light indicator to come on
 	.. let the final step not be an action?
 
+<<<<<<< HEAD
 	3. If :guilabel:`🟢 RECOVERY ENGAGED` indicator does not illuminate after **30 seconds** a Reset of the MotoSuiveur® system is required.
 	
+=======
+	.. note::
+		Upon engagement, you will hear a light knocking sound.
+
+	.. important::
+		If :guilabel:`🟢Recovery engaged` indicator does not illuminate after **30 seconds** a Reset of the MotoSuiveur® System is required.
+		After Reset, MotoSuiveur® System repeats steps **3 and 4 automatically**. 
+
+>>>>>>> 0.1.2_peter
 
 
 Automatic Recovery Engagement for MotoSuiveur® System with **MSCD** MS Controllers
@@ -81,14 +106,19 @@ Steps
 	The :guilabel:`🟠 BACKUP/RECOVERY MODE` indicator light illuminate.
 	MS Controller 7-segment display indicates **Backup mode** - |image058|.
 
+<<<<<<< HEAD
 	.. figure:: ../../_img/Recovery/backup-recovery-on.PNG
 		:figwidth: 300 px
+=======
+	.. figure:: /_img/recovery/backup-recovery-on.PNG
+		:figwidth: 200 px
+>>>>>>> 0.1.2_peter
 		:class: instructionimg
 
 		Activating Backlup/Recovery mode
 
 	
-	.. figure:: ../../_img/Recovery/backup-recovery-indicator-on.PNG
+	.. figure:: /_img/recovery/backup-recovery-indicator-on.PNG
 		:figwidth: 300 px
 		:class: instructionimg
 
@@ -96,8 +126,13 @@ Steps
 
 	2. Restart the MotoSuiveur® System.
 
+<<<<<<< HEAD
 	.. figure:: ../../_img/Recovery/reset.png
 		:figwidth: 300 px
+=======
+	.. figure:: /_img/recovery/reset.png
+		:figwidth: 200 px
+>>>>>>> 0.1.2_peter
 		:class: instructionimg
 
 		Reset of MotoSuiveur® System
@@ -113,8 +148,13 @@ Steps
 	4. Wait until :guilabel:`🟢 RECOVERY ENGAGED` light indicator is illuminated.
 
 
+<<<<<<< HEAD
 	.. figure:: ../../_img/Recovery/recovery-engaged-on.png
 		:figwidth: 300 px
+=======
+	.. figure:: /_img/recovery/recovery-engaged-on.png
+		:figwidth: 200 px
+>>>>>>> 0.1.2_peter
 		:class: instructionimg
 
 		Recovery engaged SMD
@@ -123,8 +163,14 @@ Steps
 
 	.. what is the signal that confirms it
 
+<<<<<<< HEAD
 	5. If :guilabel:`🟢 RECOVERY ENGAGED` indicator does not illuminate after **30 seconds** a Reset of the MotoSuiveur® system is required.
 		After Reset, MotoSuiveur® system repeats steps **3 and 4 automatically**. 
+=======
+	.. important::
+		If :guilabel:`🟢Recovery engaged` indicator does not illuminate after **30 seconds** a Reset of the MotoSuiveur® System is required.
+		After Reset, MotoSuiveur® System repeats steps **3 and 4 automatically**. 
+>>>>>>> 0.1.2_peter
 
 	.. this "important" should be in the steps
 

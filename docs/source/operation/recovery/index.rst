@@ -1,13 +1,9 @@
-==============================
-Backup and Recovery Operation
-==============================
-
-.. note::
-    Some procedures remain outside of this folder, inside different chapters.
-
+========================
+Suspended Load Recovery
+========================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    recovery-operation
    recovery-overview
@@ -19,3 +15,8 @@ Backup and Recovery Operation
    forced-lowering-backup
    electrical-automatic-backup 
    automatic-recovery-engagement
+<<<<<<< HEAD
+=======
+   recovery-gravity-lowering
+   backup-mode-procedures
+>>>>>>> 0.1.2_peter

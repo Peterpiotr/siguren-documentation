@@ -1,5 +1,5 @@
 =======================
-MotoSuiveur® technology 
+MotoSuiveur® Technology 
 =======================
 
 .. note::
@@ -18,9 +18,9 @@ It also allows emergency operation of the hoist using the recovery facility, in 
 
 Moreover, it offers the possibility to check the parameters, to test the securities of the program by modifying some parameters.
 
-.. figure:: ../_img/Peter/ms-tech-01.png
-    :figwidth: 600 px
-    :align: center
+.. figure:: /_img/archives/ms-tech-01.png
+    :figwidth: 100 %
+    :class: instructionimg
 
     Example of MotoSuiveur® Solution implementation
 
@@ -39,7 +39,7 @@ which results in a blocking of the last one (and thus the blocking of the load) 
 In such a case, the MotoSuiveur® stops the load in a distance depending on the hoist inertias and torque, 
 by friction of the internal disks of the friction absorber inside the MotoSuiveur® wheel.
 
-As option, a torque limiter can be added between the main motor and the gear box in order to smooth the static and dynamic overloads.
+As option, a MS Torque Limiter can be added between the main motor and the gear box in order to smooth the static and dynamic overloads.
 
 The MotoSuiveur® interprets and executes the same commands as the main system, but independently of this one. 
 Due to the irreversibility of the wheel/worm screw couple, it limits the immediate speed of the winch to a speed 

@@ -2,7 +2,7 @@
 Recovery by forced lowering procedure
 =====================================
 
-.. include:: ../img/substitutions.rst
+.. include:: /img/substitutions.rst
 
 .. =====================================================================================================================
 
@@ -26,45 +26,45 @@ Tools that are needed for this type of recovery load are as follows:
 
 Steps
 	1. Switch off power of the MotoSuiveur® System control cabinet.
-	2. Dismantle the worm cover of the MotoSuiveur® Unit .
+	2. Dismantle the worm cover of the MS Unit .
 
-	.. figure:: ../../_img/Backup/remove-cover-bolts-removebg-preview.png
-		:figwidth: 600 px
+	.. figure:: /_img/backup/remove-cover-bolts-removebg-preview.png
+		:figwidth: 100 %
 		:class: instructionimg
 
 		Remove cover bolts
 
 
-	.. figure:: ../../_img/Backup/remove-cover-removebg-preview.png
-		:figwidth: 600 px
+	.. figure:: /_img/backup/remove-cover-removebg-preview.png
+		:figwidth: 100 %
 		:class: instructionimg
 
 		Dismantle the worm cover
 
 	3. Remove worm switch cam
 
-	.. figure:: ../../_img/Backup/bolt-removebg-preview.png
-		:figwidth: 600 px
+	.. figure:: /_img/backup/bolt-removebg-preview.png
+		:figwidth: 100 %
 		:class: instructionimg
 
 		Remove worm switc cam bolt
 
-	.. figure:: ../../_img/Backup/disassembly-switch-cam-removebg-preview.png
-		:figwidth: 600 px
+	.. figure:: /_img/backup/disassembly-switch-cam-removebg-preview.png
+		:figwidth: 100 %
 		:class: instructionimg
 
 		Remove worm switch cam
 
 	4. Install the required tool for the corresponding size
 
-	.. figure:: ../../_img/Recovery/MS-HRT.png
-		:figwidth: 600 px
+	.. figure:: /_img/recovery/MS-HRT.png
+		:figwidth: 100 %
 		:class: instructionimg
 
 		Installation of Handheld Recovery Tool (MS-HRT)
 
-	.. figure:: ../../_img/Recovery/MS-PRT.png
-		:figwidth: 600 px
+	.. figure:: /_img/recovery/MS-PRT.png
+		:figwidth: 100 %
 		:class: instructionimg
 
 		Installation of Portable Recovery Tool (MS-PRT)
@@ -75,5 +75,5 @@ Steps
 
 
 	.. warning::
-		Detailed inspection of the MotoSuiveur® Unit (worm and wheel) and 
+		Detailed inspection of the MS Unit (worm and wheel) and 
 		the hoist is mandatory after lowering is complete!

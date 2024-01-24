@@ -2,25 +2,25 @@
 Load recovery operations
 ========================
 
-.. include:: ../../_img/_image-substitutions.rst
+.. include:: /_img/_image-substitutions.rst
 
 .. ====================================================================================================================
 
 .. role:: mechpart
    :class: mechpart
 
-Using the MotoSuiveur® system recovery capabilities
+Using the MotoSuiveur® System recovery capabilities
 ====================================================
 
-The MotoSuiveur® Unit will never allow a load drop. It will arrest the hoist drum whenever the hoist brake is unable to do so. 
-However, the MotoSuiveur® Unit can be used as a gearbox to lower and even raise the load. 
+The MS Unit will never allow a load drop. It will arrest the hoist drum whenever the hoist brake is unable to do so. 
+However, the MS Unit can be used as a gearbox to lower and even raise the load. 
 
 .. note::
-	The MotoSuiveur® Unit is irreversible – meaning that load drop is impossible even when the MotoSuiveur® Unit alone is used for recovering the load. 
+	The MS Unit is irreversible – meaning that load drop is impossible even when the MS Unit alone is used for recovering the load. 
 	This allows the user to use the weight of the load without risking a load drop.
 
 Three main methods can be used (and combined) to recover the load, depending on how the hoist brake 
-and the MotoSuiveur® Unit can be accessed and used in the emergency situation that requires the recovery:
+and the MS Unit can be accessed and used in the emergency situation that requires the recovery:
 
 - :ref:`Forced MS recovery`
 - :ref:`MS followed gravity lowering`
@@ -30,14 +30,14 @@ and the MotoSuiveur® Unit can be accessed and used in the emergency situation t
 Forced MotoSuiveur® recovery
 -----------------------------
 
-With the hoist brake open and the MotoSuiveur® Unit holding the load, rotate the MS worm shaft with considerable torque. 
-In this situation the MotoSuiveur® Unit moves the load.
+With the hoist brake open and the MS Unit holding the load, rotate the MS worm shaft with considerable torque. 
+In this situation the MS Unit moves the load.
 This way, a very high amount of torque must be applied on the MS shaft (approximately 1/8 of the barrel torque).
 
 Using the following hardware:
 
-- :doc:`Portable Recovery Tool <../../equipment/ms-solution/rec-addons>` for sizes MS4 - MS7, or
-- :doc:`Handheld Recovery Tool <../../equipment/ms-solution/rec-addons>` for sizes MS0 - MS3
+- :doc:`Portable Recovery Tool </equipment/ms-solution/rec-addons>` for sizes MS4 - MS7, or
+- :doc:`Handheld Recovery Tool </equipment/ms-solution/rec-addons>` for sizes MS0 - MS3
 
 For MS with Integrated Load Recovery the hardware is integrated and is remotely operated.
 
@@ -46,18 +46,18 @@ Steps
   2. Rotate the worm shaft **only in anticlockwise direction** with the **following torque** to lower the SWL. 
   3. Maximum values shown in `Forced MS Recovery method max torques`.
 
-  .. figure:: ../../_img/Recovery/forced-ms-recovery.jpg
-  	:figwidth: 600 px
+  .. figure:: /_img/recovery/forced-ms-recovery.jpg
+  	:figwidth: 100 %
   	:class: instructionimg
 
   	Forced recovery
 
   .. csv-table:: Forced MS Recovery method max torques
-     :file: ../../_tables/forcedRecoveryTorque.csv
+     :file: /_tables/forcedRecoveryTorque.csv
      :delim: ,
      :header-rows: 1
      :widths: auto
-     :class: tight-table
+     
 
 
   .. important::
@@ -85,7 +85,7 @@ This means of hoisting is achieved and initiated from the MotoSuiveur® System c
 Steps
   1. Activating Recovery mode 
      
-  Activate Recovery mode by following steps in :doc:`Automatic recovery engagement procedure <../../operation/recovery/automatic-recovery-engagement>`
+  Activate Recovery mode by following steps in :doc:`Automatic recovery engagement procedure </operation/recovery/automatic-recovery-engagement>`
 
   2. Recovery lowering
 
@@ -97,8 +97,8 @@ Steps
 
   2.3 Lowering continues until the load has reached a safe location for detached from the hoist.
 
-  .. figure:: ../../_img/Recovery/recovery-down.png
-  	:figwidth: 600 px
+  .. figure:: /_img/recovery/recovery-down.png
+  	:figwidth: 100 %
   	:class: instructionimg
 
   	Turning switch to position Down
@@ -108,8 +108,8 @@ Steps
   When safe location is reached and load is detouched, the :guilabel:`Recovery Mode Down/Up` switch should be turned to the neutral position.
   Hoist main (service) brake has to **close**.
 
-  .. figure:: ../../_img/Recovery/recovery-neutral-position.png
-  	:figwidth: 600 px
+  .. figure:: /_img/recovery/recovery-neutral-position.png
+  	:figwidth: 100 %
   	:class: instructionimg
 
   	Turning switch to neutral position
@@ -121,15 +121,15 @@ Steps
 
   4.1 With hoist main brake closed downward movement with Integrated Recovey System is required.
 
-  .. figure:: ../../_img/Recovery/recovery-down.png
-  	:figwidth: 600 px
+  .. figure:: /_img/recovery/recovery-down.png
+  	:figwidth: 100 %
   	:class: instructionimg
 
   	Turning switch to position Down for recentering
 
   4.2 Movement continues until :guilabel:`🟢 Upward Enabled` and :guilabel:`🟢 Downward Enabled` indicator lights are both iluminated.
 
-  .. figure:: ../../_img/Recovery/upward-downward-enabled-on.png
+  .. figure:: /_img/recovery/upward-downward-enabled-on.png
   	:figwidth: 160 px
   	:class: instructionimg
 
@@ -144,7 +144,7 @@ Steps
 
   Switch :guilabel:`Recovery Mode Down/Up` to position **UP** for 2 - 5 seconds. After that switch to **neutral position**.
 
-  .. figure:: ../../_img/Recovery/recovery-upward-short.PNG
+  .. figure:: /_img/recovery/recovery-upward-short.PNG
   	:figwidth: 250 px
   	:class: instructionimg
 
@@ -153,7 +153,7 @@ Steps
 
   5.3 Turnin :guilabel:`🔑 Recovery Mode Off | On` switch to the position **OFF** 
 
-  .. figure:: ../../_img/Recovery/recovery-switch-off.png
+  .. figure:: /_img/recovery/recovery-switch-off.png
   	:figwidth: 200 px
   	:class: instructionimg
 
@@ -161,11 +161,11 @@ Steps
 
   5.4 Reset MotoSuiveur® System
 
-  .. figure:: ../../_img/Recovery/reset.png
+  .. figure:: /_img/recovery/reset.png
   	:figwidth: 200 px
   	:class: instructionimg
 
   	Reset MotoSuiveur® System
 
   .. note::
-  	`Integrated Load Recovery video  <https://www.youtube.com/watch?v=3iZUa1VCCgs&t=228s&ab_channel=SIGURENtechnologies>`_
+  	`Integrated Load Recovery video  <https://www.youtube.com/watch?v=3iZUa1VCCgs&t=228s&ab_channel=SIGUREN technologiestechnologies>`_
