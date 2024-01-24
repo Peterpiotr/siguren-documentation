@@ -97,12 +97,21 @@ Steps
 	MS Controller 7-segment display indicates **Backup mode** - |image058|.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 	.. figure:: /_img/recovery/backup-recovery-on.PNG
 		:figwidth: 200 px
 =======
 	.. figure:: ../../_img/Recovery/backup-recovery-on.PNG
 		:figwidth: 300 px
 >>>>>>> 828ef92 (save)
+=======
+	.. figure:: ../../_img/Recovery/backup-recovery-on.PNG
+		:figwidth: 300 px
+=======
+	.. figure:: /_img/recovery/backup-recovery-on.PNG
+		:figwidth: 200 px
+>>>>>>> 0.1.2_peter
+>>>>>>> e29019eee29cdeedd27f8bba8148e23eab8a40ca
 		:class: instructionimg
 
 		Activating Backlup/Recovery mode
@@ -116,8 +125,13 @@ Steps
 
 	2. Restart the MotoSuiveur® System.
 
+<<<<<<< HEAD
+	.. figure:: ../../_img/Recovery/reset.png
+		:figwidth: 300 px
+=======
 	.. figure:: /_img/recovery/reset.png
 		:figwidth: 200 px
+>>>>>>> 0.1.2_peter
 		:class: instructionimg
 
 		Reset of MotoSuiveur® System
@@ -134,12 +148,21 @@ Steps
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 	.. figure:: /_img/recovery/recovery-engaged-on.png
 		:figwidth: 200 px
 =======
 	.. figure:: ../../_img/Recovery/recovery-engaged-on.png
 		:figwidth: 300 px
 >>>>>>> 828ef92 (save)
+=======
+	.. figure:: ../../_img/Recovery/recovery-engaged-on.png
+		:figwidth: 300 px
+=======
+	.. figure:: /_img/recovery/recovery-engaged-on.png
+		:figwidth: 200 px
+>>>>>>> 0.1.2_peter
+>>>>>>> e29019eee29cdeedd27f8bba8148e23eab8a40ca
 		:class: instructionimg
 
 		Recovery engaged SMD
@@ -148,9 +171,14 @@ Steps
 
 	.. what is the signal that confirms it
 
+<<<<<<< HEAD
+	5. If :guilabel:`🟢 RECOVERY ENGAGED` indicator does not illuminate after **30 seconds** a Reset of the MotoSuiveur® system is required.
+		After Reset, MotoSuiveur® system repeats steps **3 and 4 automatically**. 
+=======
 	.. important::
 		If :guilabel:`🟢Recovery engaged` indicator does not illuminate after **30 seconds** a Reset of the MotoSuiveur® System is required.
 		After Reset, MotoSuiveur® System repeats steps **3 and 4 automatically**. 
+>>>>>>> 0.1.2_peter
 
 	.. this "important" should be in the steps
 
