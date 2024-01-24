@@ -42,7 +42,7 @@ MotoSuiveur® Overview
     /equipment/control-interface/index
     /about/features
     /about/ms-tech-overview
-    /about/risk-reduction
+    /about/achieving-inherent-safety
 
 
 Sections
