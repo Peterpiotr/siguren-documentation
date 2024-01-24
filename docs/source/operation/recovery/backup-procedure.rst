@@ -1,6 +1,6 @@
-=================
-Backup Procedure
-=================
+=======================================
+Activating/Deactivating Backup mode
+=======================================
 
 .. include:: /_img/_image-substitutions.rst
 
@@ -20,11 +20,10 @@ When Backup mode is activated:
 - Hoist enable signals are ignored.
 
 
-Backup procedure
-----------------
+Activating Backup Mode
+^^^^^^^^^^^^^^^^^^^^^^
 
-Activating and operating of Backup Mode
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+1. Activate Backup mode by turning the :guilabel:`🔑 BACKUP MODE OFF / ON` \*\ or :guilabel:`BACKUP/RECOVERY MODE OFF / ON` \**\ switch to the **ON** position.
 
 1. Activate Backup mode by turning the :guilabel:`Backup Mode Off | On` \*\ or :guilabel:`Backup/Recovery Mode Off | On` \**\ switch to the **On** position.
 
@@ -40,7 +39,7 @@ Activating and operating of Backup Mode
 
 	\**\ For MotoSuiveur® Systems equipped with **MSCD** MS Controller
 
-2. The Backup mode enable indicator illuminates. A symbol |image058| for activated Backup mode is displayed on the 7-segment indicator of the MS controller.
+2. The :guilabel:`Backup mode` enable indicator illuminates. A symbol |image058| for activated Backup mode is displayed on the 7-segment indicator of the MS controller.
 
 .. _Switch on Backup mode light:
 .. figure:: /_img/backup/backup-light-on.png
@@ -53,10 +52,10 @@ Activating and operating of Backup Mode
 4. Starting movements by hoist control.
    
 
-Deactivating of Backup Mode
+Deactivating Backup Mode
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-1. Deactivate Backup mode by turning the Backup Off | On switch to the **Off** position.
+1. Deactivate Backup mode by turning the :guilabel:`🔑 BACKUP MODE OFF / ON` switch to the **OFF** position.
 
 .. _Switch off Backup mode:
 .. figure:: /_img/backup/switch-off-backup.png
@@ -65,7 +64,7 @@ Deactivating of Backup Mode
 
 	Switching off Backup Mode
 
-2. The backup mode indicator  is not illuminated . On the 7-segment indicator of MS controller the symbol |image058| remain active ana **Backup mode operation is still activated**.
+2. :guilabel:`BACKUP MODE` indicator is not illuminated. On the 7-segment indicator of MS controller the symbol |image058| remain active and **BACKUP MODE OPERATION IS STILL ACTIVE!**.
 
 .. _Switch off Backup mode light:
 .. figure:: /_img/backup/backup-light-off.png

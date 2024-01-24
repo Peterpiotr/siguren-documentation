@@ -3,22 +3,38 @@ Glossary
 
 .. glossary::
 
-   rated speed
-      nominal speed
+   MotoSuiveur® System
+      MotoSuiveur® System contains MotoSuiveur® Unit, Control cabinet, torque limiter. MotoSuiveur® Unit and control cabinet are mandatory.
 
-   overspeed
-      Typically :guilabel:`Overspeed` is equal to:
-      **Overspeed = Nominal speed + 10%**
+   MotoSuiveur® Unit
+      The MotoSuiveur® Unit (referred to for short MS) is a proprietary system for the protection of the hoist load from mechanical or electrical failure and overspeed, 
+      and for the recovery of the load in the event of a failure. The unit is supplied with a proprietary control panel from the equipment manufacturers.
 
-   controller
-      also called 'drive' or 'servo-drive'
+   Torque Limiter
+      A torque limiter is used to protects hoist drive train form mechanical overload. 
+      A torque limiter limit the torque by slipping.
+
+      MS Torque Limiter is set to slip at a nominal value of 110% SWL. The response curve of the helical springs is maintained, 
+      and the pressure force applied to the linings is constant regardless of the degree of wear. 
+
+   Control cabinet
+      Control cabinet contains MS Controller, MSHMI, terminal blocks, relays, logical unit, relays, circuit breakers and wiring.
+
+   MS Controller
       SMD servo drives are especially suitable for high dynamics and high precision.
       They integrate the power supply, the braking resistor, the mains filter and the safety function. 
       Thanks to their integrated inputs/outputs and PLC functions, they are suitable for a wide variety of applications.
       Industrial Ethernet communication busses provide networked configurations. The user-friendly Windows-based parameterization software 
       offers functions for easy setup and diagnostics.
-      See `Digital DRIVE for Brushless motors SMD Series - Quick Start guide <https://www.serad.com/wp-content/uploads/Documentation/05%20-%20Variateurs%20pour%20moteur%20brushless/SMD/SMD%20-Quick%20Start%20Guide-2046-EN.pdf>`_ 
-   
+     
+
+   Rated speed
+      nominal speed
+
+   Overspeed
+      Typically :guilabel:`Overspeed` is equal to:
+      **Overspeed = Nominal speed + 10%**
+
    Brake Release Tool
       (description)
 
@@ -107,17 +123,15 @@ Glossary
       This operation is usually performed automatically by the control cabinet logics. It can be done when needed by other means.
       The engagement is detected by a sensor.
 
-   MotoSuiveur® control panel, control cabinet, control box or electrical cabinet
-      The electrical cabinet that contains relays, logical unit, motor drivers, relays, circuit breakers and wiring.
-
-   Proface, touch screen, programmable logic controller
+.. Proface, touch screen, programmable logic controller
       The Proface is the programmable logic controller that is the interface between the buttons and beacons 
       that are on the control panel, the driver of servo-motor(s) of the screw, the driver of the recovery motor 
-      if any and the hoisting installation electrical cabinet.
+      if any and the hoisting installation electrical cabinet. ..
 
    Drive, controller
       The motor controller that drives the Servo-motor. When control cabinet manages many MotoSuiveur®s, 
-      each servo-motor is driven by its own drive.
+      each servo-motor is driven by its own drive. 
+/
 
    Recovery Motor Drive
       The recovery motor controller that drives the recovery motor. When control cabinet manages many MotoSuiveur®s, 
