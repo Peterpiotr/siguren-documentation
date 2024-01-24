@@ -34,7 +34,7 @@ Steps
 	1. Switch :guilabel:`🔑 RECOVERY MODE OFF/ON` to position **ON**.
 
 		.. figure:: ../../_img/Recovery/recovery-switch-on.png
-			:figwidth: 600 px
+			:figwidth: 300 px
 			:class: instructionimg
 
 			Activating recovery mode
@@ -42,7 +42,7 @@ Steps
 			- The :guilabel:`🟠 RECOVERY MODE` indicator light comes on.
 
 		.. figure:: ../../_img/Recovery/recovery-indicator-on.png
-			:figwidth: 600 px
+			:figwidth: 300 px
 			:class: instructionimg
 
 			Recovery mode light indicator
@@ -52,7 +52,7 @@ Steps
 	2. Wait for :guilabel:`🟢 RECOVERY ENGAGED` light indicator to come on.
 
 		.. figure:: ../../_img/Recovery/recovery-engaged-on.png
-			:figwidth: 600 px
+			:figwidth: 300 px
 			:class: instructionimg
 
 			Recovery engaged
@@ -82,7 +82,7 @@ Steps
 	MS Controller 7-segment display indicates **Backup mode** - |image058|.
 
 	.. figure:: ../../_img/Recovery/backup-recovery-on.PNG
-		:figwidth: 200 px
+		:figwidth: 300 px
 		:class: instructionimg
 
 		Activating Backlup/Recovery mode
@@ -114,7 +114,7 @@ Steps
 
 
 	.. figure:: ../../_img/Recovery/recovery-engaged-on.png
-		:figwidth: 200 px
+		:figwidth: 300 px
 		:class: instructionimg
 
 		Recovery engaged SMD
