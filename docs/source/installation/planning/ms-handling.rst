@@ -26,7 +26,7 @@ To prevent the air from penetrating inside the damping chamber during transporta
 Oil sensor (2) or breather cap (3) are oriented up and oil drain hole (4) down.
 
 .. figure:: /_img/Installation/handling.png
-	:figwidth: 600 px
+	:figwidth: 100 %
 	:class: instructionimg
 
 	Transportation of MS Unit
@@ -43,7 +43,7 @@ During transportation MS Unit must be carried via the provided eye bolts (1).
 	Never lift an MS Unit by the motor.
 
 .. figure:: /_img/Installation/handling.png
-	:figwidth: 600 px
+	:figwidth: 100 %
 	:class: instructionimg
 
 	Connections of MS Unit

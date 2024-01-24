@@ -26,16 +26,16 @@ The figure below shows an example overview of a control panel with and without M
 
 .. _Control panel figure:
 .. figure:: /_img/control-panel/control-panel-overview.png
-	:align: center
-	:figwidth: 600 px
+	:class: instructionimg
+	:figwidth: 100 %
 	:alt: Control cabinet
 
 	Control panel according documentation 
 
 .. _General view of control panel:
 .. figure:: /_img/archives/control-panel-02.png
-	:align: center
-	:figwidth: 600 px
+	:class: instructionimg
+	:figwidth: 100 %
 	:alt: Control cabinet
 
 	Control panel as built
@@ -46,8 +46,8 @@ The figure below shows an example overview of a control panel with and without M
    :delim: ;
    :header-rows: 1
    :widths: auto
-   :class: tight-table
-   :align: center
+   
+   :class: instructionimg
 
 
 External control panel
@@ -55,8 +55,8 @@ External control panel
 
 .. _General view of external control panel:
 .. figure:: /_img/archives/control-panel-external.png
-	:align: center
-	:figwidth: 600 px
+	:class: instructionimg
+	:figwidth: 100 %
 	:alt: Control cabinet
 
 	External control panel overview
@@ -66,8 +66,8 @@ External control panel
    :delim: ;
    :header-rows: 1
    :widths: auto
-   :class: tight-table
-   :align: center
+   
+   :class: instructionimg
 
 
 Mandatory signals and controls

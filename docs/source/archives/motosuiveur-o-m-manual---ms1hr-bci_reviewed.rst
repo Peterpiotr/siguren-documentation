@@ -14,7 +14,7 @@ OPERATION & MAINTENANCE MANUAL
 
 PROJECT: BCI
 
-Published in Bulgaria by SIGUREN technologies Ltd
+Published in Bulgaria by SIGUREN technologies technologies Ltd
 
 Head Office: “Kuklensko shose” 21, Plovdiv 4004, Bulgaria
 
@@ -40,7 +40,7 @@ retrieval system of any nature.
 
 Requests for copies of this document should be referred to:
 
-SIGUREN technologies, ”Kuklensko shose” 21, Plovdiv 4004, Bulgaria
+SIGUREN technologies technologies, ”Kuklensko shose” 21, Plovdiv 4004, Bulgaria
 
 Email : contact@siguren.com
 
@@ -633,7 +633,7 @@ proprietary equipment OEM parts.
 **Safety, Health, Environment & Quality**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-SIGUREN technologies Ltd designs and manufactures equipment under an
+SIGUREN technologies technologies Ltd designs and manufactures equipment under an
 auditable
 
 |A picture containing logo Description automatically generated|
@@ -702,8 +702,8 @@ b) The Company’s liability under Sub-Clause (a) hereof is conditional
    received by the Company within 7 days of the discovery of the defect.
 
 2. Proof of regular maintenance in accordance with the Company’s
-   recommendations. **Maintenance shall only be carried out by SIGUREN
-   service engineers or SIGUREN approved service engineers/approved
+   recommendations. **Maintenance shall only be carried out by SIGUREN technologies
+   service engineers or SIGUREN technologies approved service engineers/approved
    companies.**
 
 3. The defect not being due to carelessness, improper treatment or any
@@ -2171,7 +2171,7 @@ b) MS warning number 10 (wrn_num = 10)
 +----------+-----------------------------------------------------------+
 
 There are no customer serviceable parts with in this unit. Maintenance
-**MUST** be completed by SIGUREN Technologies LTD or authorised service
+**MUST** be completed by SIGUREN technologies Technologies LTD or authorised service
 centres, the units are sealed and **MUST** not be opened by unauthorised
 persons.
 
@@ -2586,7 +2586,7 @@ Disposal of Components.
 +-------+--------------------------------------------------------------+
 | |A    | INCORRECT OR DEFECTIVE SPARE PARTS MAY LEAD TO DAMAGE,       |
 | lert| | MALFUNCTIONS, OR THE COMPLETE FAILURE OF THE MACHINE. ONLY   |
-|       | ORIGINAL SPARE PARTS MUST BE USED CONTACT SIGUREN            |
+|       | ORIGINAL SPARE PARTS MUST BE USED CONTACT SIGUREN technologies            |
 |       | TECHNOLOGIES LTD                                             |
 +=======+==============================================================+
 |       | **FAILURE TO OBSERVE THE ABOVE MAY RESULT IN INJURY OR       |

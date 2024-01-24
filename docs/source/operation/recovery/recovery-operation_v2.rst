@@ -111,4 +111,4 @@ Returning to Normal Operation
 
 
   .. note::
-  	Watch `Integrated Load Recovery video  <https://www.youtube.com/watch?v=3iZUa1VCCgs&t=228s&ab_channel=SIGURENtechnologies>`_
+  	Watch `Integrated Load Recovery video  <https://www.youtube.com/watch?v=3iZUa1VCCgs&t=228s&ab_channel=SIGUREN technologiestechnologies>`_

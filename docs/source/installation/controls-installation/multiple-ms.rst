@@ -6,7 +6,7 @@ The MotoSuiveur® System allows the installation of more than one MS Unit per ho
 
 .. _Multiple MS:
 .. figure:: /_img/multiple-ms/Silo.png
-	:figwidth: 600 px
-	:align: center
+	:figwidth: 100 %
+	:class: instructionimg
 
 	Multiple MotoSuiveur® System

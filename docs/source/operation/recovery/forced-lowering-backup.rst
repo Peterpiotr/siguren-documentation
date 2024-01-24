@@ -29,14 +29,14 @@ Steps
 	2. Dismantle the worm cover of the MS Unit .
 
 	.. figure:: /_img/backup/remove-cover-bolts-removebg-preview.png
-		:figwidth: 600 px
+		:figwidth: 100 %
 		:class: instructionimg
 
 		Remove cover bolts
 
 
 	.. figure:: /_img/backup/remove-cover-removebg-preview.png
-		:figwidth: 600 px
+		:figwidth: 100 %
 		:class: instructionimg
 
 		Dismantle the worm cover
@@ -44,13 +44,13 @@ Steps
 	3. Remove worm switch cam
 
 	.. figure:: /_img/backup/bolt-removebg-preview.png
-		:figwidth: 600 px
+		:figwidth: 100 %
 		:class: instructionimg
 
 		Remove worm switc cam bolt
 
 	.. figure:: /_img/backup/disassembly-switch-cam-removebg-preview.png
-		:figwidth: 600 px
+		:figwidth: 100 %
 		:class: instructionimg
 
 		Remove worm switch cam
@@ -58,13 +58,13 @@ Steps
 	4. Install the required tool for the corresponding size
 
 	.. figure:: /_img/recovery/MS-HRT.png
-		:figwidth: 600 px
+		:figwidth: 100 %
 		:class: instructionimg
 
 		Installation of Handheld Recovery Tool (MS-HRT)
 
 	.. figure:: /_img/recovery/MS-PRT.png
-		:figwidth: 600 px
+		:figwidth: 100 %
 		:class: instructionimg
 
 		Installation of Portable Recovery Tool (MS-PRT)

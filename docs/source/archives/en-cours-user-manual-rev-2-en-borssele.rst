@@ -750,7 +750,7 @@ case of corrosion risk (aggressive environment).
    the limiter part should never be dismantled. Never add nor withdraw a
    spring during normal functioning of the winch. You would be taking an
    important risk of damaging the equipment and all guarantee would be
-   lost. Any maintenance operation should be done by SIGUREN or an
+   lost. Any maintenance operation should be done by SIGUREN technologies or an
    authorized representative.*
 
 Setting and tests on the drives
@@ -851,7 +851,7 @@ To use it, see **procedure 6**.
 
    *After a gravity lowering by forced action of the Motosuiveur®, a
    disassembly and an inspection of your Motosuiveur® is essential to
-   safety. This operation should be done by SIGUREN.*
+   safety. This operation should be done by SIGUREN technologies.*
 
 Lubrication
 -----------
@@ -1355,8 +1355,8 @@ Advises for maintenance operations
 ----------------------------------
 
    |image66|\ *The casing plug cover (see figure 4) should never be
-   dismantled, except by a person qualified by SIGUREN. The damping
-   chamber is calibrated by SIGUREN according to the installation
+   dismantled, except by a person qualified by SIGUREN technologies. The damping
+   chamber is calibrated by SIGUREN technologies according to the installation
    specifications. After calibration, the casing plug cover is riveted
    to prevent its dismantling. Every cover removal by an unauthorized
    operator will void warranty.*
@@ -1452,7 +1452,7 @@ Belt changing
 Replacement of seals and elastomer washers
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-This replacement should be done by a person qualified by SIGUREN.
+This replacement should be done by a person qualified by SIGUREN technologies.
 
 Spare parts ordering
 --------------------
@@ -1939,7 +1939,7 @@ Procedure n° 6 : Back-up by forced lowering
 |image91|
 
    *After this operation, the Motosuiveur® must be disassembled and
-   inspected by SIGUREN.*
+   inspected by SIGUREN technologies.*
 
  Procedure n° 7 : Electrical / automatic back-up
 ------------------------------------------------

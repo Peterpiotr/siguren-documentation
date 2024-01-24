@@ -45,7 +45,7 @@ applicable, to emphasise the special significance of their presence.
 .. important::
   FAILURE TO OBSERVE THE ABOVE MAY RESULT IN INJURY OR DEATH.
 
-Maintenance **MUST** be completed by **SIGUREN Technologies LTD or authorised service centers**, the units are sealed and **MUST not** be opened by unauthorised persons. 
+Maintenance **MUST** be completed by **SIGUREN technologies Technologies LTD or authorised service centers**, the units are sealed and **MUST not** be opened by unauthorised persons. 
 
 .. important::
   Visual checks of the the unit MUST carried out at least annually.
@@ -69,7 +69,7 @@ Do not modify Motosuiveur® System! Any modification of the kinematic chain incr
 
 All work must be carried out by competent staff with appropriate training.
 
-SIGUREN Technologies declines any responsibility if the safety instructions are not followed correctly!
+SIGUREN technologies Technologies declines any responsibility if the safety instructions are not followed correctly!
 
 Motosuiveur® System is designed to work with lifting equipment and must only be used with the applications they have been ordered and designed for.
 

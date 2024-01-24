@@ -31,8 +31,8 @@ the following indicators are active - :guilabel:`🟢 Hoist enabled`, :guilabel:
 
 .. _Active indicators in following state:
 .. figure:: /_img/regular-operation/indicators-following-state.png
-   :align: center
-   :figwidth: 600 px
+   :class: instructionimg
+   :figwidth: 100 %
 
    Active indicators in following state
 
@@ -42,8 +42,8 @@ In this state, no upward movement of the crane is allowed, and a short downward 
 
 .. _Upward movement prohibited:
 .. figure:: /_img/regular-operation/indicators-following-state.png
-   :align: center
-   :figwidth: 600 px
+   :class: instructionimg
+   :figwidth: 100 %
 
    Upward movement prohibited
 
@@ -52,8 +52,8 @@ In this state, no downward movement of the crane is allowed, and a short upward 
 
 .. _Downward movement prohibited:
 .. figure:: /_img/regular-operation/downward-prohibited.png
-   :align: center
-   :figwidth: 600 px
+   :class: instructionimg
+   :figwidth: 100 %
 
    Downward movement prohibited
 
@@ -63,8 +63,8 @@ Accordingly, MotoSuiveur® System does not provide an Enable signal to hoist.
 
 .. _No enable signal from hoist:
 .. figure:: /_img/regular-operation/no-enable-signal.png
-   :align: center
-   :figwidth: 600 px
+   :class: instructionimg
+   :figwidth: 100 %
 
    No enable signal from hoist
 
@@ -79,8 +79,8 @@ Fault message is displayed on MS Controller 7-segmend display and MSHMI.
 
 .. _MS Fault state:
 .. figure:: /_img/regular-operation/ms-fault.png
-   :align: center
-   :figwidth: 600 px
+   :class: instructionimg
+   :figwidth: 100 %
    
    MotoSuiveur® System fault state
    
@@ -96,8 +96,8 @@ to prevent load drop.
 
 .. _Main principle of following operation mode and overspeed detection:
 .. figure:: /_img/archives/following-01.png
-   :align: center
-   :figwidth: 600 px
+   :class: instructionimg
+   :figwidth: 100 %
 
    Main principle of following operation mode and overspeed detection
 
@@ -108,7 +108,7 @@ to prevent load drop.
    :delim: ;
    :header-rows: 0
    :widths: auto
-   :class: tight-table
+   
    :align: left
 
 
@@ -129,8 +129,8 @@ They are active only during Rest.
    :delim: ;
    :header-rows: 1
    :widths: auto
-   :class: tight-table
-   :align: center
+   
+   :class: instructionimg
 
 `Symbols displayed on 7-segment display on MS controller during movement` shows the 
 symbols displayed on 7–segment display during following operation mode during movement.
@@ -141,8 +141,8 @@ symbols displayed on 7–segment display during following operation mode during 
    :header-rows: 1
    :delim: ;
    :widths: auto
-   :class: tight-table
-   :align: center
+   
+   :class: instructionimg
 
 
 MSHMI status messages
@@ -157,8 +157,8 @@ In table below status messages are listed.
    :header-rows: 1
    :delim: ;
    :widths: auto
-   :class: tight-table
-   :align: center
+   
+   :class: instructionimg
 
 \*\ :doc:`MotoSuiveur® System planned maintenance </maintenance/planned-maintenance/maintenance-schedule>`
 

@@ -23,7 +23,7 @@ MSHMI significantly expands the capabilities of MotoSuiveur® System by allowing
 .. _MotoSuiveur® HMI view:
 .. figure:: /_img/archives/ms-hmi-01.png
 	:scale: 100 %
-	:align: center
+	:class: instructionimg
 
 	MotoSuiveur® HMI 
 
@@ -75,7 +75,7 @@ Main screen provides actual status for MotoSuiveur® System.
    :delim: ;
    :header-rows: 1
    :widths: auto
-   :class: tight-table
+   
    :align: left
 
 
@@ -97,7 +97,7 @@ Menu screen contains all submenus for setup, status and information of MotoSuive
    :delim: ;
    :header-rows: 1
    :widths: auto
-   :class: tight-table
+   
    :align: left
 
 MS Variables Screen
@@ -117,7 +117,7 @@ range 0 - 63.
    :delim: ;
    :header-rows: 1
    :widths: auto
-   :class: tight-table
+   
    :align: left
 
 Navigation to MS variables screen and change value of variable
@@ -160,7 +160,7 @@ different types can be taken by pressing *Maintenance Info* button.
    :delim: ;
    :header-rows: 1
    :widths: auto
-   :class: tight-table
+   
    :align: left
 
 .. _Maintenance info:
@@ -186,7 +186,7 @@ Screen Self-Test displays values from last MotoSuiveur® System self-test.
    :delim: ;
    :header-rows: 1
    :widths: auto
-   :class: tight-table
+   
    :align: left
 
 
@@ -207,7 +207,7 @@ after restart or power loss of MSHMI.
    :delim: ;
    :header-rows: 1
    :widths: auto
-   :class: tight-table
+   
    :align: left
 
 .. _MS status log Screen:
@@ -239,7 +239,7 @@ MS Warning log group contains all fault events appears during MotoSuiveur® Syst
    :delim: ;
    :header-rows: 1
    :widths: auto
-   :class: tight-table
+   
    :align: left
 
 Version Screen
@@ -258,7 +258,7 @@ version and MS Controller firmware version.
    :delim: ;
    :header-rows: 1
    :widths: auto
-   :class: tight-table
+   
    :align: left
 
 

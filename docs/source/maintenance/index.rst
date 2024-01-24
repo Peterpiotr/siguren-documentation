@@ -8,12 +8,21 @@ Maintenance
 
   mechanical/mandatory-warnings
   mechanical/maintenance-schedule
+  mechanical/oil-change
   mechanical/lubrication
   mechanical/storage
   mechanical/predictive-maintenance
   mechanical/safety-datasheets
-  mechanical/spare-parts
+
+
+.. toctree::
+  :maxdepth: 2
+  :caption: Parts Replacements
   
+  mechanical/spare-parts
+  mechanical/replacing-seals
+
+
 .. toctree::
   :maxdepth: 1
   :caption: Controls and HMI
@@ -22,6 +31,7 @@ Maintenance
   controls/password-entry
   controls/software-updates
   
+
 .. toctree::
   :maxdepth: 2
   :caption: MS Torque Limiter

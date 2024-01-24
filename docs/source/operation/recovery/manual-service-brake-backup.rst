@@ -62,7 +62,7 @@ Instructions
 	1. Order lowering by switch :guilabel:`Backup mode Down/Up` to position **Down**. 
 
 	.. figure:: /_img/backup/backup-down-up-control.png
-		:figwidth: 600 px
+		:figwidth: 100 %
 		
 		Order lowering
 
@@ -77,12 +77,12 @@ Instructions
 	1. Use the Brake Release Tool to regulate and maintain the speed below the specified safe speed. A :guilabel:`🔊 buzzer` will sound when the safe speed is close.
 
 	.. figure:: /_img/backup/speed-limit-buzzer.png
-		:figwidth: 600 px
+		:figwidth: 100 %
 		
 		Specified limit speed reached
 
 	.. figure:: /_img/backup/backup-time-diagram.png
-		:figwidth: 600 px
+		:figwidth: 100 %
 		
 		Backup gravity lowering diagram
 
@@ -155,14 +155,14 @@ Instructions
    1. Switch on the MotoSuiveur® System to :doc:`Backup Mode <backup-procedure>`.
 
    .. figure:: /_img/backup/switch-on-backup.png
-   	:figwidth: 600 px
+   	:figwidth: 100 %
    	
    	Switch on Backup Mode
 
    2. Order lowering by switch and hold :guilabel:`Backup mode Down/Up` to position **Down**. 
 
    .. figure:: /_img/backup/backup-down-up-control.png
-   	:figwidth: 600 px
+   	:figwidth: 100 %
    	
    	Order lowering
 

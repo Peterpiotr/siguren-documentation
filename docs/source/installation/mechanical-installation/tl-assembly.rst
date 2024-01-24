@@ -43,4 +43,4 @@ It is the number of springs which defines the rating torque.
 .. warning::
     | The MS Torque Limiter being delivered is rated for the application; the limiter part should never be dismantled. 
     | Never add nor withdraw a spring during normal functioning of the winch. 
-    | Any maintenance operation should be done by SIGUREN or an authorized representative
+    | Any maintenance operation should be done by SIGUREN technologies or an authorized representative

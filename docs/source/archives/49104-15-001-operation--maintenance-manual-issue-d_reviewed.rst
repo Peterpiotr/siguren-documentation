@@ -4760,7 +4760,7 @@ additional suppliers of lubricants.**
 
 **Description MSDS**
 
-SIGUREN SW15
+SIGUREN technologies SW15
 
    Table 2.5-1
 
@@ -5019,7 +5019,7 @@ the number of springs which defines the rating torque.
    NEVER ADD OR WITHDRAW A SPRING DURING NORMAL FUNCTIONING OF THE
    WINCH. YOU WOULD BE TAKING AN IMPORTANT RISK OF DAMAGING THE
    EQUIPMENT AND ALL GUARANTIES WOULD BE LOST. ANY MAINTENANCE OPERATION
-   SHOULD BE DONE BY SIGUREN OR AN AUTHORIZED REPRESENTATIVE.**
+   SHOULD BE DONE BY SIGUREN technologies OR AN AUTHORIZED REPRESENTATIVE.**
 
 Issue Date\ *:* **07/08/2017**
 
@@ -8351,7 +8351,7 @@ this will cause the unit to malfunction.
 
    **CAUTION**
 
-ONLY USE SIGUREN SW15 OR SQ32 OIL. THE USE OF ANY OTHER OIL MAY LEAD TO
+ONLY USE SIGUREN technologies SW15 OR SQ32 OIL. THE USE OF ANY OTHER OIL MAY LEAD TO
 A SERIOUS MALFUNCTION.
 
 Issue Date\ *:* **07/08/2017** Document Ref: **49104-15-001**
@@ -9533,7 +9533,7 @@ Document Ref:
 
 Issue: D
 
-   **SIGUREN** |image196|
+   **SIGUREN technologies** |image196|
 
 Safety Data Sheets
 ------------------
@@ -9563,11 +9563,11 @@ Safety Data Sheets
    **1.2. Relevant identified uses of the substance or mixture and uses
    advised against**
 
-   Identified uses : Oil bathing dedicated for SIGURENT MotosuiveurTM
+   Identified uses : Oil bathing dedicated for SIGUREN technologiesT MotosuiveurTM
 
    **1.3. Details of the supplier of the safety data sheet**
 
-   Supplier : SIGUREN INGENIERIE SAS
+   Supplier : SIGUREN technologies INGENIERIE SAS
 
    Zl DE LA TUILLIERE
 
@@ -9587,7 +9587,7 @@ Safety Data Sheets
 
    **1.4. Emergency telephone number**
 
-   SIGUREN Tel : +33 6 12 32 44 43
+   SIGUREN technologies Tel : +33 6 12 32 44 43
 
 Issue Date\ *:* **07/08/2017**
 
@@ -9599,7 +9599,7 @@ Document Ref:
 
 Issue: D
 
-   **SIGUREN** |image197|
+   **SIGUREN technologies** |image197|
 
    **SECTION 2: HAZARDS IDENTIFICATION**
 
@@ -9665,7 +9665,7 @@ Document Ref:
 
 Issue: D
 
-   **SIGUREN** |image199|
+   **SIGUREN technologies** |image199|
 
    Contains Reaction products of 4-methyl-2-pentanol and diphosphorus
    pentasulfide, propoxylated, esterified with diphosphorus pentaoxide,
@@ -9814,7 +9814,7 @@ Issue Date\ *:* **07/08/2017** Document Ref: **49104-15-001**
 
    Page 77 Issue: D
 
-   **SIGUREN** |image200|
+   **SIGUREN technologies** |image200|
 
    **SECTION 4: FIRST AID MEASURES**
 
@@ -9883,7 +9883,7 @@ Document Ref:
 
 Issue: D
 
-   **SIGUREN** |image201|
+   **SIGUREN technologies** |image201|
 
    **SECTION 5: FIRE-FIGHTING MEASURES**
 
@@ -9952,7 +9952,7 @@ Document Ref:
 
 Issue: D
 
-   **SIGUREN** |image202|
+   **SIGUREN technologies** |image202|
 
    **Methods for cleaning up**
 
@@ -10018,7 +10018,7 @@ Document Ref:
 
 Issue: D
 
-   **SIGUREN** |image203|
+   **SIGUREN technologies** |image203|
 
    emissions of product (due to seal breakage, for example) onto hot
    casings or electrical contacts.
@@ -10125,7 +10125,7 @@ Issue Date\ *:* **07/08/2017** Document Ref: **49104-15-001**
 
    Page 81 Issue: D
 
-   **SIGUREN** |image204|
+   **SIGUREN technologies** |image204|
 
    DNEL Consumer
 
@@ -10282,7 +10282,7 @@ Issue Date\ *:* **07/08/2017** Document Ref: **49104-15-001**
 
    Page 82 Issue: D
 
-   **SIGUREN** |image205|
+   **SIGUREN technologies** |image205|
 
    8.2. Exposure controls
 
@@ -10348,7 +10348,7 @@ Document Ref:
 
 Issue: D
 
-   **SIGUREN** |image206|
+   **SIGUREN technologies** |image206|
 
 **SECTION 9: PHYSICAL AND CHEMICAL PROPERTIES**
 
@@ -10526,7 +10526,7 @@ Document Ref:
 
 Issue: D
 
-   **SIGUREN** |image207|
+   **SIGUREN technologies** |image207|
 
    **10.4. Conditions to Avoid**
 
@@ -10583,7 +10583,7 @@ Document Ref:
 
 Issue: D
 
-   |image208|\ **SIGUREN**
+   |image208|\ **SIGUREN technologies**
 
    *'I*
 
@@ -10731,7 +10731,7 @@ Document Ref:
 
 Issue: D
 
-   |image209|\ **SIGUREN**
+   |image209|\ **SIGUREN technologies**
 
    *'I*
 
@@ -10959,7 +10959,7 @@ domestic
 
    Page 87 Issue: D
 
-   |image210|\ **SIGUREN**
+   |image210|\ **SIGUREN technologies**
 
    *'I*
 
@@ -11105,7 +11105,7 @@ Issue Date\ *:* **07/08/2017** Document Ref: **49104-15-001**
 
 Page 88 Issue: D
 
-   |image211|\ **SIGUREN**
+   |image211|\ **SIGUREN technologies**
 
    *'I*
 
@@ -11172,7 +11172,7 @@ Document Ref:
 
 Issue: D
 
-   |image212|\ **SIGUREN**
+   |image212|\ **SIGUREN technologies**
 
    *'I*
 
@@ -11233,7 +11233,7 @@ Document Ref:
 
 Issue: D
 
-   **SIGUREN** |image213|
+   **SIGUREN technologies** |image213|
 
    *'I*
 

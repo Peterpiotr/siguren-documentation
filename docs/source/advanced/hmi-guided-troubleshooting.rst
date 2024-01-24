@@ -15,7 +15,7 @@ Steps
 	1. When a fault occurs, an information button |info-button| appears on the main screen next to the corresponding fault field.
 
 		.. figure:: /_img/troubleshooting/mshmi-main-screen.PNG
-			:figwidth: 600 px
+			:figwidth: 100 %
 			:class: instructionimg
 
 			Fault information
@@ -27,7 +27,7 @@ Steps
 		`Example` for MotoSuiveur® System E02 is shown on picture below.
 
 		.. figure:: /_img/troubleshooting/mshmi-e02.PNG
-			:figwidth: 600 px
+			:figwidth: 100 %
 			:class: instructionimg
 
 		MotoSuiveur® System E02

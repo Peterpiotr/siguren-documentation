@@ -9,7 +9,7 @@ MS Controller is connected directly to the servo motor through a dedicated cable
 .. _MS Controller:
 .. figure:: /_img/controls-installation/ms-controller-230.PNG
 	:figwidth: 465 px
-	:align: center
+	:class: instructionimg
 
 	MS Controller
 

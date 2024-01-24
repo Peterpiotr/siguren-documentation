@@ -795,7 +795,7 @@ the number of springs which defines the rating torque.
    be dismantled. Never add nor withdraw a spring during normal
    functioning of the winch. You would be taking an important risk of
    damaging the equipment and all guaranties would be lost. Any
-   maintenance operation should be done by SIGUREN or an authorized
+   maintenance operation should be done by SIGUREN technologies or an authorized
    representative.
 
 Setting and Tests on the Drives
@@ -1806,7 +1806,7 @@ Whilst completing maintenance and during the oil change procedure care
 must be taken not to introduce any particle inside the Motosuiveur® as
 this will cause the unit to malfunction.
 
-Use only the oil **SIGUREN SW15**. The use of any other oil may lead to
+Use only the oil **SIGUREN technologies SW15**. The use of any other oil may lead to
 a serious malfunction. For data sheet see Appendix 3
 
 Maintenance – Replacement Instructions
@@ -1815,7 +1815,7 @@ Maintenance – Replacement Instructions
 Replacement of Seals 
 ~~~~~~~~~~~~~~~~~~~~~
 
-This operation should be done by a person qualified by SIGUREN.
+This operation should be done by a person qualified by SIGUREN technologies.
 
 Recommended Spares
 ------------------
@@ -1996,7 +1996,7 @@ Mechanical spare/wear part list
 | t |                 |                      |                        |   |
 | y |                 |                      |                        |   |
 +===+=================+======================+========================+===+
-| 5 | MS oil          | Low temperature MS   | SIGUREN SW15           |   |
+| 5 | MS oil          | Low temperature MS   | SIGUREN technologies SW15           |   |
 | l |                 | oil                  |                        |   |
 +---+-----------------+----------------------+------------------------+---+
 | 2 | Wheel seal      | Ø180 x Ø150 x 8.5    | Rep. 3/                |   |

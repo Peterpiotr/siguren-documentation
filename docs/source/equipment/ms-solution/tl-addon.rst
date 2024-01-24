@@ -19,7 +19,7 @@ This makes MS Torque Limiters the most reliable and efficient means of protectio
 
 
 .. figure:: /_img/archives/torque-limiter.png
-   :align: center
+   :class: instructionimg
    :figwidth: 100 %
 
    MS Torque Limiter
@@ -29,5 +29,5 @@ This makes MS Torque Limiters the most reliable and efficient means of protectio
    :file: /_tables/torque-limiter.csv
    :delim: ;
    :header-rows: 1
-   :class: tight-table
+   
    :widths: auto

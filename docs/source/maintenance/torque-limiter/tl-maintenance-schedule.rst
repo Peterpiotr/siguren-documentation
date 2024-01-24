@@ -14,8 +14,8 @@ MS-TL
    :delim: ;
    :header-rows: 1
    :widths: auto
-   :class: tight-table
-   :align: center
+   
+   :class: instructionimg
 
 .. the table contains mini-procedures.
     Make them into procedures and illustrate with photos.

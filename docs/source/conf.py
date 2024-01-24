@@ -6,8 +6,8 @@ import datetime
 
 project = 'MotoSuiveur® Solutions documentation'
 year = datetime.datetime.now().year
-copyright = f'{year}, SIGUREN technologies Ltd.'
-author = 'SIGUREN technologies Ltd.'
+copyright = f'{year}, SIGUREN technologies technologies Ltd.'
+author = 'SIGUREN technologies technologies Ltd.'
 
 master_doc = 'index'
 version = '0.1.2'               # gets overwritten by readthedocs when published online?

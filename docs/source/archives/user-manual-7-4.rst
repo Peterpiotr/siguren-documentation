@@ -956,7 +956,7 @@ In particular, the following conditions are required:
 -  Make sure that no heat source is in direct contact with the
    Motosuiveur®.
 
--  The Motosuiveur® must be filled with oil **SIGUREN SQ32**
+-  The Motosuiveur® must be filled with oil **SIGUREN technologies SQ32**
 
 Steps
 -----
@@ -1019,7 +1019,7 @@ It is the number of springs which defines the rating torque;
    |image12|\ *The limiter being delivered rated for the application;
    the limiter part should never be dismantled. Never add nor withdraw a
    spring during normal functioning of the winch. Any maintenance
-   operation should be done by SIGUREN or an authorized representative.*
+   operation should be done by SIGUREN technologies or an authorized representative.*
 
 Setting and tests on the drives
 -------------------------------
@@ -1107,7 +1107,7 @@ After the reaction arm set-up:
    |image19|\ *During this operation, make you do not introduce any
    particle in the Motosuiveur®*
 
-   *Use only the* **SIGUREN SQ32** *oil. Using other oil can induce
+   *Use only the* **SIGUREN technologies SQ32** *oil. Using other oil can induce
    important malfunctions.*
 
 Electrical connection of the Motosuiveur® 
@@ -2647,13 +2647,13 @@ Figure 9: Locations for oil changing and filling
    *During this operation, take care not to introduce any particle
    inside the Motosuiveur®.*
 
-   *Use only the oil* **SIGUREN SQ32**\ *. The use of other oil may lead
+   *Use only the oil* **SIGUREN technologies SQ32**\ *. The use of other oil may lead
    to a serious dysfunction.*
 
 Replacement of seals 
 ~~~~~~~~~~~~~~~~~~~~~
 
-This operation should be done by a person qualified by SIGUREN.
+This operation should be done by a person qualified by SIGUREN technologies.
 
 Spare parts ordering
 --------------------

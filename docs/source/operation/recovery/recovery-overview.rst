@@ -44,7 +44,7 @@ Steps
   3. Maximum values shown in `Forced MS Recovery method max torques`.
 
    .. figure:: /_img/recovery/forced-ms-recovery.jpg
-      :figwidth: 600 px
+      :figwidth: 100 %
       :class: instructionimg
       
       Forced recovery
@@ -54,7 +54,7 @@ Steps
       :delim: ,
       :header-rows: 1
       :widths: auto
-      :class: tight-table
+      
 
 
    .. important::

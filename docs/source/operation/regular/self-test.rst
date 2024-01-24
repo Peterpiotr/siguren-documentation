@@ -69,15 +69,15 @@ On pigures below ish shown example for MS Controller internal fault (E01) and MS
 
 .. _MS Controller internal fault:
 .. figure:: /_img/regular-operation/E01-internal-error.png
-   :figwidth: 600 px
-   :align: center
+   :figwidth: 100 %
+   :class: instructionimg
 
    MS Controller internal fault
 
 .. _MS warninig:
 .. figure:: /_img/regular-operation/E10-MS-error.png
-   :figwidth: 600 px
-   :align: center
+   :figwidth: 100 %
+   :class: instructionimg
 
    MS warning
 
@@ -100,7 +100,7 @@ if some of the checks do not pass, a warning occurs.
    :file: /_tables/self-test.csv
    :delim: ;
    :header-rows: 1
-   :class: tight-table
+   
    :align: left
    :widths: auto
 
@@ -125,7 +125,7 @@ Sequence of switch test is listed in table below.
    :file: /_tables/switch-test.csv
    :delim: ;
    :header-rows: 1
-   :class: tight-table
+   
    :align: left
    :widths: auto
 
@@ -141,7 +141,7 @@ Sequence of checks is listed in table below.
    :file: /_tables/damping-test.csv
    :delim: ;
    :header-rows: 1
-   :class: tight-table
+   
    :align: left
    :widths: auto
 
@@ -157,7 +157,7 @@ Test sequence is listed in table below.
    :file: /_tables/air-test.csv
    :delim: ;
    :header-rows: 1
-   :class: tight-table
+   
    :align: left
    :widths: auto
 
@@ -172,6 +172,6 @@ Test sequense is listed below.
    :file: /_tables/play-test.csv
    :delim: ;
    :header-rows: 1
-   :class: tight-table
+   
    :align: left
    :widths: auto

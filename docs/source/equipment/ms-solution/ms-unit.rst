@@ -26,15 +26,15 @@ Hydraulic Damping MotoSuiveur®
 -------------------------------
 
 .. figure:: /_img/ms-unit/hydraulic-ms.PNG
-   :figwidth: 600 px
-   :align: center  
+   :figwidth: 100 %
+   :class: instructionimg  
     
 
 .. csv-table:: Hydraulic Damping MS Unit components
    :file: /_tables/hydraulic_ms.csv
    :delim: ;
    :header-rows: 1
-   :class: tight-table
+   
    :align: left
    :widths: auto
 
@@ -43,15 +43,15 @@ Friction MotoSuiveur®
 ---------------------
 
 .. figure:: /_img/ms-unit/Friction.jpg
-   :figwidth: 600 px
-   :align: center  
+   :figwidth: 100 %
+   :class: instructionimg  
     
 
 .. csv-table:: Friction MS Unit components
    :file: /_tables/friction_ms.csv
    :delim: ;
    :header-rows: 1
-   :class: tight-table
+   
    :align: left
    :widths: auto
 
@@ -84,8 +84,8 @@ MS Unit size
    :delim: ;
    :header-rows: 1
    :widths: 10, 30, 30, 30
-   :class: tight-table
-   :align: center
+   
+   :class: instructionimg
 
 
 Interfacing MotoSuiveur® System with hoist
@@ -105,7 +105,7 @@ The MotoSuiveur® secured hoist system typically comprises of the following comp
    :delim: ;
    :header-rows: 1
    :widths: auto
-   :class: tight-table
+   
    :align: left
 
 1 - The MS Unit can be fixed in different methods to the hoist. The following sections explain in more detail.
@@ -123,7 +123,7 @@ MotoSuiveur® System is controlled by hoist commands. No external control is nee
    It is recommended hoist main power supply and MS main power supply are separated.
 
 .. note::
-   SIGUREN TECHNOLOGIES RECOMMENDS that the power supply to the MotoSuiveur® System should not be cut off by the E-stop button.
+   SIGUREN technologies  RECOMMENDS that the power supply to the MotoSuiveur® System should not be cut off by the E-stop button.
 
 
 .. figure:: /_img/ms-unit/MS-Electrical-description.jpg
@@ -133,5 +133,5 @@ MotoSuiveur® System is controlled by hoist commands. No external control is nee
    :delim: ;
    :header-rows: 1
    :widths: auto
-   :class: tight-table
+   
    :align: left

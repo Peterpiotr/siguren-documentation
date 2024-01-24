@@ -26,7 +26,7 @@ Steps
 	2. Switch :guilabel:`🔑 Recovery Mode Off | On` to position **ON**.
 
 		.. figure:: /_img/recovery/recovery-switch-on.png
-			:figwidth: 600 px
+			:figwidth: 100 %
 			:class: instructionimg
 
 			Activating recovery mode
@@ -34,7 +34,7 @@ Steps
 			- The :guilabel:`🟠 Recovery Mode` indicator light comes on.
 
 		.. figure:: /_img/recovery/recovery-indicator-on.png
-			:figwidth: 600 px
+			:figwidth: 100 %
 			:class: instructionimg
 
 			Recovery mode light indicator
@@ -44,7 +44,7 @@ Steps
 	3. Wait for :guilabel:`🟢Recovery engaged` light indicator to come on.
 
 		.. figure:: /_img/recovery/recovery-engaged-on.png
-			:figwidth: 600 px
+			:figwidth: 100 %
 			:class: instructionimg
 
 			Recovery engaged

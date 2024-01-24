@@ -17,7 +17,7 @@ Control cabinet have nameplate_ located on front side of the door indicating inp
    :file: /_tables/control-cabinet-overview.csv
    :delim: ;
    :header-rows: 1
-   :class: tight-table
+   
    :align: left
    :widths: auto
 
@@ -29,7 +29,7 @@ The nameplate of the MS Control Cabinet indicates model, serial number, date of 
 Exemplary general appearance of control cabinet nameplate shown on figure below.
 
 .. figure:: /_img/control-cabinet/control-cabinet-nameplate.png
-	:figwidth: 600 px
+	:figwidth: 100 %
 	:class: instructionimg
 
 	MS Control Cabinet Nameplate
@@ -40,7 +40,7 @@ Architecture of a MotoSuiveur® System
 ======================================================
 
 .. figure:: /_img/archives/controlSignals.png
-	:figwidth: 600 px
+	:figwidth: 100 %
 	:class: instructionimg
 
 	Hoist-MS Control Signals
@@ -58,7 +58,7 @@ On figure below is presented the architecture of the standalone MotoSuiveur® So
 \*\ *T5 is not shown on figure below*
 
 .. figure:: /_img/archives/generalViewConnectionsMS-MSCC.png
-	:figwidth: 600 px
+	:figwidth: 100 %
 	:class: instructionimg
 
 	MS Control Cabinet Connections

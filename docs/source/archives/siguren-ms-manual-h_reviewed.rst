@@ -1,10 +1,10 @@
 ==================================
-SIGUREN MS MANUAL h_reviewed.docx
+SIGUREN technologies MS MANUAL h_reviewed.docx
 ==================================
 
 .. note::
    | From docx:
-   | `SIGUREN MS MANUAL h_reviewed.docx <https://siguren.sharepoint.com/:w:/s/Processdesign/EeVnJNbzx9ZAk8VM70NnPoYBNSV8YuV39I3vRaFSFK8XnQ?e=obFj18>`_
+   | `SIGUREN technologies MS MANUAL h_reviewed.docx <https://siguren.sharepoint.com/:w:/s/Processdesign/EeVnJNbzx9ZAk8VM70NnPoYBNSV8YuV39I3vRaFSFK8XnQ?e=obFj18>`_
 
 |image1|
 
@@ -666,7 +666,7 @@ shaft as is shown on figure 14.
 +========+=============================================================+
 | |A     | **After MS reset or manual centering of the worm and MS     |
 | close  | restart, no movement is performed or faults appears, please |
-| up of  | contact SIGUREN technologies on address                     |
+| up of  | contact SIGUREN technologies technologies on address                     |
 | a logo | support@siguren.com**                                       |
 | Descr  |                                                             |
 | iption |                                                             |
@@ -785,7 +785,7 @@ active signals on inputs of the MS controller before self-test begin.
 +--------+-------------------------------------------------------------+
 |        | **ATTENTION**                                               |
 +========+=============================================================+
-| |A     | **In case of repetitive faults, please contact SIGUREN      |
+| |A     | **In case of repetitive faults, please contact SIGUREN technologies      |
 | close  | technologies on address support@siguren.com!**              |
 | up of  |                                                             |
 | a logo |                                                             |
@@ -845,7 +845,7 @@ steps of *Play test* are shown.
 +--------+-------------------------------------------------------------+
 |        | **ATTENTION**                                               |
 +========+=============================================================+
-| |A     | **In case of repetitive faults, please contact SIGUREN      |
+| |A     | **In case of repetitive faults, please contact SIGUREN technologies      |
 | close  | Technologies on address support@siguren.com!**              |
 | up of  |                                                             |
 | a logo |                                                             |
@@ -1229,7 +1229,7 @@ MS faults and warnings
 +--------+-------------------------------------------------------------+
 |        | **ATTENTION**                                               |
 +========+=============================================================+
-| |A     | **In case of repetitive faults, please contact SIGUREN      |
+| |A     | **In case of repetitive faults, please contact SIGUREN technologies      |
 | close  | Technologies on address support@siguren.com!**              |
 | up of  |                                                             |
 | a logo |                                                             |
@@ -1435,7 +1435,7 @@ Monthly E= Annually, F= 2 Years, G=5 Years, H=10 Years
 +---------------------------+---+---+---+---+---+---+---+---+---------+--------+
 | Oil Level                 |   |   |   |   | ● |   |   |   | 75E\ :  | |ima   |
 |                           |   |   |   |   |   |   |   |   | sup:`6` | ge79|; |
-| SIGUREN MS Oil SQ32       |   |   |   |   |   |   |   |   |         | |ima   |
+| SIGUREN technologies MS Oil SQ32       |   |   |   |   |   |   |   |   |         | |ima   |
 |                           |   |   |   |   |   |   |   |   |         | ge80|; |
 |                           |   |   |   |   |   |   |   |   |         | |ima   |
 |                           |   |   |   |   |   |   |   |   |         | ge81|; |
@@ -1494,7 +1494,7 @@ Monthly E= Annually, F= 2 Years, G=5 Years, H=10 Years
 +---------------------------+---+---+---+---+---+---+---+---+---------+--------+
 | MS Oil                    |   |   |   |   |   |   |   | ● | 450E\ : | |ima   |
 |                           |   |   |   |   |   |   |   |   | sup:`6` | ge86|; |
-| SIGUREN MS Oil SQ32       |   |   |   |   |   |   |   |   |         | |im    |
+| SIGUREN technologies MS Oil SQ32       |   |   |   |   |   |   |   |   |         | |im    |
 |                           |   |   |   |   |   |   |   |   |         | age87| |
 +---------------------------+---+---+---+---+---+---+---+---+---------+--------+
 |                           | R |   |   |   |   |   |   |   |         |        |

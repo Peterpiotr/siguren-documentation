@@ -24,7 +24,7 @@ Heading 2
 :hoverxref:`example-ref` 
 
 .. figure:: /_img/backup/backup-down-up-control-off.png
-	:figwidth: 600 px
+	:figwidth: 100 %
 	:class: instructionimg
 
 	General view
@@ -144,7 +144,7 @@ Some other thext.
 
 .. figure:: /_img/backup/backup-down-up-control-off.png
     :figwidth: 300 px
-    :align: center
+    :class: instructionimg
 
     End of lowering
 

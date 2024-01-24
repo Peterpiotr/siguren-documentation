@@ -21,8 +21,8 @@ Diagram below shows the principle of Backup/Recovery operation mode.
 
 .. _Principle of Backup/Recovery operation :
 .. figure:: /_img/archives/backup-mode-02.png
-    :align: center
-    :figwidth: 600 px
+    :class: instructionimg
+    :figwidth: 100 %
 
     Principle of Backup/Recovery operation 
 
@@ -47,7 +47,7 @@ located :doc:`control panel front door </equipment/control-interface/control-pan
 
 .. _Example for manual operation in backup mode:
 .. figure:: /_img/archives/backup-mode-01.png
-	:align: center
+	:class: instructionimg
 
 	Example for manual operation in backup mode 
 

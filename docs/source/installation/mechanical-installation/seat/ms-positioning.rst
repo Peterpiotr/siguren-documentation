@@ -13,7 +13,7 @@ Land the (Gearbox/ ) drum / MS assembly on the seat blocks
 .. _Landing on trolley:
 .. figure:: /_img/archives/mounting-procedure-08.jpg
 	:width: 100 %
-	:align: center
+	:class: instructionimg
 
 	Landing on trolley
 
@@ -26,7 +26,7 @@ Mount the Radial and the Axial adjustment parts
 .. _Radial and Axial adjustment parts:
 .. figure:: /_img/archives/mounting-procedure-09.jpg
 	:width: 100 %
-	:align: center
+	:class: instructionimg
 
 	Radial and axial adjustment parts
 

@@ -4,8 +4,8 @@ Operation modes
 
 .. _General view of the sequence of MS operation:
 .. figure:: /_img/regular-operation/MS-block-diagram-color_1.PNG
-   :figwidth: 600 px
-   :align: center
+   :figwidth: 100 %
+   :class: instructionimg
 
    General view of the sequence of MotoSuiveur® operation
 

@@ -5,7 +5,7 @@ Installing a Flat-Sided Transmission Flange
 .. note::
 	Transmission flanges are custom-made for each project according to the nature of the hoist's drum, available space, and more parameters specific to each case.
 	
-	If parts of the following steps do not seem to apply to your project, please consult your contact engineer at SIGUREN technologies.
+	If parts of the following steps do not seem to apply to your project, please consult your contact engineer at SIGUREN technologies technologies.
 
 Steps
 	1. If the flat sides are not parallel, rotate the barrel.

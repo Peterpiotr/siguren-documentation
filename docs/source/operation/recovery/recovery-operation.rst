@@ -47,7 +47,7 @@ Steps
   3. Maximum values shown in `Forced MS Recovery method max torques`.
 
   .. figure:: /_img/recovery/forced-ms-recovery.jpg
-  	:figwidth: 600 px
+  	:figwidth: 100 %
   	:class: instructionimg
 
   	Forced recovery
@@ -57,7 +57,7 @@ Steps
      :delim: ,
      :header-rows: 1
      :widths: auto
-     :class: tight-table
+     
 
 
   .. important::
@@ -98,7 +98,7 @@ Steps
   2.3 Lowering continues until the load has reached a safe location for detached from the hoist.
 
   .. figure:: /_img/recovery/recovery-down.png
-  	:figwidth: 600 px
+  	:figwidth: 100 %
   	:class: instructionimg
 
   	Turning switch to position Down
@@ -109,7 +109,7 @@ Steps
   Hoist main (service) brake has to **close**.
 
   .. figure:: /_img/recovery/recovery-neutral-position.png
-  	:figwidth: 600 px
+  	:figwidth: 100 %
   	:class: instructionimg
 
   	Turning switch to neutral position
@@ -122,7 +122,7 @@ Steps
   4.1 With hoist main brake closed downward movement with Integrated Recovey System is required.
 
   .. figure:: /_img/recovery/recovery-down.png
-  	:figwidth: 600 px
+  	:figwidth: 100 %
   	:class: instructionimg
 
   	Turning switch to position Down for recentering
@@ -168,4 +168,4 @@ Steps
   	Reset MotoSuiveur® System
 
   .. note::
-  	`Integrated Load Recovery video  <https://www.youtube.com/watch?v=3iZUa1VCCgs&t=228s&ab_channel=SIGURENtechnologies>`_
+  	`Integrated Load Recovery video  <https://www.youtube.com/watch?v=3iZUa1VCCgs&t=228s&ab_channel=SIGUREN technologiestechnologies>`_

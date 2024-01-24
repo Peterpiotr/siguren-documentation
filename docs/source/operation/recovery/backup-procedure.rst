@@ -30,8 +30,8 @@ Activating and operating of Backup Mode
 
 .. _Switch on Backup mode:
 .. figure:: /_img/backup/switch-on-backup.png
-	:figwidth: 600 px
-	:align: center
+	:figwidth: 100 %
+	:class: instructionimg
 
 	Switching on Backup Mode
 
@@ -44,8 +44,8 @@ Activating and operating of Backup Mode
 
 .. _Switch on Backup mode light:
 .. figure:: /_img/backup/backup-light-on.png
-	:figwidth: 600 px
-	:align: center
+	:figwidth: 100 %
+	:class: instructionimg
 
 	Backup Mode light illunminates
 	
@@ -60,8 +60,8 @@ Deactivating of Backup Mode
 
 .. _Switch off Backup mode:
 .. figure:: /_img/backup/switch-off-backup.png
-	:figwidth: 600 px
-	:align: center
+	:figwidth: 100 %
+	:class: instructionimg
 
 	Switching off Backup Mode
 
@@ -69,8 +69,8 @@ Deactivating of Backup Mode
 
 .. _Switch off Backup mode light:
 .. figure:: /_img/backup/backup-light-off.png
-	:figwidth: 600 px
-	:align: center
+	:figwidth: 100 %
+	:class: instructionimg
 
 	Backup Mode light off
 

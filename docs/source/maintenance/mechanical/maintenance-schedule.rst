@@ -18,7 +18,7 @@ Maintenance Intervals
    :delim: ;
    :header-rows: 1
    :widths: auto
-   :class: tight-table
-   :align: center
+   
+   :class: instructionimg
 
 

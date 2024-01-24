@@ -16,7 +16,7 @@ Electrical connection of the MotoSuiveur® control cabinet
 .. _Electrical connections of MotoSuiveur® panel:
 .. figure:: /_img/archives/generalViewConnectionsMS-MSCC.png
 	:figwidth: 465 px
-	:align: center
+	:class: instructionimg
 
 	Electrical connection of MotoSuiveur® panel
 
@@ -24,7 +24,7 @@ Electrical connection of the MotoSuiveur® control cabinet
    :file: /_tables/electrical-connection.csv
    :delim: ;
    :header-rows: 1
-   :class: tight-table
+   
    :align: left
    :widths: auto
 
@@ -39,7 +39,7 @@ The set of inputs and outputs is defined in advance for each project based on pr
    :file: /_tables/terminasl-description.csv
    :delim: ;
    :header-rows: 1
-   :class: tight-table
+   
    :align: left
    :widths: auto
 
@@ -76,7 +76,7 @@ Principle location of electrical components on MS Unit are shown on figure below
 .. _Electrical connections of MS Unit:
 .. figure:: /_img/controls-installation/MS-unit.PNG
 	:figwidth: 465 px
-	:align: center
+	:class: instructionimg
 
 	Electrical connection of MS Unit
 
@@ -84,7 +84,7 @@ Principle location of electrical components on MS Unit are shown on figure below
    :file: /_tables/ms-unit-electrical-connection.csv
    :delim: ;
    :header-rows: 1
-   :class: tight-table
+   
    :align: left
    :widths: auto
 
@@ -98,7 +98,7 @@ Connectors C6 and C7 should be made according following specification:
 .. _Connector C6:
 .. figure:: /_img/controls-installation/C6.png
 	:figwidth: 465 px
-	:align: center
+	:class: instructionimg
 
 	Connector C6
 
@@ -108,7 +108,7 @@ Connectors C6 and C7 should be made according following specification:
 .. _Connector C7:
 .. figure:: /_img/controls-installation/C7.png
 	:figwidth: 465 px
-	:align: center
+	:class: instructionimg
 
 	Connector C7
 
@@ -117,14 +117,14 @@ Signal arrangement of connector on motor side for motor type S1.
 .. _Power connector type S1:
 .. figure:: /_img/controls-installation/S1-power.PNG
 	:figwidth: 465 px
-	:align: center
+	:class: instructionimg
 
 	Power connector type S1 (C6)
 
 .. _Resolver connector type S1:
 .. figure:: /_img/controls-installation/S1-resolver.PNG
 	:figwidth: 465 px
-	:align: center
+	:class: instructionimg
 
 	Resolver connector type S1 (C7)
 
@@ -135,14 +135,14 @@ Signal arrangement of connector on motor side for motor type S2.
 .. _Power connector type S2:
 .. figure:: /_img/controls-installation/S2-power.PNG
 	:figwidth: 465 px
-	:align: center
+	:class: instructionimg
 
 	Power connector type S2 (C6)
 
 .. _Resolver connector type S2:
 .. figure:: /_img/controls-installation/S2-resolver.PNG
 	:figwidth: 465 px
-	:align: center
+	:class: instructionimg
 
 	Resolver connector type S2 (C7)
 
@@ -157,7 +157,7 @@ Figure below shows M12 connector specification and present information which typ
 .. _M12 connector layout:
 .. figure:: /_img/controls-installation/oil-and-temp.png
 	:figwidth: 465 px
-	:align: center
+	:class: instructionimg
 
 	M12 connector layout
 
@@ -165,7 +165,7 @@ Figure below shows M12 connector specification and present information which typ
 .. _Oil and temperature:
 .. figure:: /_img/controls-installation/oil-sensors-connection.png
 	:figwidth: 465 px
-	:align: center
+	:class: instructionimg
 
 	Oil and temperature sensors connection
 
@@ -178,7 +178,7 @@ Position proximity sensors/switches are used for allowing or prohibits hoist mov
 .. _Movement:
 .. figure:: /_img/controls-installation/scr-uscr.PNG
 	:figwidth: 465 px
-	:align: center
+	:class: instructionimg
 
 	Movement table
 
@@ -188,7 +188,7 @@ NC contacts are used for connection. Signal from switches is active when they ar
 .. _Limit switches:
 .. figure:: /_img/controls-installation/limit-switches.png
 	:figwidth: 465 px
-	:align: center
+	:class: instructionimg
 
 	Limit switches
 
@@ -198,7 +198,7 @@ In case of proxy position sensors are used, sensors are with NO output and are a
 .. _Proximity sensors:
 .. figure:: /_img/controls-installation/position-sensors.png
 	:figwidth: 465 px
-	:align: center
+	:class: instructionimg
 
 	Proximity sensors
 
@@ -216,14 +216,14 @@ Windings of motor are connected in STAR (Y) configuration.
 .. _Star connection schematic:
 .. figure:: /_img/controls-installation/motor-star-connection.png
 	:figwidth: 465 px
-	:align: center
+	:class: instructionimg
 
 	Star connection schematic
 
 .. _Star connection:
 .. figure:: /_img/controls-installation/recovery-motor-connection-star.jpg
 	:figwidth: 465 px
-	:align: center
+	:class: instructionimg
 
 	AC motor connection
 
@@ -232,6 +232,6 @@ DC motor is controlled by MSRM4514 motor controller operating on 48VDC voltage.
 .. _DC motor:
 .. figure:: /_img/controls-installation/recovery-motor-dc.jpg
 	:figwidth: 465 px
-	:align: center
+	:class: instructionimg
 
 	DC motor connection
