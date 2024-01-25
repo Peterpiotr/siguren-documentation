@@ -4,7 +4,7 @@ Language Selection Screen
 
 Screen Language allows change of screen language.
 
-.. figure:: /_img/hmi/language.png
+.. figure:: /_img/hmi/language.PNG
     :figwidth: 100 %
     :align: center
 
