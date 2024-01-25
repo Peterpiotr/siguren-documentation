@@ -14,7 +14,7 @@ MS Controller is connected directly to the servo motor through a dedicated cable
 	MS Controller
 
 
-The MS controller is pre-programmed, set up and tested in conjunction with the entire MotoSuiveur® System 
+The MS Controller is pre-programmed, set up and tested in conjunction with the entire MotoSuiveur® System 
 The settings and tests are made according to the predefined:
 
 - the acceleration ramps
@@ -22,11 +22,11 @@ The settings and tests are made according to the predefined:
 - nominal speed
 - treshold overspeed
 
-MS controller setup parameters (variables) can be changed after initial programming.
+MS Controller setup parameters (variables) can be changed after initial programming.
 This can be done in 3 different ways:
 
 - via laptop
-- via MSHMI
+- via MS HMI
 - online session with Siguren Technologies team
 
 .. important::

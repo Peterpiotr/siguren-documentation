@@ -22,10 +22,10 @@ Faults are divided into two groups:
 .. the names of the two fault groups are not different nor explicit enough
 
 
-Faults and warnings displayed on MS 7–segment display of the controller indicate all types of MotoSuiveur® System warnings/faults and MS controller internal errors. 
+Faults and warnings displayed on MS 7–segment display of the controller indicate all types of MotoSuiveur® System warnings/faults and MS Controller internal errors. 
 Indication is a combination of letters and numbers. 
 
-MS controller internal faults are indicated with blinked combination of |image035|, number and finish with symbol |image039|.
+MS Controller internal faults are indicated with blinked combination of |image035|, number and finish with symbol |image039|.
 
 .. figure:: /_img/archives/MScontrollerInternalErrorE01.png
 	:figwidth: 100 %

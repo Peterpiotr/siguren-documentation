@@ -73,16 +73,42 @@ table.docutils {
 }
 
 
+/* Start custom lists here*/
+
 ol > li::marker {
     color: #2439bb; 
     font-weight: bold;
     font-size: 1.2em;
 }
 
-/* custom toc-tree from Blender Docs*/
+ol > li {
+    margin-bottom: 1em;
+}
+
+ol > li > ul > li {
+    list-style-type: none !important; /* Removes the default bullet */
+    position: relative; /* Positioning context for the pseudo-element */
+    margin-top: 1em;
+}
+
+ol > li > ul > li:before {
+    content: '→'; /* Your desired arrow symbol */
+    position: absolute; /* Position the pseudo-element absolutely */
+    left: -20px; /* Adjust as necessary for alignment */
+    top: 0; /* Align to the top of the list item */
+}
 
 
-/* Start custom toctree. */
+
+
+/* End custom lists here*/
+
+
+
+
+
+
+/* Start custom toctree. (From Blender Docs) */
 .toctree-wrapper .toctree-l1>a {
 	margin-bottom: 0.15em
 }

@@ -2,6 +2,12 @@
 Sphinx Tools Demo Page (Dev)
 ============================
 
+.. contents::
+  :local:
+  :depth: 3
+
+.. local toc needs to be at the top (?)
+
 Heading 1
 =========
 
@@ -12,6 +18,13 @@ Heading 2
 
 ➔ test➔ test➔ test➔ test➔ test➔ test
 
+tags
+----
+
+.. contents::
+  :local:
+  :depth: 3
+
 
 .. tags:: tag1, tag2
 
@@ -20,8 +33,13 @@ Heading 2
   seealso content
 
 
+hoverxref
+-----------
 
 :hoverxref:`example-ref` 
+
+figure
+-------
 
 .. figure:: /_img/backup/backup-down-up-control-off.png
 	:figwidth: 100 %

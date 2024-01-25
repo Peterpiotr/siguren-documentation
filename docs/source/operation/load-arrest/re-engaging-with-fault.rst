@@ -1,16 +1,37 @@
 ========================================================
-Re-engaging from load arrest with presence of fault
+Re-engaging from Load Arrest With Presence of Fault
 ========================================================
 
-To perform Re-engaging in this case is required:
+Preliminary steps
+     1. Identify and resolve the cause for load arrest.
+  
+          .. note::
+               See :doc:`/operation/load-arrest/determining-cause-for-load-arrest`
+     
+     2. Confirm that :guilabel:`🟢 Downward Enable` light indicator is OFF.
+     
+     2. Verify that hoist is healthy.
 
-1. Cause for load arrest is identified and resolved.
-2. Hoist is healthy 
-3. Switching on :guilabel:`🔑 Enable Override` on MotoSuiveur® System control cabinet.
-4. Short upward movement is necessary (from hoist control) until :guilabel:`🟢 Downward Enable` light will be illuminated.
-5. Both light indicators :guilabel:`🟢 Downward Enable` and :guilabel:`🟢 Upward Enable` are illuminated.
-6. :doc:`Reset </operation/regular/system-reset>` of the MotoSuiveur® System is required.
+Steps
+     1. Switch ON :guilabel:`🔑 Enable Override` on the MS Control Cabinet.
 
+     .. sign of successful step?
 
-.. note::             
+     2. Give a short upward movement from hoist controls until the :guilabel:`🟢 Downward Enable` light indicator comes ON.
+     
+        - Both light indicators :guilabel:`🟢 Downward Enable` and :guilabel:`🟢 Upward Enable` are ON.
+     
+     3. Reset the MotoSuiveur® System.
+        
+          .. sign of successful step?
+
+        - **MotoSuiveur® System is ready to follow hoist motion.**
+     
+          .. note::
+               See :doc:`/operation/regular/system-reset`
+
+          
+          
+
+.. warning::             
      In case of repetitive load arrest, please contact Siguren Technologies.

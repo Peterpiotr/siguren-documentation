@@ -6,5 +6,5 @@ Control interface
    :maxdepth: 2
 
    control-panel
-   ms-hmi
+   hmi-screens/index
    memory-card

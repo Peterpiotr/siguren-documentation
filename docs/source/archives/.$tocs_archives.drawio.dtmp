@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2024-01-24T11:22:54.479Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.18 Chrome/120.0.6099.199 Electron/28.1.2 Safari/537.36" etag="RULw5rCwz7rMeu_Tl6hD" version="22.1.18" type="device">
+<mxfile host="Electron" modified="2024-01-24T17:25:00.773Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.18 Chrome/120.0.6099.199 Electron/28.1.2 Safari/537.36" etag="lZw03F4Z0Sg5zuJCw4br" version="22.1.18" type="device">
   <diagram name="Page-1" id="WJtq2YAFpSBEmDAirLlr">
     <mxGraphModel dx="2402" dy="1322" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -480,52 +480,52 @@
           </mxCell>
         </UserObject>
         <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="96" level="Heading1" name="9 Maintenance" parent="12" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EdVuzr_Djt9NotvVTExYs8cBLjC8dEFmFS5zpOR5xwwGGw?e=jkbn3u" doc="User Manual-7.4_reviewed.docx" color="#c8cde1" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-22879">
-          <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#c8cde1;" vertex="1" parent="1">
+          <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;align=left;spacingLeft=10;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
             <mxGeometry x="415" y="3115" width="110" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="97" level="Heading2" name="9.1 Basic Preventive Maintenance" parent="96" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EdVuzr_Djt9NotvVTExYs8cBLjC8dEFmFS5zpOR5xwwGGw?e=jkbn3u" doc="User Manual-7.4_reviewed.docx" color="#c8cde1" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-22880">
-          <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#c8cde1;" vertex="1" parent="1">
+          <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;align=left;spacingLeft=10;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
             <mxGeometry x="910" y="3590" width="210" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="98" level="Heading3" name="9.1.1 Maintenance sheet" parent="97" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EdVuzr_Djt9NotvVTExYs8cBLjC8dEFmFS5zpOR5xwwGGw?e=jkbn3u" doc="User Manual-7.4_reviewed.docx" color="#c8cde1" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-22881">
-          <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#c8cde1;" vertex="1" parent="1">
+          <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;align=left;spacingLeft=10;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
             <mxGeometry x="1660" y="3665" width="160" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="99" level="Heading3" name="9.1.2 Maintenance operations based on worm rotation counter as indicated on each servo-motor drive" parent="97" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EdVuzr_Djt9NotvVTExYs8cBLjC8dEFmFS5zpOR5xwwGGw?e=jkbn3u" doc="User Manual-7.4_reviewed.docx" color="#c8cde1" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-22882">
-          <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#c8cde1;" vertex="1" parent="1">
+          <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;align=left;spacingLeft=10;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
             <mxGeometry x="1460" y="3715" width="560" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="100" level="Heading2" name="9.2 Advises for maintenance operations" parent="96" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EdVuzr_Djt9NotvVTExYs8cBLjC8dEFmFS5zpOR5xwwGGw?e=jkbn3u" doc="User Manual-7.4_reviewed.docx" color="#c8cde1" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-22883">
-          <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#c8cde1;" vertex="1" parent="1">
+          <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;align=left;spacingLeft=10;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
             <mxGeometry x="910" y="3640" width="240" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="101" level="Heading3" name="9.2.1 Oil change :" parent="100" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EdVuzr_Djt9NotvVTExYs8cBLjC8dEFmFS5zpOR5xwwGGw?e=jkbn3u" doc="User Manual-7.4_reviewed.docx" color="#c8cde1" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-22884">
-          <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;align=left;spacingLeft=10;" vertex="1" parent="1">
+          <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;align=left;spacingLeft=10;fillColor=#e1d5e7;strokeColor=#9673a6;labelBorderColor=none;textOpacity=20;" vertex="1" parent="1">
             <mxGeometry x="1680" y="3765" width="120" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="102" level="Heading3" name="9.2.2 Replacement of seals" parent="100" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EdVuzr_Djt9NotvVTExYs8cBLjC8dEFmFS5zpOR5xwwGGw?e=jkbn3u" doc="User Manual-7.4_reviewed.docx" color="#c8cde1" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-22885">
-          <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#c8cde1;" vertex="1" parent="1">
+          <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;align=left;spacingLeft=10;fillColor=#e1d5e7;strokeColor=#9673a6;labelBorderColor=none;textOpacity=20;" vertex="1" parent="1">
             <mxGeometry x="1655" y="3815" width="170" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="103" level="Heading2" name="9.3 Spare parts ordering" parent="96" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EdVuzr_Djt9NotvVTExYs8cBLjC8dEFmFS5zpOR5xwwGGw?e=jkbn3u" doc="User Manual-7.4_reviewed.docx" color="#c8cde1" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-22886">
-          <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#c8cde1;" vertex="1" parent="1">
+          <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;align=left;spacingLeft=10;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
             <mxGeometry x="910" y="3690" width="160" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="104" level="Heading2" name="9.4 Advise for the safety inspections" parent="96" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EdVuzr_Djt9NotvVTExYs8cBLjC8dEFmFS5zpOR5xwwGGw?e=jkbn3u" doc="User Manual-7.4_reviewed.docx" color="#c8cde1" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-22887">
-          <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#c8cde1;" vertex="1" parent="1">
+          <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;align=left;spacingLeft=10;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
             <mxGeometry x="910" y="3740" width="220" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="105" level="Heading2" name="9.5 Warranty" parent="96" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EdVuzr_Djt9NotvVTExYs8cBLjC8dEFmFS5zpOR5xwwGGw?e=jkbn3u" doc="User Manual-7.4_reviewed.docx" color="#c8cde1" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-22888">
-          <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#c8cde1;" vertex="1" parent="1">
+          <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;align=left;spacingLeft=10;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
             <mxGeometry x="910" y="3790" width="100" height="30" as="geometry" />
           </mxCell>
         </UserObject>
@@ -604,132 +604,132 @@
             <mxGeometry x="880" y="4390" width="300" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="121" level="Title" name="SIGUREN technologies MS MANUAL h_reviewed" parent="0" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EeVnJNbzx9ZAk8VM70NnPoYBNSV8YuV39I3vRaFSFK8XnQ?e=obFj18" doc="" color="#FFFFFF" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-22904">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="121" level="Title" name="SIGUREN MS MANUAL h_reviewed" parent="0" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EeVnJNbzx9ZAk8VM70NnPoYBNSV8YuV39I3vRaFSFK8XnQ?e=obFj18" doc="" color="#FFFFFF" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-22904">
           <mxCell style="note;html=1;treeMoving=1;fontFamily=Helvetica;fontSize=15;fontColor=default;align=left;spacingLeft=10;" vertex="1" parent="1">
             <mxGeometry x="20" y="4780" width="280" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="122" level="Heading1" name="1 Introduction" parent="121" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EeVnJNbzx9ZAk8VM70NnPoYBNSV8YuV39I3vRaFSFK8XnQ?e=obFj18" doc="SIGUREN technologies MS MANUAL h_reviewed.docx" color="#faddfd" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-22905">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="122" level="Heading1" name="1 Introduction" parent="121" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EeVnJNbzx9ZAk8VM70NnPoYBNSV8YuV39I3vRaFSFK8XnQ?e=obFj18" doc="SIGUREN MS MANUAL h_reviewed.docx" color="#faddfd" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-22905">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#faddfd;" vertex="1" parent="1">
             <mxGeometry x="470" y="4630" width="100" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="123" level="Heading1" name="2 Glossary (to be replaced for Hydraulic)" parent="121" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EeVnJNbzx9ZAk8VM70NnPoYBNSV8YuV39I3vRaFSFK8XnQ?e=obFj18" doc="SIGUREN technologies MS MANUAL h_reviewed.docx" color="#dcfee3" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-22906">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="123" level="Heading1" name="2 Glossary (to be replaced for Hydraulic)" parent="121" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EeVnJNbzx9ZAk8VM70NnPoYBNSV8YuV39I3vRaFSFK8XnQ?e=obFj18" doc="SIGUREN MS MANUAL h_reviewed.docx" color="#dcfee3" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-22906">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#dcfee3;" vertex="1" parent="1">
             <mxGeometry x="400" y="4680" width="240" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="124" level="Heading1" name="3 Connect MS to control cabinet" parent="121" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EeVnJNbzx9ZAk8VM70NnPoYBNSV8YuV39I3vRaFSFK8XnQ?e=obFj18" doc="SIGUREN technologies MS MANUAL h_reviewed.docx" color="#d8f8d5" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-22907">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="124" level="Heading1" name="3 Connect MS to control cabinet" parent="121" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EeVnJNbzx9ZAk8VM70NnPoYBNSV8YuV39I3vRaFSFK8XnQ?e=obFj18" doc="SIGUREN MS MANUAL h_reviewed.docx" color="#d8f8d5" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-22907">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#d8f8d5;" vertex="1" parent="1">
             <mxGeometry x="420" y="4730" width="200" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="125" level="Heading1" name="4 Indication lamps and controls" parent="121" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EeVnJNbzx9ZAk8VM70NnPoYBNSV8YuV39I3vRaFSFK8XnQ?e=obFj18" doc="SIGUREN technologies MS MANUAL h_reviewed.docx" color="#dcccf3" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-22908">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="125" level="Heading1" name="4 Indication lamps and controls" parent="121" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EeVnJNbzx9ZAk8VM70NnPoYBNSV8YuV39I3vRaFSFK8XnQ?e=obFj18" doc="SIGUREN MS MANUAL h_reviewed.docx" color="#dcccf3" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-22908">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#dcccf3;" vertex="1" parent="1">
             <mxGeometry x="420" y="4780" width="200" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="126" level="Heading2" name="4.1 Hoist enabled." parent="125" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EeVnJNbzx9ZAk8VM70NnPoYBNSV8YuV39I3vRaFSFK8XnQ?e=obFj18" doc="SIGUREN technologies MS MANUAL h_reviewed.docx" color="#dcccf3" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-22909">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="126" level="Heading2" name="4.1 Hoist enabled." parent="125" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EeVnJNbzx9ZAk8VM70NnPoYBNSV8YuV39I3vRaFSFK8XnQ?e=obFj18" doc="SIGUREN MS MANUAL h_reviewed.docx" color="#dcccf3" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-22909">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#dcccf3;" vertex="1" parent="1">
             <mxGeometry x="845" y="4480" width="130" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="127" level="Heading2" name="4.2 Fault" parent="125" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EeVnJNbzx9ZAk8VM70NnPoYBNSV8YuV39I3vRaFSFK8XnQ?e=obFj18" doc="SIGUREN technologies MS MANUAL h_reviewed.docx" color="#dcccf3" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-22910">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="127" level="Heading2" name="4.2 Fault" parent="125" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EeVnJNbzx9ZAk8VM70NnPoYBNSV8YuV39I3vRaFSFK8XnQ?e=obFj18" doc="SIGUREN MS MANUAL h_reviewed.docx" color="#dcccf3" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-22910">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#dcccf3;" vertex="1" parent="1">
             <mxGeometry x="870" y="4530" width="80" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="128" level="Heading2" name="4.3 Upward enable/Downward enable" parent="125" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EeVnJNbzx9ZAk8VM70NnPoYBNSV8YuV39I3vRaFSFK8XnQ?e=obFj18" doc="SIGUREN technologies MS MANUAL h_reviewed.docx" color="#dcccf3" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-22911">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="128" level="Heading2" name="4.3 Upward enable/Downward enable" parent="125" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EeVnJNbzx9ZAk8VM70NnPoYBNSV8YuV39I3vRaFSFK8XnQ?e=obFj18" doc="SIGUREN MS MANUAL h_reviewed.docx" color="#dcccf3" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-22911">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#dcccf3;" vertex="1" parent="1">
             <mxGeometry x="800" y="4580" width="220" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="129" level="Heading2" name="4.4 Backup/Recovery Off/On; Backup/Recovery Down/Up" parent="125" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EeVnJNbzx9ZAk8VM70NnPoYBNSV8YuV39I3vRaFSFK8XnQ?e=obFj18" doc="SIGUREN technologies MS MANUAL h_reviewed.docx" color="#dcccf3" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-22912">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="129" level="Heading2" name="4.4 Backup/Recovery Off/On; Backup/Recovery Down/Up" parent="125" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EeVnJNbzx9ZAk8VM70NnPoYBNSV8YuV39I3vRaFSFK8XnQ?e=obFj18" doc="SIGUREN MS MANUAL h_reviewed.docx" color="#dcccf3" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-22912">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#dcccf3;" vertex="1" parent="1">
             <mxGeometry x="745" y="4630" width="330" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="130" level="Heading2" name="4.5 Enable Override" parent="125" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EeVnJNbzx9ZAk8VM70NnPoYBNSV8YuV39I3vRaFSFK8XnQ?e=obFj18" doc="SIGUREN technologies MS MANUAL h_reviewed.docx" color="#dcccf3" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-22913">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="130" level="Heading2" name="4.5 Enable Override" parent="125" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EeVnJNbzx9ZAk8VM70NnPoYBNSV8YuV39I3vRaFSFK8XnQ?e=obFj18" doc="SIGUREN MS MANUAL h_reviewed.docx" color="#dcccf3" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-22913">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#dcccf3;" vertex="1" parent="1">
             <mxGeometry x="845" y="4680" width="130" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="131" level="Heading2" name="4.6 Lamp states" parent="125" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EeVnJNbzx9ZAk8VM70NnPoYBNSV8YuV39I3vRaFSFK8XnQ?e=obFj18" doc="SIGUREN technologies MS MANUAL h_reviewed.docx" color="#dcccf3" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-22914">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="131" level="Heading2" name="4.6 Lamp states" parent="125" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EeVnJNbzx9ZAk8VM70NnPoYBNSV8YuV39I3vRaFSFK8XnQ?e=obFj18" doc="SIGUREN MS MANUAL h_reviewed.docx" color="#dcccf3" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-22914">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#dcccf3;" vertex="1" parent="1">
             <mxGeometry x="855" y="4730" width="110" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="132" level="Heading1" name="5 MS operating modes" parent="121" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EeVnJNbzx9ZAk8VM70NnPoYBNSV8YuV39I3vRaFSFK8XnQ?e=obFj18" doc="SIGUREN technologies MS MANUAL h_reviewed.docx" color="#daf3eb" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-22915">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="132" level="Heading1" name="5 MS operating modes" parent="121" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EeVnJNbzx9ZAk8VM70NnPoYBNSV8YuV39I3vRaFSFK8XnQ?e=obFj18" doc="SIGUREN MS MANUAL h_reviewed.docx" color="#daf3eb" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-22915">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#daf3eb;" vertex="1" parent="1">
             <mxGeometry x="445" y="4830" width="150" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="133" level="Heading2" name="5.1 MS controller internal check" parent="132" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EeVnJNbzx9ZAk8VM70NnPoYBNSV8YuV39I3vRaFSFK8XnQ?e=obFj18" doc="SIGUREN technologies MS MANUAL h_reviewed.docx" color="#daf3eb" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-22916">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="133" level="Heading2" name="5.1 MS controller internal check" parent="132" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EeVnJNbzx9ZAk8VM70NnPoYBNSV8YuV39I3vRaFSFK8XnQ?e=obFj18" doc="SIGUREN MS MANUAL h_reviewed.docx" color="#daf3eb" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-22916">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#daf3eb;" vertex="1" parent="1">
             <mxGeometry x="810" y="4780" width="200" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="134" level="Heading2" name="5.2 Self-test operation mode" parent="132" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EeVnJNbzx9ZAk8VM70NnPoYBNSV8YuV39I3vRaFSFK8XnQ?e=obFj18" doc="SIGUREN technologies MS MANUAL h_reviewed.docx" color="#daf3eb" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-22917">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="134" level="Heading2" name="5.2 Self-test operation mode" parent="132" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EeVnJNbzx9ZAk8VM70NnPoYBNSV8YuV39I3vRaFSFK8XnQ?e=obFj18" doc="SIGUREN MS MANUAL h_reviewed.docx" color="#daf3eb" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-22917">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#daf3eb;" vertex="1" parent="1">
             <mxGeometry x="820" y="4830" width="180" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="135" level="Heading3" name="5.2.1 Electrical test" parent="134" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EeVnJNbzx9ZAk8VM70NnPoYBNSV8YuV39I3vRaFSFK8XnQ?e=obFj18" doc="SIGUREN technologies MS MANUAL h_reviewed.docx" color="#daf3eb" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-22918">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="135" level="Heading3" name="5.2.1 Electrical test" parent="134" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EeVnJNbzx9ZAk8VM70NnPoYBNSV8YuV39I3vRaFSFK8XnQ?e=obFj18" doc="SIGUREN MS MANUAL h_reviewed.docx" color="#daf3eb" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-22918">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#daf3eb;" vertex="1" parent="1">
             <mxGeometry x="1220" y="4680" width="130" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="136" level="Heading3" name="5.2.2 Switch test" parent="134" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EeVnJNbzx9ZAk8VM70NnPoYBNSV8YuV39I3vRaFSFK8XnQ?e=obFj18" doc="SIGUREN technologies MS MANUAL h_reviewed.docx" color="#daf3eb" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-22919">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="136" level="Heading3" name="5.2.2 Switch test" parent="134" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EeVnJNbzx9ZAk8VM70NnPoYBNSV8YuV39I3vRaFSFK8XnQ?e=obFj18" doc="SIGUREN MS MANUAL h_reviewed.docx" color="#daf3eb" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-22919">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#daf3eb;" vertex="1" parent="1">
             <mxGeometry x="1225" y="4730" width="120" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="137" level="Heading3" name="5.2.3 Play test" parent="134" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EeVnJNbzx9ZAk8VM70NnPoYBNSV8YuV39I3vRaFSFK8XnQ?e=obFj18" doc="SIGUREN technologies MS MANUAL h_reviewed.docx" color="#daf3eb" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-22920">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="137" level="Heading3" name="5.2.3 Play test" parent="134" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EeVnJNbzx9ZAk8VM70NnPoYBNSV8YuV39I3vRaFSFK8XnQ?e=obFj18" doc="SIGUREN MS MANUAL h_reviewed.docx" color="#daf3eb" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-22920">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#daf3eb;" vertex="1" parent="1">
             <mxGeometry x="1235" y="4780" width="100" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="138" level="Heading2" name="5.3 Following operation mode" parent="132" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EeVnJNbzx9ZAk8VM70NnPoYBNSV8YuV39I3vRaFSFK8XnQ?e=obFj18" doc="SIGUREN technologies MS MANUAL h_reviewed.docx" color="#daf3eb" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-22921">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="138" level="Heading2" name="5.3 Following operation mode" parent="132" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EeVnJNbzx9ZAk8VM70NnPoYBNSV8YuV39I3vRaFSFK8XnQ?e=obFj18" doc="SIGUREN MS MANUAL h_reviewed.docx" color="#daf3eb" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-22921">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#daf3eb;" vertex="1" parent="1">
             <mxGeometry x="815" y="4880" width="190" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="139" level="Heading2" name="5.4 Backup/Recovery operation mode" parent="132" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EeVnJNbzx9ZAk8VM70NnPoYBNSV8YuV39I3vRaFSFK8XnQ?e=obFj18" doc="SIGUREN technologies MS MANUAL h_reviewed.docx" color="#daf3eb" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-22922">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="139" level="Heading2" name="5.4 Backup/Recovery operation mode" parent="132" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EeVnJNbzx9ZAk8VM70NnPoYBNSV8YuV39I3vRaFSFK8XnQ?e=obFj18" doc="SIGUREN MS MANUAL h_reviewed.docx" color="#daf3eb" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-22922">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#daf3eb;" vertex="1" parent="1">
             <mxGeometry x="795" y="4930" width="230" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="140" level="Heading1" name="6 Troubleshoot and maintenance" parent="121" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EeVnJNbzx9ZAk8VM70NnPoYBNSV8YuV39I3vRaFSFK8XnQ?e=obFj18" doc="SIGUREN technologies MS MANUAL h_reviewed.docx" color="#f8d2c8" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-22923">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="140" level="Heading1" name="6 Troubleshoot and maintenance" parent="121" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EeVnJNbzx9ZAk8VM70NnPoYBNSV8YuV39I3vRaFSFK8XnQ?e=obFj18" doc="SIGUREN MS MANUAL h_reviewed.docx" color="#f8d2c8" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-22923">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#f8d2c8;" vertex="1" parent="1">
             <mxGeometry x="420" y="4880" width="200" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="141" level="Heading2" name="6.1 Troubleshooting via MS controller 7 – segment display" parent="140" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EeVnJNbzx9ZAk8VM70NnPoYBNSV8YuV39I3vRaFSFK8XnQ?e=obFj18" doc="SIGUREN technologies MS MANUAL h_reviewed.docx" color="#f8d2c8" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-22924">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="141" level="Heading2" name="6.1 Troubleshooting via MS controller 7 – segment display" parent="140" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EeVnJNbzx9ZAk8VM70NnPoYBNSV8YuV39I3vRaFSFK8XnQ?e=obFj18" doc="SIGUREN MS MANUAL h_reviewed.docx" color="#f8d2c8" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-22924">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#f8d2c8;" vertex="1" parent="1">
             <mxGeometry x="740" y="4980" width="340" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="142" level="Heading3" name="6.1.1 MS controller internal errors" parent="141" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EeVnJNbzx9ZAk8VM70NnPoYBNSV8YuV39I3vRaFSFK8XnQ?e=obFj18" doc="SIGUREN technologies MS MANUAL h_reviewed.docx" color="#f8d2c8" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-22925">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="142" level="Heading3" name="6.1.1 MS controller internal errors" parent="141" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EeVnJNbzx9ZAk8VM70NnPoYBNSV8YuV39I3vRaFSFK8XnQ?e=obFj18" doc="SIGUREN MS MANUAL h_reviewed.docx" color="#f8d2c8" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-22925">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#f8d2c8;" vertex="1" parent="1">
             <mxGeometry x="1180" y="4830" width="210" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="143" level="Heading3" name="6.1.2 MS faults and warnings" parent="141" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EeVnJNbzx9ZAk8VM70NnPoYBNSV8YuV39I3vRaFSFK8XnQ?e=obFj18" doc="SIGUREN technologies MS MANUAL h_reviewed.docx" color="#f8d2c8" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-22926">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="143" level="Heading3" name="6.1.2 MS faults and warnings" parent="141" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EeVnJNbzx9ZAk8VM70NnPoYBNSV8YuV39I3vRaFSFK8XnQ?e=obFj18" doc="SIGUREN MS MANUAL h_reviewed.docx" color="#f8d2c8" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-22926">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#f8d2c8;" vertex="1" parent="1">
             <mxGeometry x="1195" y="4980" width="180" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="144" level="Heading2" name="6.2 MSHMI" parent="140" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EeVnJNbzx9ZAk8VM70NnPoYBNSV8YuV39I3vRaFSFK8XnQ?e=obFj18" doc="SIGUREN technologies MS MANUAL h_reviewed.docx" color="#f8d2c8" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-22927">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="144" level="Heading2" name="6.2 MSHMI" parent="140" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EeVnJNbzx9ZAk8VM70NnPoYBNSV8YuV39I3vRaFSFK8XnQ?e=obFj18" doc="SIGUREN MS MANUAL h_reviewed.docx" color="#f8d2c8" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-22927">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#f8d2c8;" vertex="1" parent="1">
             <mxGeometry x="865" y="5030" width="90" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="145" level="Heading2" name="6.3 Maintenance" parent="140" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EeVnJNbzx9ZAk8VM70NnPoYBNSV8YuV39I3vRaFSFK8XnQ?e=obFj18" doc="SIGUREN technologies MS MANUAL h_reviewed.docx" color="#f8d2c8" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-22928">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="145" level="Heading2" name="6.3 Maintenance" parent="140" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EeVnJNbzx9ZAk8VM70NnPoYBNSV8YuV39I3vRaFSFK8XnQ?e=obFj18" doc="SIGUREN MS MANUAL h_reviewed.docx" color="#f8d2c8" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-22928">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#f8d2c8;" vertex="1" parent="1">
             <mxGeometry x="850" y="5080" width="120" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="146" level="Heading1" name="7 Appendix 1: Signal Lamps" parent="121" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EeVnJNbzx9ZAk8VM70NnPoYBNSV8YuV39I3vRaFSFK8XnQ?e=obFj18" doc="SIGUREN technologies MS MANUAL h_reviewed.docx" color="#e4e3ce" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-22929">
+        <UserObject label="&lt;b&gt;%name%&lt;/b&gt;" child="146" level="Heading1" name="7 Appendix 1: Signal Lamps" parent="121" link="https://siguren.sharepoint.com/:w:/s/Processdesign/EeVnJNbzx9ZAk8VM70NnPoYBNSV8YuV39I3vRaFSFK8XnQ?e=obFj18" doc="SIGUREN MS MANUAL h_reviewed.docx" color="#e4e3ce" placeholders="1" id="1MOQqGbTGBEFzUqIC71g-22929">
           <mxCell style="rectangle;html=1;treeMoving=1;rounded=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=left;spacingLeft=10;fillColor=#e4e3ce;" vertex="1" parent="1">
             <mxGeometry x="430" y="4930" width="180" height="30" as="geometry" />
           </mxCell>

@@ -30,7 +30,7 @@ MotoSuiveur® Overview
         :link-type: doc
         :class-title: card-title
 
-        Overview of hoist-MS controls interface, MS controller, MS HMI menus.
+        Overview of hoist-MS controls interface, MS Controller, MS HMI menus.
 
 
 .. toctree::
@@ -38,11 +38,11 @@ MotoSuiveur® Overview
     :hidden:
     :caption: MotoSuiveur® Overview
 
-    /equipment/ms-solution/index
-    /equipment/control-interface/index
+    /about/achieving-inherent-safety
     /about/features
     /about/ms-tech-overview
-    /about/risk-reduction
+    /equipment/ms-solution/index
+    /equipment/control-interface/index
 
 
 Sections
@@ -52,7 +52,7 @@ Sections
     :gutter: 4
     :padding: 0
 
-    .. grid-item-card:: Installing MotoSuiveur® System
+    .. grid-item-card:: Installing a MotoSuiveur® System
         :img-top: /_img/cards/installation-card-flange-med_16-9.png
         :link: installation/index
         :link-type: doc

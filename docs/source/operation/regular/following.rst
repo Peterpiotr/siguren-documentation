@@ -15,7 +15,7 @@ The speed, which is considered high is called :term:`overspeed`.
 It is separated into Rest and Follow states. 
 At Rest, MotoSuiveur® System is waiting for a movement request.  
 When a movement request is received, MotoSuiveur® System starts following.
-Rest and Following states are displayed on `MS Controller 7-segment display`_ and :doc:`MSHMI </equipment/control-interface/ms-hmi>` "Main Screen" field "MotoSuiveur® System status:".
+Rest and Following states are displayed on `MS Controller 7-segment display`_ and :doc:`MS HMI </equipment/control-interface/ms-hmi>` "Main Screen" field "MotoSuiveur® System status:".
 
 
 
@@ -75,7 +75,7 @@ During following, the MC checks for exceeding the maximum permissible hoist spee
 When the MotoSuiveur® System detects that the defined speed is exceeded, it trips, :guilabel:`🔴 Fault indicator` became active, 
 Hoist enabled indicator became inactive and prevents the hoist from moving. 
 Downward enable and Upward enable are ignored in fault state.
-Fault message is displayed on MS Controller 7-segmend display and MSHMI.
+Fault message is displayed on MS Controller 7-segmend display and MS HMI.
 
 .. _MS Fault state:
 .. figure:: /_img/regular-operation/ms-fault.png
@@ -118,12 +118,12 @@ MS Controller display
 
 .. _MS Controller 7-segment display:
 
-`Symbols displayed on 7-segment display on MS controller` shows the 
+`Symbols displayed on 7-segment display on MS Controller` shows the 
 symbols displayed on 7–segment display during Following operation mode in Rest.
 During Rest differend messages can be displayed on 7-segment display.
 They are active only during Rest.
 
-.. _Symbols displayed on 7-segment display on MS controller:
+.. _Symbols displayed on 7-segment display on MS Controller:
 .. csv-table:: Rest
    :file: /_tables/following-mode-digits-rest.csv
    :delim: ;
@@ -132,10 +132,10 @@ They are active only during Rest.
    
    :class: instructionimg
 
-`Symbols displayed on 7-segment display on MS controller during movement` shows the 
+`Symbols displayed on 7-segment display on MS Controller during movement` shows the 
 symbols displayed on 7–segment display during following operation mode during movement.
 
-.. _Symbols displayed on 7-segment display on MS controller during movement:
+.. _Symbols displayed on 7-segment display on MS Controller during movement:
 .. csv-table:: Movement
    :file: /_tables/following-mode-digits-movement.csv
    :header-rows: 1
@@ -145,10 +145,10 @@ symbols displayed on 7–segment display during following operation mode during 
    :class: instructionimg
 
 
-MSHMI status messages
+MS HMI status messages
 =====================
 
-On MSHMI "Main Screen" status of MotoSuiveur® System is displayed.
+On MS HMI "Main Screen" status of MotoSuiveur® System is displayed.
 In table below status messages are listed.
 
 .. _Status messages:

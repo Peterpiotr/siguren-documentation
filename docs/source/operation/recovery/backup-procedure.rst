@@ -40,7 +40,7 @@ Activating and operating of Backup Mode
 
 	\**\ For MotoSuiveur® Systems equipped with **MSCD** MS Controller
 
-2. The Backup mode enable indicator illuminates. A symbol |image058| for activated Backup mode is displayed on the 7-segment indicator of the MS controller.
+2. The Backup mode enable indicator illuminates. A symbol |image058| for activated Backup mode is displayed on the 7-segment indicator of the MS Controller.
 
 .. _Switch on Backup mode light:
 .. figure:: /_img/backup/backup-light-on.png
@@ -65,7 +65,7 @@ Deactivating of Backup Mode
 
 	Switching off Backup Mode
 
-2. The backup mode indicator  is not illuminated . On the 7-segment indicator of MS controller the symbol |image058| remain active ana **Backup mode operation is still activated**.
+2. The backup mode indicator  is not illuminated . On the 7-segment indicator of MS Controller the symbol |image058| remain active ana **Backup mode operation is still activated**.
 
 .. _Switch off Backup mode light:
 .. figure:: /_img/backup/backup-light-off.png

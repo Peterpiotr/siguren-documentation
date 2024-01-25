@@ -51,18 +51,6 @@
 .. |hydraulic_ms|  image:: /_img/ms-unit/Hydraulic.jpg    
 .. |friction_ms|   image:: /_img/ms-unit/Friction.jpg 
 
-.. Initialization==========================================================
-.. |start|          image:: /_img/7-segment/MS-Controller-internal-check/start.PNG
-.. |init-done|      image:: /_img/7-segment/MS-Controller-internal-check/init-done.PNG
-.. |init-app-done|  image:: /_img/7-segment/MS-Controller-internal-check/Init-application-done.PNG
-.. |feetback|       image:: /_img/7-segment/MS-Controller-internal-check/feedback-ok.PNG
-.. |driver|         image:: /_img/7-segment/MS-Controller-internal-check/Driver-initialized.PNG
-.. |communication|  image:: /_img/7-segment/MS-Controller-internal-check/Communication-Ok.PNG
 
-.. OS Version==============================================================
-.. |1|          image:: /_img/7-segment/OS-version/1.PNG
-.. |2|          image:: /_img/7-segment/OS-version/2.PNG   
-.. |4|          image:: /_img/7-segment/OS-version/4.PNG
-.. |none|       image:: /_img/7-segment/OS-version/none.PNG
 
 

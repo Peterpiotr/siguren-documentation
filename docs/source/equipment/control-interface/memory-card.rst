@@ -66,7 +66,7 @@ This optional module ‘Memory Stick’ provides a quick and simple way of savin
 whole drive data: Parameters, Saved data, Cam profiles, Tasks and Operating System.
 When it is switched on, the IMD compares its data content with the Memory Stick data. If
 they are different, the IMD is automatically reloaded with the Memory Stick data.
-In case of empty Memory Stick at power on, the data’s of the IMD are loaded inside the
+In case of empty Memory Stick at power ON, the data’s of the IMD are loaded inside the
 Memory Stick.
 
 The Memory Stick is automatically updated during a PC loading to an IMD :

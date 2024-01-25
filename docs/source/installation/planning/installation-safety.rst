@@ -10,7 +10,7 @@ make sure that the installation complies entirely with the application which the
 In particular, check if the MS Unit serial N° given on the specification nameplate is the same as the one on the plan.
 
 .. important::
-	Before any operation on the equipment, switch off the electrical supply and ensure that the load cannot move!
+	Before any operation on the equipment, switch OFF the electrical supply and ensure that the load cannot move!
 
 .. important::
 	Never place your hands inside the MS Unit, without being sure that the rotation of the shafts is impossible!

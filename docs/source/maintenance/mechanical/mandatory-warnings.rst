@@ -59,7 +59,7 @@ The Motosuiveur® System is designed to resist the dynamic force of a defined ap
 Before Motosuiveur® System is put into operation, make sure that the installation complies entirely with the application which the Motosuiveur® 
 has been designed for.
 
-Before any operation on the Motosuiveur® System, switch off the electrical supply and ensure that the load cannot move.
+Before any operation on the Motosuiveur® System, switch OFF the electrical supply and ensure that the load cannot move.
 
 Never place your hands inside the Motosuiveur® Unit, unless you are sure that it is impossible to rotate the shaft.
 

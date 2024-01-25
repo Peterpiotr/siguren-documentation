@@ -45,7 +45,7 @@ Architecture of a MotoSuiveur® System
 
 	Hoist-MS Control Signals
 
-In the standalone architecture, the MotoSuiveur® controller receives only inputs from the main hoist control panel, 
+In the standalone architecture, the MS Controller receives only inputs from the main hoist control panel, 
 basically [🔼 Up] and [🔽 Down] on terminal T2. 
 
 Terminal block T4 is a set of digital outputs (relays) providing MotoSuiveur® status information, as well as an enable signal for operation, 

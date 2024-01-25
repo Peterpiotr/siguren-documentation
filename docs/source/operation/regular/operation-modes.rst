@@ -12,7 +12,7 @@ Operation modes
 Operation sequence of MotoSuiveur® System as follows:
 
 1. Initial powering on
-2. MS controller internal check
+2. MS Controller internal check
 3. Checking for activated Recovery mode
 4. MotoSuiveur® System electrical and mechanical self-test
 5. Check for successfully passed self-test

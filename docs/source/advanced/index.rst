@@ -12,6 +12,10 @@ Advanced Procedures
   hmi-guided-troubleshooting
   controls-check
 
+.. proposed procedures:
+  - what to do in case of grease/oil leakage? (decision tree?)
+  - 
+
 
 .. toctree::
   :maxdepth: 2
@@ -21,3 +25,4 @@ Advanced Procedures
   ms-worm-removal
   re-installing-ms-worm
   
+

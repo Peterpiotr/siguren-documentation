@@ -10,14 +10,14 @@ Self-test
 
 A self-test is a procedure in which the MS Unit tests its health through a sequence of tests. 
 The self-test is performed after the initial power-up of the MotoSuiveur® System or after a restart from the Reset button on the electrical panel.
-Sequence of Self-test operations are displayed on MS controller 7 – segment display.
+Sequence of Self-test operations are displayed on MS Controller 7 – segment display.
 
 In table below self-test sequence is shown.
 
   +------------+-------------------+-----------------------------------------------+--------------------------+
   | Symbol     | Test              |Description                                    | Possible warnings/faults |
   +============+===================+===============================================+==========================+
-  | |image013| | Software          |Checking version of MS controller software     | E28                      |
+  | |image013| | Software          |Checking version of MS Controller software     | E28                      |
   +------------+-------------------+-----------------------------------------------+--------------------------+
   | |image017| | Electrical        |Check for activated commands for movement,     | E64, E65, E05, E04, E02, |
   |            |                   |presence of an enabling signal from crane/hoist| E03, E57, E69            |
@@ -56,13 +56,13 @@ In table below self-test sequence is shown.
 
 \*\ This tests are performed only for **hydraulic MotoSuiveur® System**
 
-Any warnings and faults that occur during MotoSuiveur® System operation are displayed on the HMI screen (if installed) and on the 7-segment display of the MS controller. 
-Each fault is characterized by a number and a description. Faults are divided into two groups - system faults (in result of MS controller internal check) 
+Any warnings and faults that occur during MotoSuiveur® System operation are displayed on the HMI screen (if installed) and on the 7-segment display of the MS Controller. 
+Each fault is characterized by a number and a description. Faults are divided into two groups - system faults (in result of MS Controller internal check) 
 and MotoSuiveur® System faults. 
-System faults are those that are related to the electrical performance of the MS controller or mechanical. 
+System faults are those that are related to the electrical performance of the MS Controller or mechanical. 
 MotoSuiveur® System faults are related to the working process of the MS Unit.
 Indication of warning or fault on MS Controller 7-segment display is a combination of letter and numbers. 
-MS controller internal faults are indicated with blinked combination of |image035| , number and finish with symbol |image039|.
+MS Controller internal faults are indicated with blinked combination of |image035| , number and finish with symbol |image039|.
 MS faults are displayed with combination of |image036| and number. MS warnings are displayed with combination of |image035| and number. 
 
 On pigures below ish shown example for MS Controller internal fault (E01) and MS warning (E10).
@@ -88,7 +88,7 @@ Detailed description of warnings, faults and troubleshooting. (link)
 Sowtware test
 --------------
 
-Software test perform check for correct version of MS controller firmware version.
+Software test perform check for correct version of MS Controller firmware version.
 
 
 Electrical test

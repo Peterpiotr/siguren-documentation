@@ -6,7 +6,7 @@ Control Panel
 
 Layout of the control panel is defined according to pre-selected functionality relative to the MS Block Diagram. 
 The control panel can be located on the control cabinet front door, can be external or a combination of both.
-The operator has the facility to use the controls via switches or MSHMI.
+The operator has the facility to use the controls via switches or MS HMI.
 The switches and HMI can be used to switch the operating modes of the MotoSuiveur® System.
 Combination of active (ON) and inactive (OFF) signal lams gives current status of MotoSuiveur®. 
 
@@ -22,7 +22,7 @@ Mandatory are:
 - Fault
 - Reset
 
-The figure below shows an example overview of a control panel with and without MSHMI.
+The figure below shows an example overview of a control panel with and without MS HMI.
 
 .. _Control panel figure:
 .. figure:: /_img/control-panel/control-panel-overview.png
@@ -41,7 +41,7 @@ The figure below shows an example overview of a control panel with and without M
 	Control panel as built
 
 
-.. csv-table:: Control panel layout without MSHMI
+.. csv-table:: Control panel layout without MS HMI
    :file: /_tables/control-panel-legend.csv
    :delim: ;
    :header-rows: 1
@@ -91,13 +91,13 @@ Fault
 
 :guilabel:`🔴 Fault light` indicates three different types of faults:
 
-	- MotoSuiveur® controller internal errors, described in section ????;
+	- MS Controller internal errors, described in section ????;
 	- MotoSuiveur® faults (further called flt_num), described in section ????;
 	- MotoSuiveur® warnings (further called wrn_num), described in section ???;
 
-MotoSuiveur® :term:`controller` internal errors are related to MotoSuiveur® controller internal hardware, firmware, and MotoSuiveur® motor. 
+MotoSuiveur® :term:`controller` internal errors are related to MS Controller internal hardware, firmware, and MotoSuiveur® motor. 
 This type of errors are with highest priority. 
-If MotoSuiveur® controller internal fault appear further operation is prohibited.
+If MS Controller internal fault appear further operation is prohibited.
 	
 .. note::	
  	:guilabel:`🔴 Fault light` is **ON** during MotoSuiveur® self-test.
@@ -105,10 +105,10 @@ If MotoSuiveur® controller internal fault appear further operation is prohibite
 .. warning:: 
 	The system displays only last MotoSuiveur® warning (``wrn_num``) or MotoSuiveur® fault (``flt_num``) occurred.
 
-Faults and warnings are displayed on MotoSuiveur® controller integrated 7-segment display. 
-The display indicates all types of MotoSuiveur® warnings/faults and MotoSuiveur® controller internal errors. 
+Faults and warnings are displayed on MS Controller integrated 7-segment display. 
+The display indicates all types of MotoSuiveur® warnings/faults and MS Controller internal errors. 
 Indication is a combination of letters and numbers.
-MotoSuiveur® controller internal faults are indicated with blinked combination of |image035|, number and finish with symbol |image039|.
+MS Controller internal faults are indicated with blinked combination of |image035|, number and finish with symbol |image039|.
 
 MotoSuiveur® faults are displayed with combination of |image036| and number. 
 MotoSuiveur® warnings are displayed with combination of |image035| and number. 
