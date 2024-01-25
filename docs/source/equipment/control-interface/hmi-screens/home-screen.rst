@@ -12,6 +12,7 @@ Home screen provides the current status of the MotoSuiveur® System.
     :align: center
 
     Home screen components
+    
 
 .. csv-table:: Main screen
    :file: /_tables/hmi/main.csv
