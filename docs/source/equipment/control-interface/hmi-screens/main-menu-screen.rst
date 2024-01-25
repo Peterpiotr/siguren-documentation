@@ -7,7 +7,7 @@ Menu screen contains all submenus for setup, status and information of MotoSuive
 .. important::
    Access to some screens is password protected.
 
-.. figure:: /_img/hmi/menu-screen.PNG
+.. figure:: /_img/HMI/menu-screen.PNG
     :figwidth: 100 %
     :align: center
 
