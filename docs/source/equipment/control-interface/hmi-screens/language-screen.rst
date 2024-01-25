@@ -10,11 +10,11 @@ Screen Language allows change of screen language.
 
     Language screen components
 
-.. figure:: /_img/HMI/language.png
+.. figure:: /_img/HMI/language.PNG
     :figwidth: 100 %
     :align: center
 
-.. figure:: /_img/HMI/language.PNG
+.. figure:: /_img/hmi-test/language.PNG
     :figwidth: 100 %
     :align: center
 
