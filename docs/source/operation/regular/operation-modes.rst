@@ -4,6 +4,8 @@ Operation Modes
 
 .. remake with numbers in circles on the diagram 
 
+.. should we call this a loop?
+
 Operation sequence of the MotoSuiveur® System
     1. Initial power ON
     2. MS Controller internal check
