@@ -93,14 +93,14 @@ Steps
 
 	3. Restart the MotoSuiveur® System.
 
-	.. figure:: /_img/recovery/reset.png
+	.. figure:: /_img/recovery/Reset.png
 		:figwidth: 200 px
 		:class: instructionimg
 
 		Reset of MotoSuiveur® System
 
 	.. note::
-		During reset :guilabel:`🔑 Backup/Recovery Mode Off | On` is on position **ON**
+		During Reset :guilabel:`🔑 Backup/Recovery Mode Off | On` is on position **ON**
 
 	4. MotoSuiveur® System starts engaging. 
 

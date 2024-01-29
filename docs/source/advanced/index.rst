@@ -8,7 +8,7 @@ Advanced Procedures
   :caption: Diagnostics
 
   variable-change
-  controller-errors
+  controller-faults-warnings
   hmi-guided-troubleshooting
   
 .. controls-check
@@ -23,7 +23,6 @@ Advanced Procedures
   :caption: (temp)
 
   unblocking-ms
-  ms-worm-removal
-  re-installing-ms-worm
+  disassembling-ms-worm
   
 

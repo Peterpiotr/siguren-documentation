@@ -74,5 +74,5 @@ Deactivating of Backup Mode
 
 	Backup Mode light off
 
-3. :doc:`Reset </operation/regular/system-reset>` of the MotoSuiveur® System is required. After Reset Backup mode is deactivated.
+3. :doc:`Reset </operation/regular/system-Reset>` of the MotoSuiveur® System is required. After Reset Backup mode is deactivated.
 

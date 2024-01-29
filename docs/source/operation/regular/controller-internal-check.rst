@@ -1,24 +1,22 @@
-============================
-MS Controller Internal Check
-============================
+========================================
+Running an MS Controller Internal Check
+========================================
 
 .. include:: /_img/_image-substitutions.rst
 
 Introduction
 =============
 
-After initial power up or after reset is performed, MS Controller launches an internal check.
+After initial power ON or after Reset is performed, MS Controller runs an internal check.
 
 All steps and actions from initialization are displayed on the integrated 7-segment display.
-Internal initialization sequences are as follows:
 
-    1. Initial initialization check
-    2. MS Controller Firmware version
-    3. Fieldbus address
+The internal initialization sequence is:
+    Initial initialization check **>** MS Controller Firmware version check **>** Fieldbus address check
 
 
 Initialization check
-=============================
+======================
 .. changed from "Initial initialization check"
 
 Steps
@@ -54,8 +52,8 @@ Steps
 
         .. make the pictures bigger
 
-MS Firmware version display
-=========================================
+MS Firmware version check
+============================
 
 Currently MS Controllers are operating with MS Firmware version 1.4.2.
 On picture below is shown sequence for OS version 1.4.2 displaying.
@@ -92,7 +90,7 @@ Steps
        - **MS Controller version is confirmed.**
 
 
-Fieldbus address display
+Fieldbus address check
 ========================
 
 

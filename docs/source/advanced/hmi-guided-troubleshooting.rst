@@ -2,6 +2,11 @@
 HMI-Guided Troubleshooting
 ============================
 
+.. this article needs to be the equivalent of controller-faults-warnings but for the HMI
+    ie a starting point for diagnosting and troubleshooting via HMI
+    Therefore we need: 
+        a list of all messages that can be displayed by the HMI. We hae it somewhere?
+
 .. we need a page for each troublshooting scenario, not an example.
 
 .. important:: 

@@ -17,7 +17,7 @@ Menu screen contains all submenus for setup, status and information of MotoSuive
 Screen elements
    | ① To screen for MotoSuiveur® System settings
    | ② To screen with MotoSuiveur® System maintenance information
-   | ③ To screen with MotoSuiveur® System self-test values
+   | ③ To screen with MotoSuiveur® System Self-Test values
    | ④ To Main screen
    | ⑤ To screen with actual status of MotoSuiveur® System (I/O status, current, voltage, etc.)
    | ⑥ To screen with MotoSuiveur® System event logs

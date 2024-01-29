@@ -47,7 +47,7 @@ The set of inputs and outputs is defined in advance for each project based on pr
 
 \**\ Control voltage from MS control cabinet
 
-\***\ After Reset command MS performs self-test
+\***\ After Reset command MS performs Self-Test
 
 \****\ Backup and Recovery mode in some models can be combined in common switch Backup/Recovery
  	 

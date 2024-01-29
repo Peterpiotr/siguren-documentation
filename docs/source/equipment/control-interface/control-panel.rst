@@ -76,7 +76,7 @@ Hoist enabled
 
 Hoist enabled signal will be **ON** only in case if **ON** signal from hoist is **ON**.
 
-Hoist enabled signal will be **ON** when :doc:`/operation/regular/self-test` procedure passes successfully and **ON** signal is available.
+Hoist enabled signal will be **ON** when :doc:`/operation/regular/Self-Test` procedure passes successfully and **ON** signal is available.
 Then :guilabel:`🟢 Hoist enabled light` and :guilabel:`⚪ Healthy light` are **ON**. 
 The signals are indicating ``system ready`` (``MotoSuiveur® ready``).
 
@@ -96,7 +96,7 @@ This type of errors are with highest priority.
 If MS Controller internal fault appear further operation is prohibited.
 	
 .. note::	
- 	:guilabel:`🔴 Fault light` is **ON** during MotoSuiveur® self-test.
+ 	:guilabel:`🔴 Fault light` is **ON** during MotoSuiveur® Self-Test.
 
 .. warning:: 
 	The system displays only last MotoSuiveur® warning (``wrn_num``) or MotoSuiveur® fault (``flt_num``) occurred.
@@ -113,7 +113,7 @@ MotoSuiveur® warnings are displayed with combination of |image035| and number.
 Reset 
 ^^^^^^
 
-:guilabel:`🔘 Reset button` reset MotoSuiveur® System electrically and mechanically. After reset, MotoSuiveur® System is performing self-test. 
+:guilabel:`🔘 Reset button` Reset MotoSuiveur® System electrically and mechanically. After Reset, MotoSuiveur® System is performing Self-Test. 
 
 
 **References:**

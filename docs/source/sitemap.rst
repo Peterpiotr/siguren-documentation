@@ -3,6 +3,23 @@ Sitemap
 =======
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 4
+   :caption: MotoSuiveur Overview
 
-   Equipment Overview </equipment/control-interface/index>
+   /equipment/control-interface/index
+   /equipment/ms-solution/index
+
+
+.. toctree::
+   :maxdepth: 4
+   :caption: Sections
+
+   /installation/index
+   /operation/regular/index
+   /operation/load-arrest/index
+   /operation/recovery/index
+   /maintenance/index
+   /advanced/index
+
+
+

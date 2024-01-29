@@ -29,7 +29,7 @@ MS HMI significantly expands the capabilities of MotoSuiveur® System by allowin
      - brake counter.
    
    - Displayng warning and fault messages and guidance on how to solve them.
-   - Displaying the events log. Last 10 events are stored in memory after MS HMI reset or power OFF.
+   - Displaying the events log. Last 10 events are stored in memory after MS HMI Reset or power OFF.
    - Change the MotoSuiveur® settings. Configuration has a secure access code at different levels.
    - Displaying maintenance information of MotoSuiveur®.
 

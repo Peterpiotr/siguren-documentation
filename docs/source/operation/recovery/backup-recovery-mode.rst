@@ -69,12 +69,12 @@ Recovery mode is second part of Backup/Recovery operation.
 This mode starts operating the way shown on `Principle of Backup/Recovery operation`.
 .. do not use these references anymore?
 
-After reset of MotoSuiveur® System, MS Controller checks for active Backup/Recovery mode request (:guilabel:`🔑 Backup/Recovery Off/On` is **ON**). 
+After Reset of MotoSuiveur® System, MS Controller checks for active Backup/Recovery mode request (:guilabel:`🔑 Backup/Recovery Off/On` is **ON**). 
 If request is active 7–segment display shows |image041| :guilabel:`🟠 Backup/Recovery Mode` and 
 :doc:`automatic recovery engagement </operation/recovery/automatic-recovery-engagement>` start. 
 
 Completion of **ENGAGEMENT** is indicated by :guilabel:`🟢 Recovery Engaged` indication lamp. 
-If :guilabel:`🟢 Recovery Engaged` is not iluminated after first engagement, reset ot MotoSuiveur® System is required.
+If :guilabel:`🟢 Recovery Engaged` is not iluminated after first engagement, Reset ot MotoSuiveur® System is required.
 
 After succesfull engagement of MS-IRD follow steps for :doc:`recovery operation </operation/recovery/recovery-operation>`
 

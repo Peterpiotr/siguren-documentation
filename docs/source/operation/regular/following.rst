@@ -26,7 +26,7 @@ Following operation mode principle
 ====================================
 
 After successful passed of self–test MotoSuiveur® System is in Rest.
-In Rest, after a successful self-test and the presence of an enable signal from the crane, 
+In Rest, after a successful Self-Test and the presence of an enable signal from the crane, 
 the following indicators are active - :guilabel:`🟢 Hoist enabled`, :guilabel:`🟢 Upward Enable` and :guilabel:`🟢 Downward Enable`.
 
 .. figure:: /_img/regular-operation/indicators-following-state.png
@@ -80,8 +80,8 @@ Fault message is displayed on MS Controller 7-segmend display and MS HMI.
    MotoSuiveur® System fault state
    
 After MotoSuiveur® System enters a fault state, an operator (authorized personnel) response is required to identify the reason for the fault. 
-Once the cause of the failure has been identified and resolved, a :doc:`Reset </operation/regular/system-reset>` of the MotoSuiveur® System is required. 
-After a successful self-test following a reset of MotoSuiveur® System, it enters in following mode.
+Once the cause of the failure has been identified and resolved, a :doc:`Reset </operation/regular/system-Reset>` of the MotoSuiveur® System is required. 
+After a successful Self-Test following a Reset of MotoSuiveur® System, it enters in following mode.
 
 Figure `Main principle of following operation mode and overspeed detection` 
 present the main principle of Following operation mode (upper part) and Overspeed detection (lower part). 

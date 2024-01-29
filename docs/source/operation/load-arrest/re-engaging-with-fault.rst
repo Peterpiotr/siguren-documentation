@@ -28,7 +28,7 @@ Steps
         - **MotoSuiveur® System is ready to follow hoist motion.**
      
           .. note::
-               See :doc:`/operation/regular/system-reset`
+               See :doc:`/operation/regular/system-Reset`
 
           
           

@@ -184,14 +184,14 @@ Circled numbers
 Heading 2
 ^^^^^^^^^^
 
-Curve Preset
+Curve PReset
    :Custom:
       You can choose how the strength of the falloff is determined from the center of the brush
       to the borders by manually manipulating the control points within the curve widget.
-      There are also a couple of preset custom curves displayed at the bottom of the curve widget
+      There are also a couple of pReset custom curves displayed at the bottom of the curve widget
       that can be used on their own or as a starting point for tweaking.
 
-      .. list-table:: Custom Preset types.
+      .. list-table:: Custom PReset types.
 
          * - .. figure:: _img/regular-operation/MS-block-diagram-color_1.PNG
 

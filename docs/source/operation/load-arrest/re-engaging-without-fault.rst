@@ -33,4 +33,4 @@ Forced signal should be used **only** for movement performing.
 	Enable override
 
 .. note::             
-     In case :guilabel:`🟢 Hoist Enabled` is not present after re-engagement, follow :doc:`/operation/regular/system-reset`
+     In case :guilabel:`🟢 Hoist Enabled` is not present after re-engagement, follow :doc:`/operation/regular/system-Reset`

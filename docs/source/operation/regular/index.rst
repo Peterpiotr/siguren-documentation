@@ -3,13 +3,14 @@ Regular Lifting Operation
 ==========================
 
 .. toctree::
-    :maxdepth: 1
+    :maxdepth: 2
 
     operation-modes
-    system-reset
     controller-internal-check
-    self-test
     following
+    self-test
+    system-reset
+    
 
 
 .. admonition:: Proposed Procedures

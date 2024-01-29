@@ -18,9 +18,6 @@ Installing MotoSuiveur® System
   :maxdepth: 2
   :caption: MS Unit Installation
 
-  mechanical-installation/retrofit-feasibility
-  mechanical-installation/removing-existing-plummer-block
-  mechanical-installation/installation-on-existing-hoist
   mechanical-installation/flange/index
   mechanical-installation/seat/index
   
@@ -38,4 +35,5 @@ Installing MotoSuiveur® System
   controls-installation/setting-drive
   controls-installation/multiple-ms
 
-  .. include commissioning.
+
+.. include commissioning.
