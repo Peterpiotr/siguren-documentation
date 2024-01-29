@@ -17,7 +17,6 @@ Control cabinet have nameplate_ located on front side of the door indicating inp
    :file: /_tables/control-cabinet-overview.csv
    :delim: ;
    :header-rows: 1
-   
    :align: left
    :widths: auto
 

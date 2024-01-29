@@ -46,8 +46,6 @@ The figure below shows an example overview of a control panel with and without M
    :delim: ;
    :header-rows: 1
    :widths: auto
-   
-   :class: instructionimg
 
 
 External control panel
@@ -66,8 +64,6 @@ External control panel
    :delim: ;
    :header-rows: 1
    :widths: auto
-   
-   :class: instructionimg
 
 
 Mandatory signals and controls

@@ -15,7 +15,7 @@ The speed, which is considered high is called :term:`overspeed`.
 It is separated into Rest and Follow states. 
 At Rest, MotoSuiveur® System is waiting for a movement request.  
 When a movement request is received, MotoSuiveur® System starts following.
-Rest and Following states are displayed on `MS Controller 7-segment display`_ and :doc:`MS HMI </equipment/control-interface/ms-hmi>` "Main Screen" field "MotoSuiveur® System status:".
+Rest and Following states are displayed on `MS Controller 7-segment display`_ and :doc:`MS HMI </equipment/control-interface/hmi-screens/index>` "Main Screen" field "MotoSuiveur® System status:".
 
 
 
@@ -29,7 +29,6 @@ After successful passed of self–test MotoSuiveur® System is in Rest.
 In Rest, after a successful self-test and the presence of an enable signal from the crane, 
 the following indicators are active - :guilabel:`🟢 Hoist enabled`, :guilabel:`🟢 Upward Enable` and :guilabel:`🟢 Downward Enable`.
 
-.. _Active indicators in following state:
 .. figure:: /_img/regular-operation/indicators-following-state.png
    :class: instructionimg
    :figwidth: 100 %
@@ -40,7 +39,6 @@ The following process is started after pressing the buttons to operate the hoist
 If a limit switch prohibiting upward movement is activated during movement, the :guilabel:`🟢 Upward Enable` indicator becomes inactive - `Upward movement prohibited`. 
 In this state, no upward movement of the crane is allowed, and a short downward movement is required until the MS worm is cantered `Active indicators in following state`.
 
-.. _Upward movement prohibited:
 .. figure:: /_img/regular-operation/indicators-following-state.png
    :class: instructionimg
    :figwidth: 100 %
@@ -50,7 +48,6 @@ In this state, no upward movement of the crane is allowed, and a short downward 
 Accordingly, if the limit switch prohibiting downward movement is activated during movement, the :guilabel:`🟢 Downward Enable` indicator becomes inactive – `Downward movement prohibited`. 
 In this state, no downward movement of the crane is allowed, and a short upward movement is required until the MS worm is cantered – `Active indicators in following state`.
 
-.. _Downward movement prohibited:
 .. figure:: /_img/regular-operation/downward-prohibited.png
    :class: instructionimg
    :figwidth: 100 %
@@ -61,7 +58,6 @@ If the enable signal from the hoist to MotoSuiveur® System loss, the :guilabel:
 In this case MotoSuiveur® System does not follow the hoist on a motion request. 
 Accordingly, MotoSuiveur® System does not provide an Enable signal to hoist.
 
-.. _No enable signal from hoist:
 .. figure:: /_img/regular-operation/no-enable-signal.png
    :class: instructionimg
    :figwidth: 100 %
@@ -77,7 +73,6 @@ Hoist enabled indicator became inactive and prevents the hoist from moving.
 Downward enable and Upward enable are ignored in fault state.
 Fault message is displayed on MS Controller 7-segmend display and MS HMI.
 
-.. _MS Fault state:
 .. figure:: /_img/regular-operation/ms-fault.png
    :class: instructionimg
    :figwidth: 100 %
@@ -94,7 +89,6 @@ MotoSuiveur® System follows hoist/crane movement until overspeed is detected.
 When overspeed is detected, MotoSuiveur® System **trips** and mechanicaly lockes hoist/crane
 to prevent load drop.
 
-.. _Main principle of following operation mode and overspeed detection:
 .. figure:: /_img/archives/following-01.png
    :class: instructionimg
    :figwidth: 100 %
@@ -102,13 +96,11 @@ to prevent load drop.
    Main principle of following operation mode and overspeed detection
 
 
-.. _Following mode stages:
 .. csv-table:: Following mode stages
    :file: /_tables/following-mode-stages.csv
    :delim: ;
    :header-rows: 0
    :widths: auto
-   
    :align: left
 
 
@@ -123,43 +115,31 @@ symbols displayed on 7–segment display during Following operation mode in Rest
 During Rest differend messages can be displayed on 7-segment display.
 They are active only during Rest.
 
-.. _Symbols displayed on 7-segment display on MS Controller:
 .. csv-table:: Rest
    :file: /_tables/following-mode-digits-rest.csv
    :delim: ;
    :header-rows: 1
    :widths: auto
-   
-   :class: instructionimg
 
 `Symbols displayed on 7-segment display on MS Controller during movement` shows the 
 symbols displayed on 7–segment display during following operation mode during movement.
 
-.. _Symbols displayed on 7-segment display on MS Controller during movement:
 .. csv-table:: Movement
    :file: /_tables/following-mode-digits-movement.csv
    :header-rows: 1
    :delim: ;
    :widths: auto
-   
-   :class: instructionimg
 
 
 MS HMI status messages
-=====================
+=======================
 
 On MS HMI "Main Screen" status of MotoSuiveur® System is displayed.
 In table below status messages are listed.
 
-.. _Status messages:
 .. csv-table:: Status messages
    :file: /_tables/mshmi-status-messages.csv
    :header-rows: 1
    :delim: ;
    :widths: auto
-   
-   :class: instructionimg
 
-\*\ :doc:`MotoSuiveur® System planned maintenance </maintenance/planned-maintenance/maintenance-schedule>`
-
-\**\ `Upward movement prohibited`_, `Downward movement prohibited`_

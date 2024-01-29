@@ -22,16 +22,23 @@ MotoSuiveur® Overview
         :link-type: doc
         :class-title: card-title
 
-        Overview of key safety and operation functions of MotoSuiveur®.
+        Overview of key safety and operation functions of MS Unit.
  
-    .. grid-item-card:: MotoSuiveur® Controls
+    .. grid-item-card:: MS Controls
         :img-top: /_img/cards/controls-card_16-9.jpg
         :link: equipment/control-interface/index
         :link-type: doc
         :class-title: card-title
 
-        Overview of hoist-MS controls interface, MS Controller, MS HMI menus.
+        Overview of MS Control Cabinet, hoist-to-MS controls interface, MS Controller, MS HMI menus.
 
+    .. grid-item-card:: MS Add-ons
+        :img-top: /_img/cards/addons-card.png
+        :link: equipment/ms-solution/index
+        :link-type: doc
+        :class-title: card-title
+
+        Static and dynamic overloads protection. Advanced load recovery capabilities.
 
 .. toctree::
     :maxdepth: 2
@@ -113,6 +120,7 @@ Sections
     /maintenance/index
     /advanced/index
 
+
 .. toctree::
     :maxdepth: 2
     :hidden:
@@ -124,15 +132,3 @@ Sections
     sitemap
     sphinx-tools-demo-page
     /archives/index
-
-.. toctree::
-    :maxdepth: 2
-    :hidden:
-    :caption: How tos
-
-    /howto/remove-ms-worm
-    /howto/recovery-gravity-lowering
-
-
-
-

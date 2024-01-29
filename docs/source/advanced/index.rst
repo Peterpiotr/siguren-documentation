@@ -10,7 +10,8 @@ Advanced Procedures
   variable-change
   controller-errors
   hmi-guided-troubleshooting
-  controls-check
+  
+.. controls-check
 
 .. proposed procedures:
   - what to do in case of grease/oil leakage? (decision tree?)

@@ -11,7 +11,7 @@ Every logging group stores last 10 events after restart or power loss of MS HMI.
 .. "record" and "log" were used indiscriminately. Kept "log". "records" are the individual lines of the logs.
 
 MS Logging Groups screen
-=======================
+=========================
 
 .. figure:: /_img/hmi/logging-groups.PNG
     :figwidth: 100 %
@@ -21,12 +21,20 @@ MS Logging Groups screen
 
 .. logging grOOps: needs to be corrected asap. In vijeo and in doc.
 
-.. csv-table:: Event record screen
-   :file: /_tables/hmi/event-record.csv
-   :delim: ;
-   :header-rows: 1
-   :widths: auto
-   :align: left
+Screen elements
+    | ① MS status messages log
+    | ② MS warning messages log
+    | ③ MS fault messages log
+    | ④ Redirect to Menu screen
+
+..
+    .. csv-table:: Event record screen
+        :file: /_tables/hmi/event-record.csv
+        :delim: ;
+        :header-rows: 1
+        :widths: auto
+        :align: left
+
 
 MS Status Log screen
 =======================
@@ -39,6 +47,11 @@ MS Status log group contains all events appearing during MotoSuiveur® System op
 
     MS status log screen components
 
+Screen elements
+    | ① 
+    | ② 
+
+.. complete
 
 MS Warning Log screen
 =======================
@@ -51,6 +64,13 @@ MS Warning log group contains all warning events appearing during MotoSuiveur® 
 
     MS warning log screen components
 
+.. screen does not show logged warnings
+
+Screen elements
+    | ① 
+    | ② 
+
+.. complete
 
 MS Fault Log screen
 =======================
@@ -63,10 +83,17 @@ MS Fault log group contains all fault events appearing during MotoSuiveur® Syst
 
     MS fault log screen components
 
+Screen elements
+    | ① Log messages list
+    | ② Redirect to MS logging groups screen
 
-.. csv-table:: Log screens 
-   :file: /_tables/hmi/log-components.csv
-   :delim: ;
-   :header-rows: 1
-   :widths: auto
-   :align: left
+
+
+..
+    .. csv-table:: Log screens 
+        :file: /_tables/hmi/log-components.csv
+        :delim: ;
+        :header-rows: 1
+        :widths: auto
+        :align: left
+

@@ -47,7 +47,6 @@ In table below MS Controller internal errors are described.
 .. csv-table:: MS Controller internal errors
     :file: /_tables/ms-controller-internal-errors.csv
     :header-rows: 1
-    
     :delim: ;
     :widths: auto
     :align: left
@@ -57,7 +56,6 @@ In table below MotoSuiveur® System warnings and faults are described.
 .. csv-table:: MotoSuiveur® System warnings and faults
     :file: /_tables/ms-faults-and-warnings.csv
     :header-rows: 1
-    
     :delim: ;
     :widths: auto
     :align: left

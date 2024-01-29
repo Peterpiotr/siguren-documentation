@@ -39,7 +39,6 @@ The set of inputs and outputs is defined in advance for each project based on pr
    :file: /_tables/terminasl-description.csv
    :delim: ;
    :header-rows: 1
-   
    :align: left
    :widths: auto
 
@@ -84,7 +83,6 @@ Principle location of electrical components on MS Unit are shown on figure below
    :file: /_tables/ms-unit-electrical-connection.csv
    :delim: ;
    :header-rows: 1
-   
    :align: left
    :widths: auto
 

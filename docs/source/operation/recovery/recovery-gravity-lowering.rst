@@ -202,25 +202,26 @@ Handheld Recovery Tool
 |                 |     |     |        |      | pm |    |    |    |
 +-----------------+-----+-----+--------+------+----+----+----+----+
 
+
 .. |image1| image:: media/image1.png
-   :width: 6.51528in
-   :height: 5.58955in
+    :width: 6.51528in
+    :height: 5.58955in
 .. |image2| image:: media/image2.png
-   :width: 0.79851in
-   :height: 0.76849in
+    :width: 0.79851in
+    :height: 0.76849in
 .. |image3| image:: media/image3.png
-   :width: 1.24652in
-   :height: 0.7913in
+    :width: 1.24652in
+    :height: 0.7913in
 .. |image4| image:: media/image1.png
-   :width: 6.51528in
-   :height: 5.58955in
+    :width: 6.51528in
+    :height: 5.58955in
 .. |image5| image:: media/image1.png
-   :width: 6.51528in
-   :height: 5.58955in
+    :width: 6.51528in
+    :height: 5.58955in
 .. |image6| image:: media/image1.png
-   :width: 6.51528in
-   :height: 5.58955in
+    :width: 6.51528in
+    :height: 5.58955in
 .. |image7| image:: media/image4.png
-   :width: 1.53125in
-   :height: 1.51042in
+    :width: 1.53125in
+    :height: 1.51042in
 

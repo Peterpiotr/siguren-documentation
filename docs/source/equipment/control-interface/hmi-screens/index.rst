@@ -8,10 +8,10 @@ MS HMI Touchscreen
 
    introduction
    boot-screens
-   home-screen
-   main-menu-screen
+   main-screen
+   menu-screen
    language-screen
-   version-scren
+   version-screen
    self-test-screen
    maintenance-screen
    variables-screen
@@ -22,6 +22,10 @@ MS HMI Touchscreen
    :caption: MS HMI actions
 
    changing-value-variable
+   consulting-preventive-maintenance
+
+
+.. these actions should be in their respective directories such as maintenance or regular operation etc
 
 
 

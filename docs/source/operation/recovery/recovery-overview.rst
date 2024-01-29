@@ -19,10 +19,9 @@ However, the MS Unit can be used as a gearbox to lower and even raise the load.
 Three main methods can be used (and combined) to recover the load, depending on how the hoist brake 
 and the MS Unit can be accessed and used in the emergency situation that requires the recovery:
 
-- :ref:`Forced MS recovery`
-- :ref:`MS followed gravity lowering`
-- :ref:`MS assisted gravity lowering`
-
+- Forced MS recovery
+- MS followed gravity lowering
+- MS assisted gravity lowering
 
 Forced MotoSuiveur® Recovery
 ----------------------------

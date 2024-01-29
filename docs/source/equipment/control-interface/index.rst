@@ -1,5 +1,5 @@
 =======================
-Control interface
+Control Interface
 =======================
 
 .. toctree::
@@ -7,4 +7,3 @@ Control interface
 
    control-panel
    hmi-screens/index
-   memory-card

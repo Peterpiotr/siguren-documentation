@@ -1,6 +1,6 @@
-=====================================
+=======================================
 MS Torque Limiter Maintenance Schedule
-=====================================
+=======================================
 
 
 MS-TL
@@ -14,8 +14,6 @@ MS-TL
    :delim: ;
    :header-rows: 1
    :widths: auto
-   
-   :class: instructionimg
 
 .. the table contains mini-procedures.
     Make them into procedures and illustrate with photos.

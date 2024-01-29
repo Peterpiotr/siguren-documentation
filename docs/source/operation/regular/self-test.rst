@@ -100,7 +100,6 @@ if some of the checks do not pass, a warning occurs.
    :file: /_tables/self-test.csv
    :delim: ;
    :header-rows: 1
-   
    :align: left
    :widths: auto
 
@@ -125,7 +124,6 @@ Sequence of switch test is listed in table below.
    :file: /_tables/switch-test.csv
    :delim: ;
    :header-rows: 1
-   
    :align: left
    :widths: auto
 
@@ -141,7 +139,6 @@ Sequence of checks is listed in table below.
    :file: /_tables/damping-test.csv
    :delim: ;
    :header-rows: 1
-   
    :align: left
    :widths: auto
 
@@ -157,7 +154,6 @@ Test sequence is listed in table below.
    :file: /_tables/air-test.csv
    :delim: ;
    :header-rows: 1
-   
    :align: left
    :widths: auto
 
@@ -172,6 +168,5 @@ Test sequense is listed below.
    :file: /_tables/play-test.csv
    :delim: ;
    :header-rows: 1
-   
    :align: left
    :widths: auto

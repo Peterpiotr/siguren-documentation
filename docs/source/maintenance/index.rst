@@ -28,8 +28,10 @@ Maintenance
   :caption: Controls and HMI
 
   controls/electrical-maintenance
-  controls/password-entry
   controls/software-updates
+  controls/memory-card
+
+.. controls/password-entry
   
 
 .. toctree::

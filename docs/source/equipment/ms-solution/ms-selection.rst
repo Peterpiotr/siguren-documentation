@@ -100,7 +100,7 @@ Example : Selecting a Passive Friction MS Unit (MSF)
 
 |Cms| = 1.4 x Cs = 1.4x 3 065 = 4 291 Nm
 
-According to :ref:`MS Unit arrest torque table`:
+According to MS Unit arrest torque table:
 
 |Cms| = 4 291 Nm < 6 100 Nm 
 

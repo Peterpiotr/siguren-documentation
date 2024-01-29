@@ -34,7 +34,6 @@ Hydraulic Damping MotoSuiveur®
    :file: /_tables/hydraulic_ms.csv
    :delim: ;
    :header-rows: 1
-   
    :align: left
    :widths: auto
 
@@ -51,7 +50,6 @@ Friction MotoSuiveur®
    :file: /_tables/friction_ms.csv
    :delim: ;
    :header-rows: 1
-   
    :align: left
    :widths: auto
 
@@ -78,14 +76,11 @@ Finally, to complete the moment couple between the drum shaft and the MS Unit, a
 MS Unit size
 -----------------------
 
-.. _MS Unit arrest torque table:
 .. csv-table:: MS Unit arrest torque table
    :file: /_tables/ms-unit-torque.csv
    :delim: ;
    :header-rows: 1
    :widths: 10, 30, 30, 30
-   
-   :class: instructionimg
 
 
 Interfacing MotoSuiveur® System with hoist
@@ -105,7 +100,6 @@ The MotoSuiveur® secured hoist system typically comprises of the following comp
    :delim: ;
    :header-rows: 1
    :widths: auto
-   
    :align: left
 
 1 - The MS Unit can be fixed in different methods to the hoist. The following sections explain in more detail.
@@ -133,5 +127,4 @@ MotoSuiveur® System is controlled by hoist commands. No external control is nee
    :delim: ;
    :header-rows: 1
    :widths: auto
-   
    :align: left

@@ -2,12 +2,7 @@
 Version Screen
 ===============
 
-The version screen presents information about MotoSuiveur System: 
-
-- name of project, 
-- MS HMI firmware version, 
-- HMI manufacturer software version,
-- MS Controller firmware version.
+The version screen presents information about a specific MotoSuiveur System.
 
 .. remove this list after updating the list below the image
 
@@ -17,10 +12,17 @@ The version screen presents information about MotoSuiveur System:
 
     Version screen components
 
+Screen elements
+    | ① SIGUREN technologies project number
+    | ② HMI firmware version
+    | ③ HMI software version
+    | ④ MS controller firmware version
+    | ⑤ Redirect to Menu screen
 
-.. csv-table:: Version screen 
-   :file: /_tables/hmi/system-information.csv
-   :delim: ;
-   :header-rows: 1
-   :widths: auto
-   :align: left
+..
+    .. csv-table:: Version screen 
+       :file: /_tables/hmi/system-information.csv
+       :delim: ;
+       :header-rows: 1
+       :widths: auto
+       :align: left

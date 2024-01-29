@@ -4,10 +4,7 @@ Unblocking
 
 .. include:: /_img/_image-substitutions.rst
 
-.. ==========================================================================================================
-
-.. note::
-    Extracted from :download:`Mounting procedure.pptx </_archives/Mounting-procedure.pptx>` .
+.. From Mounting procedure.pptx
 
 .. What does it mean for the MS Unit to be 'blocked'?
 
