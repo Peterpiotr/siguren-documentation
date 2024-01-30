@@ -2,21 +2,53 @@
 Sphinx Tools Demo Page (Dev)
 ============================
 
-.. contents::
-  :local:
-  :depth: 3
+References
+===========
 
-.. local toc needs to be at the top (?)
+Circled numbers list
+----------------------
+
+Screen elements
+    ① :guilabel:`English` button
+        Change screen language to English
+    ② :guilabel:`Español` button
+        Change screen language to Spanish
+    ③ :guilabel:`Back` button
+        Back to Menu screen
+    ④ :guilabel:`Français` button
+        Change screen language to French
+
 
 Heading 1
 =========
 
 Content
 
+Local toc
+----------
+
+.. contents::
+  :local:
+  :depth: 3
+
+.. NOT WORKING. local toc needs to be at the top (?)
+
 Heading 2
 ---------
 
 ➔ test➔ test➔ test➔ test➔ test➔ test
+
+:menuselection:`Preferences --> Keymap --> 3D View --> Curve --> 3D View Tool: Edit Curve, Curve Pen`
+
+:menuselection:`test --> test`
+
+
+
+   :Mode:      Edit Mode
+   :Menu:      :menuselection:`Select --> Checker Deselect`
+
+This tool applies an alternating selected/deselected checker pattern.
+This only works if you already have more than one control point selected.
 
 tags
 ----
@@ -139,8 +171,8 @@ The "rubric" directive inserts a "rubric" element into the document tree. A rubr
 
 Some text that requires a footnote [#f1]_ .
 
-Title
-=======
+Raw
+------
 
 .. raw:: html
 
@@ -150,7 +182,7 @@ Some other thext.
 
 
 Circled numbers
-=================
+----------------
 
 ⓪ 
 ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ 

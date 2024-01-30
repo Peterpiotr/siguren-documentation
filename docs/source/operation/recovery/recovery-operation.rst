@@ -16,7 +16,7 @@ The MS Unit will never allow a load drop. It will arrest the hoist drum whenever
 However, the MS Unit can be used as a gearbox to lower and even raise the load. 
 
 .. note::
-	The MS Unit is irreversible – meaning that load drop is impossible even when the MS Unit alone is used for recovering the load. 
+	The MS Unit is irreversible - meaning that load drop is impossible even when the MS Unit alone is used for recovering the load. 
 	This allows the user to use the weight of the load without risking a load drop.
 
 Three main methods can be used (and combined) to recover the load, depending on how the hoist brake 
@@ -77,7 +77,7 @@ Whilst undertaking the recovery process and in all cases the main motor hoist se
 Тhis will then be required to be opened (automatically or manually) for the entire duration of the recovery starting from when the Integrated Recovery System is engaged.
 
 The purpose of the Integrated Recovery System is to provide an independent means of enabling the raising or lowering the load in the event of a failure of the main hoisting mechanism.
-This means of hoisting is achieved and initiated from the MotoSuiveur® System control cabinet with physical switches. 
+This means of hoisting is achieved and initiated from the MS Control Cabinet with physical switches. 
 
 .. important::
 	Prior to any recovery operations commencing, the cause of the fault should be identified.

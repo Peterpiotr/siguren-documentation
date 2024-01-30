@@ -11,11 +11,11 @@ Screen Self-Test displays values from last MotoSuiveur® System Self-Test.
 
 
 Screen elements
-    | ① Last Self-Test performed (under development)"
-    | ② Value for damping chamber hardness (Flow)"
-    | ③ Value for air in damping chamber (Air)"
-    | ④ Value for worm play (Play)"
-    | ⑤ Redirect to Menu screen"
+    :①: Last Self-Test performed (under development)"
+    :②: Value for damping chamber hardness (Flow)"
+    :③: Value for air in damping chamber (Air)"
+    :④: Value for worm play (Play)"
+    :⑤: Redirect to Menu screen"
 
 .. so what? 
     what can the user understand from this data? 

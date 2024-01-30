@@ -113,7 +113,7 @@ In this type of lowering, only moderate torque is to be applied to the MS worm s
 Using the following hardware:
 
 - Handheld Recovery Tool for MS sizes above MS4,
-- Handwheel / crank handle or standard ratchet handle for sizes MS0 – MS3
+- Handwheel / crank handle or standard ratchet handle for sizes MS0 - MS3
 
 Instructions
   1. Apply moderate torque to the MS worm shaft, using the appropriate method.

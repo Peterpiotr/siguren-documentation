@@ -5,4 +5,4 @@ My tags: overspeed
     :maxdepth: 1
     :caption: With this tag
 
-    ../operation/regular/following.rst
+    ../operation/regular/following-mode.rst

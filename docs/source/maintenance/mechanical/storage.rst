@@ -64,4 +64,4 @@ Products used:
 - One coat Sherwin Williams Epigrip C400V4 epoxy primer @ 150μ
 - One coat Sherwin Williams C750 urethane acrylic special finish @ 50μ
 
-Colour – RAL 3020
+Colour - RAL 3020

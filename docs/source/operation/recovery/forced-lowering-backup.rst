@@ -25,7 +25,7 @@ Tools that are needed for this type of recovery load are as follows:
 
 
 Steps
-	1. Switch off power of the MotoSuiveur® System control cabinet.
+	1. Switch off power of the MS Control Cabinet.
 	2. Dismantle the worm cover of the MS Unit .
 
 	.. figure:: /_img/backup/remove-cover-bolts-removebg-preview.png

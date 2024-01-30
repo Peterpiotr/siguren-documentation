@@ -22,10 +22,14 @@ MS Logging Groups screen
 .. logging grOOps: needs to be corrected asap. In vijeo and in doc.
 
 Screen elements
-    | ① MS status messages log
-    | ② MS warning messages log
-    | ③ MS fault messages log
-    | ④ Redirect to Menu screen
+    ① :guilabel:`MS Status Log` button
+        Go to MS Status Log screen
+    ② :guilabel:`MS Warning Log` button
+        Go to MS Warning Log screen
+    ③ :guilabel:`MS Fault Log` button
+        Go to MS Fault Log screen
+    ④ :guilabel:`Back` button
+        Redirect to Menu screen
 
 ..
     .. csv-table:: Event record screen
@@ -48,10 +52,12 @@ MS Status log group contains all events appearing during MotoSuiveur® System op
     MS status log screen components
 
 Screen elements
-    | ① 
-    | ② 
+    ① MS Status logs table
+        Chronologically arranged MS Status messages
+    ② :guilabel:`Back` button
+        Redirect to MS Logging Groups screen
 
-.. complete
+.. comment on "Last Event"
 
 MS Warning Log screen
 =======================
@@ -67,10 +73,11 @@ MS Warning log group contains all warning events appearing during MotoSuiveur® 
 .. screen does not show logged warnings
 
 Screen elements
-    | ① 
-    | ② 
+    ① MS Warning logs table
+        Chronologically arranged MS Warnings messages
+    ② :guilabel:`Back` button
+        Redirect to MS Logging Groups screen
 
-.. complete
 
 MS Fault Log screen
 =======================
@@ -84,9 +91,12 @@ MS Fault log group contains all fault events appearing during MotoSuiveur® Syst
     MS fault log screen components
 
 Screen elements
-    | ① Log messages list
-    | ② Redirect to MS logging groups screen
+    ① MS Fault logs table
+        Chronologically arranged MS Fault messages
+    ② :guilabel:`Back` button
+        Redirect to MS logging groups screen
 
+.. it reads "DriFe fault" on the image.
 
 
 ..

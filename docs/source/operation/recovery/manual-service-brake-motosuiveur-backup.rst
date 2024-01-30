@@ -16,7 +16,7 @@ The load lowering movement is controlled manually by operator, through the handl
 Second operator is required to control main hoist brake. 
 
 .. note::
-  MotoSuiveur® System power should be switched off in control cabinet.
+  MotoSuiveur® System power should be switched off in MS Control Cabinet.
   
   Each of the two operators can stop the operation: the first operator by closing the service brake, the second operator by stopping the rotation of MS Unit.
   
@@ -24,7 +24,7 @@ Second operator is required to control main hoist brake.
 
 
 Instructions
-	1. Switch off power of MotoSuiveur® System control cabinet (The MotoSuiveur®s should be driven manually).
+	1. Switch off power of MS Control Cabinet (The MotoSuiveur®s should be driven manually).
 	2. Dismantle the worm cover of the MS Unit .
 
 	.. figure:: /_img/backup/remove-cover-bolts-removebg-preview.png

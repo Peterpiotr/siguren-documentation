@@ -1,9 +1,9 @@
 ﻿Symbol    ;Title
-|image042|;Upward enable switch activated
-|image043|;Downward enable switch activated
-|image044|;Commands for lifting and lowering simultaneous activated
-|image045|;Maintenance "A"
-|image046|;Maintenance "B"
-|image047|;Maintenance "C"
-|image048|;Maintenance "D"
-|image049|;Rest
+|7s-042|;Upward enable switch activated
+|7s-043|;Downward enable switch activated
+|7s-044|;Commands for lifting and lowering simultaneous activated
+|7s-A|;Maintenance "A"
+|7s-b|;Maintenance "B"
+|7s-C|;Maintenance "C"
+|7s-d|;Maintenance "D"
+|7s-049|;Rest

@@ -13,7 +13,7 @@ The MS Unit will never allow a load drop. It will arrest the hoist drum whenever
 However, the MS Unit can be used as a gearbox to lower and even raise the load. 
 
 .. note::
-	The MS Unit is irreversible – meaning that load drop is impossible even when the MS Unit alone is used for recovering the load. 
+	The MS Unit is irreversible - meaning that load drop is impossible even when the MS Unit alone is used for recovering the load. 
 	This allows the user to use the weight of the load without risking a load drop.
 
 Three main methods can be used (and combined) to recover the load, depending on how the hoist brake 

@@ -5,7 +5,7 @@ Control Panel
 .. include:: /_img/_image-substitutions.rst
 
 Layout of the control panel is defined according to pre-selected functionality relative to the MS Block Diagram. 
-The control panel can be located on the control cabinet front door, can be external or a combination of both.
+The control panel can be located on the MS Control Cabinet front door, can be external or a combination of both.
 The operator has the facility to use the controls via switches or MS HMI.
 The switches and HMI can be used to switch the operating modes of the MotoSuiveur® System.
 Combination of active (ON) and inactive (OFF) signal lams gives current status of MotoSuiveur®. 
@@ -48,16 +48,16 @@ If MS Controller internal fault appear further operation is prohibited.
 Faults and warnings are displayed on MS Controller integrated 7-segment display. 
 The display indicates all types of MotoSuiveur® warnings/faults and MS Controller internal errors. 
 Indication is a combination of letters and numbers.
-MS Controller internal faults are indicated with blinked combination of |image035|, number and finish with symbol |image039|.
+MS Controller internal faults are indicated with blinked combination of |7s-E|, number and finish with symbol |7s-039|.
 
-MotoSuiveur® faults are displayed with combination of |image036| and number. 
-MotoSuiveur® warnings are displayed with combination of |image035| and number. 
+MotoSuiveur® faults are displayed with combination of |7s-F| and number. 
+MotoSuiveur® warnings are displayed with combination of |7s-E| and number. 
 
 
 Reset 
 --------
 
-:guilabel:`🔘 Reset button` Reset MotoSuiveur® System electrically and mechanically. After Reset, MotoSuiveur® System is performing Self-Test. 
+:guilabel:`🔘 Reset` button resets the MotoSuiveur® System electrically and mechanically. After Reset, MotoSuiveur® System automatically runs a Self-Test. 
 
 
 
@@ -77,14 +77,14 @@ The figure below shows an example overview of a control panel with and without M
 .. figure:: /_img/control-panel/control-panel-overview.png
 	:class: instructionimg
 	:figwidth: 100 %
-	:alt: Control cabinet
+	:alt: MS Control Cabinet
 
 	Control panel according to documentation 
 
 .. figure:: /_img/archives/control-panel-02.png
 	:class: instructionimg
 	:figwidth: 100 %
-	:alt: Control cabinet
+	:alt: MS Control Cabinet
 
 	Control panel as built
 
@@ -102,7 +102,7 @@ Remote control panel
 .. figure:: /_img/archives/control-panel-external.png
 	:class: instructionimg
 	:figwidth: 100 %
-	:alt: Control cabinet
+	:alt: MS Control Cabinet
 
 	External control panel overview
 

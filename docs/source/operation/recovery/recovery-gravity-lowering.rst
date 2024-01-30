@@ -5,7 +5,7 @@ Recover suspended load with MS-Backed Gravity Lowering
 The MS will never allow a load drop. It will arrest the hoist drum
 whenever the hoist brake is unable to do so. However, the MS can be used
 as a gearbox to lower and even raise the load. Notе that the MS is
-irreversible – meaning that load drop is impossible even when the MS
+irreversible - meaning that load drop is impossible even when the MS
 alone is used for recovering the load. This allows the user to use the
 weight of the load without fearing a load drop.
 
@@ -22,9 +22,9 @@ used in the emergency situation that requires the recovery.
   (approximately 1/8 of the barrel torque).
 
 | Using the following hardware:
-| - Portable Recovery Tool for sizes MS4 – MS7, or
+| - Portable Recovery Tool for sizes MS4 - MS7, or
 
-- Handheld Recovery Tool for sizes MS0 – MS3
+- Handheld Recovery Tool for sizes MS0 - MS3
 
 For MS with Integrated Remote Recovery the hardware is integrated and is
 remotely operated.
@@ -82,16 +82,16 @@ In case of power outage, the MS can be UPS/battery operated.
 
 | Using the following hardware:
 | - Handheld Recovery Tool for MS sizes above MS4
-| - handwheel / crank handle or standard ratchet handle for sizes MS0 –
+| - handwheel / crank handle or standard ratchet handle for sizes MS0 -
   MS3
 
 See following figures
 
-|image1|
+|7s-1|
 
 Brake
 
-|image2|
+|7s-2|
 
 | Handheld / Portable
 | Recovery Tool
@@ -99,7 +99,7 @@ Brake
 | Integrated
 | Remote Recovery
 
-|image3|
+|7s-3|
 
 1) **Forced MS recovery**
 
@@ -114,9 +114,9 @@ Brake
 | Torque, Nm | 100  | 250  | 500  | 850  | 1350 | 2000 | 3950 | 6800 |
 +------------+------+------+------+------+------+------+------+------+
 
-Indicative barrel speed: 0.1 – 0.3 rpm
+Indicative barrel speed: 0.1 - 0.3 rpm
 
-|image4|
+|7s-4|
 
 1
 
@@ -134,7 +134,7 @@ Indicative barrel speed: 0.1 – 0.3 rpm
 
 Indicative mean barrel speed: 0.5 rpm
 
-|image5|
+|7s-5|
 
 Brake Release Tool
 
@@ -152,7 +152,7 @@ MS in Backup Mode
 
 Indicative barrel speed: 2 - 5 rpm
 
-|image6|
+|7s-6|
 
 Brake Release Tool
 
@@ -161,7 +161,7 @@ Brake Release Tool
 
 Handheld Recovery Tool
 
-|image7|
+|7s-7|
 
    **3) MS assisted gravity lowering**
 
@@ -195,7 +195,7 @@ Handheld Recovery Tool
 +-----------------+-----+-----+--------+------+----+----+----+----+
 | Indicative      | 1   |     | 0.2    |      | 0  |    |    |    |
 | barrel speed    | rpm |     | rpm    |      | .1 |    |    |    |
-|                 |     |     |        |      | –  |    |    |    |
+|                 |     |     |        |      | -  |    |    |    |
 |                 |     |     |        |      | 0  |    |    |    |
 |                 |     |     |        |      | .2 |    |    |    |
 |                 |     |     |        |      | r  |    |    |    |
@@ -203,25 +203,25 @@ Handheld Recovery Tool
 +-----------------+-----+-----+--------+------+----+----+----+----+
 
 
-.. |image1| image:: media/image1.png
+.. |7s-1| image:: media/image1.png
     :width: 6.51528in
     :height: 5.58955in
-.. |image2| image:: media/image2.png
+.. |7s-2| image:: media/image2.png
     :width: 0.79851in
     :height: 0.76849in
-.. |image3| image:: media/image3.png
+.. |7s-3| image:: media/image3.png
     :width: 1.24652in
     :height: 0.7913in
-.. |image4| image:: media/image1.png
+.. |7s-4| image:: media/image1.png
     :width: 6.51528in
     :height: 5.58955in
-.. |image5| image:: media/image1.png
+.. |7s-5| image:: media/image1.png
     :width: 6.51528in
     :height: 5.58955in
-.. |image6| image:: media/image1.png
+.. |7s-6| image:: media/image1.png
     :width: 6.51528in
     :height: 5.58955in
-.. |image7| image:: media/image4.png
+.. |7s-7| image:: media/image4.png
     :width: 1.53125in
     :height: 1.51042in
 

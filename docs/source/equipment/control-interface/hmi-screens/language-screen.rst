@@ -10,11 +10,16 @@ Screen Language allows change of screen language.
 
     Language screen components
 
+
 Screen elements
-    | ① Change screen language to English
-    | ② Change screen language to Spanish
-    | ③ Back to Menu screen
-    | ④ Change screen language to French
+    ① :guilabel:`English` button
+        Change screen language to English
+    ② :guilabel:`Español` button
+        Change screen language to Spanish
+    ③ :guilabel:`Back` button
+        Back to Menu screen
+    ④ :guilabel:`Français` button
+        Change screen language to French
 
 .. 
     .. csv-table:: Language screen 

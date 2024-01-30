@@ -110,7 +110,7 @@ According to MS Unit arrest torque table:
 
 
 
-MS control cabinet selection
+MS MS Control Cabinet selection
 ======================================
 
 MS load recovery add-on selection

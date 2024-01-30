@@ -64,7 +64,7 @@ Glossary
    Reversibility
       The friction MotoSuiveur® is mechanically reversible, which means that is can indifferently be mounted in one orientation 
       or the other and can absorb a fall according both mountings.
-      When delivered with its control cabinet, the MotoSuiveur® must either be mounted according 
+      When delivered with its MS Control Cabinet, the MotoSuiveur® must either be mounted according 
       to the logics of the cabinet which cannot know how the MotoSuiveur® is oriented.
 
    Friction absorber
@@ -104,10 +104,10 @@ Glossary
       -	the pre-engagement that pushes the screw in its inward hard stop.
       -	The engagement that engages the flywheel into the pinion wheel.
 
-      This operation is usually performed automatically by the control cabinet logics. It can be done when needed by other means.
+      This operation is usually performed automatically by the MS Control Cabinet logics. It can be done when needed by other means.
       The engagement is detected by a sensor.
 
-   MotoSuiveur® control panel, control cabinet, control box or electrical cabinet
+   MotoSuiveur® control panel, MS Control Cabinet, control box or electrical cabinet
       The electrical cabinet that contains relays, logical unit, motor drivers, relays, circuit breakers and wiring.
 
    Proface, touch screen, programmable logic controller
@@ -116,11 +116,11 @@ Glossary
       if any and the hoisting installation electrical cabinet.
 
    Drive, controller
-      The motor controller that drives the Servo-motor. When control cabinet manages many MotoSuiveur®s, 
+      The motor controller that drives the Servo-motor. When MS Control Cabinet manages many MotoSuiveur®s, 
       each servo-motor is driven by its own drive.
 
    Recovery Motor Drive
-      The recovery motor controller that drives the recovery motor. When control cabinet manages many MotoSuiveur®s, 
+      The recovery motor controller that drives the recovery motor. When MS Control Cabinet manages many MotoSuiveur®s, 
       each recovery motor is driven by its own drive.
 
    Normal mode

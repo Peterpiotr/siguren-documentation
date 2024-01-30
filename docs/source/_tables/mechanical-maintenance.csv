@@ -4,10 +4,10 @@
 "REACTION ARM: (fixation, welds, cracks, etc)
 ";"Annually";-;-
 "SERVO MOTOR WORM TRANSMISSION: Grease - LGMT2
-";"Annually";75E+6;|image045|
+";"Annually";75E+6;|7s-A|
 "BELT (IF APPLICABLE): Check for wear
-";"5 Years";75E+6;|image045|
-"WORM SHAFT LIP SEAL:";"5 Years";150E+6;|image046|
+";"5 Years";75E+6;|7s-A|
+"WORM SHAFT LIP SEAL:";"5 Years";150E+6;|7s-b|
 "WHEEL LIP SEAL:";"10 Years **OR** Replace earlier if leaks are present and maintenance history is unknown.";-;-
-"O RINGS:";"Annually";900E+6;|image048|
+"O RINGS:";"Annually";900E+6;|7s-d|
 "ELECTRICAL CABINET AIR FILTER (if applies): Replace or clean";"Annually";-;-

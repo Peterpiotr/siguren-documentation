@@ -8,7 +8,9 @@ Advanced Procedures
   :caption: Diagnostics
 
   variable-change
-  controller-faults-warnings
+  ms-controller-7-segment
+  ms-controller-internal-errors
+  ms-controller-ms-warnings-faults
   hmi-guided-troubleshooting
   
 .. controls-check

@@ -23,5 +23,5 @@ Steps
     3. After Reset MotoSuiveur® System 
        
        .. note::
-            See :doc:`operation-modes`.
+            See :doc:`operation-sequence`.
 

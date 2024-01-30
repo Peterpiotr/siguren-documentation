@@ -1,33 +1,57 @@
 ==============
-Following mode
+Following Mode
 ==============
 
-.. tags:: following, overspeed
+..
+    .. tags:: following, overspeed
 
 .. include:: /_img/_image-substitutions.rst
 
-Following operation mode is the main operating mode of the MotoSuiveur® System.
-Following operation mode starts after successful passed of self–test. 
-The function of Following mode is intended for follow movements of the hoist/crane and to monitor 
-for exceeding the :term:`rated speed` with defined positive tolerance. 
-The speed, which is considered high is called :term:`overspeed`. 
+Introduction
+=============
 
-It is separated into Rest and Follow states. 
-At Rest, MotoSuiveur® System is waiting for a movement request.  
-When a movement request is received, MotoSuiveur® System starts following.
-Rest and Following states are displayed on `MS Controller 7-segment display`_ and :doc:`MS HMI </equipment/control-interface/hmi-screens/index>` "Main Screen" field "MotoSuiveur® System status:".
+Following Mode is the main operating mode of the MotoSuiveur® System.
+
+Following Mode starts after a successful completion of MS Self-Test. 
+
+.. note::
+    See :doc:`/operation/regular/self-test`.
+
+In Following Mode, the MotoSuiveur® System **simultaneously**:
+
+    - follows hoist movements.
+    - monitors for exceeding the :term:`rated speed` with defined positive tolerance. This threshold is called the :term:`overspeed`. 
 
 
+States of Following Mode
+=========================
 
-.. important::             
-    By design MotoSuiveur® System **will not allow** overspeed. 
 
-Following operation mode principle
-====================================
+Following Mode is separated into a **Rest State** and a **Follow State**. 
+    :Rest State: 
+        MotoSuiveur® System is waiting for a movement request. 
+    :Follow State: 
+        When a movement request is received, MotoSuiveur® System transitions into Follow State (= starts following hoist movements).
 
-After successful passed of self–test MotoSuiveur® System is in Rest.
-In Rest, after a successful Self-Test and the presence of an enable signal from the crane, 
-the following indicators are active - :guilabel:`🟢 Hoist enabled`, :guilabel:`🟢 Upward Enable` and :guilabel:`🟢 Downward Enable`.
+
+Rest State and Follow State are displayed on MS Controller 7-segment display and MS HMI "Main Screen" field :guilabel:`MotoSuiveur® System status` .
+
+.. "status" instead of "state" on HMI.
+
+.. note::
+    See :doc:`/operation/regular/self-test`.
+
+Following Mode logic
+========================
+
+After successful passed of self-test MotoSuiveur® System is in Rest State.
+
+In Rest State, after a successful Self-Test and the presence of an enable signal from the crane, the following indicators are active **simultaneously**:
+
+    - :guilabel:`🟢 Hoist enabled`, 
+    - :guilabel:`🟢 Upward Enable` 
+    - :guilabel:`🟢 Downward Enable`.
+
 
 .. figure:: /_img/regular-operation/indicators-following-state.png
    :class: instructionimg
@@ -35,9 +59,15 @@ the following indicators are active - :guilabel:`🟢 Hoist enabled`, :guilabel:
 
    Active indicators in following state
 
-The following process is started after pressing the buttons to operate the hoist up or down. 
-If a limit switch prohibiting upward movement is activated during movement, the :guilabel:`🟢 Upward Enable` indicator becomes inactive - `Upward movement prohibited`. 
+.. we just said we were in rest state and the caption of the image says following state
+
+The following process is started after pressing the buttons to operate the hoist UP or DOWN.
+
+If a limit switch prohibiting upward movement is activated during movement, the :guilabel:`🟢 Upward Enable` indicator becomes inactive - `Upward movement prohibited`.
+
 In this state, no upward movement of the crane is allowed, and a short downward movement is required until the MS worm is cantered `Active indicators in following state`.
+.. which "state"? one of the two states of the following mode?
+
 
 .. figure:: /_img/regular-operation/indicators-following-state.png
    :class: instructionimg
@@ -45,8 +75,9 @@ In this state, no upward movement of the crane is allowed, and a short downward 
 
    Upward movement prohibited
 
-Accordingly, if the limit switch prohibiting downward movement is activated during movement, the :guilabel:`🟢 Downward Enable` indicator becomes inactive – `Downward movement prohibited`. 
-In this state, no downward movement of the crane is allowed, and a short upward movement is required until the MS worm is cantered – `Active indicators in following state`.
+Accordingly, if the limit switch prohibiting downward movement is activated during movement, the :guilabel:`🟢 Downward Enable` indicator becomes inactive - `Downward movement prohibited`. 
+
+In this state, no downward movement of the crane is allowed, and a short upward movement is required until the MS worm is cantered - `Active indicators in following state`.
 
 .. figure:: /_img/regular-operation/downward-prohibited.png
    :class: instructionimg
@@ -81,10 +112,10 @@ Fault message is displayed on MS Controller 7-segmend display and MS HMI.
    
 After MotoSuiveur® System enters a fault state, an operator (authorized personnel) response is required to identify the reason for the fault. 
 Once the cause of the failure has been identified and resolved, a :doc:`Reset </operation/regular/system-Reset>` of the MotoSuiveur® System is required. 
-After a successful Self-Test following a Reset of MotoSuiveur® System, it enters in following mode.
+After a successful Self-Test following a Reset of MotoSuiveur® System, it enters in Following Mode.
 
 Figure `Main principle of following operation mode and overspeed detection` 
-present the main principle of Following operation mode (upper part) and Overspeed detection (lower part). 
+present the main principle of Following Mode (upper part) and Overspeed detection (lower part). 
 MotoSuiveur® System follows hoist/crane movement until overspeed is detected.
 When overspeed is detected, MotoSuiveur® System **trips** and mechanicaly lockes hoist/crane
 to prevent load drop.
@@ -96,7 +127,7 @@ to prevent load drop.
    Main principle of following operation mode and overspeed detection
 
 
-.. csv-table:: Following mode stages
+.. csv-table:: Following Mode stages
    :file: /_tables/following-mode-stages.csv
    :delim: ;
    :header-rows: 0
@@ -111,18 +142,18 @@ MS Controller display
 .. _MS Controller 7-segment display:
 
 `Symbols displayed on 7-segment display on MS Controller` shows the 
-symbols displayed on 7–segment display during Following operation mode in Rest.
-During Rest differend messages can be displayed on 7-segment display.
-They are active only during Rest.
+symbols displayed on 7-segment display during Following Mode in Rest State.
+During Rest State differend messages can be displayed on 7-segment display.
+They are active only during Rest State.
 
-.. csv-table:: Rest
+.. csv-table:: Rest State
    :file: /_tables/following-mode-digits-rest.csv
    :delim: ;
    :header-rows: 1
    :widths: auto
 
 `Symbols displayed on 7-segment display on MS Controller during movement` shows the 
-symbols displayed on 7–segment display during following operation mode during movement.
+symbols displayed on 7-segment display during following operation mode during movement.
 
 .. csv-table:: Movement
    :file: /_tables/following-mode-digits-movement.csv

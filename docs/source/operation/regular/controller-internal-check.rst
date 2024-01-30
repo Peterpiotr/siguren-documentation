@@ -104,11 +104,11 @@ Steps
 
         .. list-table:: Example for nodeID address 01 sequence
 
-            * - |image049|
+            * - |7s-049|
 
                 1.
 
-              - |image059|
+              - |7s-0|
 
                 2.
 

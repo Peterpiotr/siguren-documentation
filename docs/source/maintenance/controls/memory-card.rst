@@ -110,12 +110,12 @@ Status Display
 
     * - 7-segment display
       - Description
-    * - |image048|
+    * - |7s-d|
       - Data transfer from the Memory Stick to the Drive
-    * - |image058|
+    * - |7s-058|
       - Data transfer from the Drive to the Memory Stick
-    * - |image035| |image013| |image055|
+    * - |7s-E| |7s-1| |7s-8|
       - Error 18 : a write operation to the Memory Stick has failed : Removed or defective Memory stick.
-    * - |image035| |image013| |image060|
+    * - |7s-E| |7s-1| |7s-9|
       - | Error 19 : the Memory Stick transfer to the drive has not been done correctly because the data are incoherent. 
         | The Memory Stick has been erased and updated with the drive contents.

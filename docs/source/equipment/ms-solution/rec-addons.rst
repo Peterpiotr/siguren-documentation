@@ -40,7 +40,7 @@ Handheld recovery tool (HRT)
 When a power or mechanical failure occurs, the hoist kinematic chain is rendered inoperative. For hoists that have a single load path, 
 crane operators have little choice: they need to override the brakes and proceed to a load-controlled lowering. 
 This is a complex and perilous operation that can turn into an uncontrolled load drop if not executed expertly.
-MS offers two independent load recovery systems – HRT and PRT. 
+MS offers two independent load recovery systems - HRT and PRT. 
 
 - *HRT is appropriate for MS0 and MS1.* 
 - *PRT is appropriate up to MS4 size.*

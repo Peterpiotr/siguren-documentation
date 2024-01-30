@@ -8,7 +8,7 @@ Backup mode is available is intended to allow hoist movements in some special si
 This :guilabel:`🔑 Backup Mode Off/On` allows the user to lower or raise the load with the MS Unit ensuring no braking occurs. It does
 this via the MS Unit servo motor following the hoist movement whilst maintaining the normal position for the worm.
 
-The hoist crane and MotoSuiveur® System are controlled in the same way as in Follow mode - from the hoist control panel. 
+The hoist crane and MotoSuiveur® System are controlled in the same way as in Following Mode - from the hoist control panel. 
 The MotoSuiveur® System can also be equipped with a switch that duplicates the signals from the hoist - :guilabel:`Backup mode Down/Up`.
 
 When Backup mode is activated:
@@ -40,7 +40,7 @@ Activating and operating of Backup Mode
 
 	\**\ For MotoSuiveur® Systems equipped with **MSCD** MS Controller
 
-2. The Backup mode enable indicator illuminates. A symbol |image058| for activated Backup mode is displayed on the 7-segment indicator of the MS Controller.
+2. The Backup mode enable indicator illuminates. A symbol |7s-058| for activated Backup mode is displayed on the 7-segment indicator of the MS Controller.
 
 .. _Switch on Backup mode light:
 .. figure:: /_img/backup/backup-light-on.png
@@ -65,7 +65,7 @@ Deactivating of Backup Mode
 
 	Switching off Backup Mode
 
-2. The backup mode indicator  is not illuminated . On the 7-segment indicator of MS Controller the symbol |image058| remain active ana **Backup mode operation is still activated**.
+2. The backup mode indicator  is not illuminated . On the 7-segment indicator of MS Controller the symbol |7s-058| remain active ana **Backup mode operation is still activated**.
 
 .. _Switch off Backup mode light:
 .. figure:: /_img/backup/backup-light-off.png

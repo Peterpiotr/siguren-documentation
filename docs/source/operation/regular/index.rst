@@ -5,9 +5,9 @@ Regular Lifting Operation
 .. toctree::
     :maxdepth: 2
 
-    operation-modes
+    operation-sequence
     controller-internal-check
-    following
+    following-mode
     self-test
     system-reset
     

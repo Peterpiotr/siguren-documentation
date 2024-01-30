@@ -15,7 +15,7 @@ Backup/Recovery mode
 .. "function" vs "mode" vs "operation mode"
 
 Controls and indicators of this function are located on the :doc:`control panel front door </equipment/control-interface/control-panel>`
-– figure 3, items 4, 5, 10, 11.
+- figure 3, items 4, 5, 10, 11.
 
 Diagram below shows the principle of Backup/Recovery operation mode. 
 
@@ -32,7 +32,7 @@ represent the places where request for these operation modes are checked.
 Switching to Backup/Recovery mode is performed through :guilabel:`🔑 Backup/Recovery OFF/ON` key switch. 
 After switching :guilabel:`🔑 Backup/Recovery OFF/ON key` to position **ON**, Backup mode start operating. 
 
-|image058| :guilabel:`indication for backup mode` is displayed on 7–segment display and :guilabel:`🟠 Backup/Recovery Mode` indicator lamp is iluminated.
+|7s-058| :guilabel:`indication for backup mode` is displayed on 7-segment display and :guilabel:`🟠 Backup/Recovery Mode` indicator lamp is iluminated.
  
 .. important::
     Backup function ignore all settings and fault detection related with following operation and allows movement of hoist with hoist limited speed.
@@ -70,7 +70,7 @@ This mode starts operating the way shown on `Principle of Backup/Recovery operat
 .. do not use these references anymore?
 
 After Reset of MotoSuiveur® System, MS Controller checks for active Backup/Recovery mode request (:guilabel:`🔑 Backup/Recovery Off/On` is **ON**). 
-If request is active 7–segment display shows |image041| :guilabel:`🟠 Backup/Recovery Mode` and 
+If request is active 7-segment display shows |7s-U| :guilabel:`🟠 Backup/Recovery Mode` and 
 :doc:`automatic recovery engagement </operation/recovery/automatic-recovery-engagement>` start. 
 
 Completion of **ENGAGEMENT** is indicated by :guilabel:`🟢 Recovery Engaged` indication lamp. 
@@ -91,4 +91,4 @@ The verification consists of the following steps:
 
 - :guilabel:`🟢 Backup/Recovery` and :guilabel:`🟢 Recovery engaged` lamp are **NOT ON**,
 - :guilabel:`🔑 Backup/Recovery Off/On` is in position **OFF**,
-- On MS Controller 7–segment display symbols |image058| or |image041| are **NOT** displayed.
+- On MS Controller 7-segment display symbols |7s-058| or |7s-U| are **NOT** displayed.

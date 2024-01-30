@@ -39,7 +39,7 @@ Steps
 
 			Recovery mode light indicator
 
-		- MS Controller 7-segment display indicates recovery mode - |image041|.
+		- MS Controller 7-segment display indicates recovery mode - |7s-U|.
 
 	3. Wait for :guilabel:`🟢Recovery engaged` light indicator to come on.
 
@@ -76,7 +76,7 @@ Steps
 	2. Switch :guilabel:`🔑 Backup/Recovery Mode Off | On` to position **ON**.
 	
 	The :guilabel:`🟠 Backup/Recovery Mode` indicator light illuminate.
-	MS Controller 7-segment display indicates **Backup mode** - |image058|.
+	MS Controller 7-segment display indicates **Backup mode** - |7s-058|.
 
 	.. figure:: /_img/recovery/backup-recovery-on.PNG
 		:figwidth: 100 %
@@ -91,7 +91,7 @@ Steps
 
 		Backup/Recovery mode light indicator
 
-	3. Restart the MotoSuiveur® System.
+	3. Rest Stateart the MotoSuiveur® System.
 
 	.. figure:: /_img/recovery/Reset.png
 		:figwidth: 100 %

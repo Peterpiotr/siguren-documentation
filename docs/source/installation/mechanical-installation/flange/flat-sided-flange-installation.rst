@@ -53,7 +53,7 @@ Steps
 
 				Centering bush assembly
 
-	4. Mount the stop washer. 3xM12 hexagon head screws. Tightening torque – 79 Nm
+	4. Mount the stop washer. 3xM12 hexagon head screws. Tightening torque - 79 Nm
 
 			.. figure:: /_img/archives/mounting-procedure-05.jpg
 				:width: 100 %

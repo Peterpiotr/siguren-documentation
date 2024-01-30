@@ -13,7 +13,7 @@ This brake must be disengaged (either automatically or manually) throughout the 
 Integrated Recovery System is activated.
 
 The Integrated Recovery System is designed to independently enable the raising or lowering of the load in case the main hoisting mechanism fails. 
-This alternative hoisting method is activated via physical switches located in the MotoSuiveur® System control cabinet.
+This alternative hoisting method is activated via physical switches located in the MS Control Cabinet.
 
 .. important::
 	The causes of the fault should be clearly identified prior to any recovery operations.

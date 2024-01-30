@@ -13,11 +13,11 @@ The version screen presents information about a specific MotoSuiveur System.
     Version screen components
 
 Screen elements
-    | ① SIGUREN technologies project number
-    | ② HMI firmware version
-    | ③ HMI software version
-    | ④ MS controller firmware version
-    | ⑤ Redirect to Menu screen
+    :①: SIGUREN technologies project number
+    :②: HMI firmware version
+    :③: HMI software version
+    :④: MS controller firmware version
+    :⑤: Redirect to Menu screen
 
 ..
     .. csv-table:: Version screen 

@@ -3,7 +3,7 @@ Maintenance Screen
 
 Screen Maintenance displays maintenance information of MotoSuiveur® System. 
 
-This screen provides information about maintenance parameters status of MotoSuiveur® System – Total brakes, working time of MS, odometer, workmeter.
+This screen provides information about maintenance parameters status of MotoSuiveur® System - Total brakes, working time of MS, odometer, workmeter.
 
 Based on current values of parameters is displayed what type of maintenance is needed. 
 Maintenance type is displayed with letters A, B, C and D. 
@@ -23,13 +23,13 @@ Information regarding different types can be taken by pressing :guilabel:`Mainte
 
 
 Screen elements
-    | ① Total brakes counter
-    | ② Working time counter (under development)
-    | ③ MS odometer
-    | ④ MS work meter (under development)
-    | ⑤ Type of next MotoSuiveur® System maintenance
-    | ⑥ Redirect to Menu screen
-    | ⑦ Open pop up window with maintenance types info
+    :①: Total brakes counter
+    :②: Working time counter (under development)
+    :③: MS odometer
+    :④: MS work meter (under development)
+    :⑤: Type of next MotoSuiveur® System maintenance
+    :⑥: Redirect to Menu screen
+    :⑦: Open pop up window with maintenance types info
 
 .. no units!
 

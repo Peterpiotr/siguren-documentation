@@ -171,15 +171,15 @@ The set of inputs and outputs is defined in advance for each project based on pr
 
 
 | \*\  If power supply is separated
-| \**\  Control voltage from MS control cabinet
+| \**\  Control voltage from MS MS Control Cabinet
 | \***\  After Reset command MS performs Self-Test
 | \****\  Backup and Recovery mode in some models can be combined in common switch Backup/Recovery
  	 
-| PS – Power Supply
-| DI – Digital Input
-| DO – Digital Output/Relay Contact Output
-| AI – Analog Input
-| AO – Analog Output
-| RES – Resolver 
-| CV – Control Voltage
+| PS - Power Supply
+| DI - Digital Input
+| DO - Digital Output/Relay Contact Output
+| AI - Analog Input
+| AO - Analog Output
+| RES - Resolver 
+| CV - Control Voltage
 

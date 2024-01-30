@@ -16,19 +16,21 @@ Introduction
 
 A Self-Test is a procedure in which the MS Unit tests its health through a sequence of tests. 
 
-The Self-Test is performed after the initial power ON of the MotoSuiveur® System or after a restart from the Reset button on the electrical panel.
+The Self-Test is performed either:
+    - after the initial power ON of the MotoSuiveur® System 
+    - or after a restart from the :guilabel:`🔘 Reset` button on the MS Control Panel.
 
-The steps of Self-Test sequence are displayed on MS Controller 7–segment display (table below).
+The steps of Self-Test sequence are displayed on MS Controller 7-segment display (table below).
 
 +------------+-------------------+-----------------------------------------------+--------------------------+
 | Symbol     | Test              |Description                                    | Possible warnings/faults |
 +============+===================+===============================================+==========================+
-| |image013| | Software          |Checking version of MS Controller software     | E28                      |
+| |7s-1|     | Software          |Checking version of MS Controller software     | E28                      |
 +------------+-------------------+-----------------------------------------------+--------------------------+
-| |image017| | Electrical        |Check for activated commands for movement,     | E64, E65, E05, E04, E02, |
+| |7s-2|     | Electrical        |Check for activated commands for movement,     | E64, E65, E05, E04, E02, |
 |            |                   |presence of an enabling signal from crane/hoist| E03, E57, E69            |
 +------------+-------------------+-----------------------------------------------+--------------------------+
-| |image001| | Home              |Worm positioning in nominal position between   |                          |
+| |7s-H|     | Home              |Worm positioning in nominal position between   |                          |
 |            |                   |SCRE and USCRE limit switches                  |                          |
 +            +-------------------+-----------------------------------------------+--------------------------+
 |            | Blocking check    |Check for blocked worm. In the event that the  | E10                      |
@@ -39,23 +41,23 @@ The steps of Self-Test sequence are displayed on MS Controller 7–segment displ
 |            | Healthy           |Indication on MS Controller 7-segment display  |                          |
 |            |                   |for electrical healthy and unblocked worm      |                          |
 +------------+-------------------+-----------------------------------------------+--------------------------+
-| |image021| | Switch test       |Functional testing of MS Unit limit switches   | E11, E12, E13, E14       |
+| |7s-3|     | Switch test       |Functional testing of MS Unit limit switches   | E11, E12, E13, E14       |
 |            |                   |for operability and correct positioning        |                          |
 +------------+-------------------+-----------------------------------------------+--------------------------+
-| |image025| | Damping test*     |Hydraulic chamber hardness test of MS Unit.    | F22, F23                 |
+| |7s-4|     | Damping test*     |Hydraulic chamber hardness test of MS Unit.    | F22, F23                 |
 |            |                   |Checking for change in hydraulic cartridge     |                          |
 |            |                   |setting and sufficient oil in the hydraulic    |                          |
 |            |                   |chamber.                                       |                          |
 +------------+-------------------+-----------------------------------------------+--------------------------+
-| |image029| | Air test*         |Hydraulic chamber hardness test of MS Unit.    | F20                      |
+| |7s-5|     | Air test*         |Hydraulic chamber hardness test of MS Unit.    | F20                      |
 |            |                   |Checking for change in hydraulic cartridge     |                          |
 |            |                   |setting and sufficient oil in the hydraulic    |                          |
 |            |                   |chamber.                                       |                          |
 +------------+-------------------+-----------------------------------------------+--------------------------+
-| |image001| | Home              |Worm positioning in nominal position between   | E10                      |
+| |7s-H|     | Home              |Worm positioning in nominal position between   | E10                      |
 |            |                   |SCRE and USCRE limit switches                  |                          |
 +------------+-------------------+-----------------------------------------------+--------------------------+
-| |image033| | Play test         |Check for nominal backlash (worm free play)    | F15, F17                 |
+| |7s-F|   | Play test         |Check for nominal backlash (worm free play)    | F15, F17                 |
 |            |                   |between worm and worm wheel                    |                          |
 +------------+-------------------+-----------------------------------------------+--------------------------+
 
@@ -65,7 +67,7 @@ The steps of Self-Test sequence are displayed on MS Controller 7–segment displ
 Any warnings and faults that occur during MotoSuiveur® System operation are displayed on the HMI screen (if installed) and on the 7-segment display of the MS Controller. 
 
 .. note::
-    For the detailed description of warnings and faults, see :doc:`/advanced/controller-errors`.
+    For the detailed description of warnings and faults, see :doc:`/advanced/controller-faults-warnings`.
 
 
 Software test
@@ -81,12 +83,14 @@ Electrical test performs sequence of checks listed in table below.
 if some of the checks do not pass, a warning occurs.
 
 .. csv-table:: Electrical test sequence
-   :file: /_tables/Self-Test.csv
-   :delim: ;
-   :header-rows: 1
-   :align: left
-   :widths: auto
+        :file: /_tables/Self-Test.csv
+        :delim: ;
+        :header-rows: 1
+        :align: left
+        :widths: auto
 
+.. this table reverses the information. The user needs to know what happened when a warning is displayed
+    NOT which warnings MAY POSSIBLY display if a given thing happens
 
 \*\ *If MS Unit is equipped with Recovery system*
 
@@ -128,6 +132,8 @@ Sequence of checks is listed in table below.
    :align: left
    :widths: auto
 
+.. this table reverses the information. The user needs to know what happened when a warning is displayed
+    NOT which warnings MAY POSSIBLY display if a given thing happens
 
 Air test
 ==============
