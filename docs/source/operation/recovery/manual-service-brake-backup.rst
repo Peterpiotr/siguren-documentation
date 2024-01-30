@@ -169,21 +169,21 @@ Instructions
    3. MotoSuiveur® System starts automated gravity lowering by following algorithm
 
    .. figure:: /_img/backup/backup-mode-automatic-diagram.PNG
-   	:figwidth: 300 px
+   	:figwidth: 100 %
    	
    	Automated gravity lowering algorithm
 
    4. Lowering continues until the load is safely positioned.
 
    .. figure:: /_img/backup/de-risk-icons.png
-   	:figwidth: 200 px
+   	:figwidth: 100 %
 
    	Safely positioned load
 
    5. Stop lowering by switch and hold :guilabel:`Backup mode Down/Up` to **neutral** position.
 
    .. figure:: /_img/backup/backup-down-up-control-off.png
-   	:figwidth: 300 px
+   	:figwidth: 100 %
 
    	End of lowering
 

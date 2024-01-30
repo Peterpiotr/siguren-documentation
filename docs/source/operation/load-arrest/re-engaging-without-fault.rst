@@ -27,7 +27,7 @@ Forced signal should be used **only** for movement performing.
 
 .. _Enable ovverride:
 .. figure:: /_img/regular-operation/enable-override.PNG
-	:figwidth: 300 px
+	:figwidth: 100 %
 	:class: instructionimg
 
 	Enable override

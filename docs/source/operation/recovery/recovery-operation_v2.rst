@@ -34,7 +34,7 @@ Enabling Back-up Lowering
   3. Turn the :guilabel:`Recovery Mode Down/Up` switch to position **Down**.
   
   .. figure:: /_img/recovery/recovery-down.png
-  	:figwidth: 250 px
+  	:figwidth: 100 %
 
 	Turning switch to position Down
 
@@ -49,7 +49,7 @@ Returning to Normal Operation
   6. Turn the :guilabel:`Recovery Mode Down/Up` switch to the neutral position. The hoist main (service) brake should **close**.
 
   .. figure:: /_img/recovery/recovery-neutral-position.png
-  	:figwidth: 250 px
+  	:figwidth: 100 %
 
   	Turning switch to neutral position
 
@@ -62,14 +62,14 @@ Returning to Normal Operation
   8. With hoist main brake closed downward movement with Integrated Recovey System is required.
 
   .. figure:: /_img/recovery/recovery-down.png
-  	:figwidth: 250 px
+  	:figwidth: 100 %
 
   	Turning switch to position Down for recentering.
 
   9. Movement continues until :guilabel:`🟢 Upward Enabled` and :guilabel:`🟢 Downward Enabled` indicator lights are both iluminated.
 
   .. figure:: /_img/recovery/upward-downward-enabled-on.png
-  	:figwidth: 250 px
+  	:figwidth: 100 %
 
   	Recentering of worm shaft
 
@@ -88,7 +88,7 @@ Returning to Normal Operation
 
 
   .. figure:: /_img/recovery/recovery-upward-short.PNG
-  	:figwidth: 250 px
+  	:figwidth: 100 %
 
   	Short upward movement
 
@@ -96,14 +96,14 @@ Returning to Normal Operation
   12. Turn :guilabel:`🔑 Recovery Mode Off | On` switch to the position **OFF** 
 
   .. figure:: /_img/recovery/recovery-switch-off.png
-  	:figwidth: 250 px
+  	:figwidth: 100 %
 
   	Switch off Recovery mode
 
   13.  Reset MotoSuiveur® System
 
     .. figure:: /_img/recovery/Reset.png
-    	:figwidth: 250 px
+    	:figwidth: 100 %
 
   14.  MotoSuiveur® System is ready to follow.
     

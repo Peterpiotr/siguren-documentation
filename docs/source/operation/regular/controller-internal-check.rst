@@ -126,7 +126,7 @@ Steps
         Video with presented example is shown below:
 
         .. image:: /_img/7-segment/MS-Controller-internal-check/internal-check.gif
-            :width: 150 px
+            :width: 100 %
             :class: instructionimg
 
 .. replace with image for use in pdf

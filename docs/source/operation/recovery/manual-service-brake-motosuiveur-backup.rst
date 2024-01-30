@@ -28,14 +28,14 @@ Instructions
 	2. Dismantle the worm cover of the MS Unit .
 
 	.. figure:: /_img/backup/remove-cover-bolts-removebg-preview.png
-		:figwidth: 400 px
+		:figwidth: 100 %
 		:class: instructionimg
 
 		Remove cover bolts
 
 
 	.. figure:: /_img/backup/remove-cover-removebg-preview.png
-		:figwidth: 400 px
+		:figwidth: 100 %
 		:class: instructionimg
 
 		Dismantle the worm cover
@@ -43,13 +43,13 @@ Instructions
 	3. Remove worm switch cam
 
 	.. figure:: /_img/backup/bolt-removebg-preview.png
-		:figwidth: 400 px
+		:figwidth: 100 %
 		:class: instructionimg
 
 		Remove worm switc cam bolt
 
 	.. figure:: /_img/backup/disassembly-switch-cam-removebg-preview.png
-		:figwidth: 400 px
+		:figwidth: 100 %
 		:class: instructionimg
 
 		Remove worm switch cam
@@ -57,7 +57,7 @@ Instructions
 	4. Assembly manual handle
 
 	.. figure:: /_img/archives/ms-unit-04.png
-		:figwidth: 400 px
+		:figwidth: 100 %
 		:class: instructionimg
 
 		Assembly of manual handle
@@ -65,7 +65,7 @@ Instructions
 	5. Mount the manual handle on the MS Unit worm shaft.
 
 	.. figure:: /_img/backup/manual-handle-mounted-removebg-preview.png
-		:figwidth: 400 px
+		:figwidth: 100 %
 		:class: instructionimg
 
 		Mount the manual handle on worm shaft
@@ -74,7 +74,7 @@ Instructions
 	Meanwhile, the other operator n°2 should follow the movement by rotating the handle.
 
 	.. figure:: /_img/archives/stepLowering.png
-		:figwidth: 500 px
+		:figwidth: 100 %
 		:class: instructionimg
 
 		Lowering
@@ -82,7 +82,7 @@ Instructions
 	7. Lowering continues until the load is safely positioned.
 
 	.. figure:: /_img/backup/de-risk-icons.png
-		:figwidth: 200 px
+		:figwidth: 100 %
 		:class: instructionimg
 
 		Safe positioned load

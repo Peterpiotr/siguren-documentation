@@ -104,7 +104,7 @@ Status Display
 ===============
 
 .. list-table:: Status Display during transfer
-    :width: 600 px
+    :width: 100 %
     :widths: 25 75
     :header-rows: 1
 

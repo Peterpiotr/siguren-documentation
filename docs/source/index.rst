@@ -128,6 +128,7 @@ Sections
     faq
     glossary
     external-links
+    7-segment-display-ref
     sitemap
     sphinx-tools-demo-page
     /archives/index

@@ -6,4 +6,6 @@ Control Interface
    :maxdepth: 2
 
    control-panel
+   msunit-electrical-interface
+   mscc-electrical-interface
    hmi-screens/index

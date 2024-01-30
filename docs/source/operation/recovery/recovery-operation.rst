@@ -130,7 +130,7 @@ Steps
   4.2 Movement continues until :guilabel:`🟢 Upward Enabled` and :guilabel:`🟢 Downward Enabled` indicator lights are both iluminated.
 
   .. figure:: /_img/recovery/upward-downward-enabled-on.png
-  	:figwidth: 160 px
+  	:figwidth: 100 %
   	:class: instructionimg
 
   	Recentering of worm shaft
@@ -145,7 +145,7 @@ Steps
   Switch :guilabel:`Recovery Mode Down/Up` to position **UP** for 2 - 5 seconds. After that switch to **neutral position**.
 
   .. figure:: /_img/recovery/recovery-upward-short.PNG
-  	:figwidth: 250 px
+  	:figwidth: 100 %
   	:class: instructionimg
 
   	Short upward movement
@@ -154,7 +154,7 @@ Steps
   5.3 Turnin :guilabel:`🔑 Recovery Mode Off | On` switch to the position **OFF** 
 
   .. figure:: /_img/recovery/recovery-switch-off.png
-  	:figwidth: 200 px
+  	:figwidth: 100 %
   	:class: instructionimg
 
   	Switch off Recovery mode
@@ -162,7 +162,7 @@ Steps
   5.4 Reset MotoSuiveur® System
 
   .. figure:: /_img/recovery/Reset.png
-  	:figwidth: 200 px
+  	:figwidth: 100 %
   	:class: instructionimg
 
   	Reset MotoSuiveur® System

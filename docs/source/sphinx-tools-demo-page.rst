@@ -171,7 +171,7 @@ Circled numbers
 
 
 .. figure:: /_img/backup/backup-down-up-control-off.png
-    :figwidth: 300 px
+    :figwidth: 100 %
     :class: instructionimg
 
     End of lowering

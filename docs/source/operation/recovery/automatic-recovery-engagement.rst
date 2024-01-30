@@ -79,14 +79,14 @@ Steps
 	MS Controller 7-segment display indicates **Backup mode** - |image058|.
 
 	.. figure:: /_img/recovery/backup-recovery-on.PNG
-		:figwidth: 200 px
+		:figwidth: 100 %
 		:class: instructionimg
 
 		Activating Backlup/Recovery mode
 
 	
 	.. figure:: /_img/recovery/backup-recovery-indicator-on.PNG
-		:figwidth: 300 px
+		:figwidth: 100 %
 		:class: instructionimg
 
 		Backup/Recovery mode light indicator
@@ -94,7 +94,7 @@ Steps
 	3. Restart the MotoSuiveur® System.
 
 	.. figure:: /_img/recovery/Reset.png
-		:figwidth: 200 px
+		:figwidth: 100 %
 		:class: instructionimg
 
 		Reset of MotoSuiveur® System
@@ -111,7 +111,7 @@ Steps
 
 
 	.. figure:: /_img/recovery/recovery-engaged-on.png
-		:figwidth: 200 px
+		:figwidth: 100 %
 		:class: instructionimg
 
 		Recovery engaged SMD

@@ -39,6 +39,8 @@ tags_extension = ["rst", "ipynb"]
 
 templates_path = ['_templates']
 
+hoverxref_roles = ['term']
+
 #numfig = True
 
 # -- Options for HTML output

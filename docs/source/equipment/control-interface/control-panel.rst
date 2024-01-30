@@ -1,6 +1,6 @@
-==============
-Control Panel
-==============
+===============
+Control Panel 
+===============
 
 .. include:: /_img/_image-substitutions.rst
 
@@ -10,67 +10,11 @@ The operator has the facility to use the controls via switches or MS HMI.
 The switches and HMI can be used to switch the operating modes of the MotoSuiveur® System.
 Combination of active (ON) and inactive (OFF) signal lams gives current status of MotoSuiveur®. 
 
-
-Front door panel layout
-=======================
-
-The control panel contains light indicators and control switches. They are divided into two groups: mandatory and optional.
-
-Mandatory are:
-
-- Hoist Enabled
-- Fault
-- Reset
-
-The figure below shows an example overview of a control panel with and without MS HMI.
-
-.. _Control panel figure:
-.. figure:: /_img/control-panel/control-panel-overview.png
-	:class: instructionimg
-	:figwidth: 100 %
-	:alt: Control cabinet
-
-	Control panel according documentation 
-
-.. _General view of control panel:
-.. figure:: /_img/archives/control-panel-02.png
-	:class: instructionimg
-	:figwidth: 100 %
-	:alt: Control cabinet
-
-	Control panel as built
-
-
-.. csv-table:: Control panel layout without MS HMI
-   :file: /_tables/control-panel-legend.csv
-   :delim: ;
-   :header-rows: 1
-   :widths: auto
-
-
-External control panel
-======================
-
-.. _General view of external control panel:
-.. figure:: /_img/archives/control-panel-external.png
-	:class: instructionimg
-	:figwidth: 100 %
-	:alt: Control cabinet
-
-	External control panel overview
-
-.. csv-table:: External control panel
-   :file: /_tables/control-panel-external.csv
-   :delim: ;
-   :header-rows: 1
-   :widths: auto
-
-
 Mandatory signals and controls
 ==============================
 
 Hoist enabled
-^^^^^^^^^^^^^^
+---------------
 
 :guilabel:`🟢 Hoist enabled light` indicate that the MotoSuiveur® authorizes hoist movements. (figure 5).
 
@@ -83,7 +27,7 @@ The signals are indicating ``system ready`` (``MotoSuiveur® ready``).
 
 
 Fault 
-^^^^^^
+-------
 
 :guilabel:`🔴 Fault light` indicates three different types of faults:
 
@@ -111,11 +55,63 @@ MotoSuiveur® warnings are displayed with combination of |image035| and number.
 
 
 Reset 
-^^^^^^
+--------
 
 :guilabel:`🔘 Reset button` Reset MotoSuiveur® System electrically and mechanically. After Reset, MotoSuiveur® System is performing Self-Test. 
 
 
-**References:**
 
-:doc:`/equipment/ms-solution/control-cabinet`
+MS Control Cabinet front door panel layout
+===========================================
+
+The control panel contains light indicators and control switches. They are divided into two groups: mandatory and optional.
+
+Mandatory are:
+
+- Hoist Enabled
+- Fault
+- Reset
+
+The figure below shows an example overview of a control panel with and without MS HMI.
+
+.. figure:: /_img/control-panel/control-panel-overview.png
+	:class: instructionimg
+	:figwidth: 100 %
+	:alt: Control cabinet
+
+	Control panel according to documentation 
+
+.. figure:: /_img/archives/control-panel-02.png
+	:class: instructionimg
+	:figwidth: 100 %
+	:alt: Control cabinet
+
+	Control panel as built
+
+
+.. csv-table:: Control panel layout without MS HMI
+   :file: /_tables/control-panel-legend.csv
+   :delim: ;
+   :header-rows: 1
+   :widths: auto
+
+
+Remote control panel
+======================
+
+.. figure:: /_img/archives/control-panel-external.png
+	:class: instructionimg
+	:figwidth: 100 %
+	:alt: Control cabinet
+
+	External control panel overview
+
+.. csv-table:: External control panel
+   :file: /_tables/control-panel-external.csv
+   :delim: ;
+   :header-rows: 1
+   :widths: auto
+
+
+
+
