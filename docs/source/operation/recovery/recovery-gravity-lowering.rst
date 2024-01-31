@@ -87,11 +87,11 @@ In case of power outage, the MS can be UPS/battery operated.
 
 See following figures
 
-|7s-1|
+(missing image)
 
 Brake
 
-|7s-2|
+(missing image)
 
 | Handheld / Portable
 | Recovery Tool
@@ -99,7 +99,7 @@ Brake
 | Integrated
 | Remote Recovery
 
-|7s-3|
+(missing image)
 
 1) **Forced MS recovery**
 
@@ -116,7 +116,7 @@ Brake
 
 Indicative barrel speed: 0.1 - 0.3 rpm
 
-|7s-4|
+(missing image)
 
 1
 
@@ -134,7 +134,7 @@ Indicative barrel speed: 0.1 - 0.3 rpm
 
 Indicative mean barrel speed: 0.5 rpm
 
-|7s-5|
+(missing image)
 
 Brake Release Tool
 
@@ -152,7 +152,7 @@ MS in Backup Mode
 
 Indicative barrel speed: 2 - 5 rpm
 
-|7s-6|
+(missing image)
 
 Brake Release Tool
 
@@ -161,7 +161,7 @@ Brake Release Tool
 
 Handheld Recovery Tool
 
-|7s-7|
+(missing image)
 
    **3) MS assisted gravity lowering**
 
@@ -202,26 +202,26 @@ Handheld Recovery Tool
 |                 |     |     |        |      | pm |    |    |    |
 +-----------------+-----+-----+--------+------+----+----+----+----+
 
-
-.. |7s-1| image:: media/image1.png
-    :width: 6.51528in
-    :height: 5.58955in
-.. |7s-2| image:: media/image2.png
-    :width: 0.79851in
-    :height: 0.76849in
-.. |7s-3| image:: media/image3.png
-    :width: 1.24652in
-    :height: 0.7913in
-.. |7s-4| image:: media/image1.png
-    :width: 6.51528in
-    :height: 5.58955in
-.. |7s-5| image:: media/image1.png
-    :width: 6.51528in
-    :height: 5.58955in
-.. |7s-6| image:: media/image1.png
-    :width: 6.51528in
-    :height: 5.58955in
-.. |7s-7| image:: media/image4.png
-    :width: 1.53125in
-    :height: 1.51042in
+..
+    .. (missing image) image:: media/image1.png
+        :width: 6.51528in
+        :height: 5.58955in
+    .. (missing image) image:: media/image2.png
+        :width: 0.79851in
+        :height: 0.76849in
+    .. (missing image) image:: media/image3.png
+        :width: 1.24652in
+        :height: 0.7913in
+    .. (missing image) image:: media/image1.png
+        :width: 6.51528in
+        :height: 5.58955in
+    .. (missing image) image:: media/image1.png
+        :width: 6.51528in
+        :height: 5.58955in
+    .. (missing image) image:: media/image1.png
+        :width: 6.51528in
+        :height: 5.58955in
+    .. (missing image) image:: media/image4.png
+        :width: 1.53125in
+        :height: 1.51042in
 

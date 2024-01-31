@@ -3,43 +3,16 @@ Maintenance
 ============
 
 .. toctree::
-  :maxdepth: 1
-  :caption: MS Unit
-
-  mechanical/mandatory-warnings
-  mechanical/maintenance-schedule
-  mechanical/oil-change
-  mechanical/lubrication
-  mechanical/storage
-  mechanical/predictive-maintenance
-  mechanical/safety-datasheets
+    :maxdepth: 2
+    
+    planning/index
+    inspections-tests/index
+    part-replacements/index
+    
 
 
-.. toctree::
-  :maxdepth: 2
-  :caption: Parts Replacements
+
   
-  mechanical/spare-parts
-  mechanical/replacing-seals
-
-
-.. toctree::
-  :maxdepth: 1
-  :caption: Controls and HMI
-
-  controls/electrical-maintenance
-  controls/software-updates
-  controls/memory-card
-
-.. controls/password-entry
-  
-
-.. toctree::
-  :maxdepth: 2
-  :caption: MS Torque Limiter
-
-  torque-limiter/tl-maintenance-schedule
-  torque-limiter/tl-inspections-measures
 
 
 .. admonition:: Proposed Procedures

@@ -14,7 +14,7 @@ Backup/Recovery mode
 
 .. "function" vs "mode" vs "operation mode"
 
-Controls and indicators of this function are located on the :doc:`control panel front door </equipment/control-interface/control-panel>`
+Controls and indicators of this function are located on the :doc:`control panel front door </ms-system/ms-controls/control-panel>`
 - figure 3, items 4, 5, 10, 11.
 
 Diagram below shows the principle of Backup/Recovery operation mode. 
@@ -43,7 +43,7 @@ Backup operation mode
 
 In Backup operating mode, control is performed through commands for lifting and lowering of the hoist. 
 In cases where the hoist control chain is damaged, control can be performed manually with :guilabel:`🔑 Backup/Recovery Down/Up` switch
-located :doc:`control panel front door </equipment/control-interface/control-panel>` or directly on control terminals via a wire bridge. 
+located :doc:`control panel front door </ms-system/ms-controls/control-panel>` or directly on control terminals via a wire bridge. 
 
 .. _Example for manual operation in backup mode:
 .. figure:: /_img/archives/backup-mode-01.png

@@ -17,19 +17,19 @@ Getting Started with MotoSuiveur® Solutions
     :padding: 0
 
     .. grid-item-card:: Achieving Inherent Safety in Hoisting
-        :link: about/achieving-inherent-safety
+        :link: getting-started/achieving-inherent-safety
         :link-type: doc
         :class-title: card-title
 
  
     .. grid-item-card:: MotoSuiveur® Solutions Features
-        :link: about/ms-solution-features
+        :link: getting-started/ms-solution-features
         :link-type: doc
         :class-title: card-title
 
 
     .. grid-item-card:: Integrating MotoSuiveur® Solutions to Your Hoist
-        :link: about/start-integrating-ms
+        :link: getting-started/start-integrating-ms
         :link-type: doc
         :class-title: card-title
 
@@ -41,9 +41,9 @@ Getting Started with MotoSuiveur® Solutions
     :hidden:
     :caption: Getting Started
 
-    /about/achieving-inherent-safety
-    /about/ms-solution-features
-    about/start-integrating-ms
+    /getting-started/achieving-inherent-safety
+    /getting-started/ms-solution-features
+    /getting-started/start-integrating-ms
 
 MotoSuiveur® System
 =====================
@@ -54,7 +54,7 @@ MotoSuiveur® System
 
     .. grid-item-card:: MS Unit
         :img-top: /_img/cards/ms-unit-card_16-9.png
-        :link: equipment/ms-solution/index
+        :link: ms-system/ms-unit/index
         :link-type: doc
         :class-title: card-title
 
@@ -62,7 +62,7 @@ MotoSuiveur® System
  
     .. grid-item-card:: MS Controls
         :img-top: /_img/cards/controls-card_16-9.jpg
-        :link: equipment/control-interface/index
+        :link: ms-system/ms-controls/index
         :link-type: doc
         :class-title: card-title
 
@@ -70,7 +70,7 @@ MotoSuiveur® System
 
     .. grid-item-card:: MS Add-ons
         :img-top: /_img/cards/addons-card.png
-        :link: equipment/ms-solution/index
+        :link: ms-system/ms-addons/index
         :link-type: doc
         :class-title: card-title
 
@@ -81,8 +81,8 @@ MotoSuiveur® System
     :hidden:
     :caption: MotoSuiveur® System
 
-    /equipment/ms-solution/index
-    /equipment/control-interface/index
+    /ms-system/ms-unit/index
+    /ms-system/ms-controls/index
 
 Sections
 ===================
@@ -129,7 +129,7 @@ Sections
         :link-type: doc
         :class-title: card-title
 
-        Routine checks and maintenance procedures. Parts replacements. Firmware updates.
+        Routine checks and maintenance procedures. Parts replacements.
  
     .. grid-item-card:: Advanced Procedures
         :img-top: /_img/cards/advanced-card_16-9.jpg
@@ -180,8 +180,8 @@ References
     external-links
 
 
-Get In Touch
-=============
+Getting In Touch
+===============
 
 Questions about this documentation?
 
@@ -194,6 +194,5 @@ Do not hesitate to contact directly the `SIGUREN technologies Support Team <mail
     :caption: For authors
 
     7-segment-display-ref
-    sitemap
     sphinx-tools-demo-page
     /archives/index

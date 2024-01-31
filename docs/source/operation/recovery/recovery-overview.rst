@@ -32,8 +32,8 @@ This way, a very high amount of torque must be applied on the MS shaft (approxim
 
 Using the following hardware:
 
-- :doc:`Portable Recovery Tool </equipment/ms-solution/rec-addons>` for sizes MS4 - MS7, or
-- :doc:`Handheld Recovery Tool </equipment/ms-solution/rec-addons>` for sizes MS0 - MS3
+- :doc:`Portable Recovery Tool </ms-system/ms-unit/rec-addons>` for sizes MS4 - MS7, or
+- :doc:`Handheld Recovery Tool </ms-system/ms-unit/rec-addons>` for sizes MS0 - MS3
 
 For MS with Integrated Load Recovery the hardware is integrated and is remotely operated.
 

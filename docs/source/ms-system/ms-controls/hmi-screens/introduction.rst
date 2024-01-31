@@ -5,7 +5,7 @@ Introduction
 Touchscreen
 ============
 
-.. include:: /equipment/_img/substitutions.rst
+.. include:: /ms-system/_img/substitutions.rst
 
 The MotoSuiveur® HMI (MS HMI) is a Schneider Magelis/Harmony HMI STU 655/855 color graphic touchscreen terminal 
 programmed with the MotoSuiveur® HMI firmware by Siguren technologies.

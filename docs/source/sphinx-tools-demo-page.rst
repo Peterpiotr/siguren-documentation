@@ -272,7 +272,7 @@ The following standard selection operations are supported:
 .. card:: 
     :width: auto
     :img-top: _img/archives/MSwarningNumber10.png
-    :link: https://siguren-documentation.readthedocs.io/en/0.1.1/equipment/ms-solution/ms-unit.html
+    :link: https://siguren-documentation.readthedocs.io/en/0.1.1/ms-system/ms-unit/ms-unit.html
 
     MotoSuiveour Unit
 
@@ -287,7 +287,7 @@ grid-item-cards
     .. grid-item-card::
         :width: auto
         :img-top: _img/index/control-cabinet.jpg
-        :link: /ms-solution/ms-unit
+        :link: /ms-unit/ms-unit
 
         MS Unit
  
@@ -310,9 +310,9 @@ Inspired by Blender Docs
       .. container:: card
 
          .. figure:: _img/index/ms-unit.jpg
-            :target: ms-solution/ms-uni.html
+            :target: ms-unit/ms-uni.html
 
-         :doc:`equipment/ms-solution/ms-unit`
+         :doc:`ms-system/ms-unit/ms-unit`
             An introduction to Blender's window system, widgets and tools.
 
       .. container:: card
