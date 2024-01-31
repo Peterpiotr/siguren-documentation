@@ -1,16 +1,68 @@
-==================================================================
+====================================================================
 MS Controller Display of MotoSuiveur® System  Warnings and Faults
-==================================================================
+====================================================================
 
 .. include:: /_img/_image-substitutions.rst
 
 .. E02 (for example) is an internal error AND a MS System fault. How come?
 
+.. most of the "Steps" are not actionable, insufficient and unclear
+
+Introduction
+=============
+
 .. what is a warning and what is a fault?
 
+Warnings and faults table
+===========================
 
-E02 - Screwing command during self-test
-==========================================
+.. separate faults and warnings?
+
+.. list-table::
+
+    * - **Code** 
+      - **Title**
+    * - `E02`_
+      - Screwing command during self-test
+    * - `E03`_
+      - Unscrewing command during self-test
+    * - `E04`_
+      - Both commands during self-test 
+    * - `E05`_
+      - ON signal missing during self-test 
+    * - `E10`_
+      - Blocked worm 
+    * - `E11`_
+      - Unscrewing enable switch not centered 
+    * - `E12`_
+      - Screwing enable switch not centered
+    * - `E13`_
+      - Unscrewing enable switch not made
+    * - `E14`_
+      - Screwing enable switch not made
+    * - `E28`_
+      - Incorrect MS firmware version 
+    * - `F15`_
+      - Worm backlash too big detected (Play too big) 
+    * - `F17`_
+      - Worm backlash too small detected (Play too small)
+    * - `F20`_
+      - Air detected 
+    * - `F22`_
+      - Damping too soft 
+    * - `F23`_
+      - Damping too hard
+    * - `F33`_
+      - Unscrewing Overspeed / Overspeed during lowering 
+    * - `F34`_
+      - Screwing Overspeed / Overspeed during lifting
+    * - `E55`_
+      - Oil
+
+
+
+E02 
+====
 
 Title
     Screwing command during self-test
@@ -27,8 +79,8 @@ Steps
     1. Check for pressed/held down button for hoist lifting command
 
 
-E03 - Unscrewing command during self-test
-==========================================
+E03
+====
 
 Title
     Unscrewing command during self-test
@@ -45,8 +97,8 @@ Steps
     1. Check for pressed/held down button for hoist lowering command
 
 
-E04 - Both commands during self-test
-==========================================
+E04
+====
 
 Title
     Both commands during self-test 
@@ -63,8 +115,8 @@ Steps
     1. Check for pressed/held down button for hoist lifting and lowering command
 
 
-E05 - ON signal missing during self-test
-==========================================
+E05
+====
 
 Title
     ON signal missing during self-test 
@@ -82,8 +134,8 @@ Steps
     2. Check hoist control system.
 
 
-E10 - Blocked worm
-====================
+E10 
+====
 
 Title
     Blocked worm 
@@ -105,8 +157,8 @@ Steps
     3. After manual reentering, MS reset is necessary.
 
 
-E11 - Unscrewing enable switch not centered
-=============================================
+E11
+====
 
 Title
     Unscrewing enable switch not centered 
@@ -123,8 +175,8 @@ Steps
     1. Visual check is and centering is needed.
 
 
-E12 - Screwing enable switch not centered
-==========================================
+E12
+====
 
 Title
     Screwing enable switch not centered
@@ -141,8 +193,8 @@ Steps
     1. Visual check is and centering is needed.
 
 
-E13 - Unscrewing enable switch not made
-==========================================
+E13
+====
 
 Title
     Unscrewing enable switch not made
@@ -159,8 +211,8 @@ Steps
     1. Visual check is needed.
 
 
-E14 - Screwing enable switch not made
-==========================================
+E14
+====
 
 Title
     Screwing enable switch not made 
@@ -177,8 +229,8 @@ Steps
     1. Visual check is needed.
 
 
-E28 - Incorrect MS firmware version
-==========================================
+E28
+====
 
 Title
     Incorrect MS firmware version 
@@ -195,8 +247,8 @@ Steps
     1. Please contact SIGUREN technologies.
 
 
-F15 - Worm backlash too big detected (Play too big)
-=======================================================
+F15
+====
 
 Title
     Worm backlash too big detected (Play too big) 
@@ -215,14 +267,14 @@ Steps
     3. Reset MotoSuiveur® System.
 
 
-F17 - Worm backlash too small detected (Play too small)
-=========================================================
+F17
+====
 
 Title
     Worm backlash too small detected (Play too small)
 
 7-segment display 
-    |7s-F| |7s-1| |7s-7| 
+    |7s-F| |7s-1| 7 
 
 .. admonition:: Meaning 
     :class: warning 
@@ -235,8 +287,8 @@ Steps
     3. Reset MotoSuiveur® System.
 
 
-F20 - Air detected
-======================
+F20
+====
 
 Title
     Air detected 
@@ -253,8 +305,8 @@ Steps
     1. Air bleeding is necessary. Please, contact MotoSuiveur® supplier support.
 
 
-F22 - Damping too soft
-=======================
+F22
+====
 
 Title
     Damping too soft 
@@ -273,8 +325,8 @@ Steps
     3. Reset MotoSuiveur® System.
 
 
-F23 - Damping too hard
-========================
+F23
+====
 
 Title
     Damping too hard
@@ -293,8 +345,8 @@ Steps
     3. Reset MotoSuiveur® System
 
 
-F33 - Unscrewing Overspeed / Overspeed during lowering
-=========================================================
+F33
+====
 
 Title
     Unscrewing Overspeed / Overspeed during lowering 
@@ -311,8 +363,8 @@ Steps
     1. Reset MotoSuiveur® System.
 
 
-F34 - Screwing Overspeed / Overspeed during lifting
-======================================================
+F34
+====
 
 Title
     Screwing Overspeed / Overspeed during lifting
@@ -329,8 +381,8 @@ Steps
     1. Reset MotoSuiveur® System.
 
 
-E55 - Oil
-==========
+E55
+====
 
 Title
     Oil 

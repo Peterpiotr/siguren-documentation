@@ -6,8 +6,52 @@ MS Controller Internal Errors
 
 .. E02 (for example) is an internal error AND a MS System fault. How come?
 
-E01 - Overvoltage DC bus
-=============================
+.. most of the "Steps" are not actionable, insufficient and unclear
+
+Introduction
+=============
+
+.. what is a Controller Internal Error?
+
+MS Controller Internal Errors table
+====================================
+
+.. separate faults and warnings?
+
+.. list-table::
+
+    * - **Code** 
+      - **Title**
+    * - `E01`_
+      - Overvoltage DC bus
+    * - `E02`_
+      - Undervoltage DC bus 
+    * - `E03`_
+      - I2t motor
+    * - `E04`_
+      - Overcurrent
+    * - `E05`_
+      - Short circuit
+    * - `E06`_
+      - IGBT temperature
+    * - `E07`_
+      - Motor temperature
+    * - `E08`_
+      - Resolver fault
+    * - `E09`_
+      - Coil temperature 
+    * - `E16`_
+      - Resolver saturation
+    * - `E17`_
+      - 24V auxiliary supply error
+
+
+
+E01
+======
+
+Title
+    Overvoltage DC bus
 
 7-segment display
     |7s-E| |7s-0| |7s-1|
@@ -27,11 +71,14 @@ Steps
     1. _ 
 
 
-E02 - Undervoltage DC bus 
-===========================
+E02
+====
+
+Title
+    Undervoltage DC bus 
 
 7-segment display
-    |7s-E| |7s-0| 
+    |7s-E| |7s-0| |7s-2| 
 
 .. admonition:: Meaning
     :class: warning
@@ -49,14 +96,14 @@ Steps
 .. what does "the fault is managed" mean?
 
 
-E03 - I2t motor
-===========================
+E03
+====
 
-Internal Error Title
+Title
     I2t motor
 
 7-segment display
-    |7s-E| |7s-0| 
+    |7s-E| |7s-0| |7s-3| 
 
 .. admonition:: Meaning
     :class: warning
@@ -75,11 +122,14 @@ Steps
     1. _
 
 
-E04 - Overcurrent
-===========================
+E04
+====
+
+Title
+    Overcurrent
 
 7-segment display
-    |7s-E| |7s-0| 
+    |7s-E| |7s-0| |7s-4| 
 
 .. admonition:: Meaning
     :class: warning
@@ -96,11 +146,14 @@ Steps
 
 .. what does it mean to "unlock" the drive? are we "acknowledging the fault"?
 
-E05 - Short circuit
-===========================
+E05
+====
+
+Title
+    Short circuit
 
 7-segment display
-    |7s-E| |7s-0| 
+    |7s-E| |7s-0| |7s-5|
 
 .. admonition:: Meaning
     :class: warning
@@ -110,11 +163,14 @@ E05 - Short circuit
 Steps
     1. The drive must be powered 24VDC for 15 min before it can be unlocked.
 
-E06 - IGBT temperature
-===========================
+E06
+====
+
+Title
+    IGBT temperature
 
 7-segment display
-    |7s-E| |7s-0| 
+    |7s-E| |7s-0| |7s-6| 
 
 .. admonition:: Meaning
     :class: warning
@@ -129,11 +185,14 @@ E06 - IGBT temperature
 Steps
     1. Wait for the temperature to drop back down to acknowledge the error.
 
-E07 - Motor temperature 
-===========================
+E07
+====
+
+Title
+    Motor temperature 
 
 7-segment display
-    |7s-E| |7s-0| 
+    |7s-E| |7s-0| |7s-7| 
 
 .. admonition:: Meaning
     :class: warning
@@ -150,11 +209,14 @@ Steps
 
 .. define "acknowledge the fault"
 
-E08 - Resolver fault
-===========================
+E08
+====
+
+Title
+    Resolver fault
 
 7-segment display
-    |7s-E| |7s-0| 
+    |7s-E| |7s-0| |7s-8| 
 
 .. admonition:: Meaning
     :class: warning
@@ -170,11 +232,14 @@ Steps
     1. Check resolver connection between motor and control cabinet and resolver connector.
 
 
-E09 - Coil temperature 
-===========================
+E09
+====
+
+Title
+    Coil temperature 
 
 7-segment display
-    |7s-E| |7s-0| 
+    |7s-E| |7s-0| |7s-9| 
 
 .. admonition:: Meaning
     :class: warning
@@ -190,11 +255,14 @@ Steps
     1. Wait for the temperature to drop back down to acknowledge the error.
 
 
-E16 - Resolver saturation
-===========================
+E16
+====
+
+Title
+    Resolver saturation
 
 7-segment display
-    |7s-E| |7s-1| |7s-F|
+    |7s-E| |7s-1| |7s-6|
 
 .. admonition:: Meaning
     :class: warning
@@ -205,8 +273,11 @@ Steps
     1. Check resolver connection between motor and control cabinet and resolver connector.
 
 
-E17 - 24V auxiliary supply error
-=================================
+E17
+==========
+
+Title
+    24V auxiliary supply error
 
 7-segment display
     |7s-E| |7s-1| 7

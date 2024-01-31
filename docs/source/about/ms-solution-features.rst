@@ -12,11 +12,11 @@ MotoSuiveur® Technology
 Why MotoSuiveur®
 =================
 
-The MotoSuiveur® is designed to protect winches against risks of control loss on the handled load, and this in every case of electrical or mechanical failure.
+MotoSuiveur® Systems protect winches against risks of control loss on the handled load, and this in every case of electrical or mechanical failure.
 
-It also allows emergency operation of the hoist using the recovery facility, in case of electrical or mechanical failure.
+Additionally, MotoSuiveur® Systems allows emergency operation of the hoist using the recovery facility, in case of electrical or mechanical failure.
 
-Moreover, it offers the possibility to check the parameters, to test the securities of the program by modifying some parameters.
+Finally, MotoSuiveur® Systems offers the possibility to check the parameters, to test the securities of the program by modifying some parameters.
 
 .. figure:: /_img/archives/ms-tech-01.png
     :figwidth: 100 %

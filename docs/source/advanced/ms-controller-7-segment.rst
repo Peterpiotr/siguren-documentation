@@ -2,13 +2,13 @@
 Reading MS Controller 7-Segment Messages
 =========================================
 
+.. mess of different expressions: warnings, faults, errors, of the MS, of the System, of the Controller, etc. 
+.. Clarify
+
 Display of faults/warnings
 ===========================
 
 .. include:: /_img/_image-substitutions.rst
-
-.. warning::
- 	In case of repetitive faults/warnings, please contact SIGUREN technologies technologies at support@siguren.com
 
 Any faults/warnings that occur during MS operation are displayed :
 
@@ -48,4 +48,5 @@ Indication is a combination of letters and numbers.
 
 	MotoSuiveur® System E10
 
-
+.. warning::
+ 	In case of repetitive faults/warnings, please contact SIGUREN technologies technologies at support@siguren.com

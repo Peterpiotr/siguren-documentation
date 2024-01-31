@@ -8,8 +8,45 @@ MotoSuiveur® Systems User Documentation
 
    This documentation is under development.
 
-MotoSuiveur® Systems Overview
-===============================
+
+Getting Started with MotoSuiveur® Solutions
+=============================================
+
+.. grid:: 2
+    :gutter: 4
+    :padding: 0
+
+    .. grid-item-card:: Achieving Inherent Safety in Hoisting
+        :link: about/achieving-inherent-safety
+        :link-type: doc
+        :class-title: card-title
+
+ 
+    .. grid-item-card:: MotoSuiveur® Solutions Features
+        :link: about/ms-solution-features
+        :link-type: doc
+        :class-title: card-title
+
+
+    .. grid-item-card:: Integrating MotoSuiveur® Solutions to Your Hoist
+        :link: about/start-integrating-ms
+        :link-type: doc
+        :class-title: card-title
+
+        Steps to make any hoist inherently safe.
+
+
+.. toctree::
+    :maxdepth: 2
+    :hidden:
+    :caption: Getting Started
+
+    /about/achieving-inherent-safety
+    /about/ms-solution-features
+    about/start-integrating-ms
+
+MotoSuiveur® System
+=====================
 
 .. grid:: 2
     :gutter: 4
@@ -42,14 +79,10 @@ MotoSuiveur® Systems Overview
 .. toctree::
     :maxdepth: 2
     :hidden:
-    :caption: MotoSuiveur® Overview
+    :caption: MotoSuiveur® System
 
-    /about/achieving-inherent-safety
-    /about/features
-    /about/ms-tech-overview
     /equipment/ms-solution/index
     /equipment/control-interface/index
-
 
 Sections
 ===================
@@ -119,6 +152,23 @@ Sections
     /maintenance/index
     /advanced/index
 
+References
+===========
+
+.. grid:: 2
+    :gutter: 4
+    :padding: 0
+
+    .. grid-item-card:: Frequently Asked Questions
+        :link: faq
+        :link-type: doc
+        :class-title: card-title
+
+    .. grid-item-card:: Glossary
+        :link: glossary
+        :link-type: doc
+        :class-title: card-title
+
 
 .. toctree::
     :maxdepth: 2
@@ -128,6 +178,21 @@ Sections
     faq
     glossary
     external-links
+
+
+Get In Touch
+=============
+
+Questions about this documentation?
+
+Do not hesitate to contact directly the `SIGUREN technologies Support Team <mailto:support@siguren.com>`_.
+
+
+.. toctree::
+    :maxdepth: 2
+    :hidden:
+    :caption: For authors
+
     7-segment-display-ref
     sitemap
     sphinx-tools-demo-page
