@@ -1,6 +1,6 @@
-=======================
-MotoSuiveur® Technology 
-=======================
+==================================
+MotoSuiveur® Solution Features 
+==================================
 
 .. note::
     answer to "how does it work" questions that users have. 

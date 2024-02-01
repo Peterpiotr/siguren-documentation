@@ -42,9 +42,11 @@ Installing MotoSuiveur® System
   :maxdepth: 2
   :caption: MS Control Cabinet Installation
 
-  controls-installation/msunit-mscc-connection
-  controls-installation/setting-drive
-  controls-installation/multiple-ms
+  controls-installation/index
 
 
-.. include commissioning.
+.. toctree::
+  :maxdepth: 2
+  :caption: Commissioning
+
+  commissioning/index
