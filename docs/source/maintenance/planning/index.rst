@@ -1,6 +1,6 @@
-=========================
-Planning MS Maintenance 
-=========================
+==========
+Planning
+==========
 
 .. toctree::
     :maxdepth: 2
