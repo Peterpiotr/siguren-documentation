@@ -1,6 +1,6 @@
-================================
-MS Control Cabinet Installation
-================================
+=========================
+MS Controls Installation
+=========================
 
 .. toctree::
     :maxdepth: 2

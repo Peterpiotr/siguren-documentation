@@ -18,14 +18,14 @@ Installing MotoSuiveur® System
 
 .. toctree::
   :maxdepth: 2
-  :caption: MS Unit Mechanical Installation
+  :caption: Mechanical Installation
 
   mechanical-installation/index
 
 
 .. toctree::
   :maxdepth: 2
-  :caption: MS Control Cabinet Installation
+  :caption: MS Controls Installation
 
   controls-installation/index
 

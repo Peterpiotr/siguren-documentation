@@ -1,6 +1,6 @@
-==============================
-Feasibility of Installation
-==============================
+==============
+Feasibility
+==============
 
 .. toctree::
   :maxdepth: 2

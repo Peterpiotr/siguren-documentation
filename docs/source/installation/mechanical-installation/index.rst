@@ -1,24 +1,24 @@
-================================
-MS Unit Mechanical Installation
-================================
+=========================
+Mechanical Installation
+=========================
 
 .. toctree::
-  :maxdepth: 2
-  :caption: MS Unit Flange
+    :maxdepth: 2
+    :caption: MS Unit Flange
 
-  flange/pin-flange-installation
-  flange/flat-sided-flange-installation
-
-.. toctree::
-  :maxdepth: 2
-  :caption: MS Unit Seat
-
-  seat/ms-seat-installation
-  seat/ms-positioning
-
+    flange/pin-flange-installation
+    flange/flat-sided-flange-installation
 
 .. toctree::
-  :maxdepth: 2
-  :caption: MS Torque Limiter Installation
+    :maxdepth: 2
+    :caption: MS Unit Seat
 
-  ms-torque-limiter/tl-assembly
+    seat/ms-seat-installation
+    seat/ms-positioning
+
+
+.. toctree::
+    :maxdepth: 2
+    :caption: MS Torque Limiter Installation
+
+    ms-torque-limiter/tl-assembly
