@@ -83,7 +83,7 @@ MotoSuiveur® System
 
     /ms-system/ms-unit/index
     /ms-system/ms-controls/index
-    /ms-system/ms-add-ons/index
+    /ms-system/ms-addons/index
 
 Sections
 ===================
