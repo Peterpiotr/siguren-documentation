@@ -40,7 +40,7 @@ Connections
 During transportation MS Unit must be carried via the provided eye bolts (1). 
 
 .. warning::
-	Never lift an MS Unit by the motor.
+	Never lift a MS Unit by the motor.
 
 .. figure:: /_img/Installation/handling.png
 	:figwidth: 100 %

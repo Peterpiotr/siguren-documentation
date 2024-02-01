@@ -26,5 +26,7 @@ Advanced Procedures
 
   unblocking-ms
   disassembling-ms-worm
+  disassembling-integrated-recovery-drive.
   
 
+.. avoid long lists of E0x in this index. bad lisibility

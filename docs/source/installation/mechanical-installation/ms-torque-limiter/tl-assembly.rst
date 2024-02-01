@@ -1,5 +1,5 @@
 ==================================
-Installing an MS Torque Limiter 
+Installing a MS Torque Limiter 
 ==================================
 
 .. note::

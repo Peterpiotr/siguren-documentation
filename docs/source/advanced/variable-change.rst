@@ -1,5 +1,5 @@
 =====================================
-Changing the Value of an MS Parameter
+Changing the Value of a MS Parameter
 =====================================
 
 When overspeed trips too easily etc...

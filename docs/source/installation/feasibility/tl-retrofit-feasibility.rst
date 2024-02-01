@@ -1,3 +1,3 @@
 ==============================================================
-Feasibility of an MS Torque Limiter Retrofit on Existing Hoist
+Assessing Feasibility of a MS Torque Limiter Retrofit
 ==============================================================

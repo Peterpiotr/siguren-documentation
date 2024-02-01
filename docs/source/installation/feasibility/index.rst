@@ -1,6 +1,6 @@
-================================================
-Feasibility of MotoSuiveur System Installation
-================================================
+==============================
+Feasibility of Installation
+==============================
 
 .. toctree::
   :maxdepth: 2

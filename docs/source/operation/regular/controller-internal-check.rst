@@ -1,5 +1,5 @@
 ========================================
-Running an MS Controller Internal Check
+Running a MS Controller Internal Check
 ========================================
 
 .. include:: /_img/_image-substitutions.rst

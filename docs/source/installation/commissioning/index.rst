@@ -1,6 +1,6 @@
-================================================
-Commissioning a MotoSuiveur System Installation
-================================================
+===============
+Commissioning
+===============
 
 .. toctree::
     :maxdepth: 2

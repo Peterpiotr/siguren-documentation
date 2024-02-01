@@ -18,24 +18,9 @@ Installing MotoSuiveur® System
 
 .. toctree::
   :maxdepth: 2
-  :caption: MS Unit Flange
+  :caption: MS Unit Mechanical Installation
 
-  mechanical-installation/flange/pin-flange-installation
-  mechanical-installation/flange/flat-sided-flange-installation
-
-.. toctree::
-  :maxdepth: 2
-  :caption: MS Unit Seat
-
-  mechanical-installation/seat/ms-seat-installation
-  mechanical-installation/seat/ms-positioning
-
-
-.. toctree::
-  :maxdepth: 2
-  :caption: MS Torque Limiter Installation
-
-  mechanical-installation/tl-assembly
+  mechanical-installation/index
 
 
 .. toctree::
