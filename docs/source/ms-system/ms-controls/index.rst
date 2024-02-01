@@ -1,5 +1,5 @@
 =======================
-Control Interface
+MS Controls
 =======================
 
 .. toctree::
