@@ -52,7 +52,7 @@ MotoSuiveur® System
     :gutter: 4
     :padding: 0
 
-    .. grid-item-card:: MS Unit
+    .. grid-item-card:: MS Unit  :bdg-success-line:`updates in 0.1.2`
         :img-top: /_img/cards/ms-unit-card_16-9.png
         :link: ms-system/ms-unit/index
         :link-type: doc
