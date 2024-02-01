@@ -5,7 +5,7 @@ MS Controls Installation
 .. toctree::
     :maxdepth: 2
 
-    controls-installation/msunit-mscc-connection
-    controls-installation/mscc-hoistcc-connection
-    controls-installation/setting-drive
-    controls-installation/multiple-ms
+    msunit-mscc-connection
+    hoistcc-mscc-connection
+    setting-drive
+    multiple-ms
