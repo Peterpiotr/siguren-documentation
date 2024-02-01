@@ -33,5 +33,7 @@ Maintenance Inspections and Tests
     :maxdepth: 2
     :caption: Performance and Operation Tests
 
-    testing-load-arrest
+    testing-damping-load-arrest
+    testing-friction-load-arrest
     testing-load-recovery
+    testing-ms-torque-limiter
