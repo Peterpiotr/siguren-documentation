@@ -26,12 +26,16 @@ a {
     color: #2439bb; /* Sets the background color to blue */
 }
 
-a:hover {
-    color: #5770ff; /* Sets the background color to blue */
+a:not(li.toctree-l1 > a, li.toctree-l2 > a, li.toctree-l3 > a):hover {
+    color: #5770ff; /* Sets the background color to blue  on hover except for links in the side panel*/
+}
+
+.reference.internal:focus {
+    background-color: #2439bb;
 }
 
 .caption-text {
-    color: white; /* Sets the background color to blue */
+    color: white; 
 }
 
 .admonition.note .admonition-title {
