@@ -1,6 +1,6 @@
-==============
-Following Mode
-==============
+============================
+Following Mode (Normal Mode)
+============================
 
 ..
     .. tags:: following, overspeed
@@ -10,22 +10,13 @@ Following Mode
 Introduction
 =============
 
-Following Mode is the main operating mode of the MotoSuiveur® System.
+Following Mode (also called Normal Mode) is the main operating mode of the MotoSuiveur® System.
 
-Following Mode starts after a successful completion of MS Self-Test. 
-
-.. note::
-    See :doc:`/operation/regular/self-test`.
 
 In Following Mode, the MotoSuiveur® System **simultaneously**:
 
     - follows hoist movements.
     - monitors for exceeding the :term:`rated speed` with defined positive tolerance. This threshold is called the :term:`overspeed`. 
-
-
-States of Following Mode
-=========================
-
 
 Following Mode is separated into a **Rest State** and a **Follow State**. 
     :Rest State: 
@@ -36,36 +27,42 @@ Following Mode is separated into a **Rest State** and a **Follow State**.
 
 Rest State and Follow State are displayed on MS Controller 7-segment display and MS HMI "Main Screen" field :guilabel:`MotoSuiveur® System status` .
 
+.. show screenshot and image of what is displayed in each state
+
 .. "status" instead of "state" on HMI.
 
-.. note::
-    See :doc:`/operation/regular/self-test`.
-
 Following Mode logic
-========================
+=====================
 
-After successful passed of self-test MotoSuiveur® System is in Rest State.
+After the successful completion of a Self-Test MotoSuiveur® System goes into Rest State.
 
-In Rest State, after a successful Self-Test and the presence of an enable signal from the crane, the following indicators are active **simultaneously**:
+.. seealso::
+    :doc:`/operation/regular/self-test`.
 
-    - :guilabel:`🟢 Hoist enabled`, 
-    - :guilabel:`🟢 Upward Enable` 
-    - :guilabel:`🟢 Downward Enable`.
+In Rest State, in the presence of an ENABLE signal from the crane, the following indicators are ON **simultaneously**:
 
+    - :guilabel:`🟢 Hoist ENABLED` 
+    - :guilabel:`🟢 Upward ENABLE` 
+    - :guilabel:`🟢 Downward ENABLE`
+
+.. and what if we are in Rest State 
+.. why is the ENABLE signal coming FROm the crane??
 
 .. figure:: /_img/regular-operation/indicators-following-state.png
    :class: instructionimg
    :figwidth: 100 %
 
-   Active indicators in following state
+   MS Control Panel: ON indicators in following state
 
 .. we just said we were in rest state and the caption of the image says following state
 
 The following process is started after pressing the buttons to operate the hoist UP or DOWN.
 
-If a limit switch prohibiting upward movement is activated during movement, the :guilabel:`🟢 Upward Enable` indicator becomes inactive - `Upward movement prohibited`.
+.. "following process" is the Follow State?
 
-In this state, no upward movement of the crane is allowed, and a short downward movement is required until the MS worm is cantered `Active indicators in following state`.
+If a limit switch prohibiting Upward movement is activated during movement, the :guilabel:`🟢 Upward ENABLE` indicator becomes inactive - `Upward movement prohibited`.
+
+In this state, no Upward movement of the crane is allowed, and a short Downward movement is required until the MS worm is centered `Active indicators in following state`.
 .. which "state"? one of the two states of the following mode?
 
 
@@ -73,45 +70,54 @@ In this state, no upward movement of the crane is allowed, and a short downward 
    :class: instructionimg
    :figwidth: 100 %
 
-   Upward movement prohibited
+   MS Control Panel: Upward movement prohibited
 
-Accordingly, if the limit switch prohibiting downward movement is activated during movement, the :guilabel:`🟢 Downward Enable` indicator becomes inactive - `Downward movement prohibited`. 
+Accordingly, if the limit switch prohibiting Downward movement is activated during movement, the :guilabel:`🟢 Downward ENABLE` indicator becomes inactive - `Downward movement prohibited`. 
 
-In this state, no downward movement of the crane is allowed, and a short upward movement is required until the MS worm is cantered - `Active indicators in following state`.
+In this state, no Downward movement of the crane is allowed, and a short Upward movement is required until the MS worm is cantered - `Active indicators in following state`.
 
-.. figure:: /_img/regular-operation/downward-prohibited.png
+.. in this state meaning in "follow state"?
+
+.. figure:: /_img/regular-operation/Downward-prohibited.png
    :class: instructionimg
    :figwidth: 100 %
 
-   Downward movement prohibited
+   MS Control Panel: Downward movement prohibited
 
-If the enable signal from the hoist to MotoSuiveur® System loss, the :guilabel:`🟢 Hoist enabled` indicator becomes inactive. 
+If the ENABLE signal from the hoist to MotoSuiveur® System is lost, the :guilabel:`🟢 Hoist ENABLED` indicator becomes inactive. 
 In this case MotoSuiveur® System does not follow the hoist on a motion request. 
+
+.. dont use "in this case"
+.. 
+
 Accordingly, MotoSuiveur® System does not provide an Enable signal to hoist.
 
-.. figure:: /_img/regular-operation/no-enable-signal.png
+.. figure:: /_img/regular-operation/no-ENABLE-signal.png
    :class: instructionimg
    :figwidth: 100 %
 
-   No enable signal from hoist
+   MS Control Panel: No ENABLE signal from hoist
 
 The states described above do not put the MotoSuiveur® System in a fault state. 
 Fault states can occur for a variety of reasons (overspeed detection, unwanted movement detection, loss of power supply etc.). 
 When the hoist is requested to move, the MC starts to follow in the direction it is required. 
-During following, the MC checks for exceeding the maximum permissible hoist speed. 
+During following, the MC checks for exceeding the maximum permissible hoist speed.
+
+.. during following means in Following Mode?
+
 When the MotoSuiveur® System detects that the defined speed is exceeded, it trips, :guilabel:`🔴 Fault indicator` became active, 
-Hoist enabled indicator became inactive and prevents the hoist from moving. 
-Downward enable and Upward enable are ignored in fault state.
+Hoist ENABLED indicator became inactive and prevents the hoist from moving. 
+Downward ENABLE and Upward ENABLE are ignored in fault state.
 Fault message is displayed on MS Controller 7-segmend display and MS HMI.
 
 .. figure:: /_img/regular-operation/ms-fault.png
    :class: instructionimg
    :figwidth: 100 %
    
-   MotoSuiveur® System fault state
+   MS Control Panel: MotoSuiveur® System fault state
    
 After MotoSuiveur® System enters a fault state, an operator (authorized personnel) response is required to identify the reason for the fault. 
-Once the cause of the failure has been identified and resolved, a :doc:`Reset </operation/regular/system-Reset>` of the MotoSuiveur® System is required. 
+Once the cause of the failure has been identified and resolved, a :doc:`system-reset` of the MotoSuiveur® System is required. 
 After a successful Self-Test following a Reset of MotoSuiveur® System, it enters in Following Mode.
 
 Figure `Main principle of following operation mode and overspeed detection` 
@@ -139,8 +145,6 @@ to prevent load drop.
 MS Controller display
 =====================
 
-.. _MS Controller 7-segment display:
-
 `Symbols displayed on 7-segment display on MS Controller` shows the 
 symbols displayed on 7-segment display during Following Mode in Rest State.
 During Rest State differend messages can be displayed on 7-segment display.
@@ -161,16 +165,4 @@ symbols displayed on 7-segment display during following operation mode during mo
    :delim: ;
    :widths: auto
 
-
-MS HMI status messages
-=======================
-
-On MS HMI "Main Screen" status of MotoSuiveur® System is displayed.
-In table below status messages are listed.
-
-.. csv-table:: Status messages
-   :file: /_tables/mshmi-status-messages.csv
-   :header-rows: 1
-   :delim: ;
-   :widths: auto
 

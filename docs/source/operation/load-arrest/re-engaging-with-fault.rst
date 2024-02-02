@@ -8,7 +8,7 @@ Preliminary steps
           .. note::
                See :doc:`/operation/load-arrest/determining-cause-for-load-arrest`
      
-     2. Confirm that :guilabel:`🟢 Downward Enable` light indicator is OFF.
+     2. Confirm that :guilabel:`🟢 Downward ENABLE` light indicator is OFF.
      
      2. Verify that hoist is healthy.
 
@@ -17,9 +17,9 @@ Steps
 
      .. sign of successful step?
 
-     2. Give a short upward movement from hoist controls until the :guilabel:`🟢 Downward Enable` light indicator comes ON.
+     2. Give a short Upward movement from hoist controls until the :guilabel:`🟢 Downward ENABLE` light indicator comes ON.
      
-        - Both light indicators :guilabel:`🟢 Downward Enable` and :guilabel:`🟢 Upward Enable` are ON.
+        - Both light indicators :guilabel:`🟢 Downward ENABLE` and :guilabel:`🟢 Upward ENABLE` are ON.
      
      3. Reset the MotoSuiveur® System.
         

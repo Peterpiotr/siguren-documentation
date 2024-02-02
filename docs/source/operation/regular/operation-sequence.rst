@@ -12,14 +12,28 @@ Operation Sequence
 
    Diagram of MotoSuiveur® System Operation sequence
 
-
 Operation sequence of the MotoSuiveur® System
-    1. Initial power ON
-    2. MS Controller internal check
-    3. Checking for activated Recovery mode
-    4. MotoSuiveur® System electrical and mechanical Self-Test
-    5. Check for successfully passed Self-Test
-    6. MotoSuiveur® System enter in Following Mode
-    7. During Following Mode MotoSuiveur® System checks for hoist overspeed or faults
-    8. If Backup mode is activated, MotoSuiveur® System enter in Backup mode
-    9. If Reset is performed by pressing Reset button, control voltage of MotoSuiveur® System is off. After Reset button is released operation sequence start from point 1
+    1. Initial power ON.
+    2. MS Controller internal check.
+        
+        .. seealso::
+            :doc:`controller-internal-check`
+
+    4. Check for activated Recovery mode.
+    5. MotoSuiveur® System electrical and mechanical Self-Test.
+
+        .. seealso::
+            :doc:`Self-Test`
+
+    7. Check for successfully passed Self-Test.
+    8. MotoSuiveur® System enter in Following Mode.
+    9. During Following Mode MotoSuiveur® System checks for hoist overspeed or faults.
+    10. If Backup mode is activated, MotoSuiveur® System enter in Backup mode.
+    11. If Reset is performed by pressing Reset button, control voltage of MotoSuiveur® System is OFF. 
+        
+        After Reset button is released operation sequence start from 1.
+
+        .. seealso::
+            :doc:`system-reset`
+
+.. "control voltage of MS is OFF" clarify/why is it important here

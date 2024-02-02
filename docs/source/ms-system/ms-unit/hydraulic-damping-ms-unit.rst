@@ -26,16 +26,16 @@ Hydraulic Damping MS Unit
       - To cushion the safety arrest
     * - 5           
       - Servo motor                                   
-      - Allows normal operation following    
+      - Allows regular operation following    
     * - 6           
       - Worm switch cam                            
       - Acts on SCRE and USCRE     
     * - 7           
-      - Screwing enable switch (SCRE)
-      - Upward movement enable switch
+      - Screwing ENABLE switch (SCRE)
+      - Upward movement ENABLE switch
     * - 8           
-      - Unscrewing enable switch (USCRE)
-      - Downward movement enable switch
+      - Unscrewing ENABLE switch (USCRE)
+      - Downward movement ENABLE switch
     * - 9           
       - Reaction arm                               
       - Fix MotoSuiveur® for safely arresting the load          

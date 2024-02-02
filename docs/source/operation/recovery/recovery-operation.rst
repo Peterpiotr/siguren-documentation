@@ -119,7 +119,7 @@ Steps
   After detaching load, worm shaft recentering between limit switches is required. 
   Centering is performed:
 
-  4.1 With hoist main brake closed downward movement with Integrated Recovey System is required.
+  4.1 With hoist main brake closed Downward movement with Integrated Recovey System is required.
 
   .. figure:: /_img/recovery/recovery-down.png
   	:figwidth: 100 %
@@ -129,7 +129,7 @@ Steps
 
   4.2 Movement continues until :guilabel:`🟢 Upward Enabled` and :guilabel:`🟢 Downward Enabled` indicator lights are both iluminated.
 
-  .. figure:: /_img/recovery/upward-downward-enabled-on.png
+  .. figure:: /_img/recovery/Upward-downward-ENABLED-on.png
   	:figwidth: 100 %
   	:class: instructionimg
 
@@ -140,7 +140,7 @@ Steps
 
   5.1 Worm shaft is located between limit switches.
 
-  5.2 Short **upward** movement with Recovery System is required for disengaging Recovery Mechanism from worm shaft.
+  5.2 Short **Upward** movement with Recovery System is required for disengaging Recovery Mechanism from worm shaft.
 
   Switch :guilabel:`Recovery Mode Down/Up` to position **UP** for 2 - 5 seconds. After that switch to **neutral position**.
 
@@ -148,7 +148,7 @@ Steps
   	:figwidth: 100 %
   	:class: instructionimg
 
-  	Short upward movement
+  	Short Upward movement
 
 
   5.3 Turnin :guilabel:`🔑 Recovery Mode Off | On` switch to the position **OFF** 

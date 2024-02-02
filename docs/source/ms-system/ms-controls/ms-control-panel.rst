@@ -13,15 +13,15 @@ Combination of active (ON) and inactive (OFF) signal lams gives current status o
 Mandatory signals and controls
 ==============================
 
-Hoist enabled
+Hoist ENABLED
 ---------------
 
-:guilabel:`🟢 Hoist enabled light` indicate that the MotoSuiveur® authorizes hoist movements. (figure 5).
+:guilabel:`🟢 Hoist ENABLED light` indicate that the MotoSuiveur® authorizes hoist movements. (figure 5).
 
-Hoist enabled signal will be **ON** only in case if **ON** signal from hoist is **ON**.
+Hoist ENABLED signal will be **ON** only in case if **ON** signal from hoist is **ON**.
 
-Hoist enabled signal will be **ON** when :doc:`/operation/regular/Self-Test` procedure passes successfully and **ON** signal is available.
-Then :guilabel:`🟢 Hoist enabled light` and :guilabel:`⚪ Healthy light` are **ON**. 
+Hoist ENABLED signal will be **ON** when :doc:`/operation/regular/self-test` procedure passes successfully and **ON** signal is available.
+Then :guilabel:`🟢 Hoist ENABLED light` and :guilabel:`⚪ Healthy light` are **ON**. 
 The signals are indicating ``system ready`` (``MotoSuiveur® ready``).
 
 

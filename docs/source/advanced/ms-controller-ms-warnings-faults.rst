@@ -23,23 +23,23 @@ Warnings and faults table
     * - **Code** 
       - **Title**
     * - `E02`_
-      - Screwing command during self-test
+      - Screwing command during Self-Test
     * - `E03`_
-      - Unscrewing command during self-test
+      - Unscrewing command during Self-Test
     * - `E04`_
-      - Both commands during self-test 
+      - Both commands during Self-Test 
     * - `E05`_
-      - ON signal missing during self-test 
+      - ON signal missing during Self-Test 
     * - `E10`_
       - Blocked worm 
     * - `E11`_
-      - Unscrewing enable switch not centered 
+      - Unscrewing ENABLE switch not centered 
     * - `E12`_
-      - Screwing enable switch not centered
+      - Screwing ENABLE switch not centered
     * - `E13`_
-      - Unscrewing enable switch not made
+      - Unscrewing ENABLE switch not made
     * - `E14`_
-      - Screwing enable switch not made
+      - Screwing ENABLE switch not made
     * - `E28`_
       - Incorrect MS firmware version 
     * - `F15`_
@@ -65,7 +65,7 @@ E02
 ====
 
 Title
-    Screwing command during self-test
+    Screwing command during Self-Test
 
 7-segment display 
     |7s-E| |7s-0| |7s-2| 
@@ -83,7 +83,7 @@ E03
 ====
 
 Title
-    Unscrewing command during self-test
+    Unscrewing command during Self-Test
 
 7-segment display 
     |7s-E| |7s-0| |7s-3| 
@@ -101,7 +101,7 @@ E04
 ====
 
 Title
-    Both commands during self-test 
+    Both commands during Self-Test 
 
 7-segment display 
     |7s-E| |7s-0| |7s-4| 
@@ -119,7 +119,7 @@ E05
 ====
 
 Title
-    ON signal missing during self-test 
+    ON signal missing during Self-Test 
 
 7-segment display 
     |7s-E| |7s-0| |7s-5| 
@@ -127,7 +127,7 @@ Title
 .. admonition:: Meaning 
     :class: warning 
     
-    No enable signal from hoist. Hoist PLC malfunction. Hoist PLC in fault. Lost connection between hoist PLC and MS Controller. Fault in hoist control system. Other causes are possible.
+    No ENABLE signal from hoist. Hoist PLC malfunction. Hoist PLC in fault. Lost connection between hoist PLC and MS Controller. Fault in hoist control system. Other causes are possible.
 
 Steps
     1. Check electrical connection between hoist control cabinet and MS hoist cabinet. 
@@ -149,11 +149,11 @@ Title
     Worm is stuck.  Worm is locked to recovery mechanism (If MS-IRD is installed).
 
 Steps
-    1. Mechanical reset is needed. In case of Downward enable off after recovery operation, moving I opposite side from hoist is needed.  
+    1. Mechanical reset is needed. In case of Downward ENABLE off after recovery operation, moving I opposite side from hoist is needed.  
 
     .. clarify 
 
-    2. Moving should continue until lamps indicators for upward and downward are on. 
+    2. Moving should continue until lamps indicators for Upward and Downward are on. 
     3. After manual reentering, MS reset is necessary.
 
 
@@ -161,7 +161,7 @@ E11
 ====
 
 Title
-    Unscrewing enable switch not centered 
+    Unscrewing ENABLE switch not centered 
 
 7-segment display 
     |7s-E| |7s-1| |7s-1| 
@@ -179,7 +179,7 @@ E12
 ====
 
 Title
-    Screwing enable switch not centered
+    Screwing ENABLE switch not centered
 
 7-segment display 
     |7s-E| |7s-1| |7s-2| 
@@ -197,7 +197,7 @@ E13
 ====
 
 Title
-    Unscrewing enable switch not made
+    Unscrewing ENABLE switch not made
 
 7-segment display 
     |7s-E| |7s-1| |7s-3| 
@@ -215,7 +215,7 @@ E14
 ====
 
 Title
-    Screwing enable switch not made 
+    Screwing ENABLE switch not made 
 
 7-segment display 
     |7s-E| |7s-1| |7s-4| 
@@ -262,7 +262,7 @@ Title
     Worm play is greater than defined.
 
 Steps
-    1. Center the worm in position with upward and downward enable indicators are on. 
+    1. Center the worm in position with Upward and Downward ENABLE indicators are on. 
     2. Wait 15 sec. 
     3. Reset MotoSuiveur® System.
 
@@ -282,7 +282,7 @@ Title
     Worm play is smaller than defined.
 
 Steps
-    1. Center the worm in position with upward and downward enable indicators are on. 
+    1. Center the worm in position with Upward and Downward ENABLE indicators are on. 
     2. Wait 15 sec. 
     3. Reset MotoSuiveur® System.
 
@@ -320,7 +320,7 @@ Title
     Damping nozzles too open
 
 Steps
-    1. Center the worm in position with upward and downward enable indicators are on. 
+    1. Center the worm in position with Upward and Downward ENABLE indicators are on. 
     2. Wait 15 sec. 
     3. Reset MotoSuiveur® System.
 
@@ -340,7 +340,7 @@ Title
     Damping nozzles too closed
 
 Steps
-    1. Center the worm in position with upward and downward enable indicators are on. 
+    1. Center the worm in position with Upward and Downward ENABLE indicators are on. 
     2. Wait 15 sec. 
     3. Reset MotoSuiveur® System
 

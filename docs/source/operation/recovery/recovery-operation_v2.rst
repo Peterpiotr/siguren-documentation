@@ -12,7 +12,7 @@ During the recovery process, it is essential that the main motor hoist service b
 This brake must be disengaged (either automatically or manually) throughout the recovery process, starting from the moment the 
 Integrated Recovery System is activated.
 
-The Integrated Recovery System is designed to independently enable the raising or lowering of the load in case the main hoisting mechanism fails. 
+The Integrated Recovery System is designed to independently ENABLE the raising or lowering of the load in case the main hoisting mechanism fails. 
 This alternative hoisting method is activated via physical switches located in the MS Control Cabinet.
 
 .. important::
@@ -43,7 +43,7 @@ Back-up Lowering
 
   5. Continue lowering until the load has reached a safe location and can be detached from the hoist.
 
-Returning to Normal Operation
+Returning to Regular Operation
 ------------------------------
 
   6. Turn the :guilabel:`Recovery Mode Down/Up` switch to the neutral position. The hoist main (service) brake should **close**.
@@ -59,7 +59,7 @@ Returning to Normal Operation
   Centering is performed:
   .. something missing?
 
-  8. With hoist main brake closed downward movement with Integrated Recovey System is required.
+  8. With hoist main brake closed Downward movement with Integrated Recovey System is required.
 
   .. figure:: /_img/recovery/recovery-down.png
   	:figwidth: 100 %
@@ -68,7 +68,7 @@ Returning to Normal Operation
 
   9. Movement continues until :guilabel:`🟢 Upward Enabled` and :guilabel:`🟢 Downward Enabled` indicator lights are both iluminated.
 
-  .. figure:: /_img/recovery/upward-downward-enabled-on.png
+  .. figure:: /_img/recovery/Upward-downward-ENABLED-on.png
   	:figwidth: 100 %
 
   	Recentering of worm shaft
@@ -80,7 +80,7 @@ Returning to Normal Operation
 
   .. 11.Worm shaft is located between limit switches.
 
-  11. Make a short **upward** movement with Recovery System. This is required for disengaging the Recovery Mechanism from the worm shaft.
+  11. Make a short **Upward** movement with Recovery System. This is required for disengaging the Recovery Mechanism from the worm shaft.
 
   ..
   
@@ -90,7 +90,7 @@ Returning to Normal Operation
   .. figure:: /_img/recovery/recovery-upward-short.PNG
   	:figwidth: 100 %
 
-  	Short upward movement
+  	Short Upward movement
 
 
   12. Turn :guilabel:`🔑 Recovery Mode Off | On` switch to the position **OFF** 

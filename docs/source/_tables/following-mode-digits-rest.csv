@@ -1,6 +1,6 @@
 ﻿Symbol    ;Title
-|7s-042|;Upward enable switch activated
-|7s-043|;Downward enable switch activated
+|7s-042|;Upward ENABLE switch activated
+|7s-043|;Downward ENABLE switch activated
 |7s-044|;Commands for lifting and lowering simultaneous activated
 |7s-A|;Maintenance "A"
 |7s-b|;Maintenance "B"

@@ -11,7 +11,7 @@ This procedure has to be done in case of the main kinematic chain is not availab
 .. note::
   | To carry out this procedure, you must provide a mechanism to drive the MS worm. 
   | This mechanism should produce a high enough torque to move the load (taking into account the weight of the load and the various specific frictions due to this type of recovery). 
-  | For example, we can use a motor and a reducer adapted.
+  | For example, we can use a motor and a gearbox adapted.
   | Only one operator is needed for this procedure.
 
 .. warning::

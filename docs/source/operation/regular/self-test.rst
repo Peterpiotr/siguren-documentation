@@ -7,8 +7,9 @@ Running a Self-Test
 .. note::
      For software version 8.2.
 
+.. MS controller firmware?
 
-.. what if i interrupt a self-test
+.. what if i interrupt a Self-Test
 .. can i see when was a self test last ran manually/automatically?
 
 Introduction
@@ -17,8 +18,9 @@ Introduction
 A Self-Test is a procedure in which the MS Unit tests its health through a sequence of tests. 
 
 The Self-Test is performed either:
-    - after the initial power ON of the MotoSuiveur® System 
-    - or after a restart from the :guilabel:`🔘 Reset` button on the MS Control Panel.
+
+- after the initial power ON of the MotoSuiveur® System 
+- or after a restart from the :guilabel:`🔘 Reset` button on the MS Control Panel.
 
 The steps of Self-Test sequence are displayed on MS Controller 7-segment display (table below).
 
@@ -57,7 +59,7 @@ The steps of Self-Test sequence are displayed on MS Controller 7-segment display
 | |7s-H|     | Home              |Worm positioning in nominal position between   | E10                      |
 |            |                   |SCRE and USCRE limit switches                  |                          |
 +------------+-------------------+-----------------------------------------------+--------------------------+
-| |7s-F|   | Play test         |Check for nominal backlash (worm free play)    | F15, F17                 |
+| |7s-F|     | Play test         |Check for nominal backlash (worm free play)    | F15, F17                 |
 |            |                   |between worm and worm wheel                    |                          |
 +------------+-------------------+-----------------------------------------------+--------------------------+
 

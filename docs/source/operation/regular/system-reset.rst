@@ -1,10 +1,9 @@
-=================
-Applying a Reset
-=================
+=========================
+Applying a System Reset
+=========================
 
 .. why do that? 
 
-.. there are different 
 
 .. no preliminary steps? nothing to check first?
 
@@ -13,7 +12,6 @@ Steps
     2. Press and hold :guilabel:`🔘 Reset` for >1 second.
 
         .. figure:: /_img/regular-operation/Reset-buton.png
-            :figwidth: 50 %
             :class: instructionimg
 
         MotoSuiveur® System Reset

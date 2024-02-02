@@ -1,12 +1,12 @@
 "No          ";"Name";"Type";Description
-"1           ";"Hoist Enabled ";"Indicator light";MS enabled. MS ready for following
+"1           ";"Hoist Enabled ";"Indicator light";MS ENABLED. MS ready for following
 "2           ";"Fault Indicator";"Indicator light";MS fault indicator
-"3           ";"Upward enabled";"Indicator light";Allows rising direction movement
+"3           ";"Upward ENABLED";"Indicator light";Allows rising direction movement
 "4           ";"Recovery Off/On";"Selector";Switch on/off  MS recovery mode
 "5           ";"Recovery Mode Down/Up";"Selector";MS recovery mechanysm control
-"6           ";"Enable override";"Selector ";"Forced hoist enable "
+"6           ";"Enable override";"Selector ";"Forced hoist ENABLE "
 "7           ";"Low Oil Level";"Indicator light";Indicator for low oil level in MS Unit
-"8           ";"Downward enabled ";"Indicator light";Allows lowering direction movement
+"8           ";"Downward ENABLED ";"Indicator light";Allows lowering direction movement
 "9           ";"Recovery Mode";"Indicator light";Indicator for active MS recovery mode
 "10          ";"Recovery Engaged";"Indicator light";Indicator for engaged recovery mechanism
 "11          ";"Reset";"Button";MotoSuiveur® System reset

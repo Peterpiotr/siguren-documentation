@@ -2,7 +2,7 @@
 MS Torque Limiter Add-On
 =========================
 .. note::
- The MS Torque Limiter is mounted between the hoist main electric motor and the high-speed reducer shaft of the hoist. 
+ The MS Torque Limiter is mounted between the hoist main electric motor and the high-speed gearbox shaft of the hoist. 
  
  The MS Torque Limiter is delivered factory rated to the value necessary to the application.
 

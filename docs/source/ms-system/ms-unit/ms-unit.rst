@@ -12,7 +12,7 @@ Introduction
 
 The MS Unit (referred to for short MS) is a proprietary system for the protection of the hoist load from mechanical or electrical failure and overspeed, 
 and for the recovery of the load in the event of a failure. The unit is supplied with a proprietary control panel from the equipment manufacturers. 
-The crane’s hardwired controls are interfaced to this panel to control the MotoSuiveur® in normal operation. 
+The crane’s hardwired controls are interfaced to this panel to control the MotoSuiveur® in regular operation. 
 
 The MS Unit is a failsafe mechanical hoist arrester, designed and manufactured by Siguren Technologies LTD. 
 The MS Unit protects against failures in hoist drive trains that would otherwise lead to dropped loads or overloads.

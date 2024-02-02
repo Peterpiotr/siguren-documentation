@@ -6,10 +6,12 @@ Regular Lifting Operation
     :maxdepth: 2
 
     operation-sequence
-    controller-internal-check
+    start-up
     following-mode
+    controller-internal-check
     self-test
     system-reset
+    overloads
     
 
 

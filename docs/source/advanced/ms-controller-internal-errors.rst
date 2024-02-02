@@ -91,7 +91,7 @@ Title
     -
 
 Steps
-    1. This fault is managed while the drive is enabled.
+    1. This fault is managed while the drive is ENABLED.
 
 .. what does "the fault is managed" mean?
 

@@ -60,3 +60,18 @@ Each screen has a set of functions and/or indicators and a :guilabel:`Return` bu
 
    Navigation in MS HMI (top screens)
 
+
+MS HMI status messages
+=======================
+
+On MS HMI "Main Screen" status of MotoSuiveur® System is displayed.
+
+In table below status messages are listed.
+
+.. csv-table:: Status messages
+   :file: /_tables/mshmi-status-messages.csv
+   :header-rows: 1
+   :delim: ;
+   :widths: auto
+
+.. status, state, mode... clarify

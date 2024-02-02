@@ -16,8 +16,8 @@ When Backup mode is activated:
 - All MotoSuiveur® System logic faults (over speed etc) are inhibited.
 - "Hoist Enabled" signal is forced.
 - MS Unit limit switches are inhibited.
-- The MS Unit motor speed is physically limited to 110% during normal operation.
-- Hoist enable signals are ignored.
+- The MS Unit motor speed is physically limited to 110% during regular operation.
+- Hoist ENABLE signals are ignored.
 
 
 Backup procedure
@@ -40,7 +40,7 @@ Activating and operating of Backup Mode
 
 	\**\ For MotoSuiveur® Systems equipped with **MSCD** MS Controller
 
-2. The Backup mode enable indicator illuminates. A symbol |7s-058| for activated Backup mode is displayed on the 7-segment indicator of the MS Controller.
+2. The Backup mode ENABLE indicator illuminates. A symbol |7s-058| for activated Backup mode is displayed on the 7-segment indicator of the MS Controller.
 
 .. _Switch on Backup mode light:
 .. figure:: /_img/backup/backup-light-on.png

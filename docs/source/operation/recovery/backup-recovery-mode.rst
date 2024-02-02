@@ -55,8 +55,8 @@ located :doc:`control panel front door </ms-system/ms-controls/control-panel>` o
     See also and merge : :doc:`Backup procedure </operation/recovery/backup-procedure>`
 
 .. important::
-    In Backup mode no enable signal (On) **form** hoist to MotoSuiveur® is required to perform movement.
-    If enable signal **to** hoist is required, :guilabel:`🔑 Enable Override` should be used. 
+    In Backup mode no ENABLE signal (On) **form** hoist to MotoSuiveur® is required to perform movement.
+    If ENABLE signal **to** hoist is required, :guilabel:`🔑 Enable Override` should be used. 
 
 
 

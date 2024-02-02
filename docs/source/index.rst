@@ -114,7 +114,7 @@ Sections
         :link-type: doc
         :class-title: card-title
 
-        Managing load arrest situations. Resuming normal operation after load arrest.
+        Managing load arrest situations. Resuming regular operation after load arrest.
  
     .. grid-item-card:: Suspended Load Recovery
         :img-top: /_img/cards/recovery-card-ladle_16-9.png

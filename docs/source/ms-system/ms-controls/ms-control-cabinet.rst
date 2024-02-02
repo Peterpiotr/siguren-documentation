@@ -62,8 +62,8 @@ Architecture of a MotoSuiveur® System
 In the standalone architecture, the MS Controller receives only inputs from the main hoist control panel, 
 basically [🔼 Up] and [🔽 Down] on terminal block T2. 
 
-Terminal block T4 is a set of digital outputs (relays) providing MotoSuiveur® status information, as well as an enable signal for operation, 
-enabling upward and downward movement signals.
+Terminal block T4 is a set of digital outputs (relays) providing MotoSuiveur® status information, as well as an ENABLE signal for operation, 
+enabling Upward and Downward movement signals.
 
 Terminal blocks T3, T5\*\, T6, T7 and T8 are analog and digital inputs for MotoSuiveur® standalone system.
 

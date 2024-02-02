@@ -1,6 +1,6 @@
 Message;Title;Description;Possible cases
 **E01**;DC bus overvoltage;An overvoltage has been detected on the internal DC bus;This fault may be due to overvoltage on the network or due to overloaded ballast resistor.
-**E02**;Undervoltage DC Bus ;The internal DC bus has dropped below the configured minimum voltage;This fault is managed while the drive is enabled.
+**E02**;Undervoltage DC Bus ;The internal DC bus has dropped below the configured minimum voltage;This fault is managed while the drive is ENABLED.
 **E03**;I2t motor;Overload on the motor;Mechanical hard point, bad power wiring, motor feedback problem, poorly controlled brake.
 **E04**;Overcurrent;A current greater than the maximum measurable current has been detected on at least one of the motor phases;The drive must be powered 24VDC for 15 min before it can be unlocked.
 **E05**;Short circuit;A short-circuit between phases or the earthing of a motor phase has been detected;The drive must be powered 24VDC for 15 min before it can be unlocked.
