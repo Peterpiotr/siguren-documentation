@@ -2,16 +2,18 @@
 Handling the MS Unit
 ==============================
 
-Orientation
-============
+Handling orientation
+======================
 
-.. note::
-	From **User Manual-7.4.doc**
 
- The MS Unit must be transported in the authorized positions shown above in *figure 4*.
+.. From **User Manual-7.4.doc**
+    
+The MS Unit must be transported in the authorized positions shown above in *figure 4*.
 
 .. important::
     Before setting it up, check the way the MotoSuiveur® is positioned the right way according to the supplied mounting drawing.
+
+.. setting what up?
 
 .. keep the above?
 
@@ -23,7 +25,7 @@ To prevent the air from penetrating inside the damping chamber during transporta
 
 .. how about Friction MS Units and their grease
 
-Oil sensor (2) or breather cap (3) are oriented up and oil drain hole (4) down.
+
 
 .. figure:: /_img/Installation/handling.png
 	:figwidth: 100 %
@@ -31,23 +33,45 @@ Oil sensor (2) or breather cap (3) are oriented up and oil drain hole (4) down.
 
 	Transportation of MS Unit
 
+.. grid:: 3
+
+    .. grid-item::
+
+        ① Eyebolts for handling
+             
+        ② Oil sensor
+            Oriented **UPWARD**
+
+    .. grid-item::
+
+        ③ Breather cap
+            Oriented **UPWARD**
+        ④ Oil drain hole
+            Oriented **DOWNWARD**
+
+
 .. warning::
-	If the orientation precautions were not respected, **a drain of the MS Unit is necessary** before putting it in service.
+	If the orientation precautions were not respected, **a drain of the MS Unit is necessary** before commissioning.
 
-Connections 
-============
 
-During transportation MS Unit must be carried via the provided eye bolts (1). 
+Lifting points
+===============
 
-.. warning::
-	Never lift a MS Unit by the motor.
+During transportation MS Unit must be carried via the provided eye bolts. 
 
 .. figure:: /_img/Installation/handling.png
 	:figwidth: 100 %
 	:class: instructionimg
 
-	Connections of MS Unit
+	Lifting points of MS Unit
 
+.. grid:: 3
 
+    .. grid-item::
+
+        ① Eyebolts for handling
+             
+.. warning::
+	Never lift a MS Unit by the motor.
 
 

@@ -3,14 +3,12 @@ Feasibility
 ==============
 
 .. toctree::
-  :maxdepth: 2
-  :caption: New Hoists
+    :maxdepth: 2
 
-  new-hoist
+    ms-selection
+    new-hoist
+    ms-retrofit-feasibility
+    tl-retrofit-feasibility
 
-.. toctree::
-  :maxdepth: 2
-  :caption: Existing Hoist Upgrade/Retrofit
 
-  ms-retrofit-feasibility
-  tl-retrofit-feasibility
+    

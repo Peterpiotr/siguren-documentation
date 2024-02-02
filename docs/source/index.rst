@@ -182,7 +182,7 @@ References
 
 
 Getting In Touch
-===============
+=================
 
 Questions about this documentation?
 
