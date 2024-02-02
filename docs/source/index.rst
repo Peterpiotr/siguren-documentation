@@ -19,18 +19,27 @@ Getting Started with MotoSuiveur® Solutions
     .. grid-item-card:: Achieving Inherent Safety in Hoisting
         :link: getting-started/achieving-inherent-safety
         :link-type: doc
+        :shadow: none
+        :class-card: card-container
+        :class-img-top: card-img-top
         :class-title: card-title
 
  
     .. grid-item-card:: MotoSuiveur® Solutions Features
         :link: getting-started/ms-solution-features
         :link-type: doc
+        :shadow: none
+        :class-card: card-container
+        :class-img-top: card-img-top
         :class-title: card-title
 
 
     .. grid-item-card:: Integrating MotoSuiveur® Solutions to Your Hoist
         :link: getting-started/start-integrating-ms
         :link-type: doc
+        :shadow: none
+        :class-card: card-container
+        :class-img-top: card-img-top
         :class-title: card-title
 
         Steps to make any hoist inherently safe.
@@ -56,6 +65,9 @@ MotoSuiveur® System
         :img-top: /_img/cards/ms-unit-card_16-9.png
         :link: ms-system/ms-unit/index
         :link-type: doc
+        :shadow: none
+        :class-card: card-container
+        :class-img-top: card-img-top
         :class-title: card-title
 
         Overview of key safety and operation functions of MS Unit.
@@ -64,6 +76,9 @@ MotoSuiveur® System
         :img-top: /_img/cards/controls-card_16-9.jpg
         :link: ms-system/ms-controls/index
         :link-type: doc
+        :shadow: none
+        :class-card: card-container
+        :class-img-top: card-img-top
         :class-title: card-title
 
         Overview of MS Control Cabinet, hoist-to-MS controls interface, MS Controller, MS HMI menus.
@@ -72,6 +87,9 @@ MotoSuiveur® System
         :img-top: /_img/cards/addons-card.png
         :link: ms-system/ms-addons/index
         :link-type: doc
+        :shadow: none
+        :class-card: card-container
+        :class-img-top: card-img-top
         :class-title: card-title
 
         Static and dynamic overloads protection. Advanced load recovery capabilities.
@@ -96,6 +114,9 @@ Sections
         :img-top: /_img/cards/installation-card-flange-med_16-9.png
         :link: installation/index
         :link-type: doc
+        :shadow: none
+        :class-card: card-container
+        :class-img-top: card-img-top
         :class-title: card-title
 
         Integrating MS into the hoist's kinematic chain and controls.
@@ -104,6 +125,9 @@ Sections
         :img-top: /_img/cards/regular-op-card-med_16-9.png
         :link: operation/regular/index
         :link-type: doc
+        :shadow: none
+        :class-card: card-container
+        :class-img-top: card-img-top
         :class-title: card-title
 
         Enabling and following hoist motion. Preventing overloads.
@@ -112,6 +136,9 @@ Sections
         :img-top: /_img/cards/arrest-card-med_16-9.png
         :link: operation/load-arrest/index
         :link-type: doc
+        :shadow: none
+        :class-card: card-container
+        :class-img-top: card-img-top
         :class-title: card-title
 
         Managing load arrest situations. Resuming regular operation after load arrest.
@@ -120,6 +147,9 @@ Sections
         :img-top: /_img/cards/recovery-card-ladle_16-9.png
         :link: operation/recovery/index
         :link-type: doc
+        :shadow: none
+        :class-card: card-container
+        :class-img-top: card-img-top
         :class-title: card-title
 
         Procedures to safely recover suspended loads according to the hoist's status.
@@ -128,6 +158,9 @@ Sections
         :img-top: /_img/cards/ms-unit-card_16-9.jpg
         :link: maintenance/index
         :link-type: doc
+        :shadow: none
+        :class-card: card-container
+        :class-img-top: card-img-top
         :class-title: card-title
 
         Routine checks and maintenance procedures. Parts replacements.
@@ -136,6 +169,9 @@ Sections
         :img-top: /_img/cards/advanced-card_16-9.jpg
         :link: advanced/index
         :link-type: doc
+        :shadow: none
+        :class-card: card-container
+        :class-img-top: card-img-top
         :class-title: card-title
 
         Accessing firmware settings. Bypassing MotoSuiveur® safety if required.
@@ -163,11 +199,17 @@ References
     .. grid-item-card:: Frequently Asked Questions
         :link: faq
         :link-type: doc
+        :shadow: none
+        :class-card: card-container
+        :class-img-top: card-img-top
         :class-title: card-title
 
     .. grid-item-card:: Glossary
         :link: glossary
         :link-type: doc
+        :shadow: none
+        :class-card: card-container
+        :class-img-top: card-img-top
         :class-title: card-title
 
 

@@ -42,6 +42,24 @@ a:hover {
     background-color: #ccd3fc; 
 }
 
+
+.card-container {
+    border-radius: 0 !important;
+}
+
+.card-img-top {
+    border-radius: 0 !important;
+}
+
+.card-container:hover {
+    border: solid 1px #2439bb;
+}
+
+.card-title {
+    font-size: 20px;
+    color: #2436bb;
+}
+
 /* Siguren branding END */
 
 .tight-table td {
@@ -67,10 +85,7 @@ img {
 }
 */
 
-.card-title {
-    font-size: 20px;
-    color: #2436bb;
-}
+
 
 
 
