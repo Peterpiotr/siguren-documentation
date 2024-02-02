@@ -39,7 +39,7 @@ Getting Started with MotoSuiveur® Solutions
 .. toctree::
     :maxdepth: 2
     :hidden:
-    :caption: 🟥 Getting Started
+    :caption: Getting Started
 
     /getting-started/achieving-inherent-safety
     /getting-started/ms-solution-features
@@ -79,7 +79,7 @@ MotoSuiveur® System
 .. toctree::
     :maxdepth: 2
     :hidden:
-    :caption: 🟥 MotoSuiveur® System
+    :caption: MotoSuiveur® System
 
     /ms-system/ms-unit/index
     /ms-system/ms-controls/index
@@ -144,7 +144,7 @@ Sections
 .. toctree::
     :maxdepth: 2
     :hidden:
-    :caption: 🟥 Sections
+    :caption: Sections
 
     /installation/index
     /operation/regular/index
@@ -174,7 +174,7 @@ References
 .. toctree::
     :maxdepth: 2
     :hidden:
-    :caption: 🟥 Reference
+    :caption: Reference
 
     faq
     glossary
@@ -192,7 +192,7 @@ Do not hesitate to contact directly the `SIGUREN technologies Support Team <mail
 .. toctree::
     :maxdepth: 2
     :hidden:
-    :caption: ⬜ For authors
+    :caption: For authors
 
     7-segment-display-ref
     sphinx-tools-demo-page
