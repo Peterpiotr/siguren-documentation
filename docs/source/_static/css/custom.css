@@ -14,11 +14,21 @@ h1 {
     padding-left: 0.4rem;
 }
 
+
+
 /*
 .wy-nav-side {
     background-color: #2439bb; 
 }
 */
+
+a {
+    color: #2439bb; /* Sets the background color to blue */
+}
+
+a:hover {
+    color: #5770ff; /* Sets the background color to blue */
+}
 
 .caption-text {
     color: white; /* Sets the background color to blue */
