@@ -102,7 +102,7 @@ Returning to Regular Operation
 
   13.  Reset MotoSuiveur® System
 
-    .. figure:: /_img/recovery/Reset.png
+    .. figure:: /_img/recovery/reset.png
     	:figwidth: 100 %
 
   14.  MotoSuiveur® System is ready to follow.

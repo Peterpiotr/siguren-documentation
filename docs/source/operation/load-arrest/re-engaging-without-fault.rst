@@ -8,19 +8,21 @@ Re-engaging from Load Arrest Without Presence of Fault
 Preliminary steps
      1. Identify and resolve the cause for load arrest.
   
-          .. note::
-               See :doc:`/operation/load-arrest/determining-cause-for-load-arrest`
+        .. seealso::
+            :doc:`/operation/load-arrest/determining-cause-for-load-arrest`
      
      2. Confirm that :guilabel:`🟢 Downward ENABLE` light indicator is OFF.
      
-     2. Verify that hoist is healthy.
+     3. Verify that hoist is healthy.
+
+        .. how? or is that outside of our scope?
 
 Steps
-	3. Enable signal to MotoSuiveur® System from hoist is ON.
-	4. :guilabel:`🟢 Hoist Enabled` signal from MotoSuiveur® System to hoist is on*.
-	5. Short Upward movement is necessary (from hoist control) until :guilabel:`🟢 Downward ENABLE` light swiches to illuminated.
-	6. Both light indicators :guilabel:`🟢 Downward ENABLE` and :guilabel:`🟢 Upward ENABLE` are illuminated.
-	7. MotoSuiveur® System is ready to follow.
+	1. Enable signal to MotoSuiveur® System from hoist is ON.
+	2. :guilabel:`🟢 Hoist Enabled` signal from MotoSuiveur® System to hoist is on*.
+	3. Short Upward movement is necessary (from hoist control) until :guilabel:`🟢 Downward ENABLE` light swiches to illuminated.
+	4. Both light indicators :guilabel:`🟢 Downward ENABLE` and :guilabel:`🟢 Upward ENABLE` are illuminated.
+	5. MotoSuiveur® System is ready to follow.
 
 \*\ If :guilabel:`🟢 Hoist Enabled` signal is not illuminated, :guilabel:`🔑 Enable Override` should be used to force signal.
 Forced signal should be used **only** for movement performing.

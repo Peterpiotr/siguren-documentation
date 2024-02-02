@@ -161,7 +161,7 @@ Steps
 
   5.4 Reset MotoSuiveur® System
 
-  .. figure:: /_img/recovery/Reset.png
+  .. figure:: /_img/recovery/reset.png
   	:figwidth: 100 %
   	:class: instructionimg
 
