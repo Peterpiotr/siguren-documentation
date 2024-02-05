@@ -2,7 +2,7 @@
 "1           ";"Hoist Enabled ";"Indicator light";MS ENABLED. MS ready for following
 "2           ";"Fault Indicator";"Indicator light";MS fault indicator
 "3           ";"Upward ENABLED";"Indicator light";Allows rising direction movement
-"4           ";"Recovery Off/On";"Selector";Switch on/off  MS recovery mode
+"4           ";"Recovery OFF/ON";"Selector";Switch on/off  MS recovery mode
 "5           ";"Recovery Mode Down/Up";"Selector";MS recovery mechanysm control
 "6           ";"Enable override";"Selector ";"Forced hoist ENABLE "
 "7           ";"Low Oil Level";"Indicator light";Indicator for low oil level in MS Unit

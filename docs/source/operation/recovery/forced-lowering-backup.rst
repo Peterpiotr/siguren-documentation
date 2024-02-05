@@ -16,7 +16,7 @@ This procedure has to be done in case of the main kinematic chain is not availab
 
 .. warning::
   This procedure has to be done as a last resort. 
-  The other back-up procedures have to be prioritised because, in the forced lowering, the worm and the wheel are worn quickly.
+  The other Backup procedures have to be prioritised because, in the forced lowering, the worm and the wheel are worn quickly.
 
 Tools that are needed for this type of recovery load are as follows:
 

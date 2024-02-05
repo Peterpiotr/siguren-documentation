@@ -130,6 +130,6 @@ Glossary
       Capability given to the MotoSuiveur® when equiped with a recovery motor to perform hoisting up and down operations at low speed. 
       It is used when the main hoisting chain is faulty.
 
-   Backup mode
+   Backup Mode
       Feature that allows the load to be lowered down, by using minimal capabilities. The MotoSuiveur® limits the free fall to programed level. 
       It is used as an extreme solution.

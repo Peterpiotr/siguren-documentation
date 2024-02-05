@@ -8,7 +8,7 @@
 ;"DI";Down;Command for moving hoist direction DOWN
 ;"DI";Reset;Reset MotoSuiveur® System***
 ;"CV";+24VDC;MS Control voltage**
-;"DI";Backup mode;Start MS Backup mode****
+;"DI";Backup Mode;Start MS Backup Mode****
 ;"CV";+24VDC;MS Control voltage**
 ;"DI";Recovery mode;Start MS Recovery mode****
 ;"DI";Recovery Up;Command for lifting with Recovery
@@ -20,7 +20,7 @@
 ;"DO";Upward Enabled;Upward (lifting) hoist movement is allowed
 ;"DO";Downward Enabled;Downward (lowering) hoist movement is allowed
 ;"DO";Fault Buzzer/Warning Beaco;Output for buzzer   or beacon
-;"DO";Backup Mode;Backup mode is activated
+;"DO";Backup Mode;Backup Mode is activated
 ;"DO";Oil Warning;MS low oil level warning
 ;"DO";Low Temperature Warning;Warning for low ambient temperature
 "T5";"AI";Temp;Temperature sensor

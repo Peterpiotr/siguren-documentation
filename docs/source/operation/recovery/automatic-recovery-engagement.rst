@@ -76,7 +76,7 @@ Steps
 	2. Switch :guilabel:`🔑 Backup/Recovery Mode Off | On` to position **ON**.
 	
 	The :guilabel:`🟠 Backup/Recovery Mode` indicator light illuminate.
-	MS Controller 7-segment display indicates **Backup mode** - |7s-058|.
+	MS Controller 7-segment display indicates **Backup Mode** - |7s-058|.
 
 	.. figure:: /_img/recovery/backup-recovery-on.PNG
 		:figwidth: 100 %

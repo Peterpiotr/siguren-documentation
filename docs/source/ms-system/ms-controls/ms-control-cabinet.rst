@@ -1,8 +1,8 @@
 =============================
-MotoSuiveur® Control Cabinet
+MS Control Cabinet
 =============================
 
-MotoSuiveur® Control Cabinet (MSCC) is built according to the configuration of the MS control diagram. 
+MS Control Cabinet (MSCC) is built according to the configuration of the MS control diagram. 
 
 Description
 =============
@@ -12,16 +12,22 @@ Description
    :align: center
 
    MS Control Cabinet (example)  
-    
-Elements
-    ① MS HMI Touchscreen (Human-Machine Interface)
-            Shows actual MotoSuiveur® System status and information.
-    ② Controls and indicator lights
-            Change MotoSuiveur® operating mode. Actual status of MotoSuiveur® System.
-    ③ Nameplate
-            The nameplate of the MS Control Cabinet indicates model, serial number, date of production, voltage / power requirements.
-    ④ Cable glands
-            Control panel cables I/O.
+
+.. grid:: 2
+
+    .. grid-item::
+
+        ① MS HMI Touchscreen (Human-Machine Interface)
+                Shows actual MotoSuiveur® System status and information.
+        ② Controls and indicator lights
+                Change MotoSuiveur® operating mode. Actual status of MotoSuiveur® System.
+
+    .. grid-item::
+
+        ③ Nameplate
+                The nameplate of the MS Control Cabinet indicates model, serial number, date of production, voltage / power requirements.
+        ④ Cable glands
+                Control panel cables I/O.
 
 
 ..
@@ -36,10 +42,16 @@ Elements
 Nameplate
 ----------
 
-MS Control Cabinet have nameplate located on front side of the door indicating input power (voltage, frequency, current), serial number, date.
+MS Control Cabinet have nameplate located on front side of the door indicating: 
 
-The nameplate of the MS Control Cabinet indicates model, serial number, date of production, voltage / power requirements.
-Exemplary general appearance of MS Control Cabinet nameplate shown on figure below.
+- Input power (voltage, frequency, current).
+- Serial number.
+- Date of production.
+
+.. use numbers with a larger example of nameplate
+
+.. the Serial Number can be used for support purposes
+
 
 .. figure:: /_img/control-cabinet/control-cabinet-nameplate.png
 	:figwidth: 100 %

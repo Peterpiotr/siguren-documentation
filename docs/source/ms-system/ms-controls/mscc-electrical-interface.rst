@@ -86,8 +86,8 @@ The set of inputs and outputs is defined in advance for each project based on pr
       - MS Control voltage**
     * - 
       - DI
-      - Backup mode
-      - Start MS Backup mode****
+      - Backup Mode
+      - Start MS Backup Mode****
     * - 
       - CV
       - +24VDC
@@ -135,7 +135,7 @@ The set of inputs and outputs is defined in advance for each project based on pr
     * - 
       - DO
       - Backup Mode
-      - Backup mode is activated
+      - Backup Mode is activated
     * - 
       - DO
       - Oil Warning

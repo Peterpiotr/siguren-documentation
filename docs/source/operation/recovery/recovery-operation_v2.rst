@@ -19,7 +19,7 @@ This alternative hoisting method is activated via physical switches located in t
 	The causes of the fault should be clearly identified prior to any recovery operations.
 
 
-Enabling Back-up Lowering
+Enabling Backup Lowering
 -------------------------
   **1. Activate Recovery mode.** Activate Recovery mode by following the steps in :doc:`Automatic recovery engagement procedure </operation/recovery/automatic-recovery-engagement>`
 
@@ -38,7 +38,7 @@ Enabling Back-up Lowering
 
 	Turning switch to position Down
 
-Back-up Lowering
+Backup Lowering
 -----------------
 
   5. Continue lowering until the load has reached a safe location and can be detached from the hoist.

@@ -2,7 +2,7 @@
 "1";:guilabel:`🟢 Hoist ENABLED lamp`;Indicator light;MS authorizes hoist movements
 "2";:guilabel:`🔴 Fault lamp`;Indicator light;MS is in fault
 "3";:guilabel:`🟢 Upward ENABLED lamp`;Indicator light;MS authorizes hoist for Upward movement
-"4";:guilabel:`🔑 Backup/Recovery off/on key`;Key;Off - normal movement / ON - Backup mode / ON + Reset - Recovery mode
+"4";:guilabel:`🔑 Backup/Recovery off/on key`;Key;Off - normal movement / ON - Backup Mode / ON + Reset - Recovery mode
 "5";:guilabel:`Backup/Recovery down/up key`;Turn key;Up/Down command for Recovery mode
 "6";:guilabel:`🔑 Enable override key`;Key;Allow hoist movement when (1) is off
 "7";:guilabel:`Reset button`;Button;MS reset

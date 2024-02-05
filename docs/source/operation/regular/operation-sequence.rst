@@ -28,7 +28,7 @@ Operation sequence of the MotoSuiveur® System
     7. Check for successfully passed Self-Test.
     8. MotoSuiveur® System enter in Following Mode.
     9. During Following Mode MotoSuiveur® System checks for hoist overspeed or faults.
-    10. If Backup mode is activated, MotoSuiveur® System enter in Backup mode.
+    10. If Backup Mode is activated, MotoSuiveur® System enter in Backup Mode.
     11. If Reset is performed by pressing Reset button, control voltage of MotoSuiveur® System is OFF. 
         
         After Reset button is released operation sequence start from 1.

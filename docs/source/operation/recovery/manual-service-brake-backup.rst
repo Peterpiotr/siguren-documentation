@@ -1,5 +1,5 @@
 ===========================================================
-Backup mode by manual action of the service brake procedure
+Backup Mode by manual action of the service brake procedure
 ===========================================================
 
 
@@ -48,8 +48,8 @@ Instructions
 Backup Mode gravity lowering
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Backup mode gravity lowering is methos for semi-automated lowering. Manual opening of hoist motorbrake and automatically following of MotoSuiveur® System.
-Backup mode allows following with limited speed and no fault detection.
+Backup Mode gravity lowering is methos for semi-automated lowering. Manual opening of hoist motorbrake and automatically following of MotoSuiveur® System.
+Backup Mode allows following with limited speed and no fault detection.
 
 Instructions
 	1. Switch on the MotoSuiveur® System to :doc:`Backup Mode <backup-procedure>`.
@@ -59,7 +59,7 @@ Instructions
 		
 		Switch on Backup Mode
 
-	1. Order lowering by switch :guilabel:`Backup mode Down/Up` to position **Down**. 
+	1. Order lowering by switch :guilabel:`Backup Mode Down/Up` to position **Down**. 
 
 	.. figure:: /_img/backup/backup-down-up-control.png
 		:figwidth: 100 %
@@ -159,7 +159,7 @@ Instructions
    	
    	Switch on Backup Mode
 
-   2. Order lowering by switch and hold :guilabel:`Backup mode Down/Up` to position **Down**. 
+   2. Order lowering by switch and hold :guilabel:`Backup Mode Down/Up` to position **Down**. 
 
    .. figure:: /_img/backup/backup-down-up-control.png
    	:figwidth: 100 %
@@ -180,7 +180,7 @@ Instructions
 
    	Safely positioned load
 
-   5. Stop lowering by switch and hold :guilabel:`Backup mode Down/Up` to **neutral** position.
+   5. Stop lowering by switch and hold :guilabel:`Backup Mode Down/Up` to **neutral** position.
 
    .. figure:: /_img/backup/backup-down-up-control-off.png
    	:figwidth: 100 %
@@ -191,6 +191,6 @@ Instructions
    
    ..
 
-   7. Deactivate Backup mode via *Deactivating of Backup Mode* in :doc:`Backup Mode <backup-procedure>`
+   7. Deactivate Backup Mode via *Deactivating of Backup Mode* in :doc:`Backup Mode <backup-procedure>`
 
 
