@@ -8,7 +8,6 @@ Suspended Load Recovery
     recovery-operation
     recovery-overview
     recovery-operation_v2
-    backup-procedure
     backup-recovery-mode
     manual-service-brake-backup
     manual-service-brake-motosuiveur-backup
@@ -16,4 +15,3 @@ Suspended Load Recovery
     electrical-automatic-backup 
     automatic-recovery-engagement
     recovery-gravity-lowering
-    backup-mode-procedures

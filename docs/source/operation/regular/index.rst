@@ -8,6 +8,7 @@ Regular Lifting Operation
     operation-sequence
     start-up
     following-mode
+    activating-deactivating-backup-mode
     controller-internal-check
     self-test
     system-reset
