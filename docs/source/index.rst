@@ -241,16 +241,17 @@ Do not hesitate to contact directly the `SIGUREN technologies Support Team <mail
     /archives/index
 
 
-.. toctree::
-    :maxdepth: 4
+.. 
+    .. toctree::
+        :maxdepth: 4
 
-    /getting-started/index
-    /installation/index
-    /ms-system/ms-unit/index
-    /ms-system/ms-controls/index
-    /ms-system/ms-addons/index
-    /operation/regular/index
-    /operation/load-arrest/index
-    /operation/recovery/index
-    /maintenance/index
-    /advanced/index
+        /getting-started/index
+        /installation/index
+        /ms-system/ms-unit/index
+        /ms-system/ms-controls/index
+        /ms-system/ms-addons/index
+        /operation/regular/index
+        /operation/load-arrest/index
+        /operation/recovery/index
+        /maintenance/index
+        /advanced/index
