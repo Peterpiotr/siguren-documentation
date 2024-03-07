@@ -32,8 +32,8 @@ The causes leading to a load arrest by the MotoSuiveur® System can be:
 
 ..    In case of load arrest action is required. Operator (authorized personnel) should identify reason for load arrest. Possible the presence of an Fault.
 
-Root Cause Analysis 
-=====================
+Load Arrest Cause Analysis 
+============================
 
 .. how can the user use MS Controller display or HMI or just logic to find out why arrest occured
 .. maybe deduce it from the timing of the arrest, the speed, acceleration, direction, 

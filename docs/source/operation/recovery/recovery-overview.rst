@@ -6,8 +6,6 @@ Recovery Overview
 
 .. include:: /_img/_image-substitutions.rst
 
-.. role:: mechpart
-   :class: mechpart
 
 The MS Unit will never allow a load drop. It will arrest the hoist drum whenever the hoist brake is unable to do so. 
 However, the MS Unit can be used as a gearbox to lower and even raise the load. 
@@ -24,7 +22,7 @@ and the MS Unit can be accessed and used in the emergency situation that require
 - MS assisted gravity lowering
 
 Forced MotoSuiveur® Recovery
-----------------------------
+==============================
 
 With the hoist brake open and the MS Unit holding the load, rotate the MS worm shaft with considerable torque. 
 In this situation the MS Unit moves the load.

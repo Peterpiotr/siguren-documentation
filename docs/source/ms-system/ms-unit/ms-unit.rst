@@ -4,8 +4,7 @@ MS Unit Overview
 
 .. include:: /_img/_image-substitutions.rst
 
-.. role:: mechpart
-   :class: mechpart
+
 
 Introduction
 =============

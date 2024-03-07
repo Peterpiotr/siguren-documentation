@@ -5,8 +5,7 @@ Backup Mode by manual action of the service brake procedure
 
 .. include:: /_img/_image-substitutions.rst
 
-.. role:: mechpart
-   :class: mechpart
+
 
 MotoSuiveur® Followed Gravity Lowering
 =======================================

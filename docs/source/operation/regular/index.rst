@@ -21,6 +21,9 @@ Regular Lifting Operation
     
     List of expected How-Tos, The titles are not defintive:
 
+    * Operating in Following Mode
+    * Operating in Backup Mode
+    * 
     * Unlock hoist motion on installed MS by disassembling worm
     * Assemble Worm on installed MS
     * Run MS Self-test and read results

@@ -1,7 +1,6 @@
-====================================
-Activating/Deactivating Backup Mode
-====================================
-
+==========================
+Operating in Backup Mode
+==========================
 
 ..
     =================
@@ -28,26 +27,46 @@ It is the purpose of the Backup Mode which are described in procedures 2.1 to 2.
 These situations can be very diverse, but can be distinguished depending on the availability of electrical means, 
 and the following solutions are summarized in the table below:
 
-+-----------------------------------------------+------------------------------------------------+----------------------------------------------------+----------------------+---------------------------------------------------------------------------------------+
-|                                               | Running of the motor/ brake                    | Running of the MotoSuiveur®                        | Number of operators  | Procedure to perform                                                                  |
-+===============================================+================================================+====================================================+======================+=======================================================================================+
-| Main motor and/ or brake failure              | Backup by manual action of the service brake   | Automatic tracking of the MS                       | 2                    | Backup by manual action of the service brake                                          |
-+-----------------------------------------------+------------------------------------------------+----------------------------------------------------+----------------------+---------------------------------------------------------------------------------------+
-| MS Motor failure                              | Electrical lowering / lifting                  | Manual tracking of the MS (Manual command handle)  | 3                    | Backup by manual action of the service brake and manual rotation of the MotoSuiveur®  |
-+-----------------------------------------------+------------------------------------------------+----------------------------------------------------+----------------------+---------------------------------------------------------------------------------------+
-| MS Motor and main motor failure               | Backup by manual action of the service brake   | Manual tracking of the MS (Manual command handle)  | 3                    | Backup by manual action of the service brake and manual rotation of the MotoSuiveur®  |
-+-----------------------------------------------+------------------------------------------------+----------------------------------------------------+----------------------+---------------------------------------------------------------------------------------+
-| Maladjustment or  or control-command problem  | Electrical lowering / lifting                  | Automatic tracking of the MS                       | 1                    | Electrical/ automatic Backup                                                          |
-+-----------------------------------------------+------------------------------------------------+----------------------------------------------------+----------------------+---------------------------------------------------------------------------------------+
-| Main kinematic chain unavailable (breakage)   | N/A                                            | Lowering/ lifting forced on MS                     | 1                    | Backup by forced lowering                                                             |
-+-----------------------------------------------+------------------------------------------------+----------------------------------------------------+----------------------+---------------------------------------------------------------------------------------+
 
-.. turn table into list-table
+.. list-table::
+
+    * - 
+      - **Running of the motor/ brake**
+      - **Running of the MotoSuiveur® System**
+      - **Number of operators**
+      - **Procedure to perform**
+    * - **Main motor and/ or brake failure**
+      - Backup by manual action of the service brake
+      - Automatic tracking of the MS
+      - 2
+      - Backup by manual action of the service brake
+    * - **MS Motor failure**
+      - Electrical lowering / lifting
+      - Manual tracking of the MS (Manual command handle)
+      - 3
+      - Backup by manual action of the service brake and manual rotation of the MotoSuiveur®
+    * - **MS Motor and main motor failure** 
+      - Backup by manual action of the service brake 
+      - Manual tracking of the MS (Manual command handle)
+      - 3
+      - Backup by manual action of the service brake and manual rotation of the MotoSuiveur®
+    * - **Maladjustment or control-command problem**
+      - Electrical lowering / lifting
+      - Automatic tracking of the MS
+      - 1
+      - Electrical/ automatic Backup
+    * - **Main kinematic chain unavailable (breakage)**
+      - N/A
+      - Lowering/ lifting forced on MS
+      - 1
+      - Backup by forced lowering
 
 
-This function is used when an incident occurs and the MotoSuiveur® stops the load. 
+This function is used when an incident occurs and the MotoSuiveur® stops the load.
+
 The Backup could be done whatever the case, safely, by acting simultaneously on the two kinematic chains, by available means.
-The procedures n° 2.1 to 2.4 helps the operator on the actions to be done.
+
+The procedures n° 2.1 to 2.4 help the operator on the actions to be done.
 
 .. note::
     If the MS is operational, it allows the movement of the main motor only at low speed.
@@ -100,17 +119,19 @@ Steps
 
   2. The Backup Mode ENABLE indicator goes ON.
 
-    .. figure:: /_img/backup/backup-light-on.png
-        :figwidth: 100 %
-        :class: instructionimg
+        .. figure:: /_img/backup/backup-light-on.png
+            :figwidth: 100 %
+            :class: instructionimg
 
-        Backup Mode light indicator goes ON
+            Backup Mode light indicator goes ON
   	
-    - A symbol |7s-058| for activated Backup Mode is displayed on the 7-segment indicator of the MS Controller.
+     - A symbol |7s-058| for activated Backup Mode is displayed on the 7-segment indicator of the MS Controller.
 
   3. MotoSuiveur® System is in Backup Mode.
   4. Starting movements by hoist control.
-   
+
+
+.. there should be a "Operating in Backup Mode" section
 
 Deactivating Backup Mode
 ===========================
@@ -126,7 +147,7 @@ Steps
 
             Switching off Backup Mode
 
-      - The Backup Mode indicator light goes OFF. 
+      - The Backup Mode indicator light goes OFF.
        
        .. this light is called "Backup Mode ENABLE indicator" above
 
@@ -139,8 +160,6 @@ Steps
       - On the 7-segment display of MS Controller, the symbol |7s-058| remain active meaning that **Backup Mode operation is still activated**.
 
         .. that can be confusing for the user. 
-
-
 
    2. Apply a Reset to the MotoSuiveur® System.  
       

@@ -2,6 +2,8 @@
 Recover suspended load with MS-Backed Gravity Lowering
 ========================================================
 
+.. redundant? check if content is included elsewhere (it should be)
+
 The MS will never allow a load drop. It will arrest the hoist drum
 whenever the hoist brake is unable to do so. However, the MS can be used
 as a gearbox to lower and even raise the load. Notе that the MS is

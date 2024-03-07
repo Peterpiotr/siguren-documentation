@@ -1,6 +1,6 @@
-============================
-Following Mode (Normal Mode)
-============================
+==========================================
+Operating in Following Mode (Normal Mode)
+==========================================
 
 ..
     .. tags:: following, overspeed

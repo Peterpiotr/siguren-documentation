@@ -2,7 +2,7 @@
 
 @import url('https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap');
 
-body, h1, h2, h3, h4, h5, h6 {
+body, h1, h2, h3, h4, h5, h6, .caption-text {
     font-family: 'Roboto', sans-serif;
 }
 
@@ -14,7 +14,16 @@ h1 {
     padding-left: 0.4rem;
 }
 
+h2 {
+    text-decoration: underline;
+}
 
+h1, h2, h3 {
+    margin-top: 2em !important;
+    /*
+    border-bottom: 2px solid #2439bb !important;
+    */
+}
 
 /*
 .wy-nav-side {
@@ -34,7 +43,7 @@ a:not(li.toctree-l1 > a, li.toctree-l2 > a, li.toctree-l3 > a):hover {
     background-color: #2439bb;
 }
 
-.caption-text {
+nav .caption-text {
     color: white; 
 }
 
@@ -76,12 +85,7 @@ a:not(li.toctree-l1 > a, li.toctree-l2 > a, li.toctree-l3 > a):hover {
     border-collapse: collapse;
 }​
 
-h1, h2, h3 {
-    margin-top: 2em !important;
-    /*
-    border-bottom: 2px solid #2439bb !important;
-    */
-}
+
 
 /*
 img {
