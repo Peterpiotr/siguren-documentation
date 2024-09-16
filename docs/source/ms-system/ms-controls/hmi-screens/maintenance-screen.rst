@@ -1,5 +1,6 @@
+===================
 Maintenance Screen
--------------------
+===================
 
 Screen Maintenance displays maintenance information of MotoSuiveur® System. 
 

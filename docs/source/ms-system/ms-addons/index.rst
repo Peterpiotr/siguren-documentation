@@ -3,7 +3,8 @@ MS Add-Ons
 ===========
 
 .. toctree::
-   :maxdepth: 2
+    :maxdepth: 2
 
-   tl-addon
-   rec-addons
+    tl-addon
+    rec-addons
+

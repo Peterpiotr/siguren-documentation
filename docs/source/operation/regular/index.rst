@@ -13,12 +13,12 @@ Regular Lifting Operation
     self-test
     system-reset
     overloads
-    
+
 
 
 .. admonition:: Proposed Procedures
     :class: note
-    
+
     List of expected How-Tos, The titles are not defintive:
 
     * Operating in Following Mode

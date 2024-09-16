@@ -11,7 +11,7 @@ MS HMI Touchscreen
     menu-screen
     language-screen
     version-screen
-    Self-Test-screen
+    self-test-screen
     maintenance-screen
     variables-screen
     event-record-screen

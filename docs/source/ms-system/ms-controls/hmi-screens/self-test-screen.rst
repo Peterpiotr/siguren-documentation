@@ -1,5 +1,6 @@
+==================
 Self-Test Screen
------------------
+==================
 
 Screen Self-Test displays values from last MotoSuiveur® System Self-Test. 
 
