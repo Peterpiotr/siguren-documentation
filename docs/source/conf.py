@@ -10,7 +10,7 @@ copyright = f'{year}, SIGUREN technologies technologies Ltd.'
 author = 'SIGUREN technologies technologies Ltd.'
 
 master_doc = 'index'
-version = '0.1.2_peter'               # gets overwritten by readthedocs when published online?
+version = '0.1.3'               # gets overwritten by readthedocs when published online?
 release = version 
 
 
@@ -29,6 +29,7 @@ extensions = [
     'sphinx_tags',                  # Adds support for conditional tags in documentation (enables content to be included/excluded based on tags).
     'sphinx_design',                # Provides additional design elements and layout options for Sphinx documentation.
     # 'sphinx_sitemap',             # Generates a sitemap.xml file for the documentation for SEO purposes.
+    'sphinxcontrib.mermaid',
 ]
 
 
