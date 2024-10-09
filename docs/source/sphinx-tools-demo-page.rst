@@ -276,6 +276,57 @@ The following standard selection operations are supported:
 - :kbd:`Ctrl-NumpadPlus` -- Extend Selection
 - :kbd:`Ctrl-NumpadMinus` -- Shrink Selection
 
+.. mermaid::
+
+    flowchart TD
+        subgraph MainPath["Main Path"]
+            PowerOn[Power On] --> ControllerCheck[Controller Check]
+            ControllerCheck --> RecoveryCheck{Recovery Check}
+            RecoveryCheck --> SelfTest[Self-Test]
+            SelfTest --> FaultCheck1{Fault Check 1}
+            FaultCheck1 --> Following[Following]
+            Following --> FaultCheck2{Fault Check 2}
+            FaultCheck2 --> Overspeed{Overspeed Check}
+            Overspeed --> BackupCheck{Backup Check}
+        end
+
+        subgraph Cycles["System Cycles"]
+            BackupCheck --> Reset4[Reset 4]
+            Reset4 --> Following
+            FaultCheck1 & FaultCheck2 & Overspeed --> Fault[Fault]
+            Fault --> Reset2[Reset 2]
+            Reset2 --> Fault
+            RecoveryCheck --> RecoveryMode[Recovery Mode]
+            RecoveryMode --> Reset1[Reset 1]
+            Reset1 --> RecoveryMode
+            BackupCheck --> BackupMode[Backup Mode]
+            BackupMode --> Reset3[Reset 3]
+            Reset3 --> BackupMode
+        end
+
+        PowerOff[Power Off]
+        Reset1 & Reset2 & Reset3 & Reset4 --> PowerOff
+        PowerOff --> PowerOn
+        
+        %% Styling
+        style PowerOn fill:#1f78b4,stroke:#000000,stroke-width:2px,color:white
+        style PowerOff fill:#1f78b4,stroke:#000000,stroke-width:2px,color:white
+        style ControllerCheck fill:#1f78b4,stroke:#000000,stroke-width:2px,color:white
+        style RecoveryCheck fill:#ff7f00,stroke:#000000,stroke-width:2px,color:white
+        style RecoveryMode fill:#ff7f00,stroke:#000000,stroke-width:2px,color:white
+        style Reset1 fill:#1f78b4,stroke:#000000,stroke-width:2px,color:white
+        style SelfTest fill:#1f78b4,stroke:#000000,stroke-width:2px,color:white
+        style FaultCheck1 fill:#ff0000,stroke:#000000,stroke-width:2px,color:white
+        style Fault fill:#ff0000,stroke:#000000,stroke-width:2px,color:white
+        style Following fill:#33a02c,stroke:#000000,stroke-width:2px,color:white
+        style FaultCheck2 fill:#ff0000,stroke:#000000,stroke-width:2px,color:white
+        style Overspeed fill:#1f78b4,stroke:#000000,stroke-width:2px,color:white
+        style BackupCheck fill:#ff7f00,stroke:#000000,stroke-width:2px,color:white
+        style BackupMode fill:#ff7f00,stroke:#000000,stroke-width:2px,color:white
+        style Reset2 fill:#1f78b4,stroke:#000000,stroke-width:2px,color:white
+        style Reset3 fill:#1f78b4,stroke:#000000,stroke-width:2px,color:white
+        style Reset4 fill:#1f78b4,stroke:#000000,stroke-width:2px,color:white
+
 .. figure:: _img/regular-operation/MS-block-diagram-color_1.PNG
 
    Vertex Selection masking.
