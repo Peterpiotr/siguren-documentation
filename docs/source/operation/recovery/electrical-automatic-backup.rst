@@ -2,7 +2,7 @@
 Electrical/automatic Backup procedure
 =========================================
 
-.. include:: /img/substitutions.rst
+.. include:: /_img/_image-substitutions.rst
 
 .. =====================================================================================================================
 

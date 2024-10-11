@@ -65,7 +65,7 @@ Instructions
 		
 		Order lowering
 
-	1. Progressively release the motor brake using the provided :mechpart:`Brake Release Tool`, until the load starts to rotate the barrel.
+	1. Progressively release the motor brake using the provided Brake Release Tool, until the load starts to rotate the barrel.
 
 	.. figure:: /_img/backup/manual-open-hoist-brake.png
 		:figwidth: 100 %

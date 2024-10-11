@@ -5,6 +5,151 @@ Sphinx Tools Demo Page (Dev)
 References
 ===========
 
+test
+
+A coloured icon: :octicon:`report;1em;sd-text-info`, some more text.
+
+.. admonition:: Step 1
+   :class: note
+
+   Description of step 1
+
+.. admonition:: Step 2
+   :class: note
+
+   Description of step 2
+
+.. grid:: 1 2 3 4
+
+   .. grid-item-card:: Step 1
+      :columns: 12 6 4 3
+
+      Description of step 1
+
+   .. grid-item-card:: Step 2
+      :columns: 12 6 4 3
+
+      Description of step 2
+
+   .. grid-item-card:: Step 3
+      :columns: 12 6 4 3
+
+      Description of step 3
+
+
+.. dropdown::
+
+    Dropdown content
+
+.. dropdown:: Dropdown title
+
+    Dropdown content
+
+.. dropdown:: Open dropdown
+    :open:
+
+    Dropdown content
+
+I'm an :icon:`fa-solid fa-folder` icon.
+
+I'm an :icon:`fa-regular fa-user` icon.
+I'm an :icon:`fa-brands fa-500px` icon.
+
+
+.. uml:: 
+
+    @startuml
+    start
+    :Select Recovery Mode, then press Reset;
+    if (Recovery Engaged?) then (yes)
+    :Open Hoist Brake;
+    :Use Recovery Drive to lower/raise Load;
+    if (Load Landed?) then (yes)
+        :Continue Lowering;
+        :Detach Load;
+    else (no)
+        :Set Hoist Brake;
+    endif
+    else (no)
+    :Open Hoist Brake;
+    :Load slips, Recovery Engages;
+    :Use Recovery Drive to lower/raise Load;
+    endif
+    :Raise to Disengage Recovery;
+    :Select Normal Mode and press Reset;
+    stop
+    @enduml
+
+
+.. uml::
+
+    @startuml
+    @startmindmap
+    + UML diagrams
+    ++ Behaviour diagrams
+    +++ Activity diagrams
+    +++ Use case diagrams
+    +++ State machine diagrams
+    +++ Interaction diagrams
+    ++++_ Sequence diagrams
+    ++++_ Communication diagrams
+    ++++_ Interaction overview diagrams
+    ++++_ Timing diagrams
+    -- Structure diagrams
+    --- Class diagrams
+    --- Package diagrams
+    --- Object diagrams
+    --- Composite structure diagrams
+    ---- Vamos
+    ---- Lacade
+    --- Component diagrams
+    --- Profile diagrams
+    --- Deployment diagrams
+    ---- Peter
+    @endmindmap
+    @enduml
+
+.. uml::
+    :caption: Test uml
+
+    @startuml
+    start
+    :Power On;
+    :MS Controller Internal Check;
+    if (Recovery?) then (yes)
+    :Recovery mode;
+    :Reset;
+    else (no)
+    :MS System Self-Test;
+    if (Fault?) then (yes)
+        :Fault;
+        :Reset;
+    else (no)
+        :Following;
+        if (Fault?) then (yes)
+        :Fault;
+        :Reset;
+        else (no)
+        if (Overspeed?) then (yes)
+            :Fault;
+            :Reset;
+        else (no)
+            if (Backup?) then (yes)
+            :Backup mode;
+            :Reset;
+            else (no)
+            :Reset;
+            :Following;
+            endif
+        endif
+        endif
+    endif
+    endif
+    :Power Off;
+    stop
+    @enduml
+
+
 .. mermaid::
 
    sequenceDiagram
@@ -107,7 +252,7 @@ figure
    * - **2**
      - 
 
-The :mechpart:`worm wheel` is single-helix.
+The worm wheel is single-helix.
 
 I have footnoted a first item [#f1]_ and second item [#f2]_.
 This also references the second item [#f2]_.
@@ -275,6 +420,8 @@ The following standard selection operations are supported:
 - :kbd:`Ctrl-L` -- Select linked.
 - :kbd:`Ctrl-NumpadPlus` -- Extend Selection
 - :kbd:`Ctrl-NumpadMinus` -- Shrink Selection
+
+
 
 .. mermaid::
 

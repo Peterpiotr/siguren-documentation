@@ -19,20 +19,35 @@ release = version
 #site_url = 'https://siguren-documentation.readthedocs.io/' 
 
 extensions = [
+    'sphinxcontrib.plantuml',
     #'sphinx.ext.duration',          # Measures the duration of the Sphinx build process.
     #'sphinx.ext.doctest',           # Tests snippets in the documentation by running them as Python doctests.
     #'sphinx.ext.autodoc',           # Automatically generates documentation from docstrings in your Python source code files.
     #'sphinx.ext.autosummary',       # Generates summary tables for modules/classes/methods/etc. in your documentation.
     #'sphinx.ext.intersphinx',       # Links to the documentation of other projects, useful for cross-referencing external Sphinx documentation.
-    #'sphinx.ext.autosectionlabel',  # Automatically creates labels for each section header.
+    'sphinx.ext.autosectionlabel',  # Automatically creates labels for each section header.
     'hoverxref.extension',          # Adds tooltip previews for cross-references in the documentation.
     'sphinx_tags',                  # Adds support for conditional tags in documentation (enables content to be included/excluded based on tags).
     'sphinx_design',                # Provides additional design elements and layout options for Sphinx documentation.
     # 'sphinx_sitemap',             # Generates a sitemap.xml file for the documentation for SEO purposes.
     'sphinxcontrib.mermaid',
+    #'sphinxcontrib.images',
+    #'sphinxcontrib.exceltable',
+    #'sphinxcontrib.icon',
+    'sphinx_panels',
+    'sphinx_simplepdf',
 ]
 
+simplepdf_vars = {
+    'primary-color': 'blue',
+    'cover-subtitle': 'MS Docs',
+    # ... other settings ...
+}
 
+simplepdf_debug = True
+
+# Configure the path to the PlantUML jar file
+plantuml = "java -jar /Users/peterpachov/Tools/plantuml-mit-1.2024.7.jar"
 
 tags_create_tags = True
 
@@ -45,22 +60,23 @@ hoverxref_roles = ['term']
 #numfig = True
 
 # -- Options for HTML output
-
-html_theme = 'sphinx_rtd_theme'
+extensions.append("sphinx_wagtail_theme")
+html_theme = 'sphinx_wagtail_theme'
+#html_theme = 'sphinx_rtd_theme'
 
 html_theme_options = {
     #'analytics_id': 'G-XXXXXXXXXX',  #  Provided by Google in your dashboard
     #'analytics_anonymize_ip': False,
-    'logo_only': True,
-    'display_version': True,
-    'prev_next_buttons_location': 'bottom',
-    'navigation_depth': 3,
-    'style_external_links': False,
-    'vcs_pageview_mode': '',
-    'style_nav_header_background': '#2439bb',
+    #'logo_only': True,
+    #'display_version': True,
+    #'prev_next_buttons_location': 'bottom',
+    #'navigation_depth': 3,
+    #'style_external_links': False,
+    #'vcs_pageview_mode': '',
+    #'style_nav_header_background': '#2439bb',
     # Toc options
     #'collapse_navigation': False,
-    'sticky_navigation': True,
+    #'sticky_navigation': True,
     #'navigation_depth': 4,
     #'includehidden': False,
     #'titles_only': False
@@ -77,11 +93,11 @@ html_logo = '_img/MS_by_sig_logo.png'
 
 html_favicon = '_img/favicon.ico'
 
-html_sidebars = {
-    "**": ["logo-text.html", "globaltoc.html", "localtoc.html", "searchbox.html"]
-}
+#html_sidebars = {
+#    "**": ["globaltoc.html", "localtoc.html", "searchbox.html"]
+#}
 
-html_use_index = True
+#html_use_index = True
 
 # These folders are copied to the documentation's HTML output
 html_static_path = ['_static']
@@ -95,9 +111,6 @@ html_css_files = [
 
 # latex_engine = "xelatex"
 
-latex_elements = {
-    'figure_align':'H',
-}
 
 hoverxref_auto_ref = True
 

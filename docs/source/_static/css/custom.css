@@ -1,5 +1,4 @@
 /* Siguren branding START */
-
 @import url('https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap');
 
 body, h1, h2, h3, h4, h5, h6, .caption-text {
@@ -7,248 +6,102 @@ body, h1, h2, h3, h4, h5, h6, .caption-text {
 }
 
 h1 {
-    color: white; /* Sets the font color to white */
-    background-color: #2439bb; /* Sets the background color to blue */
-    padding-top: 0.2rem;
-    padding-bottom: 0.2rem;
-    padding-left: 0.4rem;
+    color: white;
+    background-color: #2439bb;
+    padding: 0.2rem 0.4rem;
 }
 
 h2 {
     text-decoration: underline;
 }
 
-h1, h2, h3 {
-    margin-top: 2em !important;
-    /*
-    border-bottom: 2px solid #2439bb !important;
-    */
+/* Style for the procedure steps container */
+.procedure-steps {
+    background-color: #f8f9fa;
+    padding: 25px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    counter-reset: procedure-steps;
 }
 
-/*
-.wy-nav-side {
-    background-color: #2439bb; 
-}
-*/
-
-a {
-    color: #2439bb; /* Sets the background color to blue */
-}
-
-a:not(li.toctree-l1 > a, li.toctree-l2 > a, li.toctree-l3 > a):hover {
-    color: #5770ff; /* Sets the background color to blue  on hover except for links in the side panel*/
+/* Style for the procedure steps */
+.procedure-steps > section {
+    background-color: #ffffff;
+    border: 1px solid #e9ecef;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    padding: 25px;
+    position: relative;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+    transition: box-shadow 0.3s ease-in-out;
 }
 
-.reference.internal:focus {
-    background-color: #2439bb;
+.procedure-steps > section:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
-nav .caption-text {
-    color: white; 
+/* Numbering for main steps */
+.procedure-steps > section::before {
+    content: "Step " counter(procedure-steps);
+    counter-increment: procedure-steps;
+    font-weight: 600;
+    font-size: 1.1em;
+    color: #495057;
+    margin-bottom: 15px;
+    display: block;
+    border-bottom: 2px solid #e9ecef;
+    padding-bottom: 10px;
 }
 
-.admonition.note .admonition-title {
-    background-color: #5770ff; 
-}
-
-.admonition.note {
-    background-color: #ccd3fc; 
-}
-
-
-.card-container {
-    border-radius: 0 !important;
-}
-
-.card-img-top {
-    border-radius: 0 !important;
-}
-
-.card-container:hover {
-    border: solid 1px #2439bb;
-}
-
-.card-title {
-    font-size: 20px;
-    color: #2436bb;
-}
-
-/* Siguren branding END */
-
-.tight-table td {
-    white-space:normal !important;
-}
-
-.tight-table tr {
-    border-bottom: 1px solid red;
-    border-top: 1px solid green;
-    border-collapse: collapse;
-}​
-
-
-
-/*
-img {
-    text-align:right;
-}
-*/
-
-
-
-
-
-img.instructionimg {
-    padding: 0.5rem;
-    border: 1px solid rgb(229, 229, 229);
-}
-
-:root {
-    --mainNavColor: #2439bb !important;
-}
-
-.guilabel {
-    border:1px solid #7fbbe3;
-    background:#e7f2fa;
-    font-size:80%;
-    font-weight:700;
-    border-radius:4px;
-    padding:2.4px 6px;
-    margin:auto 2px;
-}
-
-
-.mechpart {
-    border:1px solid #494949;
-    background:#c5c5c5;
-    font-size:80%;
-    font-weight:700;
-    border-radius:0px;
-    padding:2.4px 6px;
-    margin:auto 2px;
-}
-
-.wy-table-responsive table td, 
-.wy-table-responsive table th {
-    white-space: normal;
-}
-
-.wy-table-responsive {
-    overflow: hidden;
-    overflow-x: auto;
-}
-
-table.docutils {
-    width: 100%;
-    max-width: 100%;
-    display: table;
-}
-
-
-/* Start custom lists here*/
-
-ol > li::marker {
-    color: #2439bb; 
-    font-weight: bold;
+/* Style for the step title */
+.procedure-steps > section > h3 {
+    font-weight: 600;
     font-size: 1.2em;
+    margin-top: 0;
+    color: #212529;
 }
 
-ol > li {
-    margin-bottom: 1em;
+/* Style for ordered lists (substeps) */
+.procedure-steps ol {
+    padding-left: 25px;
+    list-style-type: decimal;
 }
 
-ol > li > ul > li {
-    list-style-type: none !important; /* Removes the default bullet */
-    position: relative; /* Positioning context for the pseudo-element */
-    margin-top: 1em;
+.procedure-steps ol > li {
+    margin-bottom: 10px;
+    padding-left: 5px;
 }
 
-ol > li > ul > li:before {
-    content: '→'; /* Your desired arrow symbol */
-    position: absolute; /* Position the pseudo-element absolutely */
-    left: -20px; /* Adjust as necessary for alignment */
-    top: 0; /* Align to the top of the list item */
+/* Style for blockquotes within steps */
+.procedure-steps > section > blockquote {
+    margin-left: 0;
+    padding-left: 20px;
+    border-left: 4px solid #007bff;
+    color: #495057;
 }
 
-
-
-
-/* End custom lists here*/
-
-
-
-
-
-
-/* Start custom toctree. (From Blender Docs) */
-.toctree-wrapper .toctree-l1>a {
-	margin-bottom: 0.15em
+/* Additional styles to ensure consistent spacing */
+.procedure-steps > section > * {
+    margin-bottom: 15px;
 }
 
-/* Indent all lines following the first. */
-.toctree-wrapper * a {
-	display: block;
-	width: 90%;
-	text-indent: -1em;
-	margin-left: 1em;
-	/*invert indent*/
-	padding-top: 0.25em;
-	line-height: 1.25em;
+.procedure-steps > section > *:last-child {
+    margin-bottom: 0;
 }
 
-/* Underline provided by nested ul (not li). */
-.toctree-wrapper * ul {
-	padding-left: 2em;
-	border-top: solid #ececec 1px;
+/* Style for admonitions (notes, warnings, etc.) */
+.procedure-steps .admonition {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding: 15px;
+    background-color: #e9ecef;
+    border-left: 4px solid #007bff;
+    border-radius: 4px;
 }
 
-.toctree-wrapper>ul {
-	margin-left: 1em
+.procedure-steps .admonition-title {
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #007bff;
 }
-
-.rst-content .toctree-wrapper ul li ul {
-	margin-bottom: 0.75em;
-	padding-top: 0.5em;
-}
-
-.rst-content .toctree-wrapper ul li a:hover {
-	color: #25afef
-}
-
-.rst-content .toctree-wrapper ul li a:visited:hover {
-	color: #C961DA
-}
-
-.toctree-wrapper .toctree-l1>a {
-	font-size: 104%
-}
-
-.toctree-wrapper .toctree-l2>a {
-	font-size: 102%
-}
-
-.toctree-wrapper .toctree-l3>a {
-	font-size: 100%
-}
-
-.toctree-wrapper .toctree-l1>ul {
-	border-color: #bfbfbf
-}
-
-.toctree-wrapper .toctree-l2>ul {
-	border-color: #e1e0e0
-}
-
-.toctree-wrapper .toctree-l3>ul {
-	border-color: #ececec
-}
-
-/* Remove list styling, css rule hierarchy. */
-.rst-content .toctree-wrapper ul li,
-.rst-content .toctree-wrapper ul li li,
-.rst-content .toctree-wrapper ul li li li {
-	list-style-type: none;
-	margin-left: 0px;
-}
-
-/* End custom toctree. */
-

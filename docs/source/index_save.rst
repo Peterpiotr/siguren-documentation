@@ -6,29 +6,6 @@ Welcome to MotoSuiveur® User Documentation
 
 **MotoSuiveur® Systems** are hoist safety solutions designed to actively permit only safe operation, and instantly default to a safe arrested state when hoisting is disrupted.
 
-.. toctree::
-    :maxdepth: 2
-    :caption: Getting Started
-
-    /getting-started/achieving-inherent-safety
-    /getting-started/ms-solution-features
-    /getting-started/start-integrating-ms
-    /ms-system/ms-unit/index
-    /ms-system/ms-controls/index
-    /ms-system/ms-addons/index
-    /installation/index
-    /operation/regular/index
-    /operation/load-arrest/index
-    /operation/recovery/index
-    /maintenance/index
-    /advanced/index
-    faq
-    glossary
-    external-links
-    /_img/7-segment-display-ref
-    sphinx-tools-demo-page
-    greasing-bike-chain
-    /archives/index
 
 
 .. note::
@@ -38,7 +15,6 @@ Welcome to MotoSuiveur® User Documentation
 
 Getting Started with MotoSuiveur® Solutions
 =============================================
-
 
 .. grid:: 2
     :gutter: 4
@@ -72,6 +48,15 @@ Getting Started with MotoSuiveur® Solutions
 
         Steps to make any hoist inherently safe.
 
+
+.. toctree::
+    :maxdepth: 2
+    :hidden:
+    :caption: Getting Started
+
+    /getting-started/achieving-inherent-safety
+    /getting-started/ms-solution-features
+    /getting-started/start-integrating-ms
 
 MotoSuiveur® System
 =====================
@@ -113,7 +98,14 @@ MotoSuiveur® System
 
         Static and dynamic overloads protection. Advanced load recovery capabilities.
 
+.. toctree::
+    :maxdepth: 2
+    :hidden:
+    :caption: MotoSuiveur® System
 
+    /ms-system/ms-unit/index
+    /ms-system/ms-controls/index
+    /ms-system/ms-addons/index
 
 Sections
 ===================
@@ -189,7 +181,17 @@ Sections
         Accessing firmware settings. Bypassing MotoSuiveur® safety if required.
 
 
+.. toctree::
+    :maxdepth: 2
+    :hidden:
+    :caption: Sections
 
+    /installation/index
+    /operation/regular/index
+    /operation/load-arrest/index
+    /operation/recovery/index
+    /maintenance/index
+    /advanced/index
 
 References
 ===========
@@ -215,7 +217,14 @@ References
         :class-title: card-title
 
 
+.. toctree::
+    :maxdepth: 2
+    :hidden:
+    :caption: Reference
 
+    faq
+    glossary
+    external-links
 
 
 Getting In Touch
@@ -226,4 +235,12 @@ Questions about this documentation?
 Do not hesitate to contact directly the `SIGUREN technologies Support Team <mailto:support@siguren.com>`_.
 
 
+.. toctree::
+    :maxdepth: 2
+    :hidden:
+    :caption: For authors
+
+    /_img/7-segment-display-ref
+    sphinx-tools-demo-page
+    /archives/index
 

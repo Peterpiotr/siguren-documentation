@@ -2674,15 +2674,6 @@ COSHH Data Sheets
 
 .. _section-3:
 
-.. |Alert| image:: /_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image1.wmf
-   :width: 0.40625in
-   :height: 0.36458in
-.. |ACHTUNG| image:: /_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image2.wmf
-   :width: 0.39583in
-   :height: 0.375in
-.. |HAAND| image:: /_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image3.wmf
-   :width: 0.45833in
-   :height: 0.27083in
 .. |International Symbols Labels - Gear Entanglement \| Seton| image:: /_img/archives/motosuiveur-o-m-manual---ms1hr-bci_reviewed/media/image4.jpeg
    :width: 0.45513in
    :height: 0.45513in
