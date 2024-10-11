@@ -4,7 +4,7 @@
 Welcome to MotoSuiveur® User Documentation
 ==========================================
 
-**MotoSuiveur® Systems** are hoist safety solutions designed to actively permit only safe operation, and instantly default to a safe arrested state when hoisting is disrupted.
+**MotoSuiveur® Systems** are hoist safety solutions designed to actively permit only safe operation, and instantly default to a safe arrested state when hoisting is disrupted.e
 
 .. toctree::
     :maxdepth: 2
